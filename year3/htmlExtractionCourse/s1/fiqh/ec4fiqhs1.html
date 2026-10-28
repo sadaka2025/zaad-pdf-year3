@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس الرابع مادة الفقه</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://sadaka2025.github.io/zaad-pdf-3/year3/htmlExtractionCourse/s1/fiqh/ec4fiqhs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent7">الدرس الرابع مادة الفقه</h1>
+<p id="sent8">أعوذ بالله من الشيطان الرجيم، بسم الله الرحمن الرحيم. الحمد لله رب العالمين، والصلاة والسلام على سيدنا محمد وعلى آله الطيبين طاهرين، ورضي الله عن الصحابة والتابعين ومن تبعهم بإحسان إلى يوم الدين، وارضى عنا معهم برحمتك يا أرحم الراحمين، اللهم آمين، اللهم لا علم إلا ما علمتنا، فعلمنا، وفهمنا، وفقهنا، واستعملنا في خدمة دينك يا رب العالمين. هذا الدرس الرابع، وهو عن الاستنجاء والاستجماري وسنن الوضوء، سنتطرق في هذا الدرس إلى أمور نتعرف من خلالها إلى حكم الاستنجاء والاستجمار، وسنن الوضوء، وكذلك التمييز بين الاستنجاء والاستجمار، وكذلك امتثال السنة في كيفية كل من الاستنجاء والاستجمار. الوضوء وسيلة إلى الصلاة، ومقدمة لها به، يتم تنظيف الأطراف وتطهيرها للتأهب والاستعداد للوقوف بين رب العالمين سبحانه وتعالى ببدن نظيف طاهر، نقي من الأقذار والروائح الخبيثة، ومن طهارة البدن ونظافته تطهير مخرجي البول والغائط. بالاستنجاء أو الاستجمار، وغسل اليدين قبل الوضوء، لأنهما معرضتان. للنجاسة. ولذلك كان لابد أن نتوقف في بيان حكم الاستنجاء والاستجمار، وما هي سنن الوضوء، قال الإمام ابن أبي زيد رحمه الله تعالى باب صفة الوضوء ومسنونه ومفروضه، وذكر الاستنجاء والاستجمار، وليس الاستنجاء مما يجب أن يوصل به الوضوء، لا في سنن الوضوء. ولا في فرائضه، وهو من باب إيجاب، زوال النجاسة به، أو بالاستجمار، لئلا يصلي بها في جسده، ويجزئ فعله بغير نية، وكذلك غسل الثوب النجسي. وصفة الاستنجاء أن يبدأ بعد غسل يديه، فيغسل مخرج البول، ثم يمسح ما في المخرج من الأذى بمدر أو غيره أو بيده، ثم يحكها بالأرض ويغسلها، ثم يستنجي بالماء، ويواصل صبه، ويسترخي قليل، ويجيد عرك ذلك بيده حتى. يتنظف، وليس عليه غسل ما بطن من المخرجين، ولا يستنجي من ريح، ومن استجمرا بثلاثة أحجار، يخرج آخرهن نقيا، أجزأه، والماء أطهره، وأطيب، وأحب إلى العلماء، ومن لم يخرج منه بول ولا غائط، وتوضأ لحدث أو نوم. أو لغير ذلك مما يجب الوضوء، فلا بد من غسل يديه قبل دخولهما في الإناء، ومن سنة الوضوء غسل اليدين قبل دخولهما في الإناء، والمضمضة، والاستنشاق والاستنثار، ومسح الأذنين سنة وباقيه فريضة فريضة. شرح المفردات الغريبة، الاستنجاء، غسل المخرجين من الخبث. مداري تراب متلبد، يجيد عرك، أي يحرص على تطهير محل الأذى، استجمرا، أي طهر محل الأذى بحجر، ونحو ذلك مما يقوم مقامه، كالمناديل في أيامنا هذه، أي المناديل الورقية. يشتمل هذا الدرس على ثلاثة محاور، المحور الأول هو حكم للسنجاء وصيفته الاستنجاء، وإن لم يكن من الوضوء في شيء، إلا أنه كالمقدمة له، أو على تعبير الأصوليين مقدمة الواجب التي يعبر عنها بما لا يتم الواجب إلا به، فهو واجب. وعليه، فالاستنجاء هو إزالة للنجاسة، وإنقاء للمخرجين من الأذى بالماء أو غيره مما يتم به تنظيف محل الأذى، وإبقاؤه من النجاسة، كي لا يصلي بها وهي في جسده، ولذلك لا يحتاج الاستنجاء ولا الاستجمار للنية، وفي ذلك قال المصنف رحمه الله تعالى وليس لاستنجاء مما يجب أن يوصل به الوضوء إلى قوله، ويجزئ فعله بغير نية، والصفة الاستنجاء أن يغسل المتوضئ يديه قبل إدخالهما في الإناء، إن كان يتوضأ من إناء، ثم يغسل محل البول والغائط، ويواصل صب الماء على محل الأذى، حتى يغلب على ظنه. نظافته، ولا يطلب الاستنجاء من خروج الريح، ويكون الاستنجاء بعد استبراء محل الأذى، ومسح ما عليه من نجاسة. بوسيلة من وسائل التنظيف ككاغد أو حجر ونحوهما من الأعيان الطاهرة، وإلى ذلك أشار الإمام ابن أبي زيد رحمه الله لقوله وصفة الاستنجاء أن يبدأ إلى قوله، ولا يستنجي من ريح، أما المحور الثاني فهو حكم الاستجمال، وصفته الاستجمار لغة مأخوذ من الجمرات والجمار، وهي الأحجار الصغيرة. أما اصطلاحا فهو إزالة الخبث من المخرجين بالحجارة أو غيرهما، مما يقوم مقامهما، وهو مجزئ عن الإنقاء بالماء، ولو كان الماء موجودا. المستحب أن يكون بثلاثة أحجار يخرجهن نقيا طاهرا من الأذى، والمشهور أنه يجوز الاكتفاء بحجر واحد إن حصل به الإنقاء، لأن المدار في ذلك على الإنقاء والماء، أطهروا وأطيبوا، وأحبوا إلى الفقهاء، ودل على أجزاء الاستجمال ما رواه الإمام أبو داوود والن. وأحمد وغيرهم عن السيدة عائشة رضي الله عنها أن النبي صلى الله عليه وآله وسلم قال إذا ذهب أحدكم إلى الغائط فليذهب معه بثلاثة أحجار يستطيب بهن، فإنها تجزئ عنه، وما رواه الإمام مسلم عنه سيدنا سلمان رضي الله عنه. أنه قيل له قد علمكم نبيكم صلى الله عليه وآله وسلم كل شيء، حتى الخراءة. قال فقال أجل، لقد نهانا أن نستقبل القبلة لغائط أو بول، أو أن نستنجي باليمين، أو أن نستنجي بأقل من ثلاثة أحجار، ونقل الإجماع على مشروعيته الإمام ابن حزم، وابن عبد البر، وابن رشد. وغيرهم، والمقصد من الاستجمار تيسير أمر الطهارة على المتطهر حتى يمكن للمصلي تطهير بدنه في الحالات التي لا يتنسر فيها وجود الماء أو تعز الحاجة إليه، أو لم تتهيأ النفس لاستعماله، وبذلك لا يحرم من لذة مناجاة مولاه سبحانه وتعالى، أما المحور الثالث فهو سنن الوضوء، تنقسم أفعال الوضوء إلى ثلاثة أقسام فرائض، وسنن، وفضائل، وسننه هي أولا غسل اليدين إلى الكوعين قبل إدخالهما في الإناء قبل الاستنجاء وبعده، وإن كانتا نظيفتين، خصوصا من سبق له نوم، أو حدث أو غيرهما. والحكمة من ذلك أنهما معرضة. لي مباشرة النجاسة. ثانيا المضمضة، وهي قد خضت الماء في الفم وطرحه، فإن ابتلع الماء لم يكن آتيا بسنة المضمضة. الثالث الاستنشاق وهو إدخال الماء في الخياشيم بالنفس. رابعا الاستنثار، وهو أن يجعل السبابة والإبهام من اليد اليسرى على أنفه، ويرد الماء من أنفه بنفس خامسا مسح الأذنين ماهرهما وباطنهما، فظاهرهما من جهة الرأس، وباطنهما من جهة الوجه. ومن سنن الوضوء أيضا مسح الرأس، وترتيب الفرائض، وباقي أفعاله فرائض، وهي النية والدلك والفور، وغسل الوجه، وغسل اليدين إلى المرفقين، ومسح الرأس، وغسل الرجلين إلى الكعبين، وسأتي إلى تفصيل ذلك ضمن صفة الوضوء في الدرس الموالي، وإلى جميع ذلك أشار المصنف رحمه الله تعالى بقولهومن لم يخرج منه بول ولا غائط إلى قوله ومسح الأذنين سنة وباقيه فريضة، ومن مقاصد الشريعة في غسل اليدين قبل إدخالهما في ماء الوضوء الأخذ بالاحتياطي في التطهر، خصوصا أن اليدين أكثر تعرضا ومباشرة لأمور مختلفة، قد لا يخلو بعضها مما يليق. أن يتجنب ويتنزه عنه، ومما يمكن أن ينتقل بعض الجراثيم إلى ماء الوضوء. فتعلق ببدن المتطهر به، وتؤثر سلبا على صحته. هنا أضيف أمرا، وهو أن الإيمان شهاب الدين النفراوي رحمه الله تعالى قال في شرحه على الرسالة الموسومة بالفواكه الدواني تنبيهات، الأول لم ينبه المصنف رحمه الله على ما يفتقر من السنن إلى نية، وما لا يفتقر. ومحصل الكلام في ذلك أن كل ما تقدم منها على محل الفرض، فلا بد له من نية، وذلك كغسل اليدين للكوعين، والمضمضة، والاستنشاق، والاستنثار. وما تأخر عن الشروع في الفرائض فنية، الوضوء، تشمله كالفضاء، وصفة النية أن يقصد بقلبه عند شروعه، في غسل يديه، الإتيان بسنن الوضوء السابقة. علانية الفرض هذا، وصلى الله على سيدنا محمد وعلى آله وسلم.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>النحو الدرس الاول</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://sadaka2025.github.io/zaad-pdf-3/year3/htmlExtractionCourse/s1/nahw/ec1nahws1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">النحو الدرس الاول</h1>
+<p id="sent2">بسم الله الرحمن الرحيم. الحمد لله رب العالمين. وأفضل الصلاة، وأتم التسليم على سيدنا محمد. الصادق الوعد، الأمين، المبعوث، رحمة للعالمين، وعلى آله حق قدره، ومقداره العظيم. اللهم أفردنا لما خلقتنا له، لا تشغلنا بما تكفلت لنا به، لا تعذبنا ونحن نستغفرك. لا تحرمنا ونحن نسألوك، نسألك علما نافعا، وقلبا خاشعا، ولسانا ذاكرا، ورزقا حلالا واسعا، وشفاء من كل دا، صل، اللهم على سيدنا محمد وعلى آله وصحبه وسلم. أجب دعائنا بكرمك يا مولانا، والحمد لله رب العالمين. أيها الإخوة الطلبة المشاهدون، أيتها الأخوات الطالبات المشاهدات، السلام عليكم ورحمة الله تعالى وبركاته. نحن في درس جديد في باب أو في علم النحو، مادة النحو، يقول باب العوامل. الداخلة على المبتدأ والخبر، كما تعلمون، أن المبتدأ يكون مرفوعا، وأن الخبر يكون مرفوعا، إذا المبتدأ والخبر اسمان مرفوعان، وهما من باب المرفوعات، تعرفون ما معنى الرفع؟ نعم والرفع والنصب جعلا إعرابا. لاسم وفعل نحو، لن أهاب، هذا كلام م موجود في الألفية لابن مالك. ف يقول هنا وهما، وهي ثلاثة أشياء. ثلاثة أشياء. العامة من هذه التي تدخل على المبتدئ والخبر، هي عبارة عن 33 عوامل، العامل الأول كان وأخواتها، والعامل الثاني إن وأخواتها، والعامل الثالث ظن وأخواتها، هذه ثلاثة عوامل تدخل يجوز أن تدخل على المبتدأ والخبر، فتعمل فيهما النسخ. النسخ، لذلك قال نواسخ المبتدأ والخبر ما معنى كلمة نسخ؟ حتى يفهم الطالب نواسخ جمع نسخ، والنسخ في اللغة هو الإبطال يعني يبطل شيء. كأن الك مثل المبتدأ، أصله يكون مرفوعا إذا دخل عليه عامل أر ال ال ااا الرفع ككان وأخواتها، هذه عوامل لما تدخل تبطل رفع، رفع المبتدأ وتدخل رفعها الجديد، لذلك نقول اسمك أنا كان في الأول مبتدأ، لما دخلت كان معهد اسمه مبتدأ اسمه اسمه كان نعربه اسم كان. والخبر يبقى خبرا، لكن يسمى في الإعراب خبر كان، إذا سنقرأ الكلام الموجود في كتابنا الأج الرومية، ونفك عباراته، كلمة، كلمة إن شاء الله تعالى، تفضل سيدي عبد السميع. بارك الله فيكم. بسم الله الرحمن الرحيم. والصلاة والسلام على أشرف المرسلين سيدنا محمد، وعلى آله وصحبه أجمعين. يقول المصنف رحمة الله عليه وبارك في شيخنا، وبارك فيكم سيدي. نواسخ المبتدأ والخبر. قال. باب العوامل الداخلة على المبتدأ والخبر، وهي ثلاثة أشياء. كان وأخواتها، وإن وأخواتها، وظننت وأخواتها. وأقول قد عرفت أن المبتدأ والخبر مرفوعان. واعلم أنه قد يدخل عليهما أحد العوامل اللفظية، فيغير إعرابهما، وهذه العوامل التي تدخل عليهما فتغير إعرابهما. بعد تتبع كلام العرب الموثوق به على ثلاثة أقسام. القسم الأول يرفع المبتدأ وينصب الخبر، نعم. وذلك كان وأخواتها. وهذا القسم كله أفعال. نحو كان الجو صافيا، سواء كان صافيا أو مكفهرا. المهم ااا. جاء الخبر هنا كان لما كان مبتدأ وخبرا، كان مرفوعا، فلما دخل عليه العامل وهو كان أو إحدى أخواتها حوله من كونه مرفوعا إلى منصوب، فنقول كان فعل ماض ناقصة. الجو في الأول كان مبتدأ، الآن أصبح الجو اسم، كان مرفوعا، يعني لما دخلت كان أبطلت الرفع، رفع الابتداء وأدخلت رفعها، فأصبح الجو، كيف نعرف الجو؟ نقول الجو اسمك انا، هذا هو الإعراب، الجو اسمك انا مرفوع وعلامة رفعه الضمة الظاهرة على آخره. مكفرا أو صافيا، فنقول مأ خبركان، منصوب، وعلامة نصبه الفتحة الظاهرة على آخره قاله وكان، أو أخو إحدى أخواتها، كان وأخواتها مثلا إحدى أخوات، كان نقول ظل الجو صافيا، نفس الشيء، ها بات الجو صافيا. أضحى الجو صافيا. أصبح الجو صافيا. أمس، الجو صافيا. نعم، هذه كلها أخوات، كان إذا دخلت على واحدة منها على يعني المبتدأ والخبر فيعمل فيه أو فيهما، أه في المبتدأ والخبر، النسخ والنسخ أن يبطل حركات إعراب أه المبتدئ والخبر ويدخل يدخل عليهما إعرابه الجديد، نعم. هذا العامل الأول أو القسم الأول، كان وأخواتها، ما هي أخواتك؟ كان أكيد، يعني كلكم أيها الإخوة الطلاب يعرفون ويحفظون، أخوات كان يقول العلامه ابن مالك في الألفية. فكان ظل بات أضحى، أصبح أمساء، وصار ليس زال برح فتئ وانفك، وهذه الأربعة لشبه نفي، أو لنفي، متبعا نعم القسم الثاني اتفضل سيدي، والقسم الثاني ينصب المبتدأ ويرفع الخبر عكس الأول نعم، وذلك إن وأخواتها، وهذا القسم كله أحرف. نحو إن الله عزيز حكيم. آ القسم الثاني الذي يدخل على المبتدا والخبر هو إن وأخواتها الأول كان، كان وأخواتها، وهي أفعال، بينما هذا. هذه لا نقول أفعال، وإنما. قال ااا عكس عكس الأول، عكس كان وأخواتها إن وأخواتها، وكله أحرف. نقول إن الله عزيز حكيم، إن حرف حرف مشبه بالفعل، أو نقول حرف توكيد ونصب، هكذا يع يعرب، إما أن نقول حرف إن ما إعرابها حرف. مشبه بالفعل، أو نقول حرف توكيد ونصب؟ نعم الله لفظ الجلالة من اسم إن منصوب على التعظيم، وعلامة نصبه الفتحة الظاهرة على آخره. عزيز خبر، خبر، إن مرفوع، وعلامة رفعه الضمة الظاهرة على آخره. عزيز حكيم صفة لعزيز وصفة المرفوع مرفوع مثله، وعلامة رفعه الضمة الظاهرة على آخره. كذلك أخوات إن تحفظون وتعرفون، مرت معكم، ف يعني س في أول الكتاب لأن أن ليت، لكن لعل كأن عكس مالي كان من عمل يعني إن تعمل عكس. كان. كان تدخل على الأول، فترفع ترفعه، إنا تدخل على الأول يعني على المبتدا، فتنصبه، نعم، تنصب الأول وترفع الثاني، إن تنصب المبتدأ وترفع الخبر، كان ترفع المبتدأ وتنصب الخبر، هذا القسم الثاني من الأفعال أو العوامل. التي تدخل على المبتدأ والخبر، فتبطل إعرابهما، وتدخل إعرابها الجديد عليهما. نعم ندخل، يعني نأتي إلى القسم الثالث الشيخ عبد السميع، والقسم الثالث ينصب المبتدأ والخبر جميع، وذلك ظننت وأخواتها. وهذا القسم كله أفعال نحو ظننت الصديق أخا. وتسمى هذه العوامل النواسخ لأنها نسخت حكم المبتدأ والخبر، أي غيرته، وجددت له ما حكما آخر غير حكمهما، الأول، ما شاء الله. هذا القسم الثالث الذي إذا يد دخل على المبتدأ والخبر، فيغير حكمها، ويغير إعرابها، وهي ظن. وأخواتها، أو ظننت وأخواتها، هذه أفعال يعني تدخل على المبتدأ والخبر، فتعمل فيه ماء الإثنين. النصب تنصب المبتدأ، وتنصب أيضا الخبر، نعم كقولك ظننت. الصديق أخا، فظننت هذه فعل، وفاعل. أين فاعل؟ ظننت هي التاء تاء؟ نعم، تقول ظننت فعل ماضي مبني على الفتح، وسكن لاتصاله بتاء الفاعل، والتاء ضمير متصل مبني على الضم في محل رفع فاعل. الصديق اسم ظننت منصوب، وعلامة نصبه الفتحة الظاهرة على آخره أخا أخا. ظننت الصديق أخا، هذا أخا، نقول خبر ظن منصوب، وعلامة نصبه الفتحة الظاهرة على آخره. نعم. ف الآن قال. وتسمى هذه العوامل. نواسخ؟ طيب ليش؟ قال لأنها نسخت حكم المبتدأ والخبر، لأنه الأصل في المبتدأ والخبر حكمهما أن يكونا مرفوعين أن يكونا مرفوعين، نعم المبتدأ والخبر، فإذا ما دخل. عليهما يعني عامل من هذه العوامل، فيبطل أه يعني. تنسخ حكمه، يعني تغير حركاته، وتجدد لهما حكما آخر، نعم غير حكمهما الأول اللي هو الرفع، نعم، هذا هو. هذه هي العوامل التي إذا دخلت الواحدة منها على المبتدأ والخبر تغير. حكمها من ال الرفع إما أن يكون إذا دخلت عليه كان وأخواتها. ترفع الأول والتنصيب الثاني، وإذا دخلت عليه إن وأخواتها تنصب الأول وترفع الثاني، وإذا دخلت عليه ظن، وأخواتها تنصيبوهما معا، يصير المبتدأ منصوما، والخبر أيضا منصوبا، وال، وهذا والله أعلم بالنسبة إلى باب. العوامل الداخلة على المبتدئ والخبر هو هذا كله بشكل عام، لكننا سنذكر بالتفصيل من. من. ال بالنسبة للعوامل الداخلة على المبتدأ والخبر، فلذلك بدأ صفحة جديدة قائلا كان وأخواتها، يعني كان إللي هو فعل ماض ناقص. وأخواتها يعني تشبه كان مثل ظل وبات وأضحى، وأصبح. وامسى وصار، وليس وزال، ومن فك وما فتئ، وما برح، وما دام هذه كلها أخوات، كان تدخل الواحدة من هذه الأفعال الواحد من هذه الأفعال يدخل على إذ المبتدئ والخبر. فيبطل رفع المبتدأ، ويعمل رفعه. يدخل رفعه الجديد على المبتدأ، ويدخل. يبطل رفع الخبر، ويدخل نصبه. يصير الخبر منصوب. ما عاد يبقى مرفوع. نعم، لذلك نبدأ بأول عامل، ألا وهو أ كان وأخواتها. نؤجل هذا الدرس إن شاء الله في الحصة القادمة. والحمد لله. رب العالمين.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

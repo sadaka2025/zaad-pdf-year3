@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>النحو الدرس الثالث</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://sadaka2025.github.io/zaad-pdf-3/year3/htmlExtractionCourse/s1/nahw/ec3nahws1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent5">النحو الدرس الثالث</h1>
+<p id="sent6">بسم الله الرحمن الرحيم، الحمد لله رب العالمين، وأفضل الصلاة وأتم التسليم على سيدنا محمد وعلى آله وأصحابه أجمعين، أيها الإخوة الكرام هذا القسم الثاني من نواسخ المبتدأ والخبر، وهو. ان واخواتها. إن وأخواتها تعمل عكس كان وأخواتها، نعم، ولذلك قال في العنوان إن وأخواتها قال وأما إنا وأخواتها فإنها تنصب الاسم وترفع الخبر، اتفضل سيدي عبد السميع. رأ لنا. بسم الله الرحمن الرحيم. وصلى الله وسلم على سيدنا محمد وعلى آله وصحبه أجمعين. يقول المصنف رحمه الله ونفعنا الله بعلومه، وعلوم شيخنا وعلومكم، يا سيدي، إنا وأخواتها، قالوأما إن وأخواتها فإنها تنصب الاسم وترفع الخبر، وهي إن، وإن، ولكن، وكأن، وكأن. وليت، ولعل. تقول إن زيدا قائم، وليت عمرا شاخصا، وما أشبه ذلك. ومعنى إنا وأن التوكيد ولكن للاستدراك، وكأن للتشبيه، وليت للتمني، ولعل للترجي والتوقع هذه بالنسبه الى ان واخواتها. يقول الشارع رحمه الله تعالى. واقول القسم الثاني من نواسخ المبتدئ والخبر ان واخواتها اين ظائرها في العمل؟ اخواتها يعني نظيراتها، وهي تدخل يعني ان واخواتها على المبتدا والخبر، فتنصب المبتدا ويسمى اسمها، وترفع الخبر، بمعنى انها. تجدد له رفعا غير الذي كان له قبل دخولها، يعني غير الرفع الاول، ويسمى خبرها، وهذه الادوات كلها. حروف، وهي ستة. الحرف الاول ان بكسر الهمزه. والثاني ان بفتح الهمزه ان وان نعم. وهما ان وان يدلان على التوكيد، ومعنى التوكيد يعني تقويه نسبه الخبر للمبتدا نحو ان اباك حاضر. ونحو علمت ان اباك مسافر. لما تقول انت في الاول تقول ابوك حاضر؟ هذه هي مبتدا وخبر، اذا ادخلنا ان يصير تنتقل يعني كلمه ابوك من الرفع الى النصب فتقول ان اباك؟ حاضر، فعملت يعني نسخت الرفعة وأدخلت النصب، فأصبح إن أباك أباك نقول. اسم إن. منصوب، وعلامة نصبه الألف، لأنه من الأسماء الخمسة، إن أبا، وهو مضاف، وكضمير متصل، مبني على الفتح في محل جر مضاف إليه مضاف إليه. إن أباك حاضر. حاضر خبر إن مرفوع، وعلامه رفعه الضمه الظاهره على آخره. ونحو علمت أن أباك مسافر. علمت. فعل ماض. مبني على الفتح، وسكن لاتصاله بتاء الفاعل اللي هي وتو ضمير متصل مبني على الضنف محل رفع في محل رفع فاعل، علمت. ان. ان حرف توكيد ونصب اباك اسمها اسم ان اسم ان منصوب علامة نصبه ال. ألف لأنه من الأسماء الخمسة، وهو مضاف، وكضمير متصل مبني على الفتح في محل جر مضاف إليه في محل جر مضاف إليه مسافر مسافر، خبر أن مرفوع، وعلامة رفعه الضمة الظاهرة على آخره مرفوع وعلامة رفعه. الضمة الظاهرة على آخره. علمت أن أباك مسافر. نعم، أدخل مثال الأول إنوالمثال الثاني ان نعم، الثالث قال لكن، ومعناه الاستدراك، ما معنى الاستدراك؟ تعقيب الكلام بنفي ما يتوهم ثبوته او اثبات ما يتوهم نفيه محمد شجاع. لكن صديقه جبان. محمد مبتدأ مرفوع بالابتداء، وعلامه رفعه ضمه الظاهره على اخره. شجاع خبر مرفوع بالمبتدا وعلامه رفعه ضمه الظاهره على اخره. لكن حرف استدراك. يدخل على المبتدأ، فيعمل، يعمل فيه النصب. والخبر يعمل فيه الرفع، لكن صديقه، لكن صديقه جبان، فصديقه اسمه، لكن منسوب، وعلامه نصبه الفسحه الظاهره على اخره وهو. ضمير متصل مبني على الضم في محل جر مضاف اليه صديقه جبان، خبر، لكن مرفوع وعلامه رفعه الضمه الظاهره على اخره. لكن صديقه جبان هذا. العامل. الثالث العامل الرابع كان. كان. قال يدل على تشبيه المبتدا بالخبر. نعم، نحو كأن الجارية بدر. كأن الجارية بدر، كأن حرف توكيت ونصب. الجارية اسمك، ان منصوب، وعلامة نصبه الفتحة الظاهرة على اخره بدر. خبر كأن مرفوع وعلامة رفعه الضمة الظاهرة على آخره. الخامس ليت معنا ليت. قال التمني، وهو طلب المستحيل، التمني يعني طلب المستحيل، أو ما فيه عسر، إما مستحيل، أو فيه عسر، نعم مثل ماذا؟ قال ليت الشباب. عائد ليتا نقول حرف تمن، نعم، حرف تمن ونصب. نعم الشباب اسم ليتا منصوب، وعلامة نصبه الفتحه الظاهره على اخره عائد خبر ليت مرفوع وعلامه رفعه الضمه الظاهره على اخره. ونحو ليت البليد ينجح. ليت نقول حرف تمن، ونصب البليد اسم ليت منصوب، وعلامه نصبه الفتحه الظاهره على اخره ينجح. خبر. ليت مرفوع وعلامه رفعه. الضمه الظاهره على آخره. والسادس لعل لعل. يعني وهو يدل على التردي او التوقع. اما التردي يعني نرجل تو الوقوع او التوقع. يعني يتوقع انه يكون كذا او كذا. ومعنى التردي طلب الامر المحبوب. ولا يكون الا في الشيء الممكن، نعم مثل ماذا؟ لعل الله. يرحمني؟ ومعنى التوقع انتظار وقوع الامر المكروه في ذاته. نحو ماذا؟ لعل العدو قريب، قريب منا. نمشي الى الجمله الاولى لعل الله. يرحمني؟ نعم. فلعل هنا نقول. حرف يدل على التردي او حرف ترج ونصب. هكذا يعرب الله لفظ الجلاله اسمها اسم لعلم منصوب على التعظيم وعلامه نصبه الفتحه الظاهره على اخره يرحمني يرحمني فعل مضارع مرفوع لتجردي عن الناصب والجازم. وعلامه رفعه الضمه الظاهره على اخره؟ يرحم نعم والنون للوقايه؟ والياء ضمير متصل مبني؟ على السكون في محلي نصب مفعول به يرحمني لعل الله يرحمني وفاعله ضمير مستتر فيه جوازا. تقديره هو يعود على الذات الالهيه. الله جل جلاله. نعم. كذلك، لعل العدو قريب منا، فلعل نقول حرف توقع و نصب العدو. اسمها اسم لعل منصوب، وعلامه نصبه الفتحه الظاهره على اخره قريب قريب خبر لعل مرفوع وعلامه رفعه الضمه الظاهره على اخره ومنا جار ومجرور يعني من حرف جر مبني على السكون لا محل له من الاعراب. ونا نعم، ضمير متصل مبني على السكون في محل جر بحرف الجر والجار، والمجرور يتعلقان. بقريب نعم بقريب. بجمله قريب، ولعل هذا التشجير او التلخيص، يعني اذا رجعنا اليه يكون اكبر معين واكبر مساعد في فهم هذا الدرس، وهو يعني ان واخواتها. سندخل في درس جديد، لكننا نؤجله في حصة. قادمة إن شاء الله تعالى. هذا وبالله التوفيق، والحمد لله رب العالمين، والسلام عليكم ورحمه الله تعالى وبركاته.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

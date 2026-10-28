@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>النحو الدرس الثاني</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://sadaka2025.github.io/zaad-pdf-3/year3/htmlExtractionCourse/s1/nahw/ec2nahws1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent3">النحو الدرس الثاني</h1>
+<p id="sent4">بسم الله الرحمن الرحيم، صل يا رب وسلم وزد وعظم سيدنا وحبيبنا وقائدنا سيدنا محمد ا صل الله عليه وسلم. درسنا اليوم إن شاء الله تعالى مع أحد العوامل التي إذا دخلت على المبتدأ والخبر، فتعمل فيهما عوامله، وتبطل عامله القديم، ألا وهو كان وأخواتها كان وأخواتها. يقول المصنف رحمه الله تعالى عنوان كان وأخواتها تفضل سيدي عبد السميع، اقرأ لنا القائدة، بسم الله الرحمن الرحيم، الحمد لله رب العالمين، صل يا ربي وسلم على سيدنا محمد، وعلى آله وصحبه أجمعين، يقول المصنف رحمه الله ونفعنا الله بعلومه، وعلوم شيخنا، وبكن يا سيدي كان وأخواتها. قال فأما كان وأخواتها فإنها ترفع الاسم وتنصب الخبر، وهيكان وأمسى، وأصبح وأضحى، وظل وبات وصار، وليس. وما زال، ومن فك وما فتئ، وما برح، وما دام. وما تصرف منها نحو كان ويكون، وكن، وأصبح، ويصبح، وأصبح تقول كان زيد قائما، وليس عمر شاخصا، وما أشبه ذلك، هذه هي القاعدة. وهو كلام. ابن اجر روم رحمه الله. تعالى، نعم، إذا قلت كان زيد قائما، إذا حذفنا كان نقول زيد قائم، زيد قائم، فزيد مبتدأ، مرفوع بالابتداء، وعلامة رفعه الضمة الظاهرة على آخره، وقائم خبر مرفوع بالمبتدى، وعلامة رفعه، الضمة الظاهرة على آخر لما دخلت كان. فأبطلت رفع الابتداء، وأدخلت رفعها الجديد، فنقول كان زيد، فزيد لا نقول مبتدأ، وإنما اسمك انا مرفوع، وعلامة رفعه الضمة الظاهرة على آخره قائما، كانت قبل دخول كان قائم لما دخلت، كان أصبح الخبر منسوبا، فنقول قائما خبر. خبر كان. منصوب، وعلامة نصبه الفتحة الظاهرة على آخره، كذلك ليس عمر شاخصا، ليس هذه إحدى أخواتي كان فنقول ليس نعم، فعل ما. نعم، وعمر اسم ليس مرفوع، وعلامة رفعه الضمة الظاهرة على آخره، شاخص. ا خبر ليس منصوب وعلامة نصبه الفتحة الظاهرة على آخره، وما أشبه ذلك إذا دخلت كان أو أخواتها على المبتدئ والخبر، فتعمل في الأول الرفع. وفي الثاني النصب. يقول المصنف رحمه الله وأقول القسم الأول من نواسخ المبتدأ، والخبر كان وأخواتها، ونظ، يعني ما معنى أخواتها؟ يعني نظائيرها في العمل من حيث العمل، نعم، لأنه هذه تدخل على المبتدأ الخبر، فتعمل فيهم يعني تؤثر فيهم الحركات، تتغير الحركة، نعم، قال هذا القسم يدخل على المبتدأ. فيزيل رفعه الأول، ويحدث له رفعا جديدا، يعني هذا معنى النسخ. أزال الرفع الأول، وأدخل ها رفعه الجديد، ويسمى المبتدأ اسمه باش، نقول المبتدأ نقول اسم كان ويدخل على الخبر فينصبه ويسمى خبره يسمى خبره يعني خبر كان. أو خبر ليس أو خبر إحدى، أخوات كان، نعم، هذا القسم 13 فعلا. نعم، كان 13 أخوات، كان. 13. كلهم مع كان طبعا. إذا حذفنا، كان يوليو أخوات، كان كلهم 12 مع كان يوليو 13، الأول كان. قال يفيد اتصاف الاسم بالخبر، في الماضي، ما معنى كان؟ قال يفيد إتصاف الاسم بالخبر في الماضي لأنه كان في الماضي نقول كان زيد كريم ا. يعني. كان كريما الان، تغيرت اوصافه، هذا معنى وهو يفيد اتصاف الاسم بالخبر في المع في الماضي، اما مع الانقطاع نحو كان محمد مدء. مجتهدا، كان محمد. مجتهدا؟ نعم، هذا. نعم، تقول كان فعل ماضي ناقص، نعم مبني على الفتحة الظاهر على آخره، نعم محمد اسمك انا محمد اسم كان مرفوع وعلامة رفعه الضمة الظاهرة على آخره، مجتهدا، خبر كان منصوب وعلامة نصبه الفتحة الظاهرة. على آخره، هذا منقطع، نعم، أما إذا فا أفاد الاستمرار في قوله تعالىوكان ربك قديرا لا يجوز أن نقول هذا الكلام منقطع، وإنما الله عز وجل قدير ا في الماضي، وقديرا في المضارع، وقديرا في كل زمان ومكان، فلذلك هذا يفيد الاستمرار، ولا يفيد، الانقطاع الأول يفيد الانقطاع، يعني كان محمد مجتهدا، الآن انقطع اجتهاده، نعم. ويعني تحول إلى عدم الاجتهاد قص ر شيئا ما، هذا يكون الشيء في الان في المخلوق، أما الخالق سبحانه وتعالى لا يجوز أن نقول كان يعني، والآن تغير الله عز وجل لا يتغير، نعم، الثاني أمثال نعم، وي يفيد اتصاف الاسم بالخبر أيضا. نعم، في المساء، وليس في الماضي، في المساء أمسى يعني دخل عليه المساء نحو أمسى، الجو بارد. فأمسى فعل ماظ مبني على الفتحة المقدرة على آخره، منع من ظهورها التعذ ر الجو. اسمه أمسى مرفوع، وعلامة رفعه الضمة الظاهرة على آخره. باردا خبر.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

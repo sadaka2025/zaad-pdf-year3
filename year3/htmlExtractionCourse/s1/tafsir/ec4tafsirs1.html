@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس الرابع مادة التفسير</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://sadaka2025.github.io/zaad-pdf-3/year3/htmlExtractionCourse/s1/tafsir/ec4tafsirs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent7">الدرس الرابع مادة التفسير</h1>
+<p id="sent8">بسم الله الرحمن الرحيم، والصلاة والسلام على رسول الله مع درس جديد من خلال تفسير سورة الغاشية. نرحب بكم من جديد. طلبت العلم. نلتقي على بركة الله. وكما عادتنا دائما أن نفتتح الصورة ببيان ما تتعلق بها، أو ما يجب على طالب العلم أن ينظر فيها من خلال هذه الصورة أولا، كما هو معلوم. أن يتعرف إلى مفردات صورة الغاشية ومضامينها. ثانيا. أن يستنتج وصف يوم القيامة، وما فيها من سعادة وشقاء. ثالثا. And. تمثل معاني الآيات للكون من أهل السعادة يوم القيامة. وصورة الغاشية. صورة مكي. وقد وقع بيان ما المقصود بالمكين؟وهي 26 آية، سميت بذلك أي سميت بالغاشية، لاشتمالها على لفظ الغاشية الذي هو اسم من أسماء يوم القيامة. وقد تضمنت هذه الصور ثلاثة عناصر كبرى تمثل وصول الاعتقاد، وتتناول الشرط الأول منها الحديث عن وصف القيامة وأهوالها، وما يلقى فيها من سعادة نشقاء، أما الآيات فبعد بسم الله الرحمن الرحيم، هل أتاك حديث الغاشية الغاشية كما قلنا. القيامة. لأنها تغشي الخلائق بأهوالها، خاشعة أي بليلة خاضعة آنية، أي عين شديدة الحرارة. ضريع شوك في جهنم، خبيث كريه الرائحة. أما مضامين هذه الآيات أولا أهوال يوم القيامة، ووصف أهل الشقاء فيها. قول الله تعالى هل أتاك حديث الغاشية. هنا المولى سبحانه وتعالى يخاطب رسوله الكريم صلوات ربي وسلامه عليه بقوله. هل بلغك خبر القيامة التي تسمى الغاشية؟ والهدف من الاستفهام؟ الهدف من السؤال هو تشويق السامع، لما سيذكر بعد السؤال. ثم شرع الله سبحانه وتعالى. يبين أوصاف أهل الشقاء يوم القيامة والعياذ بالله، حيث قال وجوه يومئذ خاشعة. أي ذليلة؟ ذات نصب وتعب. بسبب السلاسل والأغلال. تصلى نارا حامية. تدخل هذه الوجوه نارا شديدة الحرارة. والعياذ بالله. تسقى من عين آنية، أي إذا طلب أهل النار الماء ليشربوا قوتي لهم بماء من عين بلغت الغاية في الحرارة. شديدة الحرارة والعياذ بالله، ليس لهم طعام إلا من ضريع. أي أنهم. إذا رغبوا في الطعام، قدم لهم نوع. من الشوك؟ لا ترعاه دابة. لنتانته وخبزه. يعني حتى الدابة لا تستطيع أن ترعى ذلك والعياذ بالله؟ هذا الطعام لا يسمن ولا يغني من جوع. أي لا يسمن جسم صاحبه، ولا يدفع عنه الجوع. والعياذ بالله، هذا وصف لأهل الشقا، ثم. تنتقل بنا الصوره الى وصف نعيم اهل الجنه. قال الله تعالى وجوه يومئذ ناعمة أي وجوه يومئذ يوم القيامة حسنة ذات نظرة، وبهجة، بسعيها راضية، أي راضية في الآخرة. بما أحرزت من ثواب جزاء سعيها وعملها في جنة عالية، أي في جنة رفيعة القدر والمكانة. صفات هذه الجنة ما هي؟ قال لا تسمعوا فيها لاغية، أي لا يسمع فيها أهل الجنة كلمة لغو وهذيان من الكلام. فيها عين جارية. أي فيها عيون؟ جارية في جنباتها؟ فيها سرر مرفوعة، أي فيها. السرات المرتفعة. ذاتا وقدرا ومحلا، وأكواب، موضوعة، أي أقداح، لا مقابذ لها، موضوعة على حافة العيون. ما الغايه منها موضوعة على حافة هذه العيون؟ أعدت ليشرب بها أهل الجنة. ونمارق مصفوفا اي، ووسائد بعضها بجانب بعض، يستند اليها. وزرابي مبثوثا. اي بوستن فاخره ممدوده ومفروشه. تشير هذه الآيات إلى نعم الله تعالى. وجوده. على أهل الجنة يوم القيامة. حيث حببهم سبحانه بما لا عين رأت، ولأذن سمعت، ولا خطر على قلب بشر. سننتقل إلى جزء آخر من هذه الصورة، ولكن نذكر دائم ا بأنه من خلاله الآيات الآتية على طالب العلم أن يعرف هذه الآيات. والبيطة معانيها. وأن ندرك. الاسلوب الافضل في الدعوه الى الله. وأن يدرك. أن. من أراد أن يقوي إيمانه فعليه بالتأمل في مخلوقات الله سبحانه وتعالى. هذه الآيات التي سنتناولها وقسمنا الصورة على جزئين. هذه الآيات التي سنتناولها. فيها إثبات لقدرته. سبحانه وتعالى وعظمته في إيجاد مخلوقاته، ودعوته إلى ضرورة التفكر والتأمل فيه. كما أرشدنا سبحانه إلى أسلوب من أساليب الدعوة الإسلامية التي تنبني على التذكرة والموعظة الحسنة، دون عنف أو إكراه. وختمت الايات. بدعوة رسول الله صلى الله عليه وسلم إلى تذكير الناس بالرجوع إلى الله سبحانه وتعالى. أفلا ينظرون، أفلا يرون؟ عظمة الله سبحانه وتعالى. سطحت أي بسطت؟ بمسيطر بجبار، تلزمهم بالإيمان، العذاب الأكبر، عذاب الآخرة. إيابهم، مجيئهم ورجوعهم. وكما تعودنا، بأنه. نذكر المواضيع، ثم مفسر الآيات، فالموضوع الأول من خلال هذا الجزء من سورة الغاشية. التأمل في مخلوقات الله تعالى وتركيباتها العجيبة. فقوله سبحانه أفلا ينظرون إلى الإبل كيف خلقت أي فلا ينظر المكذبون من أهل مكة. نظر اعتبار إلى الإبل. كيف خلقت هذا الخلق الغريب؟ وإلى السماء؟ كيف رفعت؟ أي إلى السماء؟ كيف رفعت على الأرض بلا عمد؟وإلى الجبال كيف نصبت؟ أيوإلى الجبال كيف نصبت شامخة لا تهتز ولا تميل، وإلى الأرض كيف سطحت؟ أي بسطت، فيستدلون بها على قدرة الله تعالى وحدا نيته، وصدرت الآية بالإبل، لأن العرب أشد تعلقا بها. الموضوع الثاني من خلال هذه الأيات. الامر. بالتذكرة والموعظة الحسنة، وهو من الأساليب الحسنة في الدعوة الإسلامية، قال الله سبحانه فذكر إنما أنت مذكر لست عليهم. بمسيطر. في هاتين الآيتين. يأمر الله سبحانه وتعالى رسوله صلى الله عليه وسلم بأن يذكر الناس بنعم الله، ودلائل توحيده، وينبهه أن ينبه النبي صلى الله عليه وسلم إلى ضرورة الاقتصاره على تذكيرهم دون إكراههم على الإيمان والامتثال، فهو ليس بمسيطر عليهم. إلا من تولى وكفر. فيعذبه الله العذاب الأكبر. هاي. لكن من أعرض عن الإيمان؟ وجحد القرآن فيعذبه الله العذاب الأكبر يوم القيامة، وذلك بإدخاله جهنم. والعياذ بالله. ثالثا من المواضيع. من خلال هذه الآيات، تذكير الناس بالرجوع إلى الله تعالى. عندما قال الله. إنا إلينا إيابهم، ثم إن علينا حسابهم، قال الله تعالى بتذكير الناس برجوعهم إليه. بعد الموت. حيث سيحاسبون. فيجزون على ما عملوه في الحياة الدنيا. وقد اكدت هذه الآيات على الإيمان بالله تعالى وتوحيده. من خلال حثها على التأمل في الكون. وما اشتملت عليه من مخلوقات الله العجيبة. كما ذكرت بالبعث. والجزاء يوم القيامة من أجل الاستعادة لذلك بتقوية الإيمان، والإكثار من الأعمال الصالحة. الى هنا تنتهي حصتنا على أمل اللقاء بكم في حصة جديدة بعون الله وتوفيقه. السلام عليكم ورحمة الله تعالى وبركاته.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الفقة الدرس الثالث</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://sadaka2025.github.io/zaad-pdf-3/year3/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent5">الفقة الدرس الثالث</h1>
+<p id="sent6">اعوذ بالله من الشيطان الرجيم، بسم الله الرحمن الرحيم، وصلى الله على سيدنا محمد وعلى اله الطيبين الطاهرين ورضي عن اصحابه والتابعين لهم باحسان الى يوم الدين وارضى عنا معهم يا ارحم الراحمين. اللهم امين. اللهم لا علم الا ما علمتنا، فعلمنا وفقهنا وفهمنا واستعملنا في خدمة دينك يا رب العالمين. هذه المحاضرة أو الدرس الثالث في مباحث آ رسالة الإمام ابن أبي زيد القيرواني، وعنوان هذا الدرس طهارة الخبث واللباس في الصلاة. سنتناول في هذا الدرس تعريف طهارة الماء والثوب والمكان. وكذلك التمييز بين ما يجزئ من اللباس وما لا يجزئ منه، وكذلك امتثال طهاره الثوب والمكان في الصلاة، الصلاة مناجاة بين العبد وربه، وهذه المناجاة تستوجب إعداد المناجي لبدنه وثوبه، ومكان مناجاته، ولا يتحقق ذلك إلا بطهارة الماء والثوب. والمكان، ولباس ساتر مناسب لمقام العبادة. ولذلك، هذا يستوجب منا أن نعرف ما هو الماء الصالح للطهارة، وما حكم طهارة الثوب والمكان، وما هو اللباس الذي تصح فيه الصلاة. بن أبي زيد رحمه الله تعالى باب طهارة الماء والثوب والبقعة، وما يجزئ من اللباس في الصلاة. والمصلي يناجي ربه فعليه ان يتاهب لي ذلك بالوضوء او بالطهر ان وجب عليه الطهر، ويكون ذلك بماء طاهر غير مشوب بنجاسا، ولا ماء قد تغير لونه لشيء خالطه من شيء نجس او طاهر الا ما غيرت لونه الارض التي هو بها من سبخه او حماه او نحوهما. السماء، وماء العيون، وماء الآبار، وماء البحر. طيب طاهر، مطهر للنجسات، وما غير لونه بشيء طاهر حل فيه، فذلك الماء طاهر غير مطهر في وضوء او طهر او زوال نجاسه، وما غيرته النجاسه فليس بطاهر. ولا مطهر، وقليل الماء ينجسه قليل النجاسه. وان لم تغيره؟وقلة الماء مع إحكام الغسل سنة، والسرف منه غلو وبدعة، وقد توضأ رسول الله صلى الله عليه وآله وسلم بمد، وهو وزن رطل وثلث، وتطهر بصاع، وهو أربعة أمداد بمده عليه أفضل الصلاة والسلام، وطهارة البقعة للصلاة. واجبة، وكذلك طهارة الثوب، فقيل إن ذلك فيهما واجب، وجوب الفرائض. وقيل وجوب السنن المؤكدة، وينهى عن الصلاة في معاطن الإبل، وما حجت الطريق، وظهر بيت الله الحرام والحمام، حيث لا يوقن منه بطهارة، والمزبلة والمجزرة، ومقبرة المشركين وكنائسهم، وأقل ما يصلي فيه الرجل من اللباس. ثوب ساتر من درع أو رداء، والدرع القميص، ويكره أن يصلي بثوب ليس على أكتافه منه شيء، فإن فعل لم يعد. وأقل ما يجزء المرأة من اللباس في الصلاة، الدرع، الخصيف السابغ الذي يستر ظهور قدميها، وخمار تتقنع به، وتباشر بكفيها الارض في السجود مثل الرجل. شرح المفردات الغريبة قوله يناجي أي يحادث سر، يتأهب أن يتهيأ ويستعد مشوب، أي مخلوط صبخة، أرض ذات ملح، حمأة، طين، أسود، منتن، معاطين، الإبل، مواضع اجتماعها بعد شربها. الخصيف السابغ، أي الساتر الكامل. يشتمل معنا هذا المتن الذي درسناه، أو الذي قرأناه منذ قليل، للإمام بن أبي زيد على ثلاثة محاور، المحور الأول الماء الصالح للطهارة المصلي يناجي مولاه، فعليه أن يتهيأ لهذه المناجاة بالوضوء أو الغسل، ويكون ذلك بأحد الأنواع الأربعة للمياه التالية. الأول هو ماء طاهر، لم يخالطه شيء، طاهر ذلك الشيء، أو نجس، وهو المسمى ماء طاهر، لم يخالطه شيء، سواء كان ذلك الشيء طاهر أو نجس، وهو المسمى في عرف الفقهاء بالماء المطلق. ثانيا ماء خالطه شيء طاهر، يفارقه غالبا، ولم يغير احد اوصافه الثلاثة التي هي لونه. او طعمه او ريحه، فان غير احد هذه الاوصاف الثلاثة، فلا يصح التطهر به في العبادات، وان كان يصلح استعماله في العادات كالشرب، وغسل الاواني، وغير ذلك، والطبخ، او الى غير ذلك، او سقي النباتات، وما اشبه ذلك، وان كان مغيره نجسا لم يصلح استعماله، لا في العادات ولا في العبادات من باب. اما النوع الثالث فهو ماء خالطه. شيء طاهر لا يفارقه غالبا، وغير احد اوصافه الثلاثة لونه او طعمه او ريحه، كماء ارض ذات ملح اخذ طعمها، والماء المستقر في طين اسود او احمر، فاخذ لونه، وماء الانهار المتروح. بالنباتات وما جاورها، كبعض النباتات ذات الروائح النافذه، فاخذ طعمها فالماء في جميع ذلك طاهر يصلح للعادات وللعبادات على حد سواء، ومثل هذه الأنواع الثلاثة السابقة ماء المطر، وماء العيون، وماء الآبار، فجميعها طاهرة في ذاتها، مطهرة لغيرها، وهو المعبر عنه على لسان فقهائنا الأعلام. ما تغير بمقره أو ممره أو مجاوره، وعليه، فالمتغير بطول المكث، وهو المسمى على اصطلاح الفقهاء بالآجن، وكذلك ما تغير في آنية الأدمي جمع أديم وهو الجلد. والنحاس، لان صحابه رضي الله تعالى عنهم وارضاهم كانوا يسافرون، وغالب اسقيتهم الادم، وهي تغير أوصاف الماء عادة، ولم يكونوا يتيممون معها، بل كانوا يتوضؤون بها. قال القاضي عبد الوهاب البغدادي رحمه الله إلا ما لا ينفك عنه غالبا من ما هو. قراره أو متولد عنه، كما تغير بطين أو جرى على كبريت، أو تغير لطول مكث، أو بالطحلب. لأنه متولد أو متولد عن مكثه، النوع الرابع، ماء قليل قدر آنية الوضوء والغسل، خالطته نجاسة قليلة، ولم تغيره، أي لم تغير أحد أوصافه الثلاثة السابقة، فيتطهر به، لكن ذلك مع الكراهة إن وجد غيره، وفي جميع ذلك. يقول الإمام ابن أبي زيد رحمه الله والمصلي يناجي ربه إلى قوله في وضوء، أو طهر، أو زوال نجاسة. وبما أن الماء ملك مشترك بين الناس، ومن ذلك قولهم الشهير الناس شركاء في ثلاث في الكلأ والهواء والماء، فقد ندب الشارع الحنيف إلى التقليل منه في الوضوء والغسل، وهو هدي رسول الله صلى الله عليه وآله وسلم، فقد ثبت عنه صلى الله عليه وآله وسلم. أنه كان يتوضا بمد ويغتسل بأربعة أمداد وخمس، ففي الحديث الشريف عن سيدنا أنس رضي الله عنه وأرضاه،فيما رواه البخاري في صحيحه كان النبي صلى الله عليه واله وسلم يغسل او كان يغتسل بالصاع الى خمسة امداد، ويتوضا بالمد، فالمطلوب اتقان الوضوء، وعدم الاسراف في وضوئه، وهو اي ال الاسراف غلو، وبدعة مذمومة، كما قال المصنف. رحمه الله تعالى، اما المحور الثاني فهو حكم طهارة الثوب والمكان، الصلاة مناجاة يجب لها تطهير الثوب ومكان الصلاة، فمن صلى في ثوب نجس أو مكان نجس. عالما بالنجاسة، قادرا على إزالتها، أعاد الصلاة أبدا، وإن صلى في ثوب أو مكان نجس، غير عالم بالنجاسة، أعاد الصلاة ما لم يخرج وقتها، وقد مر معكم في الكتاب السابق أنه إذا قيل الإعادة في الوقت، فهو على جهة الاستحباب، لا على جهة الوجوب. وينهى عن الصلاة على ظهر الكعبة نهي تحريم، وفي معاطن الإبل نهي كراهة، ولو كانت طاهرة، وكذلك تكره الصلاة في قارعة الطريق والحمام، والمزبلة، والمجزرة. لغلبة النجاسة عليها، وتمنع فيها على جهة التحريم، إن تحققت نجاستها، وتجوز إن تيقنت طهارتها، فعلمنا أن الحكم في جميع ذلك إنما هو معلل من حيث غلبة الظن في وجود النجاسة من عدمها، إلا معاطن الإبل، فلورود النص الصريح عنه صلى الله عليه وآله وسلم. في النهي عن الصلاة فيها، وفي ذلك يقول الإمام ابن أبي زيد رحمه الله وينهى عن الصلاة في معاطن الإبل، ومحجة الطريق إلى قوله وكنائسهم، وأما الصلاة في مقابر المشركين وكنائسهم، فذلك لأنها أماكن محل سخط وغضب من الله عز وجل، وأماكن سخط والغضب. تتنزل فيها لعائن الله سبحانه وتعالى، ومن ذلك ما أمرنا به الشارع أن مواطن العذاب يؤمر عدم الاستضلال بظلها، ولا الشرب من مائها، ولا الأكل من طعامها، لأنها محل سخط من الله عز وجل، وقد أمرنا الله أن نتواجد في الأماكن التي هي مظنة تنزل رحماته من ذلك كجبل الطور، وبيوته سبحانه. وتعالى، إلى غير ذلك. أما المحور الثالث فهو ما يجزئ من اللباس في الصلاة. يجزئ الرجل في الصلاة ثوب كثيف لا يصف ولا يشف، ساتر لعورته من سرته إلى ركبته، ويكره أن يصلي في ثوب ليس على كتفيه منه شيء، وأما المرأة البالغة فلا يجزئها من اللباس في الصلاة إلا ما كان كثيفا، لا يصف ولا يشف، وكان ساترا لجميع جسدها ما عدا الوجه والكفين، ويغطي ظهور قدميها، وإلى ذلك أشار المصنف رحمه الله تعالى بقوله وأقل ما يصلي فيه إلى قوله مثل الرجل، ولعل من مقاصد تشريع الطهارة ما أفاده الإمام حجة الإسلام. أبو حامد الغزالي رحمه الله تعالى في قوله والطهارة لها أربعة مراتب، المرتبة الأولى تطهير الظاهر عن الأحداث، وعن الأخباث، والفضلات، المرتبة الثانية، تطهير الجوارح عن الجرائم والاثام، المرتبة الثالثة تطهير القلب عن الأخلاق المذمومة والرذائل الممقوتة، والمرتبة الرابعة والأخيرة. تطهير، والسر عما سوى الله سبحانه وتعالى، وهي طهارة الأنبياء صلوات الله عليهم، والصديقين، والطهارة في كل رتبة نصف العمل الذي فيه، ذكر ذلك في كتابه إحياء علوم الدين، وقد سبق معكم جل ذلك في الكتاب السابق، حيث يقول الإمام عبد الواحد بن عاشر رحمه اللهفصل وتحصل الطهارة بما من التغير بشيء سالما، إذا تغير بنجس طرح، أو طاهر لعادة قد صالحا، إلا إذا لزمه في الغالب كمغرة، فمطلق كالذائب، وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>
