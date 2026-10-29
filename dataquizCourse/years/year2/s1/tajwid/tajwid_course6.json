@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "tajwid_lesson5",
+    "title": {
+      "ar": "📘 التجويد – الدرس الخامس:",
+      "fr": "Tajwid – Leçon 5 : Introduction à la Jazariyya",
+      "en": "Tajwid – Lesson 5: Introduction to Al-Jazariyya"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "كم عدد المخارج التفصيلية للحروف حسب جمهور العلماء؟",
+      "options": [
+        "14",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "جمهور العلماء وعلى رأسهم الخليل بن أحمد الفراهيدي ذهبوا إلى أن عدد المخارج التفصيلية 17، بإضافة مخرج الجوف لحروف المد.",
+      "textReference": "الخلاف في عدد المخارج التفصيلية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من هو العالم الذي اعتبر مخارج الحروف 16 وأسقط مخرج الجوف؟",
+      "options": [
+        "الخليل بن أحمد",
+        "سيبويه",
+        "الفراء",
+        "المبرد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "سيبويه، تلميذ الخليل، أسقط مخرج الجوف، فعدّ الألف من أقصى الحلق، والواو من الشفتين، والياء من وسط اللسان.",
+      "textReference": "الخلاف في عدد المخارج التفصيلية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما السبب الرئيس في اختلاف العلماء حول عدد المخارج؟",
+      "options": [
+        "اختلاف في ترتيب الحروف",
+        "دمج بعض المخارج أو إسقاط الجوف",
+        "عدم وجود أدلة صوتية",
+        "اختلاف في عدد الحروف"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الاختلاف سببه المنهجي بين من دمج بعض المخارج كالنون والراء واللام، ومن أسقط مخرج الجوف كسيبويه.",
+      "textReference": "الخلاف في عدد المخارج التفصيلية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما عدد المخارج الرئيسية عند جمهور القراء؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "المخارج الرئيسية خمس: الجوف، الحلق، اللسان، الشفتان، الخيشوم، ومنها تتفرع المخارج التفصيلية.",
+      "textReference": "المخارج الرئيسية للحروف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "أي الحروف تخرج من مخرج الجوف؟",
+      "options": [
+        "حروف القلقلة",
+        "حروف المد",
+        "حروف الحلق",
+        "حروف التفخيم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "حروف الجوف هي حروف المد الثلاثة: الألف الساكنة المفتوح قبلها، الواو الساكنة المضموم قبلها، والياء الساكنة المكسور قبلها.",
+      "textReference": "المخارج الرئيسية للحروف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "كيف يمكن معرفة مخرج الحرف عمليًا؟",
+      "options": [
+        "بتحريك الحرف",
+        "بتسكينه وإدخال همزة وصل عليه",
+        "بتكراره سريعًا",
+        "بالاستماع إلى تسجيلات التلاوة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الطريقة العملية لمعرفة المخرج هي تسكين الحرف وإدخال همزة وصل، ثم ملاحظة مكان انقطاع الصوت.",
+      "textReference": "كيفية معرفة مخرج الحرف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "من أين يخرج حرف القاف عند نطقه الصحيح؟",
+      "options": [
+        "من طرف اللسان",
+        "من أقصى الحلق",
+        "من أقصى اللسان مع الحنك الأعلى",
+        "من الشفتين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "القاف يخرج من أقصى اللسان مع الحنك الأعلى اللحمي، وهو مخرج خاص للحروف الشديدة المفخمة.",
+      "textReference": "كيفية معرفة مخرج الحرف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "كم عدد الأسنان لدى البالغ الطبيعي كما ورد في النص؟",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "explanation": "عدد الأسنان الكامل للبالغ الطبيعي 32، وتتنوع بين ثنايا ورباعيات وأنياب وضواحك وطواحن ونواجذ.",
+      "textReference": "وصف أنواع الأسنان لفهم المخارج",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما أهمية معرفة أنواع الأسنان في علم التجويد؟",
+      "options": [
+        "لتحسين الصوت",
+        "لتحديد مخارج دقيقة مثل الضاد والذال",
+        "لمعرفة التذوق الصوتي",
+        "لتقوية مخارج الحروف الشفوية فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الأسنان تلعب دورًا مهمًا في تحديد مخارج بعض الحروف كالضاد والذال، إذ تعتمد على التقاء اللسان بأطراف الثنايا العليا.",
+      "textReference": "وصف أنواع الأسنان لفهم المخارج",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما المقصود بحروف اللين؟",
+      "options": [
+        "حروف الشدة",
+        "الواو والياء الساكنتان المفتوح ما قبلهما",
+        "حروف المد",
+        "الحروف المهموسة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "حروف اللين هي الواو والياء الساكنتان المفتوح ما قبلهما، وسميت بذلك لسهولة خروجها دون كلفة أو ضغط.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "لماذا قدّم العلماء مخرج الجوف على غيره من المخارج؟",
+      "options": [
+        "لأنه أقرب إلى الحلق",
+        "لأنه أعمّ وأوسع",
+        "لأن حروفه مجهورة",
+        "لأن مخرجه يعتمد على الشفتين"
+      ],
+      "correctAnswer": 1,
+      "explanation": "مخرج الجوف يُقدَّم على غيره لأنه عامّ يشمل الفم والحلق معًا، ويخرج منه الهواء ممتدًا في حروف المد، فكان أول المخارج التفصيلية.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الفرق بين حروف المد وحروف اللين؟",
+      "options": [
+        "لا فرق بينهما",
+        "حروف المد أطول في المخرج وأقوى في الجريان",
+        "حروف اللين تخرج من الخيشوم",
+        "حروف المد من أقصى اللسان"
+      ],
+      "correctAnswer": 1,
+      "explanation": "كل حروف المد هي حروف لين، لكن ليست كل حروف اللين مدًّا؛ لأن المد يطول فيه الصوت ويمتد بمقدار حركات، أما اللين فلا يمدّ إلا قليلًا.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما وجه الإعجاز في اختلاف مخارج الحروف عند الإنسان؟",
+      "options": [
+        "لأنه ظاهرة لغوية بحتة",
+        "دليل على قدرة الله في خلق الألسنة",
+        "نتيجة تطور صوتي طبيعي",
+        "خاص باللغة العربية فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "قال تعالى: 'واختلاف ألسنتكم وألوانكم'، فتنوع مخارج الحروف واختلاف الأصوات من دلائل عظمة الخالق في جعل كل لسان بصمة صوتية فريدة.",
+      "textReference": "المخارج الرئيسية للحروف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "لماذا سُمّيت الحروف الجوفية بالهوائية؟",
+      "options": [
+        "لأنها تحتاج إلى مجهود بدني",
+        "لأنها تخرج بمرور الهواء فقط دون تصادم",
+        "لأنها تخرج من الأنف",
+        "لأنها مرتبطة بالحركات"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الحروف الجوفية أو الهوائية تخرج بامتداد النفس في الفم دون احتكاك أو ضغط، مثل الألف والواو والياء المدّية.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الدلالة التربوية في تعلم المخارج بدقة؟",
+      "options": [
+        "تنمية المهارة الصوتية فقط",
+        "تربية اللسان على ضبط القول وصدق النطق",
+        "إتقان الغناء العربي",
+        "معرفة اللهجات المختلفة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "تعلم المخارج ليس تمرينًا صوتيًا فحسب، بل تربية على الانضباط، والدقة في القول، واحترام معاني القرآن لفظًا وأداءً.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "أي العلماء جعل مخرج الراء والنون واللام مخرجًا واحدًا؟",
+      "options": [
+        "الخليل",
+        "سيبويه",
+        "الفراء",
+        "الجرمي"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الفراء دمج الراء والنون واللام في مخرج واحد، فقلل عدد المخارج إلى 14، وهو ما خالفه فيه الجمهور.",
+      "textReference": "الخلاف في عدد المخارج التفصيلية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "أي من الحروف التالية يخرج من مخرج أقصى الحلق؟",
+      "options": [
+        "الهاء والعين",
+        "الهمزة والهاء",
+        "الغين والخاء",
+        "القاف والكاف"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الهمزة والهاء تخرجان من أقصى الحلق، وهو أول مخرج حلقي في ترتيب المخارج التفصيلية بعد الجوف.",
+      "textReference": "المخارج الرئيسية للحروف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "كيف يُدرك طالب التجويد المخرج الصحيح للحروف؟",
+      "options": [
+        "بالنظر فقط",
+        "بالممارسة والتجريب السمعي",
+        "بالقراءة النظرية",
+        "بمقارنة اللهجات"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المخارج لا تُحسَن إلا بالممارسة والتجريب، إذ يعتمد إدراكها على السمع والضبط العملي أكثر من التنظير.",
+      "textReference": "كيفية معرفة مخرج الحرف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما علاقة مخرج الجوف بمدّ الصوت؟",
+      "options": [
+        "هو مخرج مغلق يمنع المد",
+        "هو المخرج الذي يسمح بامتداد الصوت دون انقطاع",
+        "لا علاقة له بالمد",
+        "يُستخدم للحروف الشديدة فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "مخرج الجوف يسمح بخروج الهواء بحرية، مما يمدّ الصوت في حروف المد ويجعلها سهلة من غير كلفة.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما معنى أن حروف المد تقبل الزيادة؟",
+      "options": [
+        "أنها تكتب أكثر من مرة",
+        "أنها تُمدّ أكثر من حركتين في بعض المواضع",
+        "أنها تُكرر في الكلمة",
+        "أنها تخرج من أكثر من مخرج"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المد الطبيعي يُمدّ بحركتين، لكنه قد يزيد إلى أربع أو ستّ في المد اللازم، وهي من خصائص حروف الجوف الهوائية.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما العلاقة بين الجوف والحلق في مخارج الحروف؟",
+      "options": [
+        "لا علاقة بينهما",
+        "الجوف أعمّ ويمتد إلى الحلق",
+        "الحلق أوسع من الجوف",
+        "كلاهما مخرج للحروف الساكنة فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الجوف يشمل الفم والحلق معًا، فهو أوسع مخرج، ومنه يبدأ ترتيب المخارج، أما الحلق فجزء داخلي منه.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما الفائدة التعليمية من دراسة الأسنان في باب المخارج؟",
+      "options": [
+        "للعناية الصحية",
+        "لتحديد مواضع التقاء اللسان عند النطق",
+        "للتجميل الصوتي",
+        "لتعلم مخارج الحروف الحلقية"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الأسنان تُعين على معرفة مواضع التقاء اللسان بالحروف اللثوية والذلقية كالذال والثاء والضاد، مما يضبط الأداء الصوتي.",
+      "textReference": "وصف أنواع الأسنان لفهم المخارج",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "كيف تبرز الدقة في علم التجويد مقارنة بباقي العلوم؟",
+      "options": [
+        "لأن حروفه تُقاس بالذوق",
+        "لأنه علم سمعي تطبيقي يحتاج إلى ضبطٍ دقيق",
+        "لأنه يعتمد على الكتابة فقط",
+        "لأنه خاص بالقراء فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "علم التجويد يربط السمع بالنطق ويعتمد على الدقة السمعية والتطبيق العملي لضبط مخارج الحروف وصفاتها.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما أعمق فائدة تربوية يكتسبها المتعلم من معرفة المخارج؟",
+      "options": [
+        "تحسين الأداء الصوتي فحسب",
+        "تربية على الصبر والإتقان",
+        "التفوق في المسابقات",
+        "معرفة النبر الصوتي فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "التمرين على النطق الصحيح يربي على الصبر، والدقة، والنية الخالصة لله، لأن القراءة عبادة لا أداءًا فنيًا.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "لماذا اهتم علماء الأداء بتقسيم المخارج إلى رئيسية وتفصيلية؟",
+      "options": [
+        "لتيسير الحفظ",
+        "لتحديد منهج تعليمي متدرج",
+        "لتمييز الحروف المتقاربة وضبط الصوت بدقة",
+        "لأسباب لغوية فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "التقسيم يسمح بالفصل بين الحروف المتقاربة في المخرج مثل الذال والزاي، مما يمنع اللحن ويضمن سلامة الأداء القرآني.",
+      "textReference": "المخارج الرئيسية للحروف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "أي الحروف تعتمد على مخرج الخيشوم؟",
+      "options": [
+        "الضاد والظاء",
+        "الميم والنون المشددتان",
+        "الراء واللام",
+        "الحروف المهموسة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الخيشوم هو مخرج الغنة التي ترافق الميم والنون المشددتين أو المخفتتين، وتعد من صفات الصوت النبوي.",
+      "textReference": "المخارج الرئيسية للحروف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "كيف يظهر أثر الإيمان في نطق الحروف كما ورد في الدرس؟",
+      "options": [
+        "في تحسين مخارجها فقط",
+        "في إخلاص النية وإتقان اللفظ",
+        "في معرفة الأحكام التجويدية",
+        "في حفظ الآيات الكثيرة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "إتقان النطق هو عبادة؛ لأن إخراج الحروف من مخارجها كما أنزل الله يدل على تعظيم كلامه، لا مجرد أداء صوتي.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما الذي يدل عليه مدّ الألف في كلمة (قال) من جهة المخرج؟",
+      "options": [
+        "ضغط الهواء",
+        "اتساع الجوف وامتداد الصوت",
+        "تحريك اللسان",
+        "ضم الشفتين"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الألف في (قال) تخرج من الجوف مع اتساع الفم، دون اعتماد على عضو معين، فتمتد بسلاسة وهو سر لينها.",
+      "textReference": "مخرج الجوف وحروف المد واللين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما العلاقة بين المخارج والتفكر في خلق الإنسان؟",
+      "options": [
+        "علاقة لغوية",
+        "علاقة دلالية على الإعجاز الإلهي",
+        "علاقة صوتية بحتة",
+        "لا علاقة بينهما"
+      ],
+      "correctAnswer": 1,
+      "explanation": "اختلاف المخارج وتنوع الحروف مع وحدة الأعضاء دليل على الإعجاز في الخلق، كما قال تعالى: 'وفي أنفسكم أفلا تبصرون'.",
+      "textReference": "المقدمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة الدرس في باب المخارج كما ورد في الخاتمة؟",
+      "options": [
+        "إتقان النطق العلمي فقط",
+        "تلاوة صوتية دون تدبر",
+        "دمج العلم بالعمل في إخراج الحروف كما أُنزلت",
+        "الاعتماد على التنغيم الموسيقي"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الخاتمة تؤكد أن التجويد علم وعبادة؛ يهدف إلى قراءة كلام الله بصدق وأمانة في الأداء والنطق.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec6tajwids1.html#sent30"
+    }
+  ]
+}

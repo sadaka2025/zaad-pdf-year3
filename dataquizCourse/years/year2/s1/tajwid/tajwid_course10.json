@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "tajwid_lesson10",
+    "title": {
+      "ar": "📘 التجويد – الدرس 10:",
+      "fr": "Tajwid – Leçon 9 : Introduction à la Jazariyya",
+      "en": "Tajwid – Lesson 9: Introduction to Al-Jazariyya"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما عدد الحروف الخارجة من الشفتين كما قرره الناظم في الدرس؟",
+      "options": [
+        "حرف واحد",
+        "حرفان",
+        "ثلاثة أحرف",
+        "أربعة أحرف"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ذكر الناظم أن الشفتين يخرج منهما أربعة أحرف: الفاء، الواو غير المادية، الباء، الميم.",
+      "textReference": "مخرج الشفتين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من أين يخرج حرف الفاء كما ضبطه علماء التجويد؟",
+      "options": [
+        "من طرف اللسان مع لثة الثنايا العليا",
+        "من باطن الشفة السفلى مع أطراف الثنايا العليا",
+        "من أقصى الحلق",
+        "من الخيشوم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "أكد الشارح أن مخرج الفاء مضبوط من باطن الشفة السفلى مع أطراف الثنايا العليا.",
+      "textReference": "مخرج الفاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "أيّ حرف من الحروف التالية يخرج بانطباق الشفتين تمامًا؟",
+      "options": [
+        "الفاء",
+        "الواو غير المادية",
+        "الباء",
+        "الراء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الباء تخرج بانطباق الشفتين انطباقًا تامًا، بخلاف الفاء والواو.",
+      "textReference": "مخرج الباء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما الفرق بين الواو المادية والواو غير المادية من حيث المخرج؟",
+      "options": [
+        "الواو المادية من الشفتين وغير المادية من الجوف",
+        "الواو المادية من الجوف وغير المادية من الشفتين",
+        "كلاهما من أقصى اللسان",
+        "كلاهما لا يخرجان من الفم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الواو المادية من حروف المد، مخرجها الجوف، أما غير المادية فمخرجها من انضمام الشفتين.",
+      "textReference": "مخرج الواو",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "من أيّ الجزءين من الشفتين يخرج حرف الميم؟",
+      "options": [
+        "من الجزء اليابس فقط",
+        "من الجزء اللزج فقط",
+        "من انطباق الشفتين بالجزء اللزج منهما",
+        "من انفتاح الشفتين دون تماس"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الميم تخرج من الجزء اللزج في الشفتين، بخلاف الباء التي تخرج من الجزء اليابس.",
+      "textReference": "مخرج الميم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما أهم خطأ يقع فيه بعض القرّاء عند نطق حرف الفاء؟",
+      "options": [
+        "إخراجه من طرف اللسان",
+        "إخراجه من أقصى الحلق",
+        "تغليظه",
+        "جعله مستطيلاً"
+      ],
+      "correctAnswer": 0,
+      "explanation": "البعض ينطق الفاء قريبًا من الثاء بإخراجها من طرف اللسان، وهو خطأ مخالف للمخرج الصحيح.",
+      "textReference": "خطأ في مخرج الفاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما صفة الغنة من حيث مخرجها الأصلي؟",
+      "options": [
+        "حرف لساني",
+        "حرف شفوي",
+        "صوت يخرج من الخيشوم",
+        "صوت يخرج من أقصى الحلق"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الغنة صوت أغن يخرج من الخيشوم، ملازم للنون والميم.",
+      "textReference": "مخرج الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "لماذا تعدّ الغنة صفة لازمة للميم والنون؟",
+      "options": [
+        "لأن العرب ألزمتها بهما لفظًا",
+        "لأن مخارج الحروف تقتضي ذلك",
+        "لأن الميم والنون لا ينطقان بدونهما",
+        "لأنهما من حروف المد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "لا يمكن نطق الميم أو النون بدون غنة لأنها جزء من طبيعتهما الصوتية.",
+      "textReference": "لزوم الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "أيّ الحروف التالية يصاحبها الغنة خطأً في قراءة بعض الناس؟",
+      "options": [
+        "الباء",
+        "الكاف",
+        "جميع الحروف",
+        "حرفا النون والميم فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "من اللحن الخفي أن يجعل القارئ الغنة في كل الحروف كالهمزة والهاء.",
+      "textReference": "أخطاء الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما معنى قولهم إن الغنة تشبه صوت الغزالة إذا فقدت ولدها؟",
+      "options": [
+        "تشبيه مخرج الغنة بالشفتين",
+        "تشبيه صفة الصوت نفسه من حيث الرخامة",
+        "أن الغنة صفة عشوائية",
+        "أن الغنة صوت غليظ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "هذا التشبيه وارد عند أهل التجويد للدلالة على رخامة صوت الغنة.",
+      "textReference": "تشبيه الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما سبب زيادة مقدار الغنة عند النون أو الميم المشددتين؟",
+      "options": [
+        "لأن التشديد يستلزم بقاء الصوت زمنًا أطول",
+        "لأنهما يتحولان إلى مدّ",
+        "لأن المشدد يُنطق بفتح الفم",
+        "لأن المشدد يخرج من الجوف"
+      ],
+      "correctAnswer": 0,
+      "explanation": "المشدد حرفان أولهما ساكن، مما يزيد زمن الغنة.",
+      "textReference": "غنة المشدد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "أيّ الحالات تكون الغنة فيها أكمل؟",
+      "options": [
+        "في المظهر",
+        "في المخفى",
+        "في المتحرك",
+        "في الحرف المهموس"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الخفاء يجعل الغنة أكمل من الإظهار، كما نص الشارح.",
+      "textReference": "مراتب الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ماذا يفعل القارئ ليعرف مخرج حرف ما كما نص الدرس؟",
+      "options": [
+        "يستمع للقراء فقط",
+        "يجربه بمدّ الصوت",
+        "يسكن الحرف ويدخل عليه الهمزة",
+        "يدخل عليه التنوين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "وسيلة معرفة المخرج أن تسكن الحرف وتسبقه بهمزة: أَ... فتعرف موضع خروجه.",
+      "textReference": "طريقة معرفة المخرج",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما تعريف الخيشوم كما ورد في النص؟",
+      "options": [
+        "مجرى داخلي في الفم",
+        "حرف يخرج من الأنف",
+        "الخرق الداخلي المتصل بالأنف",
+        "جزء من الحلق"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الخيشوم هو الخرق الأنفي الموصل لصوت الغنة.",
+      "textReference": "تعريف الخيشوم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الخلاف الذي ذكره الشارح حول الغنة؟",
+      "options": [
+        "هل هي حرف مستقل أم صفة؟",
+        "هل هي مد أم همس؟",
+        "هل تخرج من الحلق أم اللسان؟",
+        "هل هي فصيحة أم غير فصيحة؟"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العلماء اختلفوا هل الغنة حرف لكونها جزءًا من النون والميم أم صفة لكونها صوتًا ذا رخامة.",
+      "textReference": "خلاف حول الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما سبب اعتبار الغنة حرفًا عند بعض العلماء؟",
+      "options": [
+        "لأنها تخرج من الحلق",
+        "لأنها مستقلة عن النون والميم",
+        "لأنها جزء لا يتجزأ من بنيتهما",
+        "لأنها ليست صوتًا أنفيًا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "اعتبر بعض العلماء الغنة حرفًا لأنها لا تنفك عن النون والميم.",
+      "textReference": "الغنة حرف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما وجه اعتبار الغنة صفة عند فريق آخر؟",
+      "options": [
+        "لأنها صوت فيه رخامة وطول وقصر",
+        "لأنها تتغير مع جميع الحروف",
+        "لأنها تشبه الهمزة",
+        "لأن مخارج الحروف تعتمد عليها"
+      ],
+      "correctAnswer": 0,
+      "explanation": "صفة الغنة من حيث طولها وقصرها جعلت بعضهم يعدّها صفة.",
+      "textReference": "الغنة صفة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "أيّ مثال يبين عدم وجود غنة في غير النون والميم؟",
+      "options": [
+        "عن خالد",
+        "من يعمل",
+        "إن كنتم",
+        "خمسة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "لا يصح أن تُقرأ (عن خالد) بغنة في العين.",
+      "textReference": "عدم وجود الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "أيّ مثال يمثل الغنة في الإخفاء؟",
+      "options": [
+        "عن خالد",
+        "من يعمل",
+        "كلا",
+        "أف"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الغنة هنا غنة إخفاء ظاهرة في (من يعمل).",
+      "textReference": "الغنة في الإخفاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "أيّ مثال بيّنه الدرس ليظهر فيه طول زمن الغنة؟",
+      "options": [
+        "يوم يفرح المؤمنون",
+        "الحمد لله",
+        "السماء",
+        "عنكم"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الغنة في الإدغام بغنة كقوله: (يوم يفرح المؤمنون) أطول.",
+      "textReference": "طول الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "حين يقول الشارح: «مخرج الغنة الخيشوم»، ما المقصود بذلك؟",
+      "options": [
+        "أن الغنة حرف يخرج باللسان",
+        "أن الغنة لا علاقة لها بالنون",
+        "أن صفة الغنة تستقر في الخيشوم",
+        "أن الغنة من الجوف"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الغنة صوت أنفي يستقر في الخيشوم.",
+      "textReference": "استقرار الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما أثر الإظهار على الغنة؟",
+      "options": [
+        "يزيد زمنها",
+        "ينقص زمنها",
+        "يلغيها تمامًا",
+        "يجعلها صفة لازمة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الغنة في الإظهار أقل زمنًا من الغنة في الإخفاء والإدغام.",
+      "textReference": "الغنة في الإظهار",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما الذي يميز الغنة في النون الساكنة عن المتحركة؟",
+      "options": [
+        "المتحركة أطول",
+        "الساكنة أكمل",
+        "المتحركة بلا غنة",
+        "الساكنة بلا غنة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص يقرر أن الغنة في الساكن أكمل منها في المتحرك.",
+      "textReference": "غنة الساكن",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما حكم الغنة في الإدغام بغنة؟",
+      "options": [
+        "لا غنة فيه",
+        "غنة ضعيفة",
+        "غنة أكمل",
+        "غنة ناقصة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الإدغام بغنة يجعل الغنة أكمل زمنًا وصوتًا.",
+      "textReference": "الإدغام بغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما سبب اختلاف مقدار الغنة بين حكم الإظهار والإخفاء والإدغام؟",
+      "options": [
+        "اختلاف مخارج الحروف",
+        "اختلاف ضغط الهواء",
+        "اختلاف التصاق اللسان",
+        "اختلاف طبيعة الغنة نفسها بحسب ما بعدها"
+      ],
+      "correctAnswer": 3,
+      "explanation": "الغنة تتأثر بالحرف اللاحق للنون أو الميم.",
+      "textReference": "سبب اختلاف مقدار الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "أيّ العبارات التالية صواب في تعريف الغنة؟",
+      "options": [
+        "حرف يخرج من أقصى اللسان",
+        "صوت أغن يخرج من الخيشوم",
+        "صفة انفجار",
+        "صفة غلظة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الغنة تعريفها العلمي: صوت أغن يخرج من الخيشوم.",
+      "textReference": "تعريف الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما الذي يُستفاد من قول الشاطبي: «وغنّةُ تنوين ونونٌ من إنْ سكَن»؟",
+      "options": [
+        "الغنة لا علاقة لها بالتنوين",
+        "الغنة تكون فقط في التشديد",
+        "التنوين والنون الساكنة لا ينفكان عن الغنة",
+        "الغنة صفة للحركات"
+      ],
+      "correctAnswer": 2,
+      "explanation": "البيت يقرر لزوم الغنة للتنوين والنون الساكنة.",
+      "textReference": "قول الشاطبي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما علاقة الخيشوم بالنون والميم؟",
+      "options": [
+        "هو مخرجهما الأصلي",
+        "مخرج بديل عند العجز",
+        "محل صفة الغنة الملازمة لهما",
+        "لا علاقة بينهما"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يؤكد أن الخيشوم محل الغنة لا مخرج الحرف ذاته.",
+      "textReference": "محل الغنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما الذي يترتب على اعتبار الغنة حرفًا في بعض المواضع؟",
+      "options": [
+        "تصبح مستقلة عن النون والميم",
+        "يزداد زمنها في الإخفاء والإدغام",
+        "تتحول إلى مدّ",
+        "تخرج من اللسان"
+      ],
+      "correctAnswer": 1,
+      "explanation": "يرى بعض العلماء أنها في الإدغام والإخفاء أقرب إلى الحرفية لتزايد زمنها.",
+      "textReference": "الغنة حرف في الإدغام",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الخلاصة التي يصل إليها الدرس حول مخرج الشفتين والغنة؟",
+      "options": [
+        "أن مخرج الشفتين يقتصر على الباء وحدها",
+        "أن الغنة جزء من كل حروف العربية",
+        "أن الحروف الشفوية أربعة، وأن الغنة صفة أنفية ملازمة للنون والميم",
+        "أن الغنة تخرج من الفم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هذه خلاصة الدرس: أربعة حروف من الشفتين، والغنة صفة تخرج من الخيشوم للنون والميم.",
+      "textReference": "خلاصة الدرس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajwid/ec10tajwids1.html#sent30"
+    }
+  ]
+}

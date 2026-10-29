@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "slug": "hikma86_lesson6",
+    "title": {
+      "ar": "شرح الحكم – الدرس السادس – الحكمة السادسة والثمانون (العز الذي لا يفنى)",
+      "fr": "Hikam – Leçon 6 – La sagesse 86 (La vraie dignité éternelle)",
+      "en": "Hikam – Lesson 6 – Wisdom 86 (True Everlasting Honor)"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما موضوع الحكمة السادسة والثمانون؟",
+      "options": ["الزهد", "العز الحقيقي", "الصبر", "الرجاء"],
+      "correctAnswer": 1,
+      "explanation": "الحكمة تتحدث عن العز الذي لا يفنى.",
+      "textReference": "إن أردت أن يكون لك عز لا يفنى"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من قائل هذه الحكمة؟",
+      "options": [
+        "الإمام النووي",
+        "ابن عطاء الله السكندري",
+        "الإمام مالك",
+        "الإمام أحمد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الحكمة من حكم ابن عطاء الله.",
+      "textReference": "قال ابن عطاء الله"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما هو العز الذي لا يفنى؟",
+      "options": ["المال", "الجاه", "الغنى بالله", "السلطة"],
+      "correctAnswer": 2,
+      "explanation": "العز الحقيقي هو التعلق بالله.",
+      "textReference": "الغنى عن الأسباب بوجود مسببها"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما سبب فناء العز الدنيوي؟",
+      "options": ["ثباته", "ارتباطه بالله", "ارتباطه بالفاني", "دوامه"],
+      "correctAnswer": 2,
+      "explanation": "لأنه متعلق بأشياء زائلة.",
+      "textReference": "يعتز بالفاني"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما المطلوب تجاه الأسباب؟",
+      "options": [
+        "تركها",
+        "الاعتماد عليها فقط",
+        "الأخذ بها دون التعلق بها",
+        "كراهيتها"
+      ],
+      "correctAnswer": 2,
+      "explanation": "نأخذ بالأسباب مع التوكل على الله.",
+      "textReference": "الأخذ بالأسباب سنته والتوكل حاله"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما خطر التعلق بالأسباب؟",
+      "options": ["النجاح", "الثبات", "الخذلان", "السعادة"],
+      "correctAnswer": 2,
+      "explanation": "الأسباب قد تخذلك.",
+      "textReference": "خذلتك وأسلمتك"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما مثال العز الفاني؟",
+      "options": ["التقوى", "العلم بالله", "الشباب والمال", "الذكر"],
+      "correctAnswer": 2,
+      "explanation": "الشباب والمال يزولان.",
+      "textReference": "يعتز بشبابه وماله"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الذي لا يجتمعان؟",
+      "options": [
+        "العلم والعمل",
+        "الدنيا والآخرة",
+        "التعلق بالله والتعلق بالأسباب",
+        "الخير والشر"
+      ],
+      "correctAnswer": 2,
+      "explanation": "لا يجتمع التعلق الحقيقي بهما.",
+      "textReference": "ضدان لا يجتمعان"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ماذا قال سيدنا إبراهيم عند الابتلاء؟",
+      "options": ["أنقذوني", "حسبي الله", "أين النجاة", "ساعدوني"],
+      "correctAnswer": 1,
+      "explanation": "اعتمد على الله فقط.",
+      "textReference": "حسبي الله ونعم الوكيل"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما موقف إبراهيم من مساعدة جبريل؟",
+      "options": ["قبلها", "رفضها", "تردد", "طلب غيرها"],
+      "correctAnswer": 1,
+      "explanation": "اعتمد على الله وحده.",
+      "textReference": "أما إليه فلا"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما سر سعادة المؤمن؟",
+      "options": ["الدنيا", "التعلق بالله", "المال", "الشهرة"],
+      "correctAnswer": 1,
+      "explanation": "القلب متعلق بالله.",
+      "textReference": "سر سعادة المؤمن"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "كيف يعيش المؤمن مع النعم؟",
+      "options": ["ينساها", "يعبدها", "يشكر الله عليها", "يتركها"],
+      "correctAnswer": 2,
+      "explanation": "يشكر الله دائما.",
+      "textReference": "حمد الله وشكره"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما موقف المؤمن من الدنيا؟",
+      "options": ["في قلبه", "بين يديه", "يتركها", "يكرهها"],
+      "correctAnswer": 1,
+      "explanation": "الدنيا في يده لا قلبه.",
+      "textReference": "تكون الدنيا بين يديه"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما نتيجة شكر النعمة؟",
+      "options": ["زوالها", "نقصها", "زيادتها", "ثباتها فقط"],
+      "correctAnswer": 2,
+      "explanation": "الشكر يزيد النعم.",
+      "textReference": "لئن شكرتم لأزيدنكم"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الذي يبقى؟",
+      "options": ["الدنيا", "المال", "ما عند الله", "الجاه"],
+      "correctAnswer": 2,
+      "explanation": "ما عند الله هو الباقي.",
+      "textReference": "وما عند الله باق"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما أثر التعلق بالدنيا؟",
+      "options": ["راحة", "حزن", "سعادة دائمة", "نجاح دائم"],
+      "correctAnswer": 1,
+      "explanation": "يؤدي للحزن عند زوالها.",
+      "textReference": "يصيبك الحزن"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما مثال تغير الأسباب؟",
+      "options": ["الصلاة", "الذكر", "الاقتصاد", "الإيمان"],
+      "correctAnswer": 2,
+      "explanation": "الاقتصاد يتغير.",
+      "textReference": "تتغير ظروف الاقتصاد"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما المطلوب من المسلم؟",
+      "options": ["ترك الدنيا", "العمل فقط", "السعي مع التوكل", "الكسل"],
+      "correctAnswer": 2,
+      "explanation": "يجمع بين الأمرين.",
+      "textReference": "نسعى وقلوبنا مع الله"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "كيف يكون القلب؟",
+      "options": ["غافل", "متعلق بالدنيا", "حاضر مع الله", "مشغول فقط"],
+      "correctAnswer": 2,
+      "explanation": "القلب لا يغفل.",
+      "textReference": "لا تغفل عن الله"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما أثر الصلاة؟",
+      "options": ["الغفلة", "القرب من الله", "الكسل", "الحزن"],
+      "correctAnswer": 1,
+      "explanation": "تربط العبد بالله.",
+      "textReference": "كيف يكون غافلا وهو يصلي"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما حال المؤمن عند النعمة؟",
+      "options": ["يكفر", "يشكر", "ينسى", "يحزن"],
+      "correctAnswer": 1,
+      "explanation": "يشكر الله.",
+      "textReference": "إن أصابته سراء شكر"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما حاله عند المصيبة؟",
+      "options": ["يصرخ", "يصبر", "يترك الدين", "يهرب"],
+      "correctAnswer": 1,
+      "explanation": "يصبر في البلاء.",
+      "textReference": "وإن أصابته ضراء صبر"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما نتيجة الصبر؟",
+      "options": ["الضياع", "الخير", "الخسارة", "الضعف"],
+      "correctAnswer": 1,
+      "explanation": "الصبر خير.",
+      "textReference": "فكان خيرا له"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما خطر التعلق بالأشخاص؟",
+      "options": ["الثبات", "الخيانة", "القوة", "النجاح"],
+      "correctAnswer": 1,
+      "explanation": "قد ينقلب عليك.",
+      "textReference": "ينقلب عليك"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما نتيجة التعلق بغير الله؟",
+      "options": ["طمأنينة", "وحدة", "راحة", "سعادة"],
+      "correctAnswer": 1,
+      "explanation": "يشعر بالوحدة.",
+      "textReference": "وجدت نفسك وحيدا"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما المطلوب لتجنب الحزن؟",
+      "options": ["جمع المال", "التعلق بالله", "ترك العمل", "العزلة"],
+      "correctAnswer": 1,
+      "explanation": "التعلق بالله يمنع الحزن.",
+      "textReference": "علق قلبك بالله"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما وصف الدنيا؟",
+      "options": ["باقية", "دائمة", "قليلة", "خالدة"],
+      "correctAnswer": 2,
+      "explanation": "الدنيا متاع قليل.",
+      "textReference": "متاع الدنيا قليل"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما الأفضل؟",
+      "options": ["الدنيا", "الآخرة", "المال", "الجاه"],
+      "correctAnswer": 1,
+      "explanation": "الآخرة خير.",
+      "textReference": "الآخرة خير"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما شرط دوام النعمة؟",
+      "options": ["المال", "الشكر", "العمل فقط", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "الشكر سبب الزيادة.",
+      "textReference": "لئن شكرتم"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة الحكمة؟",
+      "options": [
+        "التعلق بالدنيا",
+        "ترك الأسباب",
+        "التعلق بالله مع الأخذ بالأسباب",
+        "الكسل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هذا هو العز الحقيقي.",
+      "textReference": "فلا تستعز بعز يفنى"
+    }
+  ]
+}

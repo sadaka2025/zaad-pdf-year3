@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "hadith_lesson8",
+    "title": {
+      "ar": "📘 الحديث – الدرس 8: باب اليقين والتوكل",
+      "fr": "Hadith – Leçon 8 : Certitude et Tawakkul",
+      "en": "Hadith – Lesson 8: Certainty & Reliance on Allah"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "لماذا جمع المصنف بين اليقين والتوكل في باب واحد؟",
+      "options": [
+        "لأنهما بمعنى واحد تماماً",
+        "لأن التوكل ثمرة من ثمرات اليقين",
+        "لأن التوكل أعلى من اليقين",
+        "لأنهما لا علاقة لهما ببعض"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الشيخ بيّن أن اليقين أصل، وأن التوكل ثمرة عنه، فمن رسخ يقينه حسن توكله.",
+      "textReference": "التوكل هو ثمرة من ثمرات اليقين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما أفضل تعريف لليقين كما ورد في الدرس؟",
+      "options": [
+        "الشك في الغيب مع محاولة الفهم",
+        "العلم الجازم المطابق للواقع والغيب",
+        "الاعتماد على الأسباب الظاهرة فقط",
+        "الفهم السطحي للنصوص"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ضُبِط اليقين بأنه العلم الجازم المستقر في القلب الموافق للغيب والحق.",
+      "textReference": "فسر البعض اليقين بأنه العلم الجازم المطابق للغيب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما العلاقة بين الأخذ بالأسباب والاعتماد عليها كما شرح الشيخ؟",
+      "options": [
+        "الأخذ بالأسباب شرك أكبر",
+        "الاعتماد على الأسباب فقط طاعة",
+        "الأخذ بالأسباب طاعة، والاعتماد عليها شرك",
+        "لا فرق بينهما إطلاقًا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "أوضح الشيخ أن الشرع يأمر بالأسباب، لكن صرف القلب لها شرك خفي.",
+      "textReference": "أما الاعتماد على الأسباب فهو شرك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما الدلالة من مدح الله للمؤمنين في غزوة الأحزاب؟",
+      "options": [
+        "خافوا من كثرة العدو",
+        "قالوا ما وعدنا الله إلا غرورًا",
+        "ثبتوا وقالوا هذا ما وعدنا الله ورسوله",
+        "تركوا القتال كلية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "مدح الله المؤمنين لأن ثباتهم عند تكاثر الأحزاب دليل يقين.",
+      "textReference": "قالوا هذا ما وعدنا الله ورسوله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "كيف أثرت محاولة التخويف في الصحابة في قوله تعالى: إن الناس قد جمعوا لكم؟",
+      "options": [
+        "زادهم خوفاً واضطراباً",
+        "ازدادوا يقيناً وقالوا حسبنا الله ونعم الوكيل",
+        "تراجعوا عن نصرة النبي",
+        "انتظروا الإمدادات"
+      ],
+      "correctAnswer": 1,
+      "explanation": "بلوغ مقام التوكل جعل التهديد يزيد إيمانهم.",
+      "textReference": "فزادهم إيماناً وقالوا حسبنا الله ونعم الوكيل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما سبب تقديم الجار والمجرور (وعلى الله) في قوله تعالى: وعلى الله فليتوكل المؤمنون؟",
+      "options": [
+        "لا معنى لذلك",
+        "للدلالة على النفي",
+        "لإفادة الحصر وأن التوكل لا يكون إلا على الله",
+        "لمجرد التنغيم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "التقديم هنا أسلوب بلاغي يفيد الحصر.",
+      "textReference": "وعلى الله فليتوكل المؤمنون يفيد الحصر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما وصف النبي للمتوكلين الـ70 ألفًا في الحديث؟",
+      "options": [
+        "هم الذين يرقون الناس ولا يسترقون",
+        "هم الذين لا يرقون ولا يطلبون الرقية ولا يتطيرون",
+        "هم الذين يعتمدون فقط على الأسباب",
+        "هم الذين يتركون العمل كلية"
+      ],
+      "correctAnswer": "هم الذين لا يرقون ولا يسترقون ولا يتطيرون وعلى ربهم يتوكلون",
+      "explanation": "هذه العلامات تدل على كمال التفويض لله.",
+      "textReference": "هم الذين لا يرقون ولا يسترقون ولا يتطيرون وعلى ربهم يتوكلون",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما سبب ضعف لفظة (لا يرقون) كما بيّن الشارح؟",
+      "options": [
+        "لأن الرقية محرمة",
+        "لأنها تخالف المعلوم من السنة أن النبي كان يرقي",
+        "لأن البخاري انفرد بها",
+        "لأنها لم تُفهم جيدًا"
+      ],
+      "correctAnswer": 1,
+      "explanation": "جميع الحفاظ أنكروا اللفظة لأنها تعارض فعله ﷺ.",
+      "textReference": "لفظة لا يرقون غير ثابتة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما الفرق بين (لا يسترقون) و(لا يرقون)؟",
+      "options": [
+        "لا فرق بينهما",
+        "لا يسترقون أي لا يطلبون الرقية، ولا يرقون أي لا يرقون غيرهم",
+        "لا يسترقون أي لا يعالجون، ولا يرقون أي لا يقرأون القرآن",
+        "هما بمعنى ترك التوكل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "اللفظ المقبول هو (لا يسترقون) فقط، وهو علامة التوكل الكامل.",
+      "textReference": "ولا يسترقون أي لا يطلبون الرقية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما نوع الشرك في التطير كما ورد؟",
+      "options": [
+        "شرك أكبر",
+        "شرك أصغر",
+        "ليس له علاقة بالشرك",
+        "بدعة فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "التطير تشاؤم، وهو من الشرك الأصغر لأنه اعتماد قلبي لا يبلغ حد العبادة.",
+      "textReference": "التطير من الشرك الأصغر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "لماذا كان المتطيرون لا يسافرون عند رؤية الطير يرجع؟",
+      "options": [
+        "اتباعًا للخرافات الجاهلية",
+        "لوجود مانع شرعي",
+        "لأن السفر محرم",
+        "لأنه عادة إسلامية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "كانوا يربطون الطيور بالتشاؤم.",
+      "textReference": "التطير عادة جاهلية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "كيف يحقق المؤمن مقام التوكل كما ذكر الشيخ؟",
+      "options": [
+        "بترك الأعمال فقط",
+        "بالاعتماد على الأسباب فقط",
+        "بالتدبر في آيات الله وصدق الالتجاء",
+        "بقراءة القرآن بلا فهم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "التدبر يولّد قوة الإيمان واليقين ومن ثم التوكل.",
+      "textReference": "تدبر آيات الله يزيد الإيمان والتوكل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما المقصود بالعرض في قوله: عرضت علي الأمم؟",
+      "options": [
+        "عرض حقيقي في اليقظة فقط",
+        "رؤية في المنام أو ليلة الإسراء",
+        "مجرد مثال",
+        "تخيل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الشارح ذكر احتماليْن من أنواع الوحي.",
+      "textReference": "العرض إما في المنام أو ليلة الإسراء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما دلالة رؤية النبي ومعه الرجل والرجلان؟",
+      "options": [
+        "قلة التوفيق الإلهي",
+        "قلة من يستجيب للحق غالبًا",
+        "ضعف الأنبياء",
+        "أن الأنبياء بلا دعوة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الحق ثقيل، وأتباع الأنبياء غالبًا قليلون.",
+      "textReference": "فلم يتبعه إلا قليل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "لماذا ظن النبي أن السواد العظيم هو أمته؟",
+      "options": [
+        "لأن عددهم قليل",
+        "لأنهم يشبهون العرب",
+        "لكثرة السواد واعتقاد كثرة الأمة",
+        "لأنه لم يعرف الأمم الأخرى"
+      ],
+      "correctAnswer": 2,
+      "explanation": "السواد العظيم يفيد العدد الكبير، فظن أنه أتباعه.",
+      "textReference": "فظننت أنهم أمتي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "كم يدخل مع كل ألف من السبعين ألفًا كما ورد في الحديث؟",
+      "options": [
+        "1000",
+        "700",
+        "7000",
+        "70 ألفًا أخرى"
+      ],
+      "correctAnswer": 3,
+      "explanation": "هذا من كرم الله على هذه الأمة.",
+      "textReference": "مع كل ألف سبعون ألفًا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما سبب أن عكّاشة كان من السبعين ألفًا؟",
+      "options": [
+        "لأنه سأل بصدق",
+        "لأنه كان غنيًا",
+        "لأنه من قريش",
+        "لأنه هاجر متأخرًا"
+      ],
+      "correctAnswer": 0,
+      "explanation": "أدرك الفرصة فسأل بقلب حاضر.",
+      "textReference": "فقال: ادع الله أن يجعلني منهم… أنت منهم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "لماذا قال النبي للثاني: سبقك بها عكاشة؟",
+      "options": [
+        "لأنه يكره السائل",
+        "لأن السائل الثاني منافق",
+        "حتى لا يُفتح باب التواكل على الجنة",
+        "ليرفع مقام عكاشة فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "لو فتح الباب لتواكل الناس واعتمدوا على الدعاء فقط.",
+      "textReference": "سبقك بها عكاشة ليغلق باب التواكل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما الفرق بين التوكل والتواكل؟",
+      "options": [
+        "لا فرق",
+        "التوكل ترك الأسباب، والتواكل أخذ بها",
+        "التوكل اعتماد القلب على الله مع الأخذ بالأسباب، والتواكل ترك الأسباب",
+        "التوكل هو الخوف"
+      ],
+      "correctAnswer": 2,
+      "explanation": "التواكل مذموم لأنه ترك العمل بحجة الاعتماد على الله.",
+      "textReference": "التواكل ليس هو التوكل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "لماذا وصف اليقين بأنه رأس الإيمان؟",
+      "options": [
+        "لأنه أقل درجات الإيمان",
+        "لأنه لا يحتاج علماً",
+        "لأنه أعلى مراتب الإيمان",
+        "لأنه لا علاقة له بالتوكل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "اليقين هو الثبات الجازم في القلب، وهو ذروة الإيمان.",
+      "textReference": "اليقين أعلى مراتب الإيمان",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما مثال علم اليقين كما ورد؟",
+      "options": [
+        "معاينة النار",
+        "سماع خبر النار فقط",
+        "رؤية الجنة",
+        "الشعور فقط بالنار"
+      ],
+      "correctAnswer": 1,
+      "explanation": "علم اليقين هو العلم المجرد دون المعاينة.",
+      "textReference": "علم اليقين… وعين اليقين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما أثر التطير على التوكل؟",
+      "options": [
+        "يقويه",
+        "يبطله ويضعفه",
+        "لا علاقة بينهما",
+        "يجعله أكمل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "التطير تشاؤم ينافي الاعتماد على الله.",
+      "textReference": "التطير ينافي التوكل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما دلالة قول النبي للصحابة: ما الذي تخوضون فيه؟",
+      "options": [
+        "عدم اهتمامه",
+        "تعليمهم بالحوار وفتح باب النقاش",
+        "منعهم من السؤال",
+        "التهديد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "أسلوب تعليمي لبيان حال السبعين ألفًا.",
+      "textReference": "فقال: ما الذي تخوضون فيه؟",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما العبرة من عرض الأمم على النبي؟",
+      "options": [
+        "مجرد قصة",
+        "إظهار قلة أتباع الأنبياء والصبر على الدعوة",
+        "بيان الترفيه",
+        "تعريفه بأشكال الأمم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المعنى تربوي لتعظيم الصبر.",
+      "textReference": "العبرة ليست قصصًا فقط",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "كيف نميز بين التوكل المشروع وترك العمل المحرم؟",
+      "options": [
+        "لا فرق",
+        "ترك العمل هو التوكل",
+        "التوكل مع العمل، وترك العمل تواكل محرم",
+        "العمل ينافي التوكل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الشارح أكد أن الأسباب سنة كونية.",
+      "textReference": "ترك الأسباب تواكل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما المقصود بعين اليقين؟",
+      "options": [
+        "المعرفة النظرية فقط",
+        "مشاهدة الحقائق مشاهدة مباشرة",
+        "التقليد الأعمى",
+        "الظن الغالب"
+      ],
+      "correctAnswer": 1,
+      "explanation": "عين اليقين كمن يرى النار رأي عين.",
+      "textReference": "عين اليقين أعلى من علم اليقين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما الحكمة من سؤال عكاشة مباشرة دون مقدمات؟",
+      "options": [
+        "قلة أدبه",
+        "حرصه على الخير وسرعته إليه",
+        "جهله بالحديث",
+        "ضعف توكله"
+      ],
+      "correctAnswer": 1,
+      "explanation": "سارع لطلب الدعاء، وهي علامة فقه.",
+      "textReference": "مسارعة الصحابة لاغتنام الخير",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "لماذا لم يقل النبي للرجل الثاني: أنت لست منهم؟",
+      "options": [
+        "لأنه لا يعلم الغيب",
+        "لأنه يجامله فقط",
+        "لأدب النبوة في عدم كسر الخاطر",
+        "لأن كل الناس يدخلون الجنة بلا حساب"
+      ],
+      "correctAnswer": 2,
+      "explanation": "قال: سبقك بها عكاشة مراعاةً لشعوره.",
+      "textReference": "سبقك بها عكاشة من الأدب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "كيف يوازن المؤمن بين الأخذ بالأسباب وعدم الاعتماد عليها؟",
+      "options": [
+        "يترك الأسباب تمامًا",
+        "يعتمد على الأسباب وحدها",
+        "يأخذ بالأسباب ويعلق قلبه بالله فقط",
+        "لا يعمل ولا يتوكل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هذا هو التوكل الصحيح الذي يجمع الشرع بينه وبين العمل.",
+      "textReference": "الأخذ بالأسباب طاعة والاعتماد عليها شرك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الحكمة من ذكر نماذج يقين الصحابة في القرآن؟",
+      "options": [
+        "مجرد سرد تاريخي",
+        "تعظيمهم فقط",
+        "للاقتداء بهم في اليقين عند الشدائد",
+        "للتفريق بينهم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "العبرة أن يواجه المؤمن مصائبه بيقين كما فعل الصحابة.",
+      "textReference": "ليست قصصًا فقط بل للعبرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec8hadiths1.html#sent30"
+    }
+  ]
+}

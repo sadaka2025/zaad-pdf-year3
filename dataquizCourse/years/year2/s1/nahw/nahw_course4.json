@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "nahw_lesson3",
+    "title": {
+      "ar": "📗 النحو – الدرس الرابع",
+      "fr": "Grammaire – Leçon 4 : Les signes du nom",
+      "en": "Nahw – Lesson 4: Signs of the Noun"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما هو المقصود بالخفض في اللغة والنحو؟",
+      "options": [
+        "هو ضد الارتفاع، ويسمى بالجر في الاصطلاح",
+        "هو رفع الكلمة",
+        "هو تثنية الكلمة",
+        "هو جمع الكلمة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الخفض في اللغة ضد الارتفاع، وفي الاصطلاح هو ما نسميه بالجر.",
+      "textReference": "الدرس الرابع – تعريف الخفض",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#defLowering"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما العامل الجديد الذي يتسبب في الخفض في هذا الدرس؟",
+      "options": [
+        "حروف الجر",
+        "المضاف",
+        "الصفة",
+        "النون الساكنة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "في هذا الدرس نتعرف على الخفض بعامل حروف الجر.",
+      "textReference": "الدرس الرابع – عامل الخفض",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#prepositions"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ماذا يفعل حرف الجر بالكلمة التي تليه؟",
+      "options": [
+        "يجعل الاسم مجرورًا",
+        "يجعل الاسم مرفوعًا",
+        "يجعل الفعل منصوبًا",
+        "لا يؤثر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حروف الجر تجر الاسم الذي يليها بعلامة جره المناسبة.",
+      "textReference": "الدرس الرابع – تأثير حروف الجر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#effectPrepositions"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "معنى حرف الجر 'من' في المثال 'سافرت من القاهرة' هو:",
+      "options": [
+        "ابتداء السفر",
+        "الانتهاء",
+        "التشبيه",
+        "المجاوزة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'من' يفيد ابتداء السفر عند استعماله مع الأسماء.",
+      "textReference": "الدرس الرابع – من وابتداء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#from"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "معنى حرف الجر 'إلى' في المثال 'سافرت إلى تونس' هو:",
+      "options": [
+        "الانتهاء",
+        "الابتداء",
+        "التشبيه",
+        "المجاوزة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'إلى' يفيد انتهاء الحركة أو الوصول إلى المكان المقصود.",
+      "textReference": "الدرس الرابع – إلى والانتهاء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#to"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'عن' في المثال 'رميت السهم عن القوس'؟",
+      "options": [
+        "المجاوزة",
+        "الابتداء",
+        "الانتهاء",
+        "التشبيه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'عن' يفيد المجاوزة أي تجاوز الشيء إلى غيره.",
+      "textReference": "الدرس الرابع – عن والمجاوزة",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#about"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "معنى حرف الجر 'في' في المثال 'وضعت الرسالة في الظرف' هو:",
+      "options": [
+        "الظرفية",
+        "المجاوزة",
+        "الانتهاء",
+        "الابتداء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'في' يفيد الظرفية أي احتواء الاسم للشيء أو وقوعه داخله.",
+      "textReference": "الدرس الرابع – في والظرفية",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#in"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "علامة الجر للأسماء المجرورة بحروف الجر عادة هي:",
+      "options": [
+        "الكسرة الظاهرة",
+        "الضمة",
+        "الفتحة",
+        "السكون"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الكسرة هي العلامة الأصلية للجر، وتظهر في معظم الأسماء.",
+      "textReference": "الدرس الرابع – علامة الجر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#caseMarker"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما نوع حرف الجر 'رب' في المثال 'رب رجل كريم'؟",
+      "options": [
+        "حرف جر شبيه بالزائد",
+        "حرف جر أصلي",
+        "حرف جر زائد",
+        "لا يعتبر حرف جر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف 'رب' يجر الاسم لفظيًا ويستعمل للدلالة على القلة، ويعرف بشبيه الزائد.",
+      "textReference": "الدرس الرابع – رب شبيه بالزائد",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#rab"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'في' عند المثال 'الماء في الكوز'؟",
+      "options": [
+        "ظرفية",
+        "المجاورة",
+        "الابتداء",
+        "الانتهاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'في' يفيد الظرفية أي احتواء الاسم للشيء داخله.",
+      "textReference": "الدرس الرابع – في والظرفية",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#in"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "معنى حرف الجر 'على' في المثال 'صعدت على الجبل' هو:",
+      "options": [
+        "الاستعلاء",
+        "المجاورة",
+        "الابتداء",
+        "الانتهاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'على' يفيد الاستعلاء أي الصعود على الشيء.",
+      "textReference": "الدرس الرابع – على والاستعلاء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#ala"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما وظيفة حرف الجر 'الباء' في المثال 'بالوادي'؟",
+      "options": [
+        "يفيد القسم والجر",
+        "يفيد الابتداء",
+        "يفيد الانتهاء",
+        "يفيد التشبيه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'الباء' يفيد القسم ويجري الاسم الذي بعده.",
+      "textReference": "الدرس الرابع – الباء والقسم",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#ba"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'الكاف' في المثال 'ليلة كالقمر'؟",
+      "options": [
+        "التشبيه",
+        "الاستعلاء",
+        "الابتداء",
+        "الانتهاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'الكاف' يفيد التشبيه، ويجري الاسم الذي بعده.",
+      "textReference": "الدرس الرابع – الكاف والتشبيه",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#kaaf"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'لام' في المثال 'المال لمحمد'؟",
+      "options": [
+        "الملكية",
+        "التشبيه",
+        "الابتداء",
+        "الانتهاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'لام' يفيد الملكية أي أن الاسم المجرور ملك للآخر.",
+      "textReference": "الدرس الرابع – اللام والملكية",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#lam"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'تاء' في المثال 'وتالله لأكيدن أصنامكم'؟",
+      "options": [
+        "القسم",
+        "الابتداء",
+        "الانتهاء",
+        "التشبيه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'تاء' يفيد القسم ويستعمل فقط مع لفظ الجلالة.",
+      "textReference": "الدرس الرابع – التاء والقسم",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#ta"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما نوع الاسم بعد حرف الجر في المثال 'بالوادي'؟",
+      "options": [
+        "اسم مقصور",
+        "اسم منقوص",
+        "مبتدأ مرفوع",
+        "اسم منصوب"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الوادي اسم منقوص، وعلامة جره الكسرة المقدرة منعاً من الظهور.",
+      "textReference": "الدرس الرابع – الاسم المنقوص بعد الجر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#deficiency"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "لماذا تظهر الضمة المقدرة على آخر الاسم بعد حرف الجر 'رب'؟",
+      "options": [
+        "لمنع ظهور الحركة بسبب اشتغال المحل",
+        "للفت الانتباه",
+        "للدلالة على الابتداء",
+        "للدلالة على الانتهاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الضمة المقدرة على آخر الاسم منع من ظهورها اشتغال المحل بحركة حرف الجر الشبيه بالزائد.",
+      "textReference": "الدرس الرابع – الضمة المقدرة",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#damma"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "أي الحروف التالية تعتبر من حروف الجر الأكثر استعمالا في الدرس؟",
+      "options": [
+        "من، إلى، عن، على، في، الباء، الكاف، التاء",
+        "واو، فاء، ثم، حتى",
+        "لم، لا، ما، أي",
+        "ألف، لام، نون، ياء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "هذه الحروف هي الأكثر استعمالاً في الإعراب كما ذكر في الدرس.",
+      "textReference": "الدرس الرابع – حروف الجر الأكثر استعمالا",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#mainPrepositions"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "حروف الجر تؤثر في أي نوع من الكلمات؟",
+      "options": [
+        "الأسماء فقط",
+        "الأفعال فقط",
+        "الحروف فقط",
+        "كل أنواع الكلمات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حروف الجر لا تدخل إلا على الأسماء وتجعلها مجرورة.",
+      "textReference": "الدرس الرابع – تأثير حروف الجر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#effectOnNouns"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "علامة الجر الظاهرة للأسماء الممنوعة من الصرف تكون عادة:",
+      "options": [
+        "الفتحة",
+        "الكسرة",
+        "الضمة",
+        "السكون"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الأسماء الممنوعة من الصرف تنوب عنها الفتحة بدلاً من الكسرة.",
+      "textReference": "الدرس الرابع – الأسماء الممنوعة من الصرف",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#diptote"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'عن' عند استخدامه مع مثال 'رميت السهم عن القوس'؟",
+      "options": [
+        "المجاورة",
+        "الابتداء",
+        "الانتهاء",
+        "التشبيه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'عن' يفيد المجاوزة أي تجاوز الشيء إلى غيره.",
+      "textReference": "الدرس الرابع – عن والمجاوزة",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#about"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'في' عند المثال 'الماء في الكوز'؟",
+      "options": [
+        "ظرفية",
+        "المجاورة",
+        "الابتداء",
+        "الانتهاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'في' يفيد الظرفية أي احتواء الاسم للشيء داخله.",
+      "textReference": "الدرس الرابع – في والظرفية",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#in"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما نوع حرف الجر 'رب' من حيث تأثيره على الاسم بعده؟",
+      "options": [
+        "يجري الاسم لفظًا ويمنع ظهور الحركة",
+        "لا يؤثر على الاسم",
+        "يجعل الاسم مرفوعًا",
+        "يجعل الاسم منصوبًا"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف 'رب' شبيه بالزائد، يجر الاسم لفظيًا، والضمة المقدرة تمنع ظهور الحركة.",
+      "textReference": "الدرس الرابع – رب شبيه بالزائد",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#rab"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "حروف الجر تؤثر في الوظيفة النحوية للكلمة بعده؟",
+      "options": [
+        "لا، فقط تؤثر على اللفظ",
+        "نعم، تجعلها مجرورة",
+        "نعم، تجعلها مرفوعة",
+        "نعم، تجعلها منصوبة"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "حروف الجر تجعل الاسم بعده مجرورًا بالكسرة أو بالفتحة إذا كان ممنوع الصرف.",
+      "textReference": "الدرس الرابع – تأثير الحروف",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#effect"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما الفرق بين حروف الجر الأصلية والشبيه بالزائد؟",
+      "options": [
+        "الأصلية تؤثر بالجر دائمًا، والشبيه بالزائد يجر لفظيًا فقط",
+        "الأصلية لا تؤثر على الاسم، والشبيه بالزائد يجر الاسم",
+        "الأصلية للرفع فقط، والشبيه للنصب فقط",
+        "لا يوجد فرق"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حروف الجر الأصلية تجري الاسم دائمًا، بينما الشبيه بالزائد قد يجر الاسم لفظًا دون التأثير على المعنى.",
+      "textReference": "الدرس الرابع – الفرق بين الحروف",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#difference"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما معنى حرف الجر 'واو' عند القسم؟",
+      "options": [
+        "يدل على القسم ويجري الاسم بعده",
+        "يدل على الابتداء",
+        "يدل على الانتهاء",
+        "يدل على التشبيه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الواو يفيد القسم ويجري الاسم بعده بعلامة الجر المناسبة.",
+      "textReference": "الدرس الرابع – واو القسم",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#waw"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما وظيفة حروف الجر بشكل عام؟",
+      "options": [
+        "تجعل الاسم الذي يليها مجرورًا",
+        "تجعل الفعل منصوبًا",
+        "تجعل الاسم مرفوعًا",
+        "لا تؤثر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "وظيفة حروف الجر هي جَر الاسم الذي يليها بعلامة مناسبة.",
+      "textReference": "الدرس الرابع – وظيفة حروف الجر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#function"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما علامة الجر في الاسم الممنوع من الصرف بعد حرف الجر؟",
+      "options": [
+        "الفتحة",
+        "الكسرة",
+        "الضمة",
+        "السكون"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الأسماء الممنوعة من الصرف تنوب عنها الفتحة بدلاً من الكسرة.",
+      "textReference": "الدرس الرابع – علامة الجر في الممنوع من الصرف",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#diptote"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "حروف الجر لا تدخل على أي نوع من الكلمات؟",
+      "options": [
+        "الأفعال والحروف",
+        "الأسماء فقط",
+        "الأفعال فقط",
+        "الحروف فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حروف الجر مخصصة للأسماء فقط ولا تدخل على الأفعال أو الحروف.",
+      "textReference": "الدرس الرابع – حروف الجر مختصة بالأسماء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#nounsOnly"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما نوع الاسم بعد حرف الجر 'كاف' في المثال 'ليلة كالقمر'؟",
+      "options": [
+        "اسم مجرور بعلامة الكسرة",
+        "اسم مرفوع بعلامة الضمة",
+        "اسم منصوب بعلامة الفتحة",
+        "اسم منصوب بعلامة السكون"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حرف الجر 'الكاف' يجر الاسم الذي بعده، وعلامة جره الكسرة الظاهرة.",
+      "textReference": "الدرس الرابع – الكاف والتشبيه",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#kaaf"
+    }
+  ]
+}

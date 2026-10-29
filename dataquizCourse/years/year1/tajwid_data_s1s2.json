@@ -1,0 +1,390 @@
+{
+  "meta": {
+    "year": 1,
+    "slug": "tajwid",
+    "code": "TAJWID101",
+    "title": {
+      "ar": "التجويد",
+      "fr": "Tajwid",
+      "en": "Tajwid"
+    },
+    "instructors": [
+      {
+        "name": "Dr. E"
+      }
+    ],
+    "tabs": ["video", "summaryPDF", "textExtraction", "qna"],
+    "tabLabels": {
+      "video": "🎥 فيديو الدرس",
+      "summaryPDF": "📝 مراجعة ملخص الدرس",
+      "textExtraction": "📄 استخراج النص من الفيديو"
+    }
+  },
+  "semesters": {
+    "1": {
+      "lessons": [
+        {
+          "id": "1",
+          "title": "المبادئء العشرة في علم التحويد الدرس 1"
+        },
+        {
+          "id": "2",
+          "title": "تتمة لمبادئ التحويد الدرس 2"
+        },
+        {
+          "id": "3",
+          "title": "مقدمة تحفة الأطفال و الدرس 3"
+        },
+        {
+          "id": "4",
+          "title": "الإظهار في النون الساكنة والتنوين الدرس 4"
+        },
+        {
+          "id": "5",
+          "title": "الدرس 5 الإدغام في النون الساكنة والتنوين"
+        },
+        {
+          "id": "6",
+          "title": "الاقلاب و الاخفاء في النون الساكنة والتنوين الدرس 6"
+        },
+        {
+          "id": "7",
+          "title": "الدرس 7 نون والميم المشدّدتين، وحكم الإخفاء في الميم الساكنة"
+        },
+        {
+          "id": "8",
+          "title": "الدرس 8 حكم الادغام و الاظهار في الميم الساكنة"
+        },
+        {
+          "id": "9",
+          "title": "الدرس 9 حكم الإظهار في لام أل"
+        },
+        {
+          "id": "10",
+          "title": "الدرس 10 حكم الإدغام في لام أل"
+        },
+        {
+          "id": "11",
+          "title": "الدرس 11 حكم اللام الفعل و الادغام المتماثل"
+        },
+        {
+          "id": "12",
+          "title": "الدرس 12 المتقاربين والمتحانسين"
+        }
+      ],
+      "contentLinks": {
+        "1": {
+          "video": "https://drive.google.com/file/d/1S6DadkGrKJkx5pKuGvo9Orgsj27tPa_n/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1S6DadkGrKJkx5pKuGvo9Orgsj27tPa_n",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr1tajwids1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr1tajwids1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec1tajwids1.pdf"
+        },
+        "2": {
+          "video": "https://drive.google.com/file/d/12HzkDcre4syQxPfXGp17S7I0UKTvhyN1/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=12HzkDcre4syQxPfXGp17S7I0UKTvhyN1",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr2tajwids1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr2tajwids1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec2tajwids1.pdf"
+        },
+        "3": {
+          "video": "https://drive.google.com/file/d/1M6_M_2ZWXlRU6U8BL2zwUwW32qoeyrFA/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1M6_M_2ZWXlRU6U8BL2zwUwW32qoeyrFA",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr3tajwids1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr3tajwids1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec3tajwids1.pdf"
+        },
+        "4": {
+          "video": "https://drive.google.com/file/d/1telkVU0XtOirNioTWsOXR0S2B1Cqm3bz/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1telkVU0XtOirNioTWsOXR0S2B1Cqm3bz",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr4tajwids1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr4tajwids1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec4tajwids1.pdf"
+        },
+        "5": {
+          "video": "https://drive.google.com/file/d/1yHqdb_DcEFqlkxq6P-Kvl_iLDJpTU_oQ/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1yHqdb_DcEFqlkxq6P-Kvl_iLDJpTU_oQ",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr5tajwids1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/tajwid/pcr/pcr5tajwids1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec5tajwids1.pdf"
+        },
+        "6": {
+          "video": "https://drive.google.com/file/d/1gPuAzpAmG8ZHBFQ9l2lvBSFwLQTKOBh6/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1gPuAzpAmG8ZHBFQ9l2lvBSFwLQTKOBh6",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid6s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid6s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec6tajwids1.pdf"
+        },
+        "7": {
+          "video": "https://drive.google.com/file/d/1H-IjdsuzWozBse0e8H-sPiEm8wnDwCQp/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1H-IjdsuzWozBse0e8H-sPiEm8wnDwCQp",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid7s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid7s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec7tajwids1.pdf"
+        },
+        "8": {
+          "video": "https://drive.google.com/file/d/11safcyn-rDRgmgMugym4mZWQxqBFjJYs/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=11safcyn-rDRgmgMugym4mZWQxqBFjJYs",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid8s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid8s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec8tajwids1.pdf"
+        },
+        "9": {
+          "video": "https://drive.google.com/file/d/17iz3mbmiMcgbgdPF80tWebxZsRhAQnql/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=17iz3mbmiMcgbgdPF80tWebxZsRhAQnql",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid9s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid9s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec9tajwids1.pdf"
+        },
+        "10": {
+          "video": "https://drive.google.com/file/d/1B6W4RyUSNpRA52pDG-gelbMlZk-u6U7v/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1B6W4RyUSNpRA52pDG-gelbMlZk-u6U7v",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid10s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid10s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec10tajwids1.pdf"
+        },
+        "11": {
+          "video": "https://drive.google.com/file/d/1oNPFAfa655d0mzovfmWuf1U6fLYUedyT/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1oNPFAfa655d0mzovfmWuf1U6fLYUedyT",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid11s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid11s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec11tajwids1.pdf"
+        },
+        "12": {
+          "video": "https://drive.google.com/file/d/1TiedJ3FpGw6dk-ImMdvxa0pHZGEDGGGk/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1TiedJ3FpGw6dk-ImMdvxa0pHZGEDGGGk",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid12s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/tajwid/pcrtajwid12s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/tajwid/ec12tajwids1.pdf"
+        }
+      },
+      "conclusion": {
+        "title": "📚 الخاتمة",
+        "sections": [
+          {
+            "title": "اللقاءات المباشرة",
+            "items": [
+              {
+                "id": "الملتقى الاول",
+                "label": "الملتقى الأول",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1UkFhdwNbTtYWdlVYJQ7m6GhfBevsL7ZV/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1UkFhdwNbTtYWdlVYJQ7m6GhfBevsL7ZV",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf"
+                }
+              },
+              {
+                "id": "الملتقى الثاني",
+                "label": "الملتقى الثاني",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1bfATWH5Wq9Wvln8Vi8cyJOhsXzyrrizi/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1bfATWH5Wq9Wvln8Vi8cyJOhsXzyrrizi",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf"
+                }
+              },
+              {
+                "id": "الملتقى الثالث",
+                "label": "الملتقى الثالث",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1KCYpgBNMAnV7XcqkDeIhYRUJTEPfke39/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1KCYpgBNMAnV7XcqkDeIhYRUJTEPfke39",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/tajwid/meeting3tajwids1.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Quiz Fin Semestre",
+            "items": [
+              {
+                "id": "quiz-general",
+                "label": "Quiz général sur les cours",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizSemester": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/tajwid/quizsemtajwids1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/tajwid/quizsemtajwids1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/tajwid/quizsemtajwids1.pdf"
+                }
+              },
+              {
+                "id": "final-exam",
+                "label": "Examen final",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizExam": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/tajwid/quizexamtajwids1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/tajwid/quizexamtajwids1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/tajwid/quizexamtajwids1.pdf"
+                }
+              },
+              {
+                "id": "CombinedCourse",
+                "label": "CombinedCourse",
+                "tabs": ["fusion"],
+                "tabLabels": {
+                  "fusion": "📝CombinedCourse"
+                },
+                "links": {
+                  "fusion": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/tajwid/pcctajwids1.pdf",
+                  "combinedCourse": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/tajwid/pcctajwids1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/tajwid/pcctajwids1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/tajwid/pcctajwids1.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "2": {
+      "lessons": [
+        {
+          "id": "1",
+          "title": "الدرس 1 باب المد"
+        },
+        {
+          "id": "2",
+          "title": "الدرس 2 المدّ الفرعي ما اللين"
+        },
+        {
+          "id": "3",
+          "title": "الدرس 3 أحكام المد"
+        },
+        {
+          "id": "4",
+          "title": "المد العارض - مد البدل - المد اللازم الدرس 4"
+        },
+        {
+          "id": "5",
+          "title": "اللازم الحرفي - الخاتمة الدرس 5"
+        }
+      ],
+      "contentLinks": {
+        "1": {
+          "video": "https://drive.google.com/file/d/1-2SPaYs5-HR6W9Td1m1SvMk1PspsoHOs/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1-2SPaYs5-HR6W9Td1m1SvMk1PspsoHOs",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr1tajwids2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr1tajwids2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/tajwid/ec1tajwids2.pdf"
+        },
+        "2": {
+          "video": "https://drive.google.com/file/d/1oTtOw8v8WVRTg7nA3YLf_INNxgqS_S5M/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1oTtOw8v8WVRTg7nA3YLf_INNxgqS_S5M",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr2tajwids2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr2tajwids2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/tajwid/ec2tajwids2.pdf"
+        },
+        "3": {
+          "video": "https://drive.google.com/file/d/1tjpa_oKcSHWlajueURPwXwu2Ur6V4gJ8/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1tjpa_oKcSHWlajueURPwXwu2Ur6V4gJ8",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr3tajwids2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr3tajwids2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/tajwid/ec3tajwids2.pdf"
+        },
+        "4": {
+          "video": "https://drive.google.com/file/d/1mYEY2kfXgpb8_H_YvzpufDS8woVus--M/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1mYEY2kfXgpb8_H_YvzpufDS8woVus--M",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr4tajwids2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr4tajwids2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/tajwid/ec4tajwids2.pdf"
+        },
+        "5": {
+          "video": "https://drive.google.com/file/d/1awVDDjGwNwdjNkV8pptELWttr3KYiGc7/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1awVDDjGwNwdjNkV8pptELWttr3KYiGc7",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr5tajwids2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/tajwid/pcr/pcr5tajwids2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/tajwid/ec5tajwids2.pdf"
+        }
+      },
+      "conclusion": {
+        "title": "📚 الخاتمة",
+        "sections": [
+          {
+            "title": "اللقاءات المباشرة",
+            "items": [
+              {
+                "id": "الملتقى الاول",
+                "label": "الملتقى الأول",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1D_ejkmAbRwUiki-aVF-3bPX9AXQWHK2O/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1D_ejkmAbRwUiki-aVF-3bPX9AXQWHK2O",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/tajwid/meeting1tajwids2.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/tajwid/meeting1tajwids2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/tajwid/meeting1tajwids2.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Quiz Fin Semestre",
+            "items": [
+              {
+                "id": "quiz-general",
+                "label": "Quiz général sur les cours",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizSemester": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/tajwid/quizsemtajwids2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/tajwid/quizsemtajwids2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/tajwid/quizsemtajwids2.pdf"
+                }
+              },
+              {
+                "id": "final-exam",
+                "label": "Examen final",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizExam": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/tajwid/quizexamtajwids2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/tajwid/quizexamtajwids2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/tajwid/quizexamtajwids2.pdf"
+                }
+              },
+              {
+                "id": "CombinedCourse",
+                "label": "CombinedCourse",
+                "tabs": ["fusion"],
+                "tabLabels": {
+                  "fusion": "📝CombinedCourse"
+                },
+                "links": {
+                  "fusion": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/tajwid/pcctajwids2.pdf",
+                  "combinedCourse": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/tajwid/pcctajwids2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/tajwid/pcctajwids2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/tajwid/pcctajwids2.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

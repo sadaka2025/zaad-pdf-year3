@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "hadith_lesson3",
+    "title": {
+      "ar": "📘 امتحان الحديث – الدرس الثالث",
+      "fr": "Examen de Hadith – Leçon 3",
+      "en": "Hadith Exam – Lesson 3"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما معنى 'الصبر على الطاعات' كما ورد في الدرس؟",
+      "options": [
+        "الاستمرار في الأعمال الصالحة وتحمل المشاق",
+        "الابتعاد عن الطاعات",
+        "الامتناع عن العمل الصالح",
+        "التحمل بدون فعل الطاعات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر على الطاعات يعني الاستمرار على الطاعة وتحمل المشقة فيها كما ذكر الدرس.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#patience"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما المقصود ب'الصبر عن المعصية'؟",
+      "options": [
+        "ترك المعاصي والابتعاد عنها",
+        "الإكثار من المعاصي",
+        "التحمل على الطاعة",
+        "عدم فعل أي عمل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر عن المعصية هو حبس النفس عن الجزع وترك المعاصي.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#patience"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما معنى 'المرابطة' كما ورد في الدرس؟",
+      "options": [
+        "المداومة على الطاعات وحماية الثغور",
+        "الاستراحة وعدم العمل",
+        "التهاون في الطاعات",
+        "الابتعاد عن الصلاة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المرابطة تعني الاستمرار على الطاعات أو الوقوف في سبيل الله لحماية المسلمين.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#patience"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "لماذا قال الله تعالى 'وبشر الصابرين'؟",
+      "options": [
+        "لأن الصبر له أجر عظيم غير محدود",
+        "لأن الصبر ليس مهمًا",
+        "لأن الصبر على المعاصي يضاعف الذنوب",
+        "لأن الصبر يخفف الذنوب تلقائيًا"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الآية تبرز فضل الصابرين بأن أجرهم غير محدود كما ذكر الدرس.",
+      "textReference": "الدرس الرابع – الآيات المتعلقة بالصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#reward"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما هو 'الطهور' في الحديث 'الطهور شطر الإيمان'؟",
+      "options": [
+        "الوضوء والأعمال التطهيرية",
+        "الصلاة فقط",
+        "الصوم فقط",
+        "الزكاة فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الطهور هنا يشمل الوضوء وأعمال الطهارة الخارجية والباطنية.",
+      "textReference": "الدرس الرابع – حديث الطهور",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#purity"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما المقصود بـ 'الصلاة نور'؟",
+      "options": [
+        "الصلاة تميز بين الحق والباطل وتضيء القلب",
+        "الصلاة عبء فقط",
+        "الصلاة واجب دون تأثير",
+        "الصلاة لا علاقة لها بالإيمان"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصلاة نور للقلب والروح، وتفيد في التفريق بين الحق والباطل كما ورد في الدرس.",
+      "textReference": "الدرس الرابع – حديث الصلاة",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#prayer"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما معنى 'الصدقة برهان'؟",
+      "options": [
+        "الصدقة دليل على إيمان المؤمن وكماله",
+        "الصدقة مجرد واجب اجتماعي",
+        "الصدقة لا علاقة لها بالإيمان",
+        "الصدقة مكروهة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصدقة تثبت إيمان المؤمن وتبين كماله كما جاء في الحديث.",
+      "textReference": "الدرس الرابع – حديث الصدقة",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#charity"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "لماذا يُقال أن 'الصبر ضياء'؟",
+      "options": [
+        "لأن الصبر فيه مشقة تزيد من فضله وضيائه",
+        "لأن الصبر سهل وممتع",
+        "لأن الصبر لا يؤثر على الإيمان",
+        "لأن الصبر يخفف العمل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر يتطلب مشقة وتحملاً، ومن هنا استُعمل وصف الضياء لتوضيح أثره.",
+      "textReference": "الدرس الرابع – الصبر ضياء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#light"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما المقصود ب'وبشر الصابرين' في سياق الابتلاءات؟",
+      "options": [
+        "مكافأة الصابرين على تحمل الابتلاءات",
+        "تحذير من الصبر",
+        "لا علاقة للصبر بالأجر",
+        "التقليل من أهمية الصبر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الآية تبشر الصابرين بأجر عظيم على تحمل الابتلاءات كما شرح الدرس.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#patience"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما معنى 'بائع نفسه' في الحديث؟",
+      "options": [
+        "من باع نفسه لله بالطاعات يعتقها يوم القيامة",
+        "من يبيع ماله للآخرين",
+        "من يتخلى عن عمله",
+        "لا معنى له"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "بيع النفس لله يعني الالتزام بالطاعات لينال النجاة من النار يوم القيامة.",
+      "textReference": "الدرس الرابع – حديث الصبر والطاعات",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#selling-self"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما معنى 'المصابرة' كما ورد في الدرس؟",
+      "options": [
+        "مجاهدة النفس وتحمل الصعاب في الطاعات",
+        "ترك الطاعات",
+        "التحمل بدون عمل أي طاعات",
+        "التركيز على المعاصي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المصابرة تعني جهاد النفس في الطاعات وتحمل المشاق كما شرح الدرس.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#musabara"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الفرق بين الصبر عن المعصية والصبر على الطاعة؟",
+      "options": [
+        "الصبر عن المعصية: ترك المعصية، الصبر على الطاعة: الاستمرار على الطاعات",
+        "لا فرق بينهما",
+        "الصبر عن المعصية: الطاعات، الصبر على الطاعة: المعاصي",
+        "الصبر عن المعصية: مجازي، الصبر على الطاعة: فعلي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "كما أوضح الدرس، الصبر عن المعصية يعني الامتناع عن فعل المحرم، والصبر على الطاعة يعني المثابرة على الطاعات.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#types-of-patience"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "لماذا قال الله 'لنبلونكم بشيء من الخوف والجوع'؟",
+      "options": [
+        "للاختبار وتمييز المجاهدين والصابرين",
+        "للتعذيب فقط",
+        "لتقليل الحسنات",
+        "لتشجيع الكسل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الابتلاءات تأتي لتمحيص المؤمن وتمييز الصابرين والمجاهدين كما شرح الدرس.",
+      "textReference": "الدرس الرابع – الآيات المتعلقة بالابتلاء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#trials"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما نوع الصبر الذي يكون على الأقدار المؤلمة؟",
+      "options": [
+        "الصبر على الابتلاءات",
+        "الصبر عن المعاصي فقط",
+        "الصبر على الطاعات فقط",
+        "الصبر على النجاح فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر على الابتلاءات يشمل تحمل الأقدار المؤلمة التي قد تقع على المؤمن.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#trials"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما معنى 'حبس النفس عن الجزع'؟",
+      "options": [
+        "عدم الانزعاج أو الشكوى عند الابتلاء",
+        "عدم الصلاة",
+        "ترك الطاعات",
+        "الإعراض عن الناس"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حبس النفس عن الجزع يعني الصبر على المصائب والابتلاءات دون جزع أو شكوى.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#control"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "لماذا ذكر الدرس 'الحمد لله تملأ الميزان'؟",
+      "options": [
+        "لأن الحمد يثقل الميزان ويزيد حسنات العبد",
+        "لأن الحمد لا قيمة له",
+        "للتأكيد على المال فقط",
+        "للتقليل من الطاعات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحمد يملأ الميزان لأنه عمل صالح عظيم يضاعف الحسنات.",
+      "textReference": "الدرس الرابع – حديث الحمد",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#praise"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما الحكمة من جعل الصلاة سببًا لتخفيف الآلام؟",
+      "options": [
+        "لأنها وسيلة للتقرب إلى الله وتفريج الكروب",
+        "لأنها عبء ثقيل",
+        "لأنها شكليّة فقط",
+        "لأنها غير مهمة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يوضح أن الصلاة تجعل القلب مستريحًا وتخفف المشقة والآلام.",
+      "textReference": "الدرس الرابع – باب الصلاة",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#prayer-pain"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما المقصود بـ 'كل الناس يغدو فبائع نفسه'؟",
+      "options": [
+        "الالتزام بالطاعات والنجاة من النار",
+        "بيع المال فقط",
+        "ترك العمل الصالح",
+        "الإعراض عن العبادة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "بيع النفس لله يعني أن الإنسان يلتزم بالطاعات ليعتقها الله من النار يوم القيامة.",
+      "textReference": "الدرس الرابع – حديث البيع",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#selling-self"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما العلاقة بين الصبر والابتلاءات؟",
+      "options": [
+        "الصبر وسيلة للثواب والنجاة عند الابتلاء",
+        "الابتلاء يقلل من الإيمان",
+        "الصبر غير مرتبط بالابتلاء",
+        "الابتلاء يوقف الطاعات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر على الابتلاء يزيد الأجر ويحقق النجاة كما جاء في الدرس.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#patience-trials"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما معنى 'الوضوء شطر الصلاة'؟",
+      "options": [
+        "أن الطهارة جزء أساسي من الصلاة",
+        "أن الصلاة لا تحتاج طهارة",
+        "أن الوضوء مجرد عادة",
+        "أن الطهارة ليست مهمة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يوضح أن الطهارة شرط أساسي لصحة الصلاة.",
+      "textReference": "الدرس الرابع – حديث الطهور",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#purity-prayer"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما المراد بـ 'جوامع الكلم' كما ورد في الدرس؟",
+      "options": [
+        "الألفاظ القليلة كثيرة المعنى",
+        "الكلمات الطويلة فقط",
+        "الكلمات غير ذات معنى",
+        "الكلمات المكررة فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "جوامع الكلم هي الألفاظ القليلة التي تحمل معانٍ كثيرة وعميقة كما شرح الدرس.",
+      "textReference": "الدرس الرابع – حديث الطهور",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#concise-words"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما المقصود بـ 'الحمد لله' في الدرس؟",
+      "options": [
+        "الثناء على الله بكل الأشكال والأفعال",
+        "الشكر باللسان فقط",
+        "التجاهل لله",
+        "ذكر الناس فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحمد يشمل الشكر والثناء بكل أركانه: قول، فعل، وقلب.",
+      "textReference": "الدرس الرابع – حديث الحمد",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#praise"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما الفرق بين النور والضياء كما ورد في الدرس؟",
+      "options": [
+        "النور ظاهر، الضياء زيادة ووضوح في المشقة",
+        "النور والضياء نفس الشيء",
+        "النور للمعاصي، الضياء للطاعات",
+        "النور للآخرة، الضياء للدنيا فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يفرق بين النور الذي يهدي وبين الضياء الذي يظهر في تحمل المشقة.",
+      "textReference": "الدرس الرابع – الصبر ضياء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#light"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما هدف الابتلاءات بحسب الدرس؟",
+      "options": [
+        "تمييز الصابرين والمجاهدين ورفع درجاتهم",
+        "إيذاء الناس فقط",
+        "إلغاء الأعمال الصالحة",
+        "التقليل من الإيمان"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الابتلاءات تختبر المؤمنين وتميز الصابرين كما شرح الدرس.",
+      "textReference": "الدرس الرابع – الآيات المتعلقة بالابتلاء",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#trials"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما معنى 'الرباط في سبيل الله'؟",
+      "options": [
+        "الملازمة على الطاعات أو الوقوف للدفاع عن المسلمين",
+        "الراحة والاسترخاء",
+        "التهاون في الدين",
+        "العمل الفردي فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يوضح أن الرباط يشمل الطاعات والمرابطة في سبيل الله.",
+      "textReference": "الدرس الرابع – باب الصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#ribat"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما المقصود بـ 'انتظار صلاة بعد الصلاة'؟",
+      "options": [
+        "عمل يرفع السيئات ويكفر الخطايا",
+        "مهارة في الرياضة فقط",
+        "لا فائدة له",
+        "بدعة غير مأمورة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يوضح أن هذا انتظار يكفر الخطايا ويزيد الثواب.",
+      "textReference": "الدرس الرابع – حديث الانتظار",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#post-prayer"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "لماذا ورد في الدرس أن 'الابتلاءات أحيانًا تسعد الإنسان'؟",
+      "options": [
+        "لأن بعضها ملائم للإنسان ويزيد شكره",
+        "لأنها كلها مؤلمة فقط",
+        "لأنها لا تأثير لها",
+        "للتقليل من الطاعات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يوضح أن بعض الأقدار تكون ملائمة وتفرح المؤمن إذا شكر الله عليها.",
+      "textReference": "الدرس الرابع – الابتلاءات",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#trials"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما المقصود بـ 'العزم في الأمور' كما ورد في الدرس؟",
+      "options": [
+        "اتخاذ قرار ثابت وتحمل المصاعب",
+        "التردد في الطاعات",
+        "ترك العمل الصالح",
+        "الاستسلام للمعاصي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "العزم يعني الثبات على الطاعات وتحمل المصاعب كما شرح الدرس.",
+      "textReference": "الدرس الرابع – الاستعانة بالصبر",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#determination"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما هي أهمية ذكر 'سبحان الله والحمد لله ولا إله إلا الله والله أكبر'؟",
+      "options": [
+        "أذكار خفيفة على اللسان، محببة عند الله، ترفع درجات المؤمن",
+        "لا قيمة لها",
+        "منافسة بين الناس فقط",
+        "عمل واجب فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس يوضح أن هذه الأذكار خفيفة ومحبوبة وتزيد من حسنات المؤمن.",
+      "textReference": "الدرس الرابع – جوامع الكلم",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#remembrance"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "لماذا جاء في الدرس أن 'الله اصطفى من الكلمات أربعًا'؟",
+      "options": [
+        "لأنها كلمات مختصرة وذات أثر كبير",
+        "لأنها طويلة ومعقدة",
+        "لتشجيع الناس على الكتابة فقط",
+        "لتجاهل باقي الأذكار"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الله اصطفى كلمات مختصرة ذات معاني كبيرة لتكون سهلة على اللسان ونافعة للأعمال.",
+      "textReference": "الدرس الرابع – جوامع الكلم",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/lesson4.html#selected-words"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "slug": "aqida",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة العقيدة السنة الثالثة (الدرس الأول)",
+      "fr": "Examen de Aqida - Année 3 (Cours 1)",
+      "en": "Aqida Exam - Year 3 (Lesson 1)"
+    },
+    "totalQuestions": 14
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "اسم الكتاب المقرر لمادة العقيدة لهذه السنة الثالثة هو:",
+      "options": [
+        "الشذرات الذهبية على العقائد الشرنوبية",
+        "بغية المريد شرح جوهرة التوحيد",
+        "طالع البشرى على العقيدة الصغرى"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن الكتاب المقرر لهذه السنة هو كتاب بغية المريد شرح جوهرة التوحيد[cite: 20].",
+      "textReference": "كتابنا في هذا المستوى هو جوهره التوحيد لمولانا الامام العلامة الفقيه المتكلم ابراهيم برهان الدين اللقاني... ومع شرح مولانا الامام كالعادة العلامة الزيتوني ابراهيم الميرغني.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "اسم صاحب متن جوهرة التوحيد هو:",
+      "options": [
+        "محمد بن يوسف السنوسي",
+        "عبد المجيد الشرنوبي",
+        "إراهيم برهان الدين اللقاني"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح أن متن جوهرة التوحيد منسوب إلى الإمام إبراهيم برهان الدين اللقاني[cite: 20].",
+      "textReference": "جوهرة التوحيد كما علمنا كتاب ينسب الى الامام اللقاني ابراهيم اللقاني او ما يشتهر بين اهل العلم بالبرهان او برهان الدين اللقاني.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "شارح المتن في هذا المقرر هو الإمام:",
+      "options": [
+        "إبراهيم الميرغني الزيتوني",
+        "أحمد عرب الشرنوبي",
+        "محمد الطاهر بن عاشور"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الشارح هو العلامة الزيتوني إبراهيم الميرغني[cite: 20].",
+      "textReference": "وهو شرح الشيخ ابراهيم المرغني الزيتوني التونسي على هذا المتن المبارك بغية المريد شرح جوهرة التوحيد.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "الشيخ الذي أشار على الإمام اللقاني بتأليف متن جوهرة التوحيد هو:",
+      "options": [
+        "أحمد عرب الشرنوبي",
+        "إبراهيم البيجوري",
+        "محمد الطاهر بن عاشور"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الإمام اللقاني الف الكتاب باشارة من شيخه المربي سيدي الشيخ احمد عرب الشرنوبي[cite: 20].",
+      "textReference": "والامام اللقاني المصري الف هذا الكتاب باشارة من شيخه المربي سيدي الشيخ احمد عرب الشرنوبي رحمه الله تعالى.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "عدد أبيات نظم جوهرة التوحيد هو:",
+      "options": ["مائة بيت", "مائة وأربعة وستون بيتاً", "أربعون بيتاً"],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن النظم يتكون من مائة وأربعة وأربعين بيتاً (144 بيتاً)[cite: 20].",
+      "textReference": "المتكون من 40 و100 بيت. اي 144 بيت. الفها ونظمها في ليله واحده.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "المدة الزمنية التي نظم فيها الإمام اللقاني جوهرة التوحيد هي:",
+      "options": ["شهر كامل", "عام كامل", "ليلة واحدة"],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح أن الإمام اللقاني نظمها في ليلة واحدة[cite: 20].",
+      "textReference": "الفها ونظمها في ليله واحده. نظم مبارك متقن حوى اغلب وجل مباحث علم الكلام في مائة واربعة واربعين بيتا في ليلة واحده.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "أبرز الشروح التي اختصر منها الإمام الميرغني كتابه (بغية المريد) هي حاشية العلامة:",
+      "options": ["إبراهيم البيجوري", "عبد السلام اللقاني", "الصاوي المالكي"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الميرغني اختصر كتابه من حاشية الإمام البيجوري[cite: 20].",
+      "textReference": "اختصرتها من الحاشية التي كتبها عليها العلامة النحرير سيدي ابراهيم ابن محمد البيجوري الشهير.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "truefalse",
+      "question": "بدأ الإمام الميرغني شرحه بالبسملة ثم ثنى بالحمدلة تأسياً بالقرآن الكريم.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن المصنف ابتدأ بالبسملة ثم ثنى بالحمدلة تأسياً بالقرآن الكريم[cite: 20].",
+      "textReference": "فابتدأ بالبسملة ثم ثنى بالحمدلة تأسيا بالقرأن الكريم الذي ابتدأ بالبسملة ثم ثنى بالحمدلة في اول سورة الفاتحة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "truefalse",
+      "question": "يُقصد بـ (براعة الاستهلال) ما يجعله المصنف في بداية كلامه ليبيّن مقصوده وفنه.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح مفهوم براعة الاستهلال بأنها ألفاظ تنبئ عن مقصود المصنف[cite: 20].",
+      "textReference": "وهذا الذي يسمى ببراعة الاستهلال، وهو ما يجعله المصنف في بداية كلامه وفي مقدمته ما ينبئ عن مقصوده.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "وضع الإمام اللقاني شرحاً كبيراً لمتنه أسماه (عمدة المريد لجوهرة التوحيد).",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن للإمام اللقاني شرحاً كبيراً أسماه عمدة المريد[cite: 20].",
+      "textReference": "شرح كبير سماه عمدة المريد لجوهرة التوحيد. ثم شرحه شرحا وسط سماه تلخيص التجريد لعمدة المريد.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "fill",
+      "question": "أكمل: \"المتن هو النص الاصلي الذي ألفه المؤلف، إما أن يكون نثراً وإما أن يكون …………\"",
+      "correctAnswer": "نظماً",
+      "answerReason": "النص يوضح أن المتن إما أن يكون نثراً أو نظماً[cite: 20].",
+      "textReference": "وهذا المتن اما ان يكون نثرا أو نظما نثرا كما درستم السنة الماضية...",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "أكمل: \"شرح الشرح في اصطلاح العلماء يسمى بـ …………\"",
+      "correctAnswer": "الحاشية",
+      "answerReason": "النص يوضح أن شرح الشرح يسمى حاشية[cite: 20].",
+      "textReference": "ثم يوضع على كل متن شارح... وشرح الشرح يسمى حاشية.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 13,
+      "type": "truefalse",
+      "question": "من الشروح المعتمدة على جوهرة التوحيد شرح ابن المصنف سيدي عبد السلام اللقاني المسماة بـ (اتحاف المريد).",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح وجود شرح لابن المصنف سيدي عبد السلام اللقاني أسماه اتحاف المريد[cite: 20].",
+      "textReference": "ايضا شرحه بشرح عين شرح كبير سماه ارشاد المريد وشرح وسط وهو الشرح الذي ايضا لقي يعني قبولا وشهرة وعناية من اهل العلم الا وهو الشرح المسمى اتحاف المريد.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "السبب الداعي لتأليف الإمام الميرغني لكتاب (بغية المريد) هو:",
+      "options": [
+        "طلب الطلبة منه تلخيص واختصار حاشية البيجوري لتكون وافية لمرادهم",
+        "أمر من السلطان لتأليف كتاب جديد بالكامل",
+        "رغبته في ترك علم الكلام والتوجه للفقه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن السبب هو بغية الطلبة المشتغلين باختصارها[cite: 20].",
+      "textReference": "دعاني الى ذلك بغية الطلبة اي مراد ومطلوب الطلبه المشتغلين بقرائتها لاختصارها...",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    }
+  ]
+}

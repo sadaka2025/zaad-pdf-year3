@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "year": 1,
+    "slug": "aqida",
+    "code": "AQIDA101",
+    "title": {
+      "ar": "العقيدة",
+      "fr": "Aqida",
+      "en": "Aqida"
+    },
+    "instructors": [
+      {
+        "name": "Dr. Y"
+      }
+    ],
+    "tabs": ["video", "summaryPDF", "textExtraction", "qna"],
+    "tabLabels": {
+      "video": "🎥 فيديو الدرس",
+      "summaryPDF": "📝 مراجعة ملخص الدرس",
+      "textExtraction": "📄 استخراج النص من الفيديو"
+    }
+  },
+  "semesters": {
+    "1": {
+      "lessons": [
+        {
+          "id": "1",
+          "title": "مقدمة للتعريف بالمادة والأستاذ"
+        },
+        {
+          "id": "2",
+          "title": "ترجمة الناظم والشارح - مقدمة الكتاب"
+        },
+        {
+          "id": "3",
+          "title": "المبادئ العشرة لعلم العقيدة"
+        },
+        {
+          "id": "4",
+          "title": "المراحل التي مر بها المذهب المالكي"
+        },
+        {
+          "id": "5",
+          "title": "تتمة لمقدمة الكتاب"
+        },
+        {
+          "id": "6",
+          "title": "الكلام على الإلهيات - صفة الوجود"
+        },
+        {
+          "id": "7",
+          "title": "صفتي الوجود و دليلها"
+        },
+        {
+          "id": "8",
+          "title": "صفتي البقاء والقدم"
+        },
+        {
+          "id": "9",
+          "title": "المخالفة للحوادث - القيام بالنفس"
+        },
+        {
+          "id": "10",
+          "title": "الوحدانية تنوع الصفات العشرين العقيدة"
+        },
+        {
+          "id": "11",
+          "title": "صفات المعاني السبع العلم و الارادة"
+        },
+        {
+          "id": "12",
+          "title": "القدرة السمع البصر"
+        },
+        {
+          "id": "13",
+          "title": "الكلام والحياة"
+        },
+        {
+          "id": "14",
+          "title": "الصفات المعنوية السبعة"
+        },
+        {
+          "id": "15",
+          "title": "المستحيلات على الله عز وجل"
+        }
+      ],
+      "contentLinks": {
+        "1": {
+          "video": "https://drive.google.com/file/d/1U1gHz2UTrYADqS1PpnFKNUQD9TMidQHw/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1U1gHz2UTrYADqS1PpnFKNUQD9TMidQHw",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr1aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr1aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec1aqidas1.pdf"
+        },
+        "2": {
+          "video": "https://drive.google.com/file/d/1LICwLePCYzE1voxlNOfWKBhOlyieuH2x/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1LICwLePCYzE1voxlNOfWKBhOlyieuH2x",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr2aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr2aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec2aqidas1.pdf"
+        },
+        "3": {
+          "video": "https://drive.google.com/file/d/1ENMEXlU6L4XqshGHKvZ4lqO-WsYmHotD/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1ENMEXlU6L4XqshGHKvZ4lqO-WsYmHotD",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr3aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr3aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec3aqidas1.pdf"
+        },
+        "4": {
+          "video": "https://drive.google.com/file/d/1Of16Yd1mnEyQepiZm0_-tbUt8puQc5m8/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1Of16Yd1mnEyQepiZm0_-tbUt8puQc5m8",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr4aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr4aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec4aqidas1.pdf"
+        },
+        "5": {
+          "video": "https://drive.google.com/file/d/14xYveJwuT3uZrYJ9MbHcf-TtftzRm7Pk/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=14xYveJwuT3uZrYJ9MbHcf-TtftzRm7Pk",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr5aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr5aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec5aqidas1.pdf"
+        },
+        "6": {
+          "video": "https://drive.google.com/file/d/1w8w2pPEfHOzjHMd1T7FBkAY8atCeu7QZ/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1w8w2pPEfHOzjHMd1T7FBkAY8atCeu7QZ",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr6aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr6aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec6aqidas1.pdf"
+        },
+        "7": {
+          "video": "https://drive.google.com/file/d/1OI2A_MOviVulGjd8k1enP45cmnKUrr66/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1OI2A_MOviVulGjd8k1enP45cmnKUrr66",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr7aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr7aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec7aqidas1.pdf"
+        },
+        "8": {
+          "video": "https://drive.google.com/file/d/18iIJKWjsvOlJtA2PXiGIJMGIuYP9ogyf/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=18iIJKWjsvOlJtA2PXiGIJMGIuYP9ogyf",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr8aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr8aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec8aqidas1.pdf"
+        },
+        "9": {
+          "video": "https://drive.google.com/file/d/1XiujWaJ16WBQ7Ay2ySxrc_KNTcsnFcAL/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1XiujWaJ16WBQ7Ay2ySxrc_KNTcsnFcAL",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr9aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr9aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec9aqidas1.pdf"
+        },
+        "10": {
+          "video": "https://drive.google.com/file/d/1IYBl1oBcDoJs4kgDAKqO-hBLVgbse_Ar/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1IYBl1oBcDoJs4kgDAKqO-hBLVgbse_Ar",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr10aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr10aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec10aqidas1.pdf"
+        },
+        "11": {
+          "video": "https://drive.google.com/file/d/1nLUsS2nERv4d29DA5IuuWY1OOU4NciXS/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1nLUsS2nERv4d29DA5IuuWY1OOU4NciXS",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr11aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr11aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec11aqidas1.pdf"
+        },
+        "12": {
+          "video": "https://drive.google.com/file/d/1t-qghg6CVfYj2AgfD9TxfUuOQJZ9MymP/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1t-qghg6CVfYj2AgfD9TxfUuOQJZ9MymP",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr12aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr12aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec12aqidas1.pdf"
+        },
+        "13": {
+          "video": "https://drive.google.com/file/d/1gipoULfXSBL9E57ml7t3LVR1msR_WM32/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1gipoULfXSBL9E57ml7t3LVR1msR_WM32",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr13aqidas1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/aqida/pcr/pcr13aqidas1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec13aqidas1.pdf"
+        },
+        "14": {
+          "video": "https://drive.google.com/file/d/1iR_c7PNx0aSenAp2NiwVHP0cqPr7Igjf/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1iR_c7PNx0aSenAp2NiwVHP0cqPr7Igjf",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/aqida/pcraqida14s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/aqida/pcraqida14s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec14aqidas1.pdf"
+        },
+        "15": {
+          "video": "https://drive.google.com/file/d/13mTnp2IHxq2yX6R8287Qsw9JgUW58h8K/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=13mTnp2IHxq2yX6R8287Qsw9JgUW58h8K",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/aqida/pcraqida15s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/aqida/pcraqida15s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/aqida/ec15aqidas1.pdf"
+        }
+      },
+      "conclusion": {
+        "title": "📚 الخاتمة",
+        "sections": [
+          {
+            "title": "اللقاءات المباشرة",
+            "items": [
+              {
+                "id": "الملتقى الاول",
+                "label": "الملتقى الأول",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1HiLfh1hGaPaJ89pmEmXOA3ZpfsCEY6ny/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1HiLfh1hGaPaJ89pmEmXOA3ZpfsCEY6ny",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf"
+                }
+              },
+              {
+                "id": "الملتقى الثاني",
+                "label": "الملتقى الثاني",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1bl9zy8uZ-wRlhIl18HLW7BCJuXEOkC3/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1bl9zy8uZ-wRlhIl18HLW7BCJuXEOkC3",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf"
+                }
+              },
+              {
+                "id": "الملتقى الثالث",
+                "label": "الملتقى الثالث",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1Hx8LIq4SnabusRuSdHl6c-weLYDLYxJt/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1Hx8LIq4SnabusRuSdHl6c-weLYDLYxJt",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/aqida/meeting3aqidas1.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Quiz Fin Semestre",
+            "items": [
+              {
+                "id": "quiz-general",
+                "label": "Quiz général sur les cours",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizSemester": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/aqida/quizsemaqidas1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/aqida/quizsemaqidas1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/aqida/quizsemaqidas1.pdf"
+                }
+              },
+              {
+                "id": "final-exam",
+                "label": "Examen final",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizExam": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/aqida/quizexamaqidas1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/aqida/quizexamaqidas1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/aqida/quizexamaqidas1.pdf"
+                }
+              },
+              {
+                "id": "CombinedCourse",
+                "label": "CombinedCourse",
+                "tabs": ["fusion"],
+                "tabLabels": {
+                  "fusion": "📝CombinedCourse"
+                },
+                "links": {
+                  "fusion": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/aqida/pccaqidas1.pdf",
+                  "combinedCourse": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/aqida/pccaqidas1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/aqida/pccaqidas1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/aqida/pccaqidas1.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "2": {
+      "lessons": [
+        {
+          "id": "1",
+          "title": "الدرس 1 الكلام على النيويات"
+        },
+        {
+          "id": "2",
+          "title": "الدرس 2 تتمة الكلام على النويات"
+        },
+        {
+          "id": "3",
+          "title": "الدرس 3 الصفات الواحية للأنبياء"
+        },
+        {
+          "id": "4",
+          "title": "الدرس 4 ما يستحيل في حق الرسل وما يحو"
+        },
+        {
+          "id": "5",
+          "title": "الدرس 5 خصائص المصطفى"
+        },
+        {
+          "id": "6",
+          "title": "الدرس 6 تتمة خصائص المصطفى"
+        },
+        {
+          "id": "7",
+          "title": "الدرس 7 مبحث السمعيات"
+        },
+        {
+          "id": "8",
+          "title": "الدرس 8 مبحث السمعيات 2 الصراط و الميزان"
+        },
+        {
+          "id": "9",
+          "title": "الدرس 9 منحث السمعيات"
+        },
+        {
+          "id": "10",
+          "title": "الدرس 10 جنات النعيم"
+        },
+        {
+          "id": "11",
+          "title": "الدرس 11 الحور العين والملائكة"
+        },
+        {
+          "id": "12",
+          "title": "الدرس 12 الأنبياء"
+        },
+        {
+          "id": "13",
+          "title": "الدرس 13 الخاتمة في علم العقيدة"
+        }
+      ],
+      "contentLinks": {
+        "1": {
+          "video": "https://drive.google.com/file/d/1qEIwDa3jh5VUbwItMhvgNcpCMhXvv0A7/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1qEIwDa3jh5VUbwItMhvgNcpCMhXvv0A7",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr1aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr1aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec1aqidas2.pdf"
+        },
+        "2": {
+          "video": "https://drive.google.com/file/d/1CDajWCa6PS-KLOZ5NFTYOn6GgeepvZpU/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1CDajWCa6PS-KLOZ5NFTYOn6GgeepvZpU",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr2aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr2aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec2aqidas2.pdf"
+        },
+        "3": {
+          "video": "https://drive.google.com/file/d/1P2_MPljvD-6s87fmQhWmSdcizWdbCGN9/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1P2_MPljvD-6s87fmQhWmSdcizWdbCGN9",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr3aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr3aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec3aqidas2.pdf"
+        },
+        "4": {
+          "video": "https://drive.google.com/file/d/1G_zUhCbEEBVCa1UTigA8HcUX_n5_-Q6_/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1G_zUhCbEEBVCa1UTigA8HcUX_n5_-Q6_",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr4aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr4aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec4aqidas2.pdf"
+        },
+        "5": {
+          "video": "https://drive.google.com/file/d/1_kktb-7kruQIsTQSkL8giqYXqmbDj3Vq/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1_kktb-7kruQIsTQSkL8giqYXqmbDj3Vq",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr5aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr5aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec5aqidas2.pdf"
+        },
+        "6": {
+          "video": "https://drive.google.com/file/d/1n8boyn4oOJgAvgw0udfWEieF2s8AFrHS/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1n8boyn4oOJgAvgw0udfWEieF2s8AFrHS",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr6aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr6aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec6aqidas2.pdf"
+        },
+        "7": {
+          "video": "https://drive.google.com/file/d/1ghzRYsF8wbSRVLaGjBzstzsiqCFgGGeH/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1ghzRYsF8wbSRVLaGjBzstzsiqCFgGGeH",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr7aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr7aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec7aqidas2.pdf"
+        },
+        "8": {
+          "video": "https://drive.google.com/file/d/1ee-zLTPNGaWyGdS0b7y9KzyZEnG16p2n/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1ee-zLTPNGaWyGdS0b7y9KzyZEnG16p2n",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr8aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr8aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec8aqidas2.pdf"
+        },
+        "9": {
+          "video": "https://drive.google.com/file/d/1xMHfUeF3KVVDgKC7167shNEG-0KqGb2x/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1xMHfUeF3KVVDgKC7167shNEG-0KqGb2x",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr9aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr9aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec9aqidas2.pdf"
+        },
+        "10": {
+          "video": "https://drive.google.com/file/d/1QykLnAt8Pm8gNCQCDmb3dzRSYa18SNYm/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1QykLnAt8Pm8gNCQCDmb3dzRSYa18SNYm",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr10aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr10aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec10aqidas2.pdf"
+        },
+        "11": {
+          "video": "https://drive.google.com/file/d/17WNDFRRNFQc-UFGoOLZkWXnDj5fFvB1L/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=17WNDFRRNFQc-UFGoOLZkWXnDj5fFvB1L",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr11aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr11aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec11aqidas2.pdf"
+        },
+        "12": {
+          "video": "https://drive.google.com/file/d/1SfAjHN7Eu_piXG3XYti5YhuXHwl7aDRl/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1SfAjHN7Eu_piXG3XYti5YhuXHwl7aDRl",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr12aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr12aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec12aqidas2.pdf"
+        },
+        "13": {
+          "video": "https://drive.google.com/file/d/1z538w5B0I4oGIFRtlcJ7O8Lcp4y8QpZF/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1z538w5B0I4oGIFRtlcJ7O8Lcp4y8QpZF",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr13aqidas2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/aqida/pcr/pcr13aqidas2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/aqida/ec13aqidas2.pdf"
+        }
+      },
+      "conclusion": {
+        "title": "📚 الخاتمة",
+        "sections": [
+          {
+            "title": "اللقاءات المباشرة",
+            "items": [
+              {
+                "id": "الملتقى الاول",
+                "label": "الملتقى الاول",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1MCSmgS_Hj5BWtZr9jj0Cay7okyKqjh0T/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1MCSmgS_Hj5BWtZr9jj0Cay7okyKqjh0T",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/aqida/meeting1aqidas2.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/aqida/meeting1aqidas2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/aqida/meeting1aqidas2.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Quiz Fin Semestre",
+            "items": [
+              {
+                "id": "quiz-general",
+                "label": "Quiz général sur les cours",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizSemester": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/aqida/quizsemaqidas2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/aqida/quizsemaqidas2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/aqida/quizsemaqidas2.pdf"
+                }
+              },
+              {
+                "id": "final-exam",
+                "label": "Examen final",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizExam": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/aqida/quizexamaqidas2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/aqida/quizexamaqidas2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/aqida/quizexamaqidas2.pdf"
+                }
+              },
+              {
+                "id": "CombinedCourse",
+                "label": "CombinedCourse",
+                "tabs": ["fusion"],
+                "tabLabels": {
+                  "fusion": "📝CombinedCourse"
+                },
+                "links": {
+                  "fusion": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/aqida/pccaqidas2.pdf",
+                  "combinedCourse": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/aqida/pccaqidas2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/aqida/pccaqidas2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/aqida/pccaqidas2.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

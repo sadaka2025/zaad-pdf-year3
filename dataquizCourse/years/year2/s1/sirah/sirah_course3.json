@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "slug": "sirah_lesson3",
+    "title": {
+      "ar": "📘 امتحان السيرة – الدرس الثالث",
+      "fr": "Examen de Sîra – Leçon 3",
+      "en": "Seerah Exam – Lesson 3"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من كان على رأس المنافقين في حادثة الإفك؟",
+      "options": [
+        "عبد الله بن أبي بن سلول",
+        "أسامة بن زيد",
+        "صفوان بن المعطل",
+        "سعد بن معاذ"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "عبد الله بن أبي بن سلول كان رأس المنافقين في حادثة الإفك.",
+      "textReference": "ذكره القرآن والسيرة النبوية.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "السيدة عائشة رضي الله عنها كانت على صلة مباشرة بالرسول صلى الله عليه وسلم أثناء حادثة الإفك.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "كانت ترافق الرسول أثناء بعض الأحداث، ولكن تعرضت للمحنة.",
+      "textReference": "تفاصيل حادثة الإفك وسفرها مع الرسول.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما الذي حدث عندما عاد الجيش إلى المدينة بعد حادثة الإفك؟",
+      "options": [
+        "انتشر الفساد في المدينة",
+        "تم تبرئة عائشة رضي الله عنها",
+        "أصيب الرسول بالمرض",
+        "أُعدم عبد الله بن أبي بن سلول"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "عاد الجيش وكانت تبرئة السيدة عائشة واضحة بفضل الوحي.",
+      "textReference": "توضحها سورة النور وما ورد في السنة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "fill",
+      "question": "حد القذف في الإسلام للزاني والزانية هو ________ جلدة.",
+      "options": [],
+      "correctAnswer": "80",
+      "answerReason": "حد القذف هو 80 جلدة حسب القرآن.",
+      "textReference": "سورة النور – الأحكام المتعلقة بالقذف.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما الدرس الأساسي من حادثة الإفك؟",
+      "options": [
+        "ضرورة التحري عن الأخبار قبل نشرها",
+        "ضرورة الهجرة إلى الحبشة",
+        "ضرورة الحرب مع المنافقين",
+        "ضرورة السفر مع الجيش"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدرس الأساسي هو التحري عن الأخبار وعدم الانسياق وراء الإشاعات.",
+      "textReference": "أهمية التأكد من الأخبار قبل نشرها.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "الرسول صلى الله عليه وسلم تعامل مع حادثة الإفك بصبر وحكمة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الرسول صلى الله عليه وسلم أظهر الصبر والحكمة في إدارة المحنة.",
+      "textReference": "سلوك الرسول أثناء الإفك.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "من ساعد في تبرئة عائشة رضي الله عنها بعد الإفك؟",
+      "options": [
+        "أسامة بن زيد",
+        "علي بن أبي طالب",
+        "عبد الله بن أبي بن سلول",
+        "صفوان بن المعطل"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "علي بن أبي طالب رضي الله عنه كان من الذين أيدوا براءتها.",
+      "textReference": "توضيح موقف علي بن أبي طالب.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "fill",
+      "question": "الآية التي تحذر من نشر الإشاعات هي: سورة ________.",
+      "options": [],
+      "correctAnswer": "الحجرات",
+      "answerReason": "سورة الحجرات تتحدث عن التأكد قبل نقل الأخبار.",
+      "textReference": "أهمية التثبت قبل نشر الأخبار.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما الذي يدل على حرص الإسلام على حماية أعراض المسلمين؟",
+      "options": [
+        "حد الزنا والقذف",
+        "وجوب الصلاة",
+        "الهجرة إلى الحبشة",
+        "المشاركة في الغزوات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "حد الزنا والقذف يهدف لحماية أعراض المسلمين.",
+      "textReference": "الأحكام الشرعية المستخلصة من حادثة الإفك.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "الخبر الكاذب الذي انتشر عن عائشة رضي الله عنها أضر فقط بها دون المجتمع.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "الإشاعة أثرت على المجتمع كله وأثارت الفتن.",
+      "textReference": "تأثير الإشاعات على المجتمع الإسلامي.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "من كان من الذين ساعدوا الرسول ﷺ في مواجهة شائعة الإفك؟",
+      "options": [
+        "سعد بن معاذ",
+        "عبد الله بن أبي بن سلول",
+        "أسامة بن زيد",
+        "صفوان بن المعطل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "سعد بن معاذ الأنصاري نصح بالتصرف بحكمة وحماية الأسرة.",
+      "textReference": "تفاصيل موقف سعد بن معاذ.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "truefalse",
+      "question": "حادثة الإفك كانت اختباراً لنبوة الرسول ﷺ وصدق الوحي.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الحادثة أظهرت صدق النبي ﷺ وبشرية الإنسان في التعامل مع المحن.",
+      "textReference": "أثر الإفك على شخصية الرسول ﷺ.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما الحكمة من تحريم القذف بالإفك دون بينة؟",
+      "options": [
+        "لحماية المجتمع وأعراض المؤمنين",
+        "لإبقاء النفوس ضعيفة",
+        "للسخرية من المنافقين",
+        "لإظهار قوة الدولة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "التحريم يهدف للحفاظ على سمعة المؤمنين وسلامة المجتمع.",
+      "textReference": "أهمية أحكام القذف في حماية المجتمع.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "عدد شهداء الإفك الذين يجب تقديمهم لإثبات القذف هو ________.",
+      "options": [],
+      "correctAnswer": "4",
+      "answerReason": "يجب أربعة شهداء لإثبات القذف حسب القرآن.",
+      "textReference": "سورة النور – أحكام القذف.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الذي تعلّمه المسلمون من قصة الإفك؟",
+      "options": [
+        "أهمية الصبر والثقة بالله",
+        "وجوب السفر مع الجيش",
+        "ضرورة التمسك بالقوة العسكرية",
+        "تجنب الزواج"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "القصة تبرز الصبر والثقة بالله عند مواجهة الفتن.",
+      "textReference": "دروس أخلاقية من الإفك.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "truefalse",
+      "question": "الإشاعات يمكن أن تؤدي إلى تدمير المجتمعات كما حدث في حادثة الإفك.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الإشاعات سبب فتنة وخلاف بين المؤمنين.",
+      "textReference": "تأثير الإشاعات على العلاقات الاجتماعية.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما الذي يدل على قوة الإيمان للمؤمنين في قصة الإفك؟",
+      "options": [
+        "تحمل المحن والصبر",
+        "الانتقام من المنافقين",
+        "الهجرة المستمرة",
+        "التمرد على الرسول ﷺ"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المؤمنون صبروا واحتملوا المحنة بثبات.",
+      "textReference": "صبر المؤمنين في مواجهة الشائعات.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "الرسول ﷺ استخدم ________ لإيضاح براءة السيدة عائشة رضي الله عنها.",
+      "options": [],
+      "correctAnswer": "الوحي",
+      "answerReason": "براءة السيدة عائشة تم توضيحها بالوحي كما ورد في القرآن.",
+      "textReference": "براءة عائشة وظهور الحقيقة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما الذي ظهر من خلال حادثة الإفك بالنسبة لشخصية الرسول ﷺ؟",
+      "options": [
+        "بشرية الرسول ﷺ وصدق نبوته",
+        "ضعفه أمام الفتن",
+        "حاجته للمساعدة الدائمة",
+        "استسلامه للإشاعات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحادثة أبرزت بشرية الرسول ﷺ وصدق نبوته في التعامل مع المحن.",
+      "textReference": "توضيح شخصية الرسول ﷺ خلال الإفك.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "truefalse",
+      "question": "سورة النور نزلت جزئياً لتحديد أحكام القذف والحد من الإشاعات.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "السورة بينت أحكام القذف وضرورة التثبت من الأخبار.",
+      "textReference": "الأحكام الشرعية لسورة النور.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما الهدف من ذكر الله عز وجل لموقف المؤمنين في سورة الحجرات؟",
+      "options": [
+        "تحذير من نقل الأخبار الكاذبة",
+        "فرض الصلاة",
+        "وجوب الصيام",
+        "فرض الزكاة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الآية تحذر المسلمين من الإشاعات وأهمية التثبت.",
+      "textReference": "سورة الحجرات – أهمية التثبت.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "fill",
+      "question": "من هم الأربعة الذين يجب أن يشهدوا لإثبات القذف؟ ________",
+      "options": [],
+      "correctAnswer": "أربعة رجال عدول",
+      "answerReason": "القرآن نص على وجوب أربعة شهداء لإثبات القذف.",
+      "textReference": "سورة النور – الأحكام المتعلقة بالقذف.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما سبب انتشار الفاحشة والإشاعات في زماننا كما ورد في الدرس؟",
+      "options": [
+        "وسائل الإعلام والهواتف المحمولة",
+        "التعليم الديني",
+        "الغزوات",
+        "الهجرة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "انتشرت الفاحشة والإشاعات بسبب سهولة وسائل الاتصال الحديثة.",
+      "textReference": "أثر التكنولوجيا الحديثة على انتشار الشائعات.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "truefalse",
+      "question": "حادثة الإفك كانت بلا حكمة إلهية.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "الحادثة كانت اختباراً وحكمة إلهية لإظهار نبوة الرسول ﷺ وصبر المؤمنين.",
+      "textReference": "الحكمة الإلهية وراء حادثة الإفك.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما هو أثر إشاعة الإفك على الأسرة المسلمة؟",
+      "options": [
+        "التفكك والقلق النفسي",
+        "تعزيز المحبة",
+        "زيادة الثروة",
+        "تسهيل السفر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الإشاعة أدت إلى قلق نفسي ومحنة للسيدة عائشة وأسرة أبي بكر.",
+      "textReference": "أثر الإفك على الأسرة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "fill",
+      "question": "الرسول ﷺ نصح المسلمين بالصبر والاعتماد على ________ عند مواجهة المحن.",
+      "options": [],
+      "correctAnswer": "الله",
+      "answerReason": "الاعتماد على الله كان أساس تعامل الرسول ﷺ مع المحن.",
+      "textReference": "التوجيه النبوي في مواجهة الشدائد.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما الحكم الشرعي للذي ينقل أخباراً كاذبة عن المؤمنين؟",
+      "options": [
+        "يعاقب بالحد إذا كانت إفكاً، وإلا ينهى عن ذلك",
+        "يجازى بالمال",
+        "يجازى بالسفر",
+        "لا شيء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "القذف بالإفك يستوجب العقوبة، والتحري واجب.",
+      "textReference": "أحكام القذف وفق القرآن والسنة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "truefalse",
+      "question": "حادثة الإفك تظهر أهمية حسن الظن بين المؤمنين.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الدرس المستفاد هو التحري وعدم الظن السيئ.",
+      "textReference": "التأكيد على حسن الظن بين المؤمنين.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما الذي يميز الإنسان المؤمن عند مواجهة الفتن حسب الدرس؟",
+      "options": [
+        "الصبر والثقة بالله",
+        "الانتقام من الجميع",
+        "الاهتمام بالمظاهر فقط",
+        "الهجرة الدائمة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المؤمن يظهر الصبر والثقة بالله عند المحن.",
+      "textReference": "صفات المؤمنين في مواجهة الإشاعات.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "fill",
+      "question": "الآية التي تقول: 'ولا يقذف أحد المحصنات المؤمنات إلا عن أربع شهداء' هي من سورة ________.",
+      "options": [],
+      "correctAnswer": "النور",
+      "answerReason": "سورة النور تحدد أحكام القذف والإثبات بالشهود.",
+      "textReference": "سورة النور – أحكام القذف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec3seerahs1.html#sent30"
+    }
+  ]
+}

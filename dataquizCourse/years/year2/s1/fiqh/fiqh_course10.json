@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "fiqh_lesson10",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة الفقه الدرس 10",
+      "fr": "Examen de Fiqh – Ibn Ashir & Al-Habl Al-Matin",
+      "en": "Fiqh Exam – Ibn Ashir & Al-Habl Al-Matin"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "بمَ يثبت دخول شهر رمضان كما ورد في الدرس؟",
+      "options": [
+        "بالإجماع فقط",
+        "برؤية الهلال أو بإكمال شعبان 30 يوماً",
+        "بالصوم الاحتياطي",
+        "بالرؤيا المنامية"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ذكر النص أن الشهر يثبت برؤية الهلال أو بتمام 30 من شعبان.",
+      "textReference": "يثبت الشهر برؤية الهلال أو بإكمال شعبان",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما شرط الرؤية التي يثبت بها دخول رمضان؟",
+      "options": [
+        "رجل واحد فقط",
+        "امرأة واحدة",
+        "عدلان حران ذكران",
+        "جماعة النساء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص اشترط: عدلين حرين ذكرين.",
+      "textReference": "اشتراط عدلين لرؤية الهلال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما حكم اعتماد شهادة الحاكم نفسه في رؤية الهلال؟",
+      "options": [
+        "تصح",
+        "لا تصح",
+        "تشترط",
+        "واجبة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: ليس أحدهما الحاكم.",
+      "textReference": "عدم قبول شهادة الحاكم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما معنى يوم الشك كما ورد؟",
+      "options": [
+        "اليوم 15 من شعبان",
+        "اليوم الذي يُرى فيه الهلال بوضوح",
+        "صبيحة الليلة التي غُمّ فيها الهلال",
+        "اليوم الأول من رمضان دائماً"
+      ],
+      "correctAnswer": 2,
+      "explanation": "عند الغيم وعدم رؤية الهلال تكون صبيحته يوم شك.",
+      "textReference": "تعريف يوم الشك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ماذا يجب في يوم الشك؟",
+      "options": [
+        "الإفطار قطعاً",
+        "الإمساك احتياطاً",
+        "يحرم الإمساك",
+        "يجب القضاء فوراً"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: ينبغي إمساكه حتى يُستبرأ الخبر.",
+      "textReference": "وجوب الإمساك يوم الشك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "إن ثبت أثناء النهار أن يوم الشك هو يوم رمضان، فما الواجب؟",
+      "options": [
+        "لا يلزم شيء",
+        "يجب الإمساك فقط",
+        "يجب القضاء فقط",
+        "يجب الإمساك والقضاء"
+      ],
+      "correctAnswer": 3,
+      "explanation": "لأنه أفطر بلا نية جازمة.",
+      "textReference": "إمساك يوم الشك عند ثبوت رمضان",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "إن أفطر يوم الشك باجتهاد معتبر، فما الحكم؟",
+      "options": [
+        "عليه كفارة",
+        "لا كفارة عليه",
+        "يأثم دون كفارة",
+        "تصح نيته فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: فإن تأوّل أنه يجوز فطره فلا كفارة عليه.",
+      "textReference": "حكم من تأول فطر يوم الشك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الحكم المشهور لمن أفطر يوم الشك بلا تأوّل؟",
+      "options": [
+        "لا شيء عليه",
+        "تجب عليه الكفارة",
+        "يجب عليه القضاء فقط",
+        "تصح منه العبادة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: وإن لم يتأول فالمشهور وجوب كفارته.",
+      "textReference": "كفارة من أفطر يوم الشك بلا تأول",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما أول فرائض الصيام كما ورد؟",
+      "options": [
+        "ترك الأكل",
+        "ترك الشرب",
+        "النية ليلاً",
+        "ترك القيء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: فرض الصيام نية بليله.",
+      "textReference": "ذكر فرض النية ليلاً",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما وقت النية لصيام رمضان؟",
+      "options": [
+        "بعد الفجر",
+        "قبل الغروب",
+        "بين الغروب والفجر",
+        "وقت الضحى"
+      ],
+      "correctAnswer": 2,
+      "explanation": "لا تكفي قبل الغروب ولا بعد الفجر.",
+      "textReference": "تحديد وقت النية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ماذا يعني ترك الوطء في نهار رمضان؟",
+      "options": [
+        "ترك الكلام مع الزوجة",
+        "ترك الجماع فقط",
+        "ترك كل علاقة بين الزوجين",
+        "حرمة النظر"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الوطء هو الجماع المعهود شرعاً.",
+      "textReference": "بيان ترك الوطء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "هل خروج المني بغير تسبب يبطل الصوم؟",
+      "options": [
+        "يبطل قطعاً",
+        "يبطل ويوجب كفارة",
+        "لا يبطل",
+        "يبطل إن كان قبل الفجر"
+      ],
+      "correctAnswer": 2,
+      "explanation": "كمن احتلم نهاراً.",
+      "textReference": "حكم خروج المني بغير تسبب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما حكم خروج المذي باللذة في نهار رمضان؟",
+      "options": [
+        "لا يفطر",
+        "يفطر ويوجب كفارة",
+        "يفطر ويوجب القضاء دون كفارة",
+        "يفسد اليوم ويتوجب الإمساك"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص فرّق بين المني والمذي.",
+      "textReference": "حكم خروج المذي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما ثالث فرائض الصوم في الدرس؟",
+      "options": [
+        "النية",
+        "ترك القيء",
+        "ترك الأكل والشرب",
+        "ترك الوطء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ذكرها ابن عاشر بعد الوطء.",
+      "textReference": "فرض ترك الأكل والشرب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الحكم إذا وصل شيء للمعدة من العين؟",
+      "options": [
+        "لا شيء عليه",
+        "يفسد الصوم",
+        "يفسد الصوم ويوجب كفارة",
+        "يكره فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: إيصال شيء للمعدة من عين أو أذن أو أنف مفطر.",
+      "textReference": "إيصال الشيء للمعدة من العين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "هل القيء المتعمد يبطل الصيام؟",
+      "options": [
+        "لا يبطل",
+        "يبطل ويوجب القضاء فقط",
+        "يبطل ويوجب كفارة",
+        "لا علاقة له بالصوم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: تعمد اخراج القيء يبطل ويجب منه القضاء دون الكفارة.",
+      "textReference": "حكم تعمد القيء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما الحكم إذا رجع القيء إلى الجوف غلبة؟",
+      "options": [
+        "لا شيء عليه",
+        "عليه القضاء فقط",
+        "عليه القضاء والكفارة",
+        "يجب الإمساك فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: إن رجع غلبة فعليه القضاء.",
+      "textReference": "رجوع القيء إلى الجوف غلبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الحكم إذا رجع القيء إلى الجوف عمداً؟",
+      "options": [
+        "لا شيء عليه",
+        "قضاء فقط",
+        "قضاء وكفارة",
+        "إمساك دون قضاء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: وإن رجع عمداً فعليه القضاء والكفارة.",
+      "textReference": "رجوع القيء عمداً",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما خامس فرائض الصوم كما ذكر في النص؟",
+      "options": [
+        "ترك القيء",
+        "النية",
+        "ترك إيصال شيء للمعدة",
+        "شهادة العدول"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص ذكره خامس الفرائض.",
+      "textReference": "فرض ترك إيصال شيء للمعدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "من أي المنافذ يمكن أن يصل المفطر إلى المعدة ويفسد الصوم؟",
+      "options": [
+        "الفم فقط",
+        "الأنف فقط",
+        "الأذن والعين والأنف والفم والدبر",
+        "الجلد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص صرّح بهذه المنافذ الخمسة.",
+      "textReference": "ذكر المنافذ المفطرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما وقت الامتناع عن المفطرات في الصيام؟",
+      "options": [
+        "من المغرب إلى الفجر",
+        "من طلوع الفجر إلى الغروب",
+        "من الفجر إلى منتصف النهار",
+        "من منتصف الليل إلى الظهر"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص صريح.",
+      "textReference": "وقت الإمساك الشرعي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما تعريف النية كما ورد؟",
+      "options": [
+        "تمني القلب",
+        "ذكر لفظي",
+        "قصد الشيء مقترناً بفعله",
+        "العزم بدون فعل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: النية قصد الشيء مقترناً بفعله.",
+      "textReference": "تعريف النية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "لماذا لا تكفي النية قبل الغروب؟",
+      "options": [
+        "لأنها بدعة",
+        "لأنها غير معتبرة شرعاً لليوم القادم",
+        "لأنها تحتاج شاهدين",
+        "لأنها تخص التطوع"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النية يجب أن تكون بين الغروب والفجر.",
+      "textReference": "سبب عدم كفاية النية قبل الغروب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما الدليل على وجوب النية قبل الفجر؟",
+      "options": [
+        "إجماع الأمة",
+        "حديث حفصة: من لم يجمع الصيام قبل الفجر فلا صيام له",
+        "آية من سورة البقرة",
+        "قول الفقهاء فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ورد الحديث بسند حسن.",
+      "textReference": "الدليل على وجوب النية قبل الفجر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "هل خروج القيء بغير تعمد يفطر؟",
+      "options": [
+        "يفطر قطعاً",
+        "يفطر ويوجب الكفارة",
+        "لا يفطر مطلقاً",
+        "لا يفطر إلا إن رجع شيء منه للجوف"
+      ],
+      "correctAnswer": 3,
+      "explanation": "النص فرّق بين الخروج والرجوع.",
+      "textReference": "تفصيل حكم القيء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما المقصود بالمعدة كما أوضح النص؟",
+      "options": [
+        "تجويف الفم",
+        "المريء",
+        "محل الهضم الأول وملتقى الطعام",
+        "الأمعاء الدقيقة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص بيّن وظائف المعدة.",
+      "textReference": "تعريف المعدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما الهضم الثاني كما ورد؟",
+      "options": [
+        "في المعدة",
+        "في الفم",
+        "في الكبد",
+        "في الأمعاء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: من المعدة ينبعث الغذاء إلى الكبد وهذا الهضم الثاني.",
+      "textReference": "الهضم الثاني",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما الهضم الثالث كما وصفه النص؟",
+      "options": [
+        "في الفم",
+        "في المعدة",
+        "في الكبد",
+        "في سائر الأعضاء"
+      ],
+      "correctAnswer": 3,
+      "explanation": "النص: من الكبد ينبعث الغذاء إلى سائر الأعضاء وهذا الهضم الثالث.",
+      "textReference": "الهضم الثالث",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "أي من التالي يبطل الصيام قطعاً؟",
+      "options": [
+        "الاحتلام",
+        "رجوع القيء عمداً",
+        "استنشاق الروائح",
+        "البكاء"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص ذكر القضاء والكفارة.",
+      "textReference": "تبين مبطلية رجوع القيء عمداً",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة فرائض الصوم الخمسة في الدرس؟",
+      "options": [
+        "النية، وترك الأكل فقط",
+        "ترك القيء فقط",
+        "النية، ترك الوطء، ترك الأكل والشرب، ترك القيء عمداً، ترك إيصال شيء للمعدة",
+        "الصوم بلا نية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هذه الخمسة هي فرائض الصيام كما رتّبها ابن عاشر.",
+      "textReference": "خلاصة الفروض الخمسة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec11sira10s1.html#sent30"
+    }
+  ]
+}

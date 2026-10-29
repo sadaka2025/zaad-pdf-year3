@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "seerah_lesson10",
+    "title": {
+      "ar": "📘 سيرة النبي – الدرس 10:",
+      "fr": "Sira – Leçon 10 : L'année 7 de l'Hégire",
+      "en": "Seerah – Lesson 10: Events of the 7th Hijri Year"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما الحدث العسكري الذي وقع بعد غزوة الأحزاب مباشرة؟",
+      "options": [
+        "غزوة بدر",
+        "غزوة أحد",
+        "قتال اليهود في خيبر",
+        "عمرة القضاء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "بعد غزوة الأحزاب، وقع قتال اليهود في خيبر، وهو أقوى تجمع لهم.",
+      "textReference": "قتال خيبر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "لماذا كانت القبائل المحاربة لا تستهدف قتال المسلمين مباشرة بعد خيبر؟",
+      "options": [
+        "لأن المسلمين أقوياء بعد خيبر",
+        "لأنهم كانوا يفتقرون للأسلحة",
+        "لأنهم كانوا على وشك الهجرة",
+        "لأنهم سلموا للإسلام"
+      ],
+      "correctAnswer": 0,
+      "explanation": "بعد هزيمة خيبر، صار للمسلمين هيبة وشكيمة مما حد من محاولات القبائل.",
+      "textReference": "هيبة المسلمين بعد خيبر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما الهدف من إرسال النبي صلى الله عليه وسلم للسرية ضد من يجمع على المدينة؟",
+      "options": [
+        "لتعليم الصحابة الحرب",
+        "لإظهار القوة ودرء الغارات",
+        "لجمع الغنائم فقط",
+        "للتفاوض مع القبائل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النبي صلى الله عليه وسلم أرسل سرايا لردع أي محاولة اعتداء على المدينة.",
+      "textReference": "إرسال السرية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "متى وقعت عمرة القضاء؟",
+      "options": [
+        "السنة السادسة للهجرة",
+        "السنة السابعة للهجرة",
+        "السنة الثامنة للهجرة",
+        "قبل فتح مكة مباشرة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "أدى النبي صلى الله عليه وسلم وأصحابه عمرة القضاء في السنة السابعة للهجرة.",
+      "textReference": "عمرة القضاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "من الصحابي الذي قاد الخيل أمام النبي صلى الله عليه وسلم في عمرة القضاء؟",
+      "options": [
+        "علي بن أبي طالب",
+        "محمد بن مسلم",
+        "عثمان بن عفان",
+        "عبد الله بن عباس"
+      ],
+      "correctAnswer": 1,
+      "explanation": "محمد بن مسلم رضي الله عنه قاد الخيل أثناء عمرة القضاء.",
+      "textReference": "قيادة الخيل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما الغاية من إظهار المسلمين بمظهر القوة أثناء العمرة؟",
+      "options": [
+        "لتعليم الناس الطواف",
+        "لإرهاب المشركين",
+        "لجمع الزكاة",
+        "لتسجيل أسماء الصحابة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النبي صلى الله عليه وسلم أراد إظهار قوة المسلمين لإرهاب قريش ودرء الغارات.",
+      "textReference": "إظهار القوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "متى تزوج النبي صلى الله عليه وسلم ميمونة بنت الحارث؟",
+      "options": [
+        "قبل غزوة الأحزاب",
+        "أثناء عمرة القضاء",
+        "بعد فتح مكة مباشرة",
+        "في السنة السادسة للهجرة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "تزوج النبي صلى الله عليه وسلم ميمونة بنت الحارث رضي الله عنها أثناء عمرة القضاء.",
+      "textReference": "زواج ميمونة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الفائدة الروحية من أداء عمرة القضاء؟",
+      "options": [
+        "تحقيق وعد الله للنبي وأصحابه",
+        "جمع الغنائم",
+        "تدريب على القتال",
+        "اختبار الصبر فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العمرة كانت تصديقًا للرؤيا التي وعد الله بها النبي صلى الله عليه وسلم.",
+      "textReference": "الفائدة الروحية للعمرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما أثر العمرة على أهل مكة بعد رؤيتهم للمسلمين؟",
+      "options": [
+        "أثار الخوف والإرهاب",
+        "زادوا في العداوة",
+        "تركوا مكة كلها",
+        "اعتنق الجميع الإسلام مباشرة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "رؤية قوة المسلمين جعلت المشركين يشعرون بالضعف والخوف أمامهم.",
+      "textReference": "أثر العمرة على مكة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما سبب خروج النبي صلى الله عليه وسلم بعد انتهاء مدة الاتفاق مع قريش؟",
+      "options": [
+        "احترام الموعد المتفق عليه",
+        "هروب من مكة",
+        "لتجمع القبائل ضد المدينة",
+        "لجمع الزكاة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النبي صلى الله عليه وسلم احترم مدة الأيام الثلاثة التي وقع الاتفاق عليها مع قريش.",
+      "textReference": "احترام الاتفاق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "كم بدنة كانت هدية النبي صلى الله عليه وسلم أثناء عمرة القضاء؟",
+      "options": [
+        "20 بدنة",
+        "40 بدنة",
+        "60 بدنة",
+        "80 بدنة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "كان مع النبي صلى الله عليه وسلم هدية مكونة من 60 بدنة يسوقها ناجي بن جندب الأسلمي.",
+      "textReference": "هدية العمرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "من استلم الركن وأتم السعي بين الصفا والمروة؟",
+      "options": [
+        "علي بن أبي طالب",
+        "جعفر بن أبي طالب",
+        "النبي صلى الله عليه وسلم",
+        "عبد الله بن عباس"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النبي صلى الله عليه وسلم استلم الركن وأتم السعي بين الصفا والمروة.",
+      "textReference": "السعي بين الصفا والمروة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما معنى تسمية العمرة بـ 'عمرة القضاء'؟",
+      "options": [
+        "لتكملة العمرة السابقة",
+        "لتصحيح صلح الحديبية",
+        "لإتمام أحكام القضاء",
+        "لتحقيق الغنائم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "سميت عمرة القضاء لأنها تمت بعد اتفاق الحديبية وتحققت وعد الله.",
+      "textReference": "تسمية العمرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما الذي أظهره النبي صلى الله عليه وسلم للقبائل المشركة أثناء العمرة؟",
+      "options": [
+        "ضعف المسلمين",
+        "سلام المسلمين",
+        "قوة المسلمين وعتادهم",
+        "تنظيم الحج"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النبي أراد إظهار القوة لإرهاب المشركين ومنع أي اعتداء.",
+      "textReference": "إظهار القوة للقبائل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "أي صحابي كان مسؤولا عن رعاية الهدي أثناء العمرة؟",
+      "options": [
+        "ناجي بن جندب الأسلمي",
+        "محمد بن مسلم",
+        "علي بن أبي طالب",
+        "جعفر بن أبي طالب"
+      ],
+      "correctAnswer": 0,
+      "explanation": "راعى ناجي بن جندب الأسلمي الهدي الذي كان مع النبي صلى الله عليه وسلم.",
+      "textReference": "رعاية الهدي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما الهدف من إخراج المسلمين بمظهر القوة والعدة؟",
+      "options": [
+        "التظاهر فقط",
+        "إرهاب الكفار وتحذيرهم",
+        "إظهار الفقراء",
+        "إجراء سباق بين القبائل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "كان الهدف إظهار قوة المسلمين وإرهاب المشركين للحيلولة دون أي اعتداء.",
+      "textReference": "إظهار القوة والإرهاب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ماذا تحقق للمسلمين بعد العمرة المباركة؟",
+      "options": [
+        "فتح مكة مباشرة",
+        "تصديق الرؤيا والهيبة للمسلمين",
+        "هزيمة المسلمين",
+        "خروج القبائل من المدينة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "تحققت الرؤيا وتمت الهيبة للمسلمين بعد العمرة، تمهيدًا لفتح مكة.",
+      "textReference": "تحقق الرؤيا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "من من كبار الصحابة أسلم بعد العمرة بسبب تأثيرها؟",
+      "options": [
+        "خالد بن الوليد",
+        "عمرو بن العاص",
+        "عثمان بن طلحة",
+        "جميع ما سبق"
+      ],
+      "correctAnswer": 3,
+      "explanation": "أسلم خالد بن الوليد وعمرو بن العاص وعثمان بن طلحة بعد رؤية قوة المسلمين.",
+      "textReference": "إسلام كبار الصحابة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "أين تزوج النبي صلى الله عليه وسلم ميمونة بعد العمرة؟",
+      "options": [
+        "المدينة",
+        "صرف",
+        "مكة",
+        "خارج الحجاز"
+      ],
+      "correctAnswer": 1,
+      "explanation": "تزوج النبي صلى الله عليه وسلم ميمونة في صرف، على بعد 12 كم من مكة.",
+      "textReference": "زواج ميمونة في صرف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما الدرس الشرعي من تجهيز النبي صلى الله عليه وسلم لهبته وعدته أثناء العمرة؟",
+      "options": [
+        "التسلح لمواجهة الغدر",
+        "التخطيط المالي للغنائم",
+        "تعليم الغنم للرعية",
+        "توفير الطعام للصحابة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النبي أعد عدته وهبته لتعليم أمته أخذ الحيطة والحذر من غدر المشركين.",
+      "textReference": "درس التسلح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما معنى الوفاء بالعهد في أحداث عمرة القضاء؟",
+      "options": [
+        "عدم الخروج قبل انتهاء المدة المتفق عليها",
+        "ترك المدينة فوراً",
+        "الهروب من القتال",
+        "جمع الغنائم"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النبي صلى الله عليه وسلم خرج بعد انتهاء الأيام الثلاث المقررة مع قريش احترامًا للعهد.",
+      "textReference": "الوفاء بالعهد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما السبب في اختيار النبي صلى الله عليه وسلم لعدد من الصحابة للقيام بالسرية؟",
+      "options": [
+        "لمهارتهم في القتال",
+        "للتفاوض",
+        "لتعليمهم الطواف",
+        "لجمع الهدايا"
+      ],
+      "correctAnswer": 0,
+      "explanation": "اختار النبي الصحابة للسرية لمهارتهم وقدرتهم على مواجهة أي خطر.",
+      "textReference": "اختيار الصحابة للسرية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما الذي دل على تماسك المسلمين وقوتهم بعد العمرة؟",
+      "options": [
+        "ظهور الهيبة أمام القبائل",
+        "قيام الغارات على مكة",
+        "هروب الصحابة",
+        "التوقف عن القتال"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ظهور قوة المسلمين بعد العمرة أظهر تماسكهم أمام المشركين.",
+      "textReference": "تماسك المسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما الدليل على تصديق الله لرؤيا النبي صلى الله عليه وسلم؟",
+      "options": [
+        "تحقيق دخول مكة والطواف بالبيت",
+        "هزيمة المسلمين في خيبر",
+        "تفاوض مع القبائل",
+        "هروب المشركين من المدينة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "تحقق وعد الله للنبي وأصحابه في أداء العمرة والطواف بالبيت.",
+      "textReference": "تصديق الرؤيا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما الهدف من إرسال سرايا النبي صلى الله عليه وسلم أثناء السنة السابعة للهجرة؟",
+      "options": [
+        "لمراقبة القبائل وحماية المدينة",
+        "جمع الغنائم فقط",
+        "تعليم الصحابة الطواف",
+        "الهجرة إلى المدينة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "أرسل النبي سرايا لرصد تحركات القبائل وحماية المدينة من أي غارات.",
+      "textReference": "إرسال السرية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما الذي يوضح الحكمة من خطة النبي صلى الله عليه وسلم أثناء العمرة؟",
+      "options": [
+        "التخطيط العسكري والمواجهة الذكية",
+        "جمع الغنائم",
+        "تعليم الطواف",
+        "إظهار الزينة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النبي خطط بحكمة لتفادي الصدام المباشر مع قريش وإظهار القوة.",
+      "textReference": "حكمة الخطة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما أثر العمرة على مكانة النبي صلى الله عليه وسلم بين القبائل؟",
+      "options": [
+        "زداد احترامه وهيبته",
+        "أضعفت مكانته",
+        "لم تتغير",
+        "أدى لخروجه من المدينة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "بعد العمرة، ارتفعت هيبة النبي وقوة المسلمين بين القبائل.",
+      "textReference": "مكانة النبي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما سبب اختيار عمرة القضاء في ذلك التوقيت؟",
+      "options": [
+        "لتصحيح ما فات من العمرة السابقة",
+        "لتعليم الصبر",
+        "لجمع الغنائم",
+        "للتفاوض مع القبائل"
+      ],
+      "correctAnswer": 0,
+      "explanation": "اختيرت عمرة القضاء لتتمم العمرة التي لم يستطع المسلمون القيام بها في وقت سابق.",
+      "textReference": "توقيت العمرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما أهم درس للمسلمين من أحداث العمرة والسرية؟",
+      "options": [
+        "أهمية التخطيط والحذر",
+        "الانسحاب من القتال",
+        "جمع الغنائم فقط",
+        "تعليم الطواف"
+      ],
+      "correctAnswer": 0,
+      "explanation": "تعلم المسلمون من العمرة والسرية التخطيط السليم وأخذ الحيطة.",
+      "textReference": "الدرس للمسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "كيف أظهرت الأحداث في السنة السابعة للهجرة حكمة النبي صلى الله عليه وسلم؟",
+      "options": [
+        "بالتخطيط العسكري والروحانية",
+        "بجمع الغنائم فقط",
+        "بهزيمة المسلمين",
+        "بترك المدينة دون حماية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النبي جمع بين التخطيط العسكري والبعد الروحي في جميع أحداث السنة السابعة.",
+      "textReference": "حكمة النبي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec10seerahs1.html#sent30"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "aqida_lesson9",
+    "title": {
+      "ar": "الدرس 9 –  ",
+      "fr": "Aqida – Leçon 9 : Introduction de Tal’ al-Bushra",
+      "en": "Aqida – Lesson 9: Introduction of Tal’ al-Bushra"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما المقصود بقول المصنف: «فمما يجب لمولانا جل وعز»؟",
+      "options": [
+        "الحصر في عشر صفات فقط",
+        "التبعيض، أي بعض ما يجب لله لا كله",
+        "أن هذه الصفات هي كل صفات الله",
+        "أن الصفات مستحيلة المعرفة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص يوضح أن (من) للتبعيض، أي أن المذكور بعض الصفات لا جميعها.",
+      "textReference": "شرح معنى من التبعيضية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "لماذا لم يقصد الأشاعرة حصر صفات الله في 20 صفة؟",
+      "options": [
+        "لأن الصفات الواجبة قليلة",
+        "لأن بقية الصفات ليست كمالًا",
+        "لأن صفات الله غير متناهية ولا يمكن حصرها",
+        "لأن العقل لا يستطيع إدراك أي صفة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يقرر أن كمالات الله غير متناهية، وبالتالي الصفات غير محصورة.",
+      "textReference": "صفات الله غير محصورة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما تسمية الصفات العشرين عند علماء الكلام؟",
+      "options": [
+        "الصفات الجزئية",
+        "الصفات غير المفهومة",
+        "أمهات الصفات",
+        "الصفات العرضية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص صرّح بأنها تسمى أمهات الصفات لأنها كليات تندرج تحتها باقي الصفات.",
+      "textReference": "تسمية الصفات العشرين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما سبب الاقتصار على الصفات العشرين في التعليم؟",
+      "options": [
+        "لصعوبتها",
+        "لأنها منصوص عليها شرعًا فقط",
+        "لأن العقل والنقل دلّا عليها",
+        "لأنها سهلة الحفظ فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يقرر أن الصفات العشرين هي التي قام عليها دليل عقلي أو نقلي.",
+      "textReference": "سبب الاقتصار",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "أيّ قسم من أقسام الصفات الواجبة يندرج تحته صفة الوجود؟",
+      "options": [
+        "السلبية",
+        "المعنوية",
+        "المعاني",
+        "النفسية"
+      ],
+      "correctAnswer": 3,
+      "explanation": "النص: القسم الأول صفة نفسية واحدة وهي الوجود.",
+      "textReference": "القسم الأول للصفات",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما تعريف صفة الوجود كما ورد في الدرس؟",
+      "options": [
+        "الوجود في الذهن فقط",
+        "الحصول والثبوت في الخارج",
+        "التخيّل الذهني",
+        "الظهور الحسي فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المصنف عرّف الوجود بأنه الحصول والثبوت في الخارج لا الذهن.",
+      "textReference": "تعريف الوجود",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "لماذا يشترط العلماء أن يكون الوجود «خارج الذهن»؟",
+      "options": [
+        "لأنه لا وجود في الواقع",
+        "لتجنب مساواة الخيال بالوجود الحقيقي",
+        "لأن الخيال أصل الوجود",
+        "لأن الأشياء موجودة في الذهن فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص ذكر أمثلة الغول والعنقاء؛ موجودة ذهنيًا لا خارجيًا.",
+      "textReference": "أهمية الوجود الخارجي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "لماذا قال العلماء: «بحيث يصح أن يرى» ولم يقولوا «يرى»؟",
+      "options": [
+        "لأن الرؤية شرط الوجود",
+        "لأن الوجود لا يعني إمكانية الرؤية",
+        "لأن ما لا يُرى لا وجود له",
+        "لأن المخلوق وحده يُرى"
+      ],
+      "correctAnswer": "لأن الوجود لا يعني ضرورة الرؤية، بل إمكانها إذا زال المانع",
+      "explanation": "النص: يصح أن يرى ولو لم نره الآن كما في الملائكة والجن.",
+      "textReference": "معنى يصح أن يرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما المقصود بقول العلماء إن الله «يصح أن يُرى»؟",
+      "options": [
+        "يمكن رؤيته في الدنيا",
+        "يستحيل رؤيته مطلقًا",
+        "يمكن رؤيته إذا شاء الله كما في الجنة",
+        "رؤيته مختصة بالأنبياء فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يشير إلى أنه لو رفع الحجاب لرأيناه كما أُذن للنبي في المعراج.",
+      "textReference": "إمكان رؤية الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما الذي يقابل الوجود؟",
+      "options": [
+        "الحضور",
+        "العدم",
+        "الخيال",
+        "الحركة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: يقابل الوجود العدم.",
+      "textReference": "تقابل الوجود والعدم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "كيف يصف العلماء وجود الله عز وجل؟",
+      "options": [
+        "وجودًا عرضيًا",
+        "وجودًا ذهنيًا",
+        "وجودًا ذاتيًا له لا يحتاج إلى موجد",
+        "وجودًا حادثًا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: وجود الله ذاتي، لم يحتج إلى موجد.",
+      "textReference": "وجود الله الذاتي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "لماذا لا يصح تشبيه وجود الله بوجود الحوادث؟",
+      "options": [
+        "لأن الحوادث أزلية",
+        "لأن الله جسم",
+        "لأن وجوده ذاتي ووجود المخلوقات حادث محتاج",
+        "لأن العالم ليس موجودًا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يقرر أن وجود الحوادث محتاج إلى موجد بخلاف وجود الله.",
+      "textReference": "عدم التشبيه",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما الدليل على أن العالم حادث؟",
+      "options": [
+        "لأنه موجود بلا بداية",
+        "لأنه كان معدومًا ثم وجد",
+        "لأنه غير محسوس",
+        "لأنه كامل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص ذكر أن الحوادث كانت عدمًا ثم وُجدت.",
+      "textReference": "دليل حدوث العالم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما معنى قول العلماء: «كان الله ولا شيء معه»؟",
+      "options": [
+        "أن العالم أزلي",
+        "أن الله محتاج إلى العالم",
+        "أن الله موجود وحده قبل خلق الخلق",
+        "أن الخلق قديم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: كان الله ولا شيء غيره.",
+      "textReference": "كان الله ولا شيء معه",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما المقصود بأن وجود الحوادث «طارئ»؟",
+      "options": [
+        "أنه أزلي",
+        "أنه ذاتي",
+        "أنه محتاج إلى مُحدث",
+        "أنه مكتفٍ بنفسه"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: وجود الحوادث عارض لها واحتاجت إلى موجد.",
+      "textReference": "وجود الحوادث الطارئ",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "لماذا لا يقبل وجود الله العدم في الأزل ولا في الأبد؟",
+      "options": [
+        "لأنه حادث",
+        "لأن وجوده ذاتي",
+        "لأنه مخلوق",
+        "لأن العالم أزلي"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: من كان وجوده ذاتيًا لا يسبقه عدم ولا يلحقه عدم.",
+      "textReference": "عدم قبول العدم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما معنى الأزل؟",
+      "options": [
+        "استمرار الوجود بلا بداية",
+        "استمرار الوجود بلا نهاية",
+        "العدم المطلق",
+        "الحضور الذهني"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص يعرّف الأزل بأنه وجود بلا بداية.",
+      "textReference": "تعريف الأزل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما معنى الأبد؟",
+      "options": [
+        "العدم",
+        "بداية الوجود",
+        "استمرار الوجود بلا نهاية",
+        "وجود في الذهن فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: الأبد استمرار الوجود في المستقبل بلا نهاية.",
+      "textReference": "تعريف الأبد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "أي صيغة تعبر عن كمال وجود الله كما ورد في النص؟",
+      "options": [
+        "الله موجود أزلا وأبدا",
+        "الله موجود زمنًا محدودًا",
+        "الله موجود بعد العالم",
+        "الله موجود قبل مدة معينة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص صرّح بالعبارة: الله موجود أزلا وأبدا.",
+      "textReference": "وجود الله أزلا وأبدا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما العلاقة بين العقل والصفات الواجبة؟",
+      "options": [
+        "العقل لا يفيد فيها",
+        "العقل وحده يكفي لمعرفة جميع الصفات",
+        "العقل قد يدل على بعضها، والنقل يكملها",
+        "لا علاقة بين العقل والصفات"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: الصفات العشرون ما دلّ عليها العقل أو النقل.",
+      "textReference": "دلالة العقل والنقل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "لماذا لا نكلف بمعرفة كل صفات الله تفصيلًا؟",
+      "options": [
+        "لأنها محدودة",
+        "لأنها غير موجودة",
+        "لأنها غير منقولة ولا يمكن للعقل إدراكها جميعًا",
+        "لأنها خاصة بالأنبياء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: ما لم يدل عليه عقل ولا نقل لا نكلف بمعرفته.",
+      "textReference": "سبب عدم التكليف التفصيلي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما الحدّ الأدنى للإيمان ببقية الصفات غير المذكورة ضمن العشرين؟",
+      "options": [
+        "تفصيل كل صفة",
+        "حفظ جميع الأسماء",
+        "الإيمان إجمالًا بأن لله صفات لا تتناهى",
+        "عدم الإيمان بأي صفة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: يكفي الإيمان إجمالًا بأن لله كمالات لا تتناهى.",
+      "textReference": "الإيمان الإجمالي بالصفات",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "لماذا لم يقل المصنف «من» في باب الجائز كما قال في الواجب والمستحيل؟",
+      "options": [
+        "لأن الجائز قليل",
+        "لأن الجائز منحصر في ما سيذكره فقط",
+        "لأنه نسي ذكرها",
+        "لأن الجائز لا وجود له"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: حذف (من) إشارة إلى انحصار الجائز في المذكور.",
+      "textReference": "سر حذف من في الجائز",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "كم عدد الصفات السلبية في الصفات العشرين؟",
+      "options": [
+        "ثلاث",
+        "أربع",
+        "خمس",
+        "سبع"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: خمس صفات سلبية ضمن أقسام الصفات الواجبة.",
+      "textReference": "عدد الصفات السلبية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما القسم الذي يشتمل على سبع صفات ويختص بمعاني تقوم بالذات؟",
+      "options": [
+        "النفسية",
+        "السلبية",
+        "المعاني",
+        "المعنوية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: سبع صفات معان.",
+      "textReference": "صفات المعاني",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما القسم الذي يشتمل على سبع صفات تدل على تحقق آثار الصفات في الخارج؟",
+      "options": [
+        "النفسية",
+        "المعنوية",
+        "السلبية",
+        "الجوهرية"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المعنوية هي صفات تدل على تحقق آثار صفات المعاني.",
+      "textReference": "صفات المعنوية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "أيّ العبارات التالية تعكس الفرق بين وجود الله ووجودنا؟",
+      "options": [
+        "وجود الله سبق بخلق، ووجودنا ذاتي",
+        "وجود الله ذاتي، ووجودنا مسبوق بالعدم",
+        "نحن لا نحتاج إلى موجد، والله يحتاج",
+        "كلا الوجودين متماثلان"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص يفرق بين الوجود الذاتي والوجود الحادث.",
+      "textReference": "الفرق بين الوجودين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما أثر الإيمان بصفة الوجود في بناء العقيدة؟",
+      "options": [
+        "يوجب التشبيه",
+        "ينفي وجود العالم",
+        "يقرر استقلال وجود الله عن خلقه",
+        "يجعل وجوده محدودًا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "صفة الوجود أساس التنزيه وإثبات استقلال ذات الله.",
+      "textReference": "أثر صفة الوجود",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "أيّ مما يلي يعدّ وصفًا لوجود الحوادث؟",
+      "options": [
+        "بلا بداية",
+        "ذاتي",
+        "معتمد على موجد",
+        "لا يقبل الانعدام"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: وجود الحوادث بتأثير الله وفعله.",
+      "textReference": "الحوادث واعتمادها",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الخلاصة التي يمكن استنتاجها من درس صفة الوجود؟",
+      "options": [
+        "أن وجود الله كوجودنا تمامًا",
+        "أن وجود الله ذاتي أزلي أبدي، ووجود الخلق حادث محتاج",
+        "أن المخلوقات أزلية",
+        "أن الوجود ينحصر في الذهن"
+      ],
+      "correctAnswer": 1,
+      "explanation": "هذه خلاصة الدرس وتقرير أصله.",
+      "textReference": "الخلاصة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec9aqida9s1.html#sent30"
+    }
+  ]
+}

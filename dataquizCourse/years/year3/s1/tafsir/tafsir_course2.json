@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "slug": "tafsir",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة التفسير السنة الثالثة (الدرس الثاني: تفسير سورة الفاتحة)",
+      "fr": "Examen de Tafsir - Année 3 (Cours 2)",
+      "en": "Tafsir Exam - Year 3 (Lesson 2)"
+    },
+    "totalQuestions": 10
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "سورة الفاتحة هي سورة مكية، وقد نزلت تحديداً بعد:",
+      "options": ["سورة المدثر", "سورة العلق", "سورة المزمل"],
+      "correctAnswer": 0,
+      "answerReason": "Le texte indique explicitement que la sourate Al-Fatiha est mecquoise et qu'elle a été révélée après la sourate Al-Muddaththir[cite: 28].",
+      "textReference": "صوره الفاتحه هي مكية. وائل مراد بالمكيه. على اختلاف ماالمراد بالمكي؟ وما المرادبالمدني؟والراجح بأن المراد بالمكي ما نزل؟في مك. ونزلت هذهالصورة بعد صورة المدثرعدد آياتها. سبع آيات بالاتفاق.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "عدد آيات سورة الفاتحة سبع آيات بالاتفاق، وهي واجبة التعبد بها في صلاة كل مسلم مكلف.",
+      "correctAnswer": true,
+      "answerReason": "Le texte confirme que le nombre de ses versets est de sept à l'unanimité et qu'elle est obligatoire dans le plus important pilier de l'islam qu'est la prière[cite: 28].",
+      "textReference": "عدد آياتها سبع آيات بالاتفاق، ومن أسمائها... وهي صورة يجب على كل مسلم مكلف حفظها والتعبد بها في أهم ركن من أركانالإسلام الذي هو الصلاة",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "أكمل من أسماء سورة الفاتحة المذكورة في النص: أم القرآن، أم الكتاب، والـ …………",
+      "correctAnswer": "السبع المثاني",
+      "answerReason": "Le texte cite les noms de la sourate Al-Fatiha dont « Umm Al-Qur'an », « Umm Al-Kitab » et « As-Sab' Al-Mathani »[cite: 28].",
+      "textReference": "ومن أسمائها أي منأسماء سورة الفاتحة، أمالقرآن، وأم الكتاب، والسبع المثاني.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "المراد بلفظ (العالمين) في قوله تعالى (رب العالمين) هو:",
+      "options": [
+        "جميع المخلوقات من إنس وجن وملائكة ودواب وغيرهم",
+        "المخلوقات العاقلة من البشر والملائكة فقط دون البقية",
+        "الكون الفضائي والكواكب السماوية وحدها"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "Le texte définit « Al-Alamin » comme l'ensemble des créatures (les djinns, les hommes, les anges, les animaux, etc.)[cite: 28].",
+      "textReference": "العلمي. المراد بها. جميع المخلوقات من إنس وجن، والملائكة،والدواب،وغيرهم.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "قوله تعالى (إياك نعبد وإياك نستعين) يفيد تخصيص الله عز وجل وحده بالعبادة وطلب المعونة.",
+      "correctAnswer": true,
+      "answerReason": "Le texte explique que ce verset désigne la spécificité d'adorer Allah Unik et de Lui demander l'aide[cite: 28].",
+      "textReference": "الموضوعات التي تطرقت لها صورة الفاتحة تخصيص الله عز وجل وحدة بالعبادة. قالالله تعالى. إياك نعبد وإياك نستعين. اي. نخصك وحدك. بالعبادة منالتوحيد وغيره. ونطلب منكالمعونة على العبادةوغيرها",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "المقصود بـ (المغضوب عليهم) في قوله تعالى (غير المغضوب عليهم) بحسب التفسير هم:",
+      "options": [
+        "الذين فسدت إرادتهم فعلموا الحق وعدلوا عنه",
+        "الذين فقدوا العلم وهم هائمون في الضلالة لا يهتدون",
+        "المشركون الجاحدون لوجود الخالق بالمطلق"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "Le texte définit les « Maghdoub 'alayhim » comme ceux dont la volonté est corrompue : ils ont connu la vérité mais s'en sont détournés[cite: 28].",
+      "textReference": "غير المغضوب عليهم. يقول ابن كثير. غير الصراط المغضوب عليهم، أي الذين فسدت إرادتهم،فعلموا الحق، وعدلوا عنه. هم علموا الحق، ولكن. عدلوا عنه.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "المراد بالضالين في قوله (ولا الضالين) هم الذين عرفوا الحق بدقة ولكنه جحدوه عن تكبر وعناد.",
+      "correctAnswer": false,
+      "answerReason": "Le texte indique que les « Dâllûn » sont ceux qui ont perdu la science et errent dans l'égarement sans trouver le droit chemin, et non pas ceux qui ont connu la vérité par obstination (qui correspondent plutôt aux المغضوب عليهم)[cite: 28].",
+      "textReference": "ولا صراط الضالين. وهم الذين. فقدوا العلم، فهم هائمون في الضلالة، لا يهتدون إلى الحق.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "تتضمن سورة الفاتحة ثلاثة مواضيع رئيسية كبرى، وهي:",
+      "options": [
+        "الثناء على الله تعالى، تخصيصه بالعبادة، والدعاء بالهداية والاستقامة",
+        "أهوال يوم القيامة، نعيم الجنة، وجحيم النار",
+        "قصص الأنبياء السابقين، الأحكام التشريعية، والأخلاق الفاضلة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "Le texte segmente explicitement les sujets de la sourate Al-Fatiha en trois thèmes : l'éloge d'Allah, la consécration de l'adoration à Lui seul, et l'invocation pour la guidance[cite: 28].",
+      "textReference": "واشتملت صورة الفاتحة. على. ثلاث مواضيع... الموضوع الأول... الثناء على الله تعالى... الموضوع الثاني... تخصيص الله عز وجل وحدة بالعبادة... ثالثا... الدعاءبالهداية والاستقامة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "fill",
+      "question": "أكمل: \"المراد بالصراط المستقيم في قوله تعالى (اهدنا الصراط المستقيم) هو طريق الـ ………… الذي لا عوجاج فيه.\"",
+      "correctAnswer": "الإسلام",
+      "answerReason": "Le texte définit le droit chemin (As-Sirat al-Mustaqim) comme étant la voie de l'islam sans aucune déviation[cite: 28].",
+      "textReference": "اي. إرشدنا إلىالطريق المستقيم. ياالله الذي لاعوجاج فيه،وهو طريق الإسلام.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "matching",
+      "question": "أجب بـ (صح أو خطأ) عما يلي بناءً على تفسير سورة الفاتحة:",
+      "options": [
+        "كلمة (الحمد) تعني الثناء بالجميل على الله تعالى على جهة التعظيم",
+        "خُصّ يوم الجزاء بالذكر في (مالك يوم الدين) لأنه لا ملك ظاهراً فيه لأحد إلا لله تعالى",
+        "العبادة في الاصطلاح الشرعي تعني مجرد أداء الحركات البدنية بمعزل عن محبة الله والخوف منه",
+        "تهدف سورة الفاتحة بالمملخص إلى توحيد الله وإفراده بالعبادة وطلب العون والهداية"
+      ],
+      "correctAnswer": [true, true, false, true],
+      "answerReason": "Le texte indique que l'adoration (Al-'ibada) regroupe l'ensemble de l'amour parfait, de la soumission aux commandements et de la crainte d'Allah, et non de simples mouvements sans esprit, tandis que les autres propositions sont textuellement exactes[cite: 28].",
+      "textReference": "والمراد بالحمدالثناء بالجميل على الله تعالى على جهةالتعظيم... وخص هذا اليوم بالذكر لأنه لا ملك ظاهر ا فيه لأحد إلا لله تعالى... والعباده. عذاره. عما؟ يجمع كمال محبته والخضوعلأحكامه. والخوف منه عز وجل... وخلاصه سورة الفاتحة. إنها تهدف إلى توحيد الله عز وجل... وإفراده وحدةبالعبادة وطلب العونوالهداية",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs2.html#sent1"
+    }
+  ]
+}

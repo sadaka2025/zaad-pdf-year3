@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "slug": "hadith",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة الحديث السنة الثالثة (الدرس الأول: مدخل لعلم مصطلح الحديث والبيقونية)",
+      "fr": "Examen de Hadith - Année 3 (Cours 1)",
+      "en": "Hadith Exam - Year 3 (Lesson 1)"
+    },
+    "totalQuestions": 10
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "الكتاب المقرر شرحه في مادة مصطلح الحديث في هذا المستوى هو شرح الإمام الزرقاني على:",
+      "options": ["ألفية العراقي", "المنظومة البيقونية", "نخبة الفكر"],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن الكتاب المقرر هو شرح الإمام الزرقاني على المنظومة البيقونية[cite: 39].",
+      "textReference": "نبدأ في كتاب المقرر في هذه المادة مادة مصطلح الحديث وهو كتاب شرح الزرقاني على المنظومة البيقونية.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "عدد أبيات المنظومة البيقونية تقريباً هو:",
+      "options": ["32 بيتاً", "62 بيتاً", "100 بيت"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن المنظومة البيقونية تقارب 32 بيتاً[cite: 39].",
+      "textReference": "المنظومة البيقونية ما يقارب 32 بيتا، وجاء الإمام الالبيقوني هو شرحها كذلك.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "أكمل تعريف (علم الحديث) اصطلاحاً: هو علم بقوانين يعرف بها أحوال السند والمتن من صحة وحسن وضعف و………… وعلّو ونزول.",
+      "correctAnswer": "وضعف",
+      "answerReason": "النص يذكر تعريف علم الحديث وقوانينه الدقيقة[cite: 39].",
+      "textReference": "هو علم بقوانين أي قواعد يعرف بها أحوال السند والمتن من صحة وحسن وضعف وعلو ونزول، وكيفية التحمل والأداء، وصفات الرجال وغير ذلك.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "المقصود بـ (السند) في اصطلاح المحدثين هو:",
+      "options": [
+        "ما انتهى إليه متن الكلام والحديث",
+        "الإخبار عن طريق المتن ورجاله الموصلين إليه",
+        "المعنى العام المستنبط من الحديث"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن السند هو الإخبار عن طريق المتن وسلسلة رواته[cite: 39].",
+      "textReference": "السند والسند الإخبار عن طريق المتن... فلان عن فلان، عن فلان، فذاك يسمى سند الحديث.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "الحديث الذي أضيف إلى النبي صلى الله عليه وسلم من قول أو فعل أو تقرير يسمى حديثاً:",
+      "options": ["مرفوعاً", "موقوفاً", "مقطوعاً"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن ما أضيف إلى النبي صلى الله عليه وسلم يسمى حديثاً مرفوعاً[cite: 39].",
+      "textReference": "أي حاجة أضفناها، نقول قال رسول الله رأينا رسول الله فعل رسول الله. هذيرفعناه يسمى حديث مرفوع.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "الحديث الموقوف هو ما أُضيف إلى الصحابي من قوله أو عمله.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن الموقوف هو قول الصحابي أو فعله[cite: 39].",
+      "textReference": "وأما لما نقول موقوف هو حديث لكن لم يقله النبي صلى الله عليه وسلم قاله الصحابة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "الحديث المقطوع في الاصطلاح هو ما أضيف إلى:",
+      "options": [
+        "النبي صلى الله عليه وسلم",
+        "الصحابي الجلي",
+        "التابعي أو تابع التابعي"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح أن المقطوع هو ما أضيف إلى التابعي أو من دونه[cite: 39].",
+      "textReference": "مقطوع قول التابعي. التابعي اتبعيا... فهذا يسمى حديث مقطوع.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "الحديث الذي رواه في كل طبقة جمع لا يمكن تواطؤهم على الكذب وعلمهم مستند إلى الحس هو الحديث:",
+      "options": ["المتواتر", "العزيز", "الغريب"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح تعريف الحديث المتواتر من حيث العدد[cite: 39].",
+      "textReference": "الحديث المتواتر، يعني الحديث رواه جمع من الصحابة، وهادول الجمع ما ننجُموش نحصروهم عدد لا يمكن حصرهم.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "truefalse",
+      "question": "الحديث الغريب هو ما انفراد بروايته راوٍ واحد في طبقة من طبقات الإسناد.",
+      "correctAnswer": true,
+      "answerReason": "النص يعرف الحديث الغريب بأنه الذي تفرد بروايته شخص واحد في أقل طبقة[cite: 39].",
+      "textReference": "أو الحديث الغريب اللي هو. فيه رجل واحد. عن صحابي واحد... فإذا في أقل طبقة من الطبقات سمى رجل واحد، نقول هذا حديث غريب.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "matching",
+      "question": "أجب بـ (صح أو خطأ) عما يلي بناءً على مقدمات علم مصطلح الحديث:",
+      "options": [
+        "الحديث الشاذ عند المحدثين هو ما يخالف فيه الراوي الثقة مجموعة من الثقات",
+        "الكتيب المساعد المقترح للتعرف على تراجم الأصحاب وتدوين السنة هو (مقدمات السنة) للشيخ مصطفى الجمودي",
+        "تقسيم الحديث من حيث القبول والرد يشمل الصحيح والحسن والضعيف والموضوع",
+        "المتن في اصطلاح الحديث هو سلسلة الرواة الموصلة إلى المتن حصراً"
+      ],
+      "correctAnswer": [true, true, true, false],
+      "answerReason": "النص يوضح أن المتن هو ما ينتهي إليه السند من الكلام والحديث نفسه (الزبدة) وليس سلسلة الرواة التي هي تعريف (السند)، وباقي العبارات صحيحة ومنصوص عليها[cite: 39].",
+      "textReference": "قالوا أن الحديث إذا يخالف مجموعة من الثقات يسمى شاذن... مقدمات السنة... تأليف سيدي الشيخ مصطفى الجمودي... الحديث المتواتر. مقبول... والمتن ما انتهى إليه غاية السند من الكلام.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/hadith/ec0hadiths1.html#sent1"
+    }
+  ]
+}

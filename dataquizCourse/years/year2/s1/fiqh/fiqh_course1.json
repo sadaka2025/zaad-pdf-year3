@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "slug": "fiqh_lesson1",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة الفقه الدرس الأول",
+      "fr": "Examen de Fiqh – Ibn Ashir & Al-Habl Al-Matin",
+      "en": "Fiqh Exam – Ibn Ashir & Al-Habl Al-Matin"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من أهداف هذا الدرس كما ورد في النص:",
+      "options": [
+        "دراسة باب الزكاة فقط",
+        "دراسة الزكاة والصوم في السداسي الأول والحج في الثاني",
+        "دراسة الصلاة فقط",
+        "دراسة أصول الفقه"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "المقرر يشمل الزكاة والصوم في السداسي الأول والحج في الثاني، كما ورد في النص: 'الجزء الأول سيكون للسنة الأولى ... والجزء الثاني للزكاة والصوم والحج.'",
+      "textReference": "المقرر يشمل الزكاة والصوم في السداسي الأول والحج في الثاني، كما ورد في النص: 'الجزء الأول سيكون للسنة الأولى ... والجزء الثاني للزكاة والصوم والحج.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "المقرر المعتمد هو الحبل المتين لابن عاشر فقط.",
+      "correctAnswer": false,
+      "answerReason": "المقرر المعتمد ليس الحبل المتين فقط، بل يشمل نصوص أخرى وفق خطة السنة.",
+      "textReference": "المقرر المعتمد ليس الحبل المتين فقط، بل يشمل نصوص أخرى وفق خطة السنة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "أكمل: \"العلم إن أعطيته كلك ………، وإن أعطيته بعضك ………\"",
+      "correctAnswer": "أعطاك بعضه / لم يعطك شيئًا",
+      "answerReason": "النصيحة في النص تقول: 'العلم إن أعطيته كلك سيعطيك بعضه، وإن أعطيته بعضك، لن يعطيك شيئًا.'",
+      "textReference": "النصيحة في النص تقول: 'العلم إن أعطيته كلك سيعطيك بعضه، وإن أعطيته بعضك، لن يعطيك شيئًا.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "open",
+      "question": "اذكر النصائح الثلاثة لطالب العلم المذكورة في النص.",
+      "correctAnswer": "الاجتهاد في الطلب، التحلي بجميل الأدب، التمذهب بلا تعصب",
+      "answerReason": "النص ذكر ثلاث نصائح أساسية: الاجتهاد في الطلب، التحلي بجميل الأدب، والتمذهب بلا تعصب.",
+      "textReference": "النص ذكر ثلاث نصائح أساسية: الاجتهاد في الطلب، التحلي بجميل الأدب، والتمذهب بلا تعصب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ولد الإمام مالك رحمه الله سنة:",
+      "options": ["93 هـ", "79 هـ", "190 هـ", "179 هـ"],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر: 'ولد رحمه الله سنة 93 للهجرة'.",
+      "textReference": "النص ذكر: 'ولد رحمه الله سنة 93 للهجرة'.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "ابن عاشر أشعري المعتقد، مالكي المذهب، جنيدي الطريقة.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح: 'ابن عاشر الأنصاري، منشأ الأشعري، معتقدًا مالكي مذهبا، الجنيدي طريقة وتصوفًا.'",
+      "textReference": "النص يوضح: 'ابن عاشر الأنصاري، منشأ الأشعري، معتقدًا مالكي مذهبا، الجنيدي طريقة وتصوفًا.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "ابن المؤقت سُمِّي بذلك لأنه …………………",
+      "correctAnswer": "ورث لقب التوقيت عن أسرته التي كانت تقوم بتسيير بيت التوقيت بالجامع اليوسفي بمراكش",
+      "answerReason": "النص يذكر: 'عرف بابن المؤقت لأنه ورث هذا اللقب عن أسرته التي كانت تقوم بتسيير بيت التوقيت بالجامع اليوسفي بمراكش.'",
+      "textReference": "النص يذكر: 'عرف بابن المؤقت لأنه ورث هذا اللقب عن أسرته التي كانت تقوم بتسيير بيت التوقيت بالجامع اليوسفي بمراكش.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "الزكاة هي القاعدة:",
+      "options": ["الأولى", "الثانية", "الثالثة", "الرابعة"],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح: 'الزكاة هي القاعدة الثالثة من قواعد الإسلام.'",
+      "textReference": "النص يوضح: 'الزكاة هي القاعدة الثالثة من قواعد الإسلام.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "truefalse",
+      "question": "فرضت الزكاة في الذهب والفضة والحبوب والثمار والأنعام.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر: 'فرضت الزكاة فيما يرتسم عين وحب وثمار ونعم.' العين تشمل الذهب والفضة، والحب الحبوب، والثمار والأنعام.",
+      "textReference": "النص يذكر: 'فرضت الزكاة فيما يرتسم عين وحب وثمار ونعم.' العين تشمل الذهب والفضة، والحب الحبوب، والثمار والأنعام.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "الثمار التي تجب فيها الزكاة عند المالكية هي …………",
+      "correctAnswer": "التمر والزبيب",
+      "answerReason": "النص يوضح: 'أما الثمار التي تجب فيها الزكاة عند السادة المالكية فهي التمر والزبيب فقط.'",
+      "textReference": "النص يوضح: 'أما الثمار التي تجب فيها الزكاة عند السادة المالكية فهي التمر والزبيب فقط.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "من القطان السبعة:",
+      "options": [
+        "الأرز، الذرة، العلس",
+        "الجلبان، الحمص، العدس",
+        "القمح، الشعير، السلت",
+        "الزيتون، السمسم، الفزل"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يذكر: 'أول القطان السبعة: الجلبان، الحمص، العدس، الفول، الترمد، البسلة، اللوبيا.'",
+      "textReference": "النص يذكر: 'أول القطان السبعة: الجلبان، الحمص، العدس، الفول، الترمد، البسلة، اللوبيا.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "open",
+      "question": "اذكر ذوات الزيوت الأربعة التي تجب فيها الزكاة.",
+      "correctAnswer": "السمسم، الزيتون، حب الفزل، القرطم",
+      "answerReason": "النص يذكر: 'ذوات الزيوت الأربعة: السمسم، الزيتون، حب الفزل، القرطم.'",
+      "textReference": "النص يذكر: 'ذوات الزيوت الأربعة: السمسم، الزيتون، حب الفزل، القرطم.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 13,
+      "type": "truefalse",
+      "question": "النصاب في الحبوب والثمار هو خمسة أوسق.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح: 'خمسة أوسق النصاب فيهما في فضة قل 200 درهما.'",
+      "textReference": "النص يوضح: 'خمسة أوسق النصاب فيهما في فضة قل 200 درهما.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "الوسق = ………… صاعًا، والصاع = ………… أمداد.",
+      "correctAnswer": "60 صاعًا، 4 أمداد",
+      "answerReason": "النص يوضح: 'الوسق 60 صاعًا، والصاع 4 أمداد.'",
+      "textReference": "النص يوضح: 'الوسق 60 صاعًا، والصاع 4 أمداد.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "النصاب في التمر والزبيب يعادل تقريبًا:",
+      "options": ["300 كغ", "600 كغ", "1000 كغ", "1200 كغ"],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح: 'خمسة أوسق يساوي تقريبًا 600 كيلوغرام.'",
+      "textReference": "النص يوضح: 'خمسة أوسق يساوي تقريبًا 600 كيلوغرام.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 16,
+      "type": "truefalse",
+      "question": "الزكاة في الزيتون تؤخذ من حبه لا من زيته.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح: 'ذوات الزيوت تخرج الزكاة من زيته لا من حبه.'",
+      "textReference": "النص يوضح: 'ذوات الزيوت تخرج الزكاة من زيته لا من حبه.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 17,
+      "type": "fill",
+      "question": "أكمل: \"وفي العين والأنعام حقت كل عام …………\"",
+      "correctAnswer": "بشرط كمال الحول",
+      "answerReason": "النص يوضح: 'وفي العين والأنعام حقت كل عام بشرط كمال الحول.'",
+      "textReference": "النص يوضح: 'وفي العين والأنعام حقت كل عام بشرط كمال الحول.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 18,
+      "type": "open",
+      "question": "متى تجب الزكاة في التمر والزبيب؟",
+      "correctAnswer": "عند الطيب (أي ظهور الحلاوة والتهيؤ للنضج)",
+      "answerReason": "النص يوضح: 'وفي التمر والزبيب بالطيب، أي ظهور الحلاوة والتهيؤ للنضج.'",
+      "textReference": "النص يوضح: 'وفي التمر والزبيب بالطيب، أي ظهور الحلاوة والتهيؤ للنضج.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "زكاة ما سقي بلا كلفة (بالمطر أو العيون):",
+      "options": ["نصف العشر", "العشر", "ربع العشر", "الخمس"],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح: 'زكاة ما سقي بلا كلفة هي العشر.'",
+      "textReference": "النص يوضح: 'زكاة ما سقي بلا كلفة هي العشر.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 20,
+      "type": "truefalse",
+      "question": "زكاة ما سقي بآلة أو مشقة (دواليب ودلاء) هي العشر.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح: 'زكاة ما سقي بمشقة كدواليب ودلاء هي نصف العشر.'",
+      "textReference": "النص يوضح: 'زكاة ما سقي بمشقة كدواليب ودلاء هي نصف العشر.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "question": "أكمل: \"وهي في الثمار والحب العشر، أو نصفه إن …………\"",
+      "correctAnswer": "إن آلت السقي جر",
+      "answerReason": "النص يوضح: 'أو نصفه إن آلت السقي جر.'",
+      "textReference": "النص يوضح: 'أو نصفه إن آلت السقي جر.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 22,
+      "type": "open",
+      "question": "اذكر أصناف الأنعام الثلاثة التي تجب فيها الزكاة.",
+      "correctAnswer": "الإبل، البقر، الغنم",
+      "answerReason": "النص يوضح: 'أما الأنعام فهي الإبل، البقر، الغنم.'",
+      "textReference": "النص يوضح: 'أما الأنعام فهي الإبل، البقر، الغنم.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "مرحلة من مراحل المذهب المالكي هي:",
+      "options": ["التأسيس", "النسخ", "البلاغة", "البيان"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح: 'المراحل الخمس للفقه المالكي: التأسيس، التفريع، التطبيق، النقد، الجمع والاختصار.'",
+      "textReference": "النص يوضح: 'المراحل الخمس للفقه المالكي: التأسيس، التفريع، التطبيق، النقد، الجمع والاختصار.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 24,
+      "type": "truefalse",
+      "question": "عدد مراحل المذهب المالكي خمس.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح: 'المذهب المالكي قد مر بخمس مراحل.'",
+      "textReference": "النص يوضح: 'المذهب المالكي قد مر بخمس مراحل.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 25,
+      "type": "fill",
+      "question": "المراحل الخمس للفقه المالكي هي …………",
+      "correctAnswer": "التأسيس، التفريع، التطبيق، النقد، الجمع والاختصار",
+      "answerReason": "النص يوضح: 'المراحل الخمس للفقه المالكي: التأسيس، التفريع، التطبيق، النقد، الجمع والاختصار.'",
+      "textReference": "النص يوضح: 'المراحل الخمس للفقه المالكي: التأسيس، التفريع، التطبيق، النقد، الجمع والاختصار.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 26,
+      "type": "open",
+      "question": "لماذا قيل عن القطان السبعة هذا الاسم؟",
+      "correctAnswer": "لأنها تقطن البيوت كثيرًا لقلة استعمالها",
+      "answerReason": "النص يوضح: 'سميت القطان السبعة لأنها تقطن في البيوت كثيرًا لقلة استعمالها.'",
+      "textReference": "النص يوضح: 'سميت القطان السبعة لأنها تقطن في البيوت كثيرًا لقلة استعمالها.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "من مؤلفات ابن المؤقت:",
+      "options": ["المرشد المعين", "أسهل المسالك", "الحبل المتين", "الموطأ"],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح: 'من أشهر مؤلفات ابن المؤقت: الحبل المتين.'",
+      "textReference": "النص يوضح: 'من أشهر مؤلفات ابن المؤقت: الحبل المتين.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 28,
+      "type": "truefalse",
+      "question": "الزكاة تجب فيما لا يقتات ولا يدخر.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح: 'كل ما يقتات ويدخر تجب فيه الزكاة.'",
+      "textReference": "النص يوضح: 'كل ما يقتات ويدخر تجب فيه الزكاة.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 29,
+      "type": "fill",
+      "question": "أكمل: \"والحب بالإفراك يرام ………\"",
+      "correctAnswer": "إذا ما بلغ النصاب",
+      "answerReason": "النص يوضح: 'والحب بالإفراك يرام إذا ما بلغ النصاب.'",
+      "textReference": "النص يوضح: 'والحب بالإفراك يرام إذا ما بلغ النصاب.'",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "الغرض من الدرس هو:",
+      "options": [
+        "تعليم الزكاة فقط",
+        "تطبيق المقرر وفق خطة السنة على الحبل المتين وابن عاشر",
+        "تعليم الصلاة فقط",
+        "تطبيق كتب الحديث"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن الهدف هو أخذ المقرر وفق خطة السنة على الحبل المتين وابن عاشر.",
+      "textReference": "النص يوضح أن الهدف هو أخذ المقرر وفق خطة السنة على الحبل المتين وابن عاشر.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/fiqh/ec1fiqhs1.html#sent1"
+    }
+  ]
+}

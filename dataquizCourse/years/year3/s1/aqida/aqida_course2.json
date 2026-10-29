@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "slug": "aqida",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة العقيدة السنة الثالثة (الدرس الثاني)",
+      "fr": "Examen de Aqida - Année 3 (Cours 2)",
+      "en": "Aqida Exam - Year 3 (Lesson 2)"
+    },
+    "totalQuestions": 12
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "الصلات بكسر الصاد في قول الناظم (على صلاته) جمع صلة، ومعناها:",
+      "options": ["العبادة المخصوصة", "العطية أو النعمة", "الدعاء المطلق"],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن الصلات بكسر الصاد جمع صلة وهي العطية أو النعمة[cite: 22].",
+      "textReference": "والصلات بكسر الصاد جمع صلة، وهي العطية، فمعنى على صلاته لأجل عطياته أي نعمه.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "ابتدأ الناظم بالسلام ثم ثنى بالصلاة في قوله (ثم سلام الله مع صلاته) لضرورة النظم الشعري.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن تقديم السلام على الصلاة جاء لضرورة النظم الشعري[cite: 22].",
+      "textReference": "وقدم الناظم السلام على الصلاة، مع أن المستعمل هو العكس لضرورة النظم، كما ذكرنا سابقا.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "الصلاة من الله تعالى على نبيه تعني في الاصطلاح:",
+      "options": [
+        "الاستغفار وطلب المغفرة",
+        "الدعاء الخالص",
+        "الرحمة المقرونة بالتعظيم والتشريف"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح أن صلاة الله على نبيه هي رحمته تعالى المقرونة بالتعظيم[cite: 22].",
+      "textReference": "معنى صلاته تعالى على نبيه ما معنى؟ اللهم صل على رسول الله؟ الصلاة من الله على نبيه يعني رحمته تعالى المقرونة بالتعظيم.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "المعنى اللغوي الأصلي للفظ (الصلاة) قبل أن تنقل للعبادة المخصوصة هو:",
+      "options": ["الدعاء", "التسبيح", "الركوع والسجود"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الأصل في الصلاة لغة هو الدعاء[cite: 22].",
+      "textReference": "لأن الصلاة لغة في الأصل، وضعت لمعنى الدعاء، ثم صارت حقيقة عرفية...",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "كل رسول نبي وليس كل نبي رسولا، والنسبة بينهما العموم والخصوص المطلق.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن النسبة بين النبوة والرسالة هي العموم والخصوص المطلق وأن كل رسول نبي ولا عكس[cite: 22].",
+      "textReference": "بهذا نعلم أن النبوة أعم من الرسالة، فكل رسول النبي، وليس كل نبي رسول...",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "الفرق الأساسي بين النبي والرسول هو أن الرسول:",
+      "options": [
+        "أمر بتبليغ ما أوحي إليه بخلاف النبي الذي قد لا يؤمر بالتبليغ",
+        "لا يحتاج إلى وحي",
+        "يكون من الملائكة حصراً"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الرسول مأمور بالتبليغ بخلاف النبي الذي يمكن ألا يؤمر به[cite: 22].",
+      "textReference": "فإن كان التبليغ في حقه واجباً أخذ صفة الرسالة صار رسولا، وإلا فيبقى على صفة النبوة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "أكمل التعريف المشهور للنبي: \"إنسان، ذكر، حر، أوحي إليه بشرع يعمل به، …………\"",
+      "correctAnswer": "أمر بتبليغه أو لم يؤمر بتبليغه",
+      "answerReason": "النص يوضح قيود تعريف النبي بدقة[cite: 22].",
+      "textReference": "النبي إنسان ذكر حر. أنزل الله عليه وحيا بشرع يعمل به، لكن. يمكن لهذا النبي أن يأمره الله بالتبليغ. كما يمكن أن لا يأمره بالتبليغ",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "truefalse",
+      "question": "اشتقاق كلمة (النبي) يحتمل لغتين: إما مهموزاً من (النبأ) أو بالياء المشددة المخففة من الهمزة أو المأخوذة من (النبوة) بمعنى الرفعة.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح اللغتين والوجهين في اشتقاق وتخفيف كلمة النبي[cite: 22].",
+      "textReference": "والنبي فعيل، وفيه لغتان إحداهما بالهمز مأخوذ من النبأ... واللغة الثانية بالياء المشددة... أو مأخوذ من النبوة بفتح النون والواو وسكون الباء، وهي الرفعه.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "قول الناظم (جاء بالتوحيد) يعرب جملة صفة لنبي، وتفيد التخصيص لأن النبي صلى الله عليه وسلم بُعث في أمة:",
+      "options": [
+        "قد خلا الدين فيها عن التوحيد",
+        "كانت كلها موحدة ومؤمنة",
+        "لا تعرف إلا الفلسفة والمنطق"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن النبي صلى الله عليه وسلم بعث في أمة خلا الدين فيها عن التوحيد[cite: 22].",
+      "textReference": "وقد خلا الدين عن التوحيد... حيث جاء، وبعث النبي صلى الله عليه وسلم في أمة كاد الدين فيه أن يخلو عن التوحيد.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "أكمل: \"التوحيد لغة هو العلم بأن الشيء واحد، وأما شرعاً واصطلاحاً فيقصد به …………\"",
+      "correctAnswer": "إفراد المعبود الحق سبحانه وتعالى بالعبادة مع اعتقاد وحدته ذاتا وصفات وأفعالا",
+      "textReference": "أما شرعا. أيصطلاحا يطلق على إفراد المعبود بالعبادة؟ مع اعتقاد وحدته ذات وصفات وأفعالا",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1",
+      "answerReason": "النص يحدد تعريف التوحيد لغة وشرعاً بدقة[cite: 22]."
+    },
+    {
+      "id": 11,
+      "type": "truefalse",
+      "question": "من خصائص النبي محمد صلى الله عليه وسلم أنه أرسل إلى الناس كافة بخلاف الأنبياء قبله فإنهم أرسلوا إلى أقوامهم خاصة.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن من خصائص النبي صلى الله عليه وسلم أنه أرسل للعالمين كفاة بخلاف غيره من الأنبياء[cite: 22].",
+      "textReference": "إلا النبي صلى الله عليه وسلم أرسله الله للعالمين... ما من نبي إلا وأرسل إلى قومه، إلا النبي صلى الله عليه وسلم أرسله الله للعالمين.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "السن الذي بُعث فيه النبي صلى الله عليه وسلم واستكمل فيه رسالته للناس كافة هو:",
+      "options": ["ثلاثون سنة", "أربعون سنة", "خمسون سنة"],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن النبي صلى الله عليه وسلم أرسل عند استكماله أربعين سنة[cite: 22].",
+      "textReference": "وقد أرسله الله تعالى عند استكماله 40 سنة من ولادته إلى جميع الخلق.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/aqida/ec0aqidas2.html#sent1"
+    }
+  ]
+}

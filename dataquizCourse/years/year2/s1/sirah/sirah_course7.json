@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "sirah_lesson7",
+    "title": {
+      "ar": "📘 السيرة – الدرس 7: بناء الدولة في العهد النبوي",
+      "fr": "Sirah – Leçon 7 : La construction de l’État prophétique",
+      "en": "Sirah – Lesson 7: Building the Prophetic State"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما الحدث التاريخي الذي مثّل نقطة الانتقال من الدعوة الفردية إلى تأسيس الدولة الإسلامية؟",
+      "options": [
+        "بيعة العقبة الثانية والهجرة إلى المدينة",
+        "صلح الحديبية",
+        "غزوة بدر",
+        "فتح مكة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "بيعة العقبة الثانية وما تبعها من الهجرة مثلت التحول من مرحلة الاضطهاد والسرية إلى بناء مجتمع مستقل تحكمه الشريعة.",
+      "textReference": "الدرس السابع – انتقال الدعوة إلى بناء الدولة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "أي مدينة أصبحت مركز الدولة الإسلامية بعد الهجرة؟",
+      "options": [
+        "الطائف",
+        "مكة",
+        "يثرب التي سُمّيت المدينة المنوّرة",
+        "خيبر"
+      ],
+      "correctAnswer": 2,
+      "explanation": "بعد وصول النبي ﷺ صارت يثرب تسمى المدينة المنورة، وفيها تأسست نواة الدولة.",
+      "textReference": "تحول يثرب إلى المدينة المنورة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما أول عمل قام به النبي ﷺ بعد وصوله المدينة؟",
+      "options": [
+        "بناء السوق",
+        "كتابة الدستور",
+        "بناء المسجد النبوي",
+        "إعلان الجهاد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "كان المسجد مركز القيادة، والتعليم، والقضاء، والعبادة، والتشاور بين المسلمين.",
+      "textReference": "بناء المسجد أول مؤسسة للدولة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ماذا كان يمثّل المسجد في الدولة النبوية؟",
+      "options": [
+        "مكان عبادة فقط",
+        "مدرسة دينية فقط",
+        "مركزًا دينيًا وعسكريًا واجتماعيًا وسياسيًا",
+        "مكانًا للصلح فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "المسجد كان مؤسسة شاملة تجمع بين العبادة، القضاء، الإدارة، التعليم، وتنظيم الجيوش.",
+      "textReference": "وظائف المسجد في المجتمع الإسلامي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "من الركائز الأساسية لبناء المجتمع الجديد كما ورد في الدرس؟",
+      "options": [
+        "إقامة الحدود قبل التعليم",
+        "نشر التجارة قبل الأخلاق",
+        "ترسيخ العقيدة وبناء الإيمان",
+        "الاعتماد على القوة العسكرية فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النبي ﷺ بدأ بإصلاح القلوب وتقوية رابطة العقيدة قبل التشريعات العسكرية والاقتصادية.",
+      "textReference": "بناء الإيمان قبل الدولة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما النظام الاجتماعي الأول الذي أسسه النبي ﷺ في المدينة؟",
+      "options": [
+        "توزيع الأراضي",
+        "المؤاخاة بين المهاجرين والأنصار",
+        "كتابة المصحف",
+        "فتح الأسواق"
+      ],
+      "correctAnswer": 1,
+      "explanation": "أقام النبي ﷺ أخوة حقيقية تقوم على المساواة والمواساة وتقاسم الحقوق والواجبات.",
+      "textReference": "نظام المؤاخاة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما الهدف من المؤاخاة بين المهاجرين والأنصار؟",
+      "options": [
+        "تحقيق التكافل الاجتماعي ووحدة المجتمع",
+        "تفريق السلطات",
+        "فصل المهاجرين عن الأنصار",
+        "إعداد جيش فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "كانت المؤاخاة علاجًا لأزمة الفقر والغربة عند المهاجرين، وبناءً لوحدة المجتمع.",
+      "textReference": "أهداف المؤاخاة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الوثيقة السياسية الأولى في الإسلام؟",
+      "options": [
+        "خطبة حجة الوداع",
+        "كتاب الصدقات",
+        "وثيقة الصحيفة (دستور المدينة)",
+        "صلح الحديبية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الصحيفة نظّمت علاقة المسلمين ببعضهم وبغيرهم، واعتبرت أول عقد دستوري في الإسلام.",
+      "textReference": "الصحيفة دستور سياسي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "من الذي شارك في وثيقة الصحيفة؟",
+      "options": [
+        "المسلمون فقط",
+        "المسلمون والمشركون فقط",
+        "المسلمون واليهود وسكان المدينة",
+        "اليهود فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الصحيفة ضمت جميع سكان المدينة من مسلمين ويهود لتنظيم الأمن والحقوق والواجبات.",
+      "textReference": "أطراف الصحيفة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما أهم بند في وثيقة المدينة؟",
+      "options": [
+        "فصل الدين عن الدولة",
+        "تحريم التعامل بين الطوائف",
+        "اعتبار جميع سكان المدينة أمة واحدة في مواجهة العدو",
+        "إلغاء الضرائب"
+      ],
+      "correctAnswer": 2,
+      "explanation": "نصّت الصحيفة: «وإنهم أمة واحدة من دون الناس»، توحيدًا للجبهة الداخلية.",
+      "textReference": "أمة واحدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "كيف تعامل النبي ﷺ مع اليهود حين استقر في المدينة؟",
+      "options": [
+        "بالطرد المباشر",
+        "بمنحهم الحرية مقابل احترام العهد",
+        "بفرض غرامات مالية عليهم",
+        "بإجبارهم على الإسلام"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الصحيفة ضمنت حرية اليهود في دينهم مقابل الوفاء بالعهد وعدم الخيانة.",
+      "textReference": "الوفاء بالعهود",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما سبب أهمّية السوق الإسلامي الذي أنشأه النبي ﷺ؟",
+      "options": [
+        "لمنع التعامل التجاري تمامًا",
+        "لتحرير التجارة من الاحتكار اليهودي وربا الجاهلية",
+        "لزيادة الضرائب",
+        "لبيع الغنائم فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "السوق الإسلامي أسس اقتصادًا حرًا نظيفًا من الغش والربا والتحكم التجاري.",
+      "textReference": "السوق الإسلامي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما الركن العسكري الأول لبناء الدولة؟",
+      "options": [
+        "الاستعراضات العسكرية",
+        "تشكيل السرايا الاستطلاعية",
+        "جمع الأموال",
+        "توسيع المدينة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "السرايا كانت لحماية المدينة، مراقبة طرق القوافل، وإثبات وجود الدولة الجديدة.",
+      "textReference": "السرايا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "لماذا أرسل النبي ﷺ السرايا بعد الهجرة مباشرة؟",
+      "options": [
+        "التدريب فقط",
+        "مهاجمة المسلمين",
+        "إثبات قوة الدولة وردع قريش",
+        "الصيد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "كانت الرسالة واضحة: المسلمون لم يعودوا ضعفاء ولا مستهدفين بلا حماية.",
+      "textReference": "مقاصد السرايا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الأساس التشريعي الذي قامت عليه الدولة النبوية؟",
+      "options": [
+        "القوة العسكرية فقط",
+        "سُنن الجاهلية",
+        "القرآن والسنة",
+        "القوانين الرومية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الدولة كانت قائمة على الوحي، لا على العرف الجاهلي أو نفوذ قبلي.",
+      "textReference": "الدستور الشرعي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "كيف نظّم الإسلام العلاقة بين الأفراد داخل الدولة؟",
+      "options": [
+        "بالعصبية القبلية",
+        "بالقانون الإلهي والعدل والمساواة",
+        "بالتمييز بين القبائل",
+        "بتفضيل العرب على غيرهم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الدولة النبوية ألغت الفوارق الطبقية وعالجت الظلم بالعدل.",
+      "textReference": "العدالة داخل الدولة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "من أبرز نتائج المؤاخاة؟",
+      "options": [
+        "انقسام المجتمع",
+        "تحالف اقتصادي واجتماعي قوي",
+        "إلغاء الحقوق",
+        "إلغاء البيع والشراء"
+      ],
+      "correctAnswer": 1,
+      "explanation": "تقاسم الأنصار بيوتهم وأموالهم مع المهاجرين حتى استغنى المهاجر بذاته.",
+      "textReference": "ثمار المؤاخاة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الأسلوب الذي واجهت به الدولة النبوية مؤامرات المنافقين؟",
+      "options": [
+        "الظلم والبطش",
+        "العدل والتعليم والصبر السياسي",
+        "التهجير",
+        "إلغاء الأحكام الشرعية"
+      ],
+      "correctAnswer": 1,
+      "explanation": "واجه النبي ﷺ المنافقين بالحكمة، دون هدم المجتمع الناشئ بالصراعات الداخلية.",
+      "textReference": "تعامل الدولة مع المنافقين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما ميزة النظام الاقتصادي الإسلامي في المدينة؟",
+      "options": [
+        "يغذّي الاحتكار",
+        "يقوم على الربا",
+        "يقوم على الأمانة والشفافية ومنع الغش",
+        "يعتمد فقط على الصدقات"
+      ],
+      "correctAnswer": 2,
+      "explanation": "السوق الإسلامي حر وشريف بلا غش وبلا احتكار، وبهذا أُزيل الظلم الاقتصادي.",
+      "textReference": "النظام الاقتصادي الإسلامي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما العامل النفسي المهم الذي حققته الهجرة للمسلمين؟",
+      "options": [
+        "الإحباط",
+        "اليأس",
+        "التحرر من الاضطهاد والشعور بالعزة",
+        "العزلة عن العالم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الهجرة حررت المسلمين من التعذيب وفتحت باب بناء مجتمع كريم.",
+      "textReference": "الأثر النفسي للهجرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "أي من التالي يعكس انفتاح الدولة النبوية على غير المسلمين؟",
+      "options": [
+        "إجبار الجميع على الإسلام",
+        "إعطاء الذميين حقوقًا وواجبات وفق العهد",
+        "منع اليهود من التجارة",
+        "إخراج القبائل من المدينة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الصحيفة ضمنت حرية الدين، وحماية الذميين مقابل الالتزام بالعقد.",
+      "textReference": "حقوق غير المسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما الصفات القيادية للنبي ﷺ في إدارة الدولة؟",
+      "options": [
+        "العصبية والعنف",
+        "القهر والاستبداد",
+        "العدل، الشورى، الرحمة، الحزم",
+        "العزل التام عن الناس"
+      ],
+      "correctAnswer": 2,
+      "explanation": "كان ﷺ قائدًا يجمع بين القوة واللين، ويستشير أصحابه في القرارات الكبرى.",
+      "textReference": "قيادة النبي ﷺ",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما معنى كون المسلمين «أمة واحدة» في نص الصحيفة؟",
+      "options": [
+        "إلغاء المبادئ الدينية",
+        "امتلاك نفس اللون واللغة",
+        "أنهم يحمون بعضهم، ويتعاونون ضد الظلم",
+        "أنهم قبيلة واحدة فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "المفهوم سياسي واجتماعي: حماية داخلية مشتركة وبنية دولة واحدة.",
+      "textReference": "أمة واحدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "أي مبدأ قانوني رسخته وثيقة المدينة؟",
+      "options": [
+        "الجريمة بلا عقوبة",
+        "كل قبيلة تعاقب وحدها",
+        "من أفسد عوقب بجريرته لا بجريرة غيره",
+        "العفو عن المنافقين مطلقًا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هذا أصل العدالة الجنائية في الإسلام.",
+      "textReference": "مبدأ العقوبة الفردية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما دلالة مشاركة المسلمين واليهود في الدفاع عن المدينة؟",
+      "options": [
+        "تحالف سياسي ومدني",
+        "فرض الإسلام بالقوة",
+        "منع التجارة",
+        "انقسام المجتمع"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصحيفة جعلت الجميع مسؤولين عن حماية المدينة من أي اعتداء خارجي.",
+      "textReference": "حماية مشتركة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "كيف تعامل النبي ﷺ مع من أراد إشعال الفتنة بين القبائل؟",
+      "options": [
+        "بالتحريض",
+        "بالسجن دون محاكمة",
+        "بإصلاح ذات البين وكبح العصبية",
+        "بتركهم دون رد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الدولة قامت على وحدة العقيدة لا على العصبية القبلية.",
+      "textReference": "قطع العصبية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما أثر بناء المسجد في نشر العلم؟",
+      "options": [
+        "إلغاء الكتابة",
+        "تحريم التعليم",
+        "تحول المسجد إلى جامعة مفتوحة للتفسير والحديث والفقه",
+        "منع غير العرب من التعلم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "كان المسجد مدرسة الأمة الأولى، فيه الصحابة يتعلمون ويعلّمون.",
+      "textReference": "التعليم في المسجد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما أثر العدل في استقرار الدولة؟",
+      "options": [
+        "نشر الفوضى",
+        "ظلم القبائل",
+        "كسب القلوب واستقرار المجتمع",
+        "انهيار الأسواق"
+      ],
+      "correctAnswer": 2,
+      "explanation": "العدل أساس الملك، ولذلك ازداد احترام الناس للدولة.",
+      "textReference": "آثار العدل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "أي خُلُق بارز كان أساس نجاح المجتمع المدني؟",
+      "options": [
+        "الأنانية",
+        "البخل",
+        "الإيثار",
+        "الرشوة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الأنصار آثروا المهاجرين على أنفسهم، حتى شهد القرآن بفضلهم.",
+      "textReference": "الإيثار في المجتمع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما أعظم درس تربوي في بناء الدولة النبوية؟",
+      "options": [
+        "القوة القتالية فقط",
+        "الجاه القَبَلي",
+        "أن الإصلاح يبدأ بالإيمان والتربية ثم التشريع",
+        "إلغاء التعايش"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الإسلام غيّر الإنسان قبل النظام، فنجحت الدولة وازدهر المجتمع.",
+      "textReference": "الدرس التربوي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec7siras1.html#sent30"
+    }
+  ]
+}

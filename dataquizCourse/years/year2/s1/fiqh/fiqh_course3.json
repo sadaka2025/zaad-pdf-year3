@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "slug": "fiqh_lesson3",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة الفقه الدرس الثالث",
+      "fr": "Examen de Fiqh – Ibn Ashir & Al-Habl Al-Matin",
+      "en": "Fiqh Exam – Ibn Ashir & Al-Habl Al-Matin"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما نصاب الإبل للزكاة حسب ابن عاشر؟",
+      "options": [
+        "كل خمسة جمال جدعة",
+        "كل عشرة جمال",
+        "كل عشرون جمال",
+        "كل ثلاثون جمال"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "ابن عاشر ذكر أن نصاب الإبل هو كل خمسة جمال جدعة.",
+      "textReference": "منظومة ابن عاشر في زكاة الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "بنت المخاض هي الإبل التي أتمت سنة واحدة ودخلت الثانية.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "تعريف بنت المخاض كما ورد في المنظومة: ما أوفت سنة ودخلت الثانية.",
+      "textReference": "شرح زكاة الإبل – ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "الحقة في الإبل هي التي أتمت ________ ودخلت في السنة الرابعة.",
+      "options": [],
+      "correctAnswer": "ثلاث سنين",
+      "answerReason": "الحقة هي الإبل التي أتمت ثلاث سنين ودخلت الرابعة.",
+      "textReference": "منظومة ابن عاشر – الحقة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما نصاب البقر المسن للزكاة؟",
+      "options": ["ثلاث سنوات", "سنتين", "أربع سنوات", "خمسة سنوات"],
+      "correctAnswer": 0,
+      "answerReason": "نصاب البقر المسن هو الذي أتم ثلاث سنوات ودخل في الرابعة.",
+      "textReference": "زكاة البقر المسن",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "إذا كان عند شخص 130 رأس من الإبل، فما الواجب عليه؟",
+      "options": [
+        "حق تان وبنتا لبون",
+        "أربع بنات لبون فقط",
+        "حقة واحدة فقط",
+        "لا زكاة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "إذا وصل الإبل إلى 130، الواجب: حق تان وبنتا لبون حسب القاعدة.",
+      "textReference": "تطبيق نصاب الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "الجدعة في الإبل هي التي أتمت أربع سنوات ودخلت الخامسة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الجدعة هي التي أتمت أربع سنوات ودخلت الخامسة.",
+      "textReference": "شرح زكاة الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "البنت اللبون هي الإبل التي أتمت سنتين ودخلت ________.",
+      "options": [],
+      "correctAnswer": "الثالثة",
+      "answerReason": "البنت اللبون أتمت سنتين ودخلت السنة الثالثة.",
+      "textReference": "شرح ابن عاشر للبنت اللبون",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "متى يبدأ نصاب البقر للزكاة؟",
+      "options": ["من 30 رأس", "من 20 رأس", "من 40 رأس", "من 50 رأس"],
+      "correctAnswer": 0,
+      "answerReason": "نصاب البقر يبدأ من 30 رأس.",
+      "textReference": "نصاب البقر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "الزكاة في الإبل تكون على أساس؟",
+      "options": [
+        "الجنس نفسه",
+        "نوع آخر من الإبل",
+        "المال فقط",
+        "القمح والشعير"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الزكاة في الإبل تؤخذ من جنسها.",
+      "textReference": "قواعد زكاة الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "من ملك أقل من 30 بقرة لا زكاة عليه.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الزكاة لا تجب إلا من 30 بقرة فما فوق.",
+      "textReference": "نصاب البقر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "fill",
+      "question": "الزكاة في البقر المسن تُخرج عن البقرة التي أتمت ________ ودخلت الرابعة.",
+      "options": [],
+      "correctAnswer": "ثلاث سنين",
+      "answerReason": "البقرة المسن يجب أن أتمت ثلاث سنوات ودخلت الرابعة لتجب فيها الزكاة.",
+      "textReference": "شرح زكاة البقر – ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "إذا بلغ عدد الإبل 46، فما الواجب على صاحبها؟",
+      "options": ["حقة واحدة", "بنت لبون واحدة", "جدعة واحدة", "لا شيء"],
+      "correctAnswer": 2,
+      "answerReason": "إذا بلغ عدد الإبل 46، الواجب على صاحبها: جدعة واحدة حسب المنظومة.",
+      "textReference": "تطبيق نصاب الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما معنى بنت المخاض في الإبل؟",
+      "options": [
+        "إبل أتمت سنة ودخلت الثانية",
+        "إبل أتمت سنتين ودخلت الثالثة",
+        "إبل أتمت ثلاث سنوات ودخلت الرابعة",
+        "إبل لم تكتمل سنة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "تعريف بنت المخاض: ما أتمت سنة ودخلت الثانية.",
+      "textReference": "شرح زكاة الإبل – ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "الجدعة تختلف بين الإبل والشياه، فما الفرق؟",
+      "options": [
+        "جدعة الإبل أتمت أربع سنوات، جدعة الشياه سنة واحدة",
+        "جدعة الإبل سنة واحدة، جدعة الشياه أربع سنوات",
+        "لا فرق بينهما",
+        "الفرق في الجنس فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "جدعة الإبل أتمت أربع سنوات ودخلت الخامسة، بينما جدعة الشياه سنة واحدة.",
+      "textReference": "شرح ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "truefalse",
+      "question": "البقر التي أتمت سنتين فقط لا تجب فيها الزكاة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الزكاة في البقر المسن تبدأ بعد إتمام ثلاث سنوات.",
+      "textReference": "نصاب البقر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "في حالة وجود 130 رأس من الإبل، ما القاعدة المتبعة؟",
+      "options": [
+        "كل 40 بنت لبون، وكل 50 حقة",
+        "كل 30 بنت لبون، وكل 60 حقة",
+        "كل 50 بنت لبون، وكل 30 حقة",
+        "لا زكاة في هذه الحالة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "إذا بلغ الإبل 130، تطبق القاعدة: كل 40 بنت لبون، وكل 50 حقة.",
+      "textReference": "منظومة ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "fill",
+      "question": "البنت اللبون هي الإبل التي أتمت سنتين ودخلت السنة ________.",
+      "options": [],
+      "correctAnswer": "الثالثة",
+      "answerReason": "التعريف الشرعي للبنت اللبون: سنتان مكتملة ودخول الثالثة.",
+      "textReference": "شرح زكاة الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الواجب في الإبل إذا زاد العدد على 129 رأساً؟",
+      "options": [
+        "تغيير الفرض حسب القاعدة",
+        "لا زكاة إضافية",
+        "إخراج نصف العدد",
+        "إخراج كل الإبل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "عند تجاوز 129 رأساً، يتغير الفرض: كل 40 بنت لبون وكل 50 حقة.",
+      "textReference": "منظومة زكاة الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "truefalse",
+      "question": "الزكاة في الإبل تؤخذ من جنسها.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "القواعد الشرعية تؤكد أن زكاة الإبل تؤخذ من جنسها.",
+      "textReference": "ابن عاشر – زكاة الإبل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما نصاب زكاة البقر؟",
+      "options": ["30 رأس", "25 رأس", "40 رأس", "50 رأس"],
+      "correctAnswer": 0,
+      "answerReason": "نصاب البقر يبدأ من 30 رأس.",
+      "textReference": "شرح نصاب البقر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "متى يُختار الساعي لتوزيع الزكاة؟",
+      "options": [
+        "الشخص المكلف بجمع الزكاة",
+        "مالك الإبل فقط",
+        "القاضي فقط",
+        "الفقير"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الساعي هو الشخص المكلف من ولي الأمر بجمع الزكاة وتوزيعها.",
+      "textReference": "منظومة ابن عاشر – الساعي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "truefalse",
+      "question": "الزكاة تُخرج حسب الأعمار والنصاب لكل نوع من الإبل والبقر.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الزكاة تختلف بحسب النوع والعمر ونصاب الإبل والبقر.",
+      "textReference": "شرح ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "fill",
+      "question": "الزكاة في الإبل والبقر تؤخذ من جنسها وتطبق على الأعداد حسب ________.",
+      "options": [],
+      "correctAnswer": "القاعدة المحددة",
+      "answerReason": "تطبق القاعدة المحددة لكل عدد ونصاب وفق النصوص.",
+      "textReference": "منظومة ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "إذا بلغ عدد البقر 100، ماذا يخرج من الزكاة؟",
+      "options": [
+        "مسنة واحدة وتباعان حسب القاعدة",
+        "ثلاث مسنات فقط",
+        "لا زكاة",
+        "نصف العدد"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "القاعدة: في كل 30 تبيع، وفي كل 40 مسنة، في 100 يخرج مسنة وتباعان.",
+      "textReference": "شرح نصاب البقر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "البقرة المسن التي أتمت ثلاث سنوات تدخل في السنة الرابعة تسمى؟",
+      "options": ["مسنة", "حقّة", "بنت لبون", "جدعة"],
+      "correctAnswer": 0,
+      "answerReason": "التعريف الشرعي: البقرة التي أتمت ثلاث سنوات ودخلت الرابعة تسمى مسنة.",
+      "textReference": "شرح ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "fill",
+      "question": "الزكاة في الإبل تبدأ من _______ رأس وما فوق.",
+      "options": [],
+      "correctAnswer": "خمسة",
+      "answerReason": "نصاب الإبل: كل خمسة جمال جدعة.",
+      "textReference": "منظومة ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "truefalse",
+      "question": "البقرة التي لم تبلغ ثلاث سنوات لا تجب فيها الزكاة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "زكاة البقر لا تجب إلا بعد ثلاث سنوات مكتملة.",
+      "textReference": "شرح زكاة البقر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما معنى حقة في الإبل؟",
+      "options": [
+        "أتمت ثلاث سنوات ودخلت الرابعة",
+        "أتمت سنتين ودخلت الثالثة",
+        "أتمت أربع سنوات ودخلت الخامسة",
+        "أتمت سنة ودخلت الثانية"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحقة هي التي أتمت ثلاث سنوات ودخلت الرابعة.",
+      "textReference": "شرح ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "من هو المسؤول عن جمع وتوزيع الزكاة؟",
+      "options": ["الساعي", "مالك الإبل", "القاضي", "الفقير"],
+      "correctAnswer": 0,
+      "answerReason": "الساعي هو المكلف من ولي الأمر بجمع وتوزيع الزكاة.",
+      "textReference": "منظومة ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "truefalse",
+      "question": "القاعدة العامة: الزكاة تُخرج من جنس الإبل والبقر حسب النصاب والأعمار.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "القاعدة العامة للزكاة: تؤخذ من جنس الإبل والبقر حسب النصاب والعمر.",
+      "textReference": "شرح ابن عاشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/fiqh/ec3fiqhs1.html#sent30"
+    }
+  ]
+}

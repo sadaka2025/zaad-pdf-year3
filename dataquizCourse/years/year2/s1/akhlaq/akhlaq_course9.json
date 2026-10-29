@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "slug": "akhlaq",
+    "title": {
+      "ar": "📘 امتحان تجريبي – الأخلاق – الدرس 10",
+      "fr": "Examen de Morale – Leçon 9",
+      "en": "Akhlaq Exam – Lesson 9"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما أصل كل معصية وغفلة وشهوة بحسب حكمة ابن عطاء الله؟",
+      "options": ["الرضا عن النفس", "الغفلة", "حب الدنيا", "اتباع الشيطان"],
+      "correctAnswer": "A",
+      "explanation": "ابن عطاء الله يقول: أصل كل معصية وغفلة وشهوة الرضا عن النفس.",
+      "textReference": "الحكمة 35",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما أصل كل طاعة ويقظة وعفة كما ورد في النص؟",
+      "options": ["عدم الرضا عن النفس", "التوبة", "الورع", "الزهد"],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن أصل الطاعات كلها عدم الرضا عن النفس.",
+      "textReference": "مقابلة الطاعة بالمعصية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما الدليل الذي استشهد به الأستاذ على خطورة النفس؟",
+      "options": [
+        "قول الله تعالى: إن النفس لأمارة بالسوء",
+        "حديث: الدين النصيحة",
+        "حديث: لا يؤمن أحدكم",
+        "قول عمر بن الخطاب"
+      ],
+      "correctAnswer": "A",
+      "explanation": "ذكر النص الآية: إن النفس لأمارة بالسوء.",
+      "textReference": "الاستشهاد بالقرآن",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "بمَ شبّه الإمام البصير النفس؟",
+      "options": [
+        "بالطفل الذي إن تُرك شبّ على حب الرضاع",
+        "بالسيف",
+        "بالريح",
+        "بالنار"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص ينقل: والنفس كالطفل إن تهمله شب على حب الرضاع.",
+      "textReference": "تشبيه النفس بالطفل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما الخطوة الأولى نحو مرضاة الله بحسب كلام العلماء؟",
+      "options": [
+        "مخالفة النفس الأمارة بالسوء",
+        "طلب العلم",
+        "الصلاة",
+        "الصوم"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقول: الخطوة الأولى هي على النفس الأمارة بالسوء.",
+      "textReference": "خطوة السير إلى الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما العلاقة بين الغفلة والمعصية في ترتيب ابن عطاء الله؟",
+      "options": [
+        "الغفلة سبب يسبق المعصية",
+        "المعصية سبب للغفلة",
+        "كلاهما متساوي",
+        "لا علاقة بينهما"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يشرح: الرضا ينتج غفلة والغفلة تنتج المعصية.",
+      "textReference": "ترتيب الأسباب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما صفة النفس التي يجعلها النص مصدرًا للمعاصي؟",
+      "options": ["الأمارة بالسوء", "اللوامة", "المطمئنة", "الكريمة"],
+      "correctAnswer": "A",
+      "explanation": "النص يتحدث بوضوح عن النفس الأمارة بالسوء.",
+      "textReference": "النفس الأمارة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما معنى القول: لا تصحب عالماً يرضى عن نفسه؟",
+      "options": [
+        "لأن الرضا عن النفس يحجب عيوبها",
+        "لأنه قليل العلم",
+        "لأنه جاهل",
+        "لأن صحبته صعبة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "العالم الراضي عن نفسه محجوب عن رؤية عيوبها.",
+      "textReference": "معيار الصحبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "لماذا تُفضَّل صحبة جاهل لا يرضى عن نفسه على عالم يرضى عنها؟",
+      "options": [
+        "لأن عدم الرضا عن النفس أقرب للطاعة",
+        "لأن الجاهل لا يخطئ",
+        "لأن العالم لا يفيد",
+        "لأن الجاهل أعلم"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن مقياس الفائدة هو تواضع النفس ومخالفتها.",
+      "textReference": "مفاضلة الصحبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما الخطر الذي يقع فيه من يرضى عن نفسه؟",
+      "options": [
+        "الغفلة ثم الشهوة ثم المعصية",
+        "الغنى ثم الفقر",
+        "القوة ثم الضعف",
+        "العلم ثم الجهل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يبين سلسلة: الرضا → غفلة → شهوة → معصية.",
+      "textReference": "تسلسل السلوك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent10"
+    },
+
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "كيف يصف الشيخ الشرنوبي أثر الرضا عن النفس؟",
+      "options": ["يُغطي العيوب", "يزيد الحياء", "يثير المحبة", "يجلب الزهد"],
+      "correctAnswer": "A",
+      "explanation": "قال الشرنوبي: النظر بعين الرضا يغطي العيوب.",
+      "textReference": "شرح الشرنوبي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما البيت الذي استشهد به الشرنوبي في معنى الرضا؟",
+      "options": [
+        "وعين الرضا عن كل عيب كليلة",
+        "قف بالديار",
+        "إذا الشعب",
+        "لا تَسقِني"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص نقل البيت المشهور: عين الرضا...",
+      "textReference": "بيت الشعر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما الذي يسبّب وقوع الإنسان في الشهوة بحسب النص؟",
+      "options": ["غياب المراقبة القلبية", "قلة العلم", "قلة الطعام", "الوحدة"],
+      "correctAnswer": "A",
+      "explanation": "النص يقول: لعدم وجود المراقبة القلبية.",
+      "textReference": "سبب تجاوز الشهوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما معنى اليقظة في مقابل الغفلة؟",
+      "options": ["التنبه لما يرضي الله", "السهر", "الانتباه للدنيا", "الذكاء"],
+      "correctAnswer": "A",
+      "explanation": "اليقظة هي الانتباه لما يرضي الله.",
+      "textReference": "معنى اليقظة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الذي يدل عليه قول العلماء: الطبع سراق؟",
+      "options": [
+        "التأثر الشديد بالصحبة",
+        "ميل الإنسان للسرقة",
+        "ضرورة الصمت",
+        "ضرورة العزلة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرّر أن الإنسان يتأثر بأصحابه.",
+      "textReference": "الطبع سراق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما معيار اختيار الصاحب الصالح وفق كلام ابن عطاء؟",
+      "options": [
+        "ألا يرضى عن نفسه",
+        "أن يكون غنياً",
+        "أن يكون فصيحاً",
+        "أن يكون مشهوراً"
+      ],
+      "correctAnswer": "A",
+      "explanation": "المعيار هو عدم الرضا عن النفس.",
+      "textReference": "معيار الصحبة الصالحة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "لماذا لا يُؤخذ العلم من كل أحد كما نبه الأستاذ؟",
+      "options": [
+        "لأن الحال يسري في الحال",
+        "لأن العلم قليل",
+        "لأن الناس جميعهم صالحون",
+        "لأن العلم صعب"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يبين أن حال العالم يؤثر على الطالب.",
+      "textReference": "الحال يسري",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الذي جعل الإمام أحمد يمتنع عن إعطاء الحديث لطالب العلم؟",
+      "options": [
+        "لأنه لا يقوم الليل",
+        "لأنه لا يحفظ",
+        "لأنه قليل الأدب",
+        "لأنه كثير الكلام"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر: وجده لا يقوم الليل فامتنع من إعطائه الحديث.",
+      "textReference": "قصة الإمام أحمد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما معنى قولهم: طالب علم العمل؟",
+      "options": [
+        "أنه يتعلم ليعمل",
+        "أنه كثير الكتابة",
+        "أنه يحفظ الشعر",
+        "أنه يتعلم الجدل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر أن العلم الحقيقي مرتبط بالعمل.",
+      "textReference": "طالب علم العمل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما النتيجة التي تحصل لمن رضي عن نفسه؟",
+      "options": ["استحسان حاله ثم الغفلة", "التواضع", "الزهد", "الورع الشديد"],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن الرضا عن النفس يجعل النفس تستحسن حالها.",
+      "textReference": "أثر الرضا عن النفس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent20"
+    },
+
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما العلاقة بين الطاعة والعفة بحسب ابن عطاء؟",
+      "options": [
+        "العفة سبب للطاعة",
+        "الطاعة سبب للعفة",
+        "لا علاقة",
+        "هما ضدان"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يشرح أن العفة تتسبب بالطاعة.",
+      "textReference": "العفة والطاعة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "لماذا نهى المصنف عن صحبة العلماء الراضين عن أنفسهم؟",
+      "options": [
+        "لأن العلوم الظاهرية لا تكشف عيوب النفس",
+        "لأنهم ضعفاء",
+        "لأنهم جهلة",
+        "لأنهم قليلو الحفظ"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر أن علوم الظاهر لا تكشف عيوب النفس.",
+      "textReference": "خطر العلماء الراضين عن أنفسهم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما العلم الحقيقي الذي يُنتفع به في الصحبة؟",
+      "options": [
+        "العلم بعظمة الله وجلاله",
+        "العلم الفقهي فقط",
+        "العلم الرياضي",
+        "العلم السياسي"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن الانتفاع يكون بالعلم الموصل لمعرفة النفس.",
+      "textReference": "العلم المؤثر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "على ماذا يعتمد الانتفاع بالصحبة؟",
+      "options": [
+        "على العلم بالله ومعرفة عيوب النفس",
+        "على المال",
+        "على الشهرة",
+        "على كثرة الكلام"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يحدد أن المدار على معرفة عظمة الله وعيوب النفس.",
+      "textReference": "مدار الصحبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما الذي يؤدي إليه النظر إلى النفس بعين السخط؟",
+      "options": ["إظهار مساوئها", "استحسانها", "تعظيمها", "الاغترار بها"],
+      "correctAnswer": "A",
+      "explanation": "النص يقابل بين عين الرضا وعين السخط.",
+      "textReference": "عين السخط",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما السبب الأول في سلسلة الانحراف بحسب الحكمة؟",
+      "options": ["الرضا عن النفس", "سوء الصحبة", "قلة العلم", "اتباع الهوى"],
+      "correctAnswer": "A",
+      "explanation": "النص واضح أن البداية هي الرضا عن النفس.",
+      "textReference": "سبب السلسلة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما الذي يدفع الشهوة بحسب النص؟",
+      "options": ["المراقبة القلبية", "الصيام فقط", "الذكر فقط", "المعرفة"],
+      "correctAnswer": "A",
+      "explanation": "النص يشرح أن غياب المراقبة القلبية يطلق الشهوة.",
+      "textReference": "الدافع للشهوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "من هو العدو الأخطر بحسب الحديث الذي أورده النص؟",
+      "options": ["النفس التي بين جنبيك", "الشيطان", "الدنيا", "الهوى"],
+      "correctAnswer": "A",
+      "explanation": "ورد الحديث: أعدى عدوك نفسك التي بين جنبيك.",
+      "textReference": "عداوة النفس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما النصيحة الأساسية لطالب العلم الزيتوني؟",
+      "options": [
+        "اختيار من يأخذ عنه العلم بعناية",
+        "الإكثار من الكلام",
+        "السفر الكثير",
+        "ترك العمل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص شدد: انظر عمّن تأخذ دينك.",
+      "textReference": "نصيحة لطالب العلم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة الحكمة كما اختتم بها الدرس؟",
+      "options": [
+        "أن الطريق يبدأ بمخالفة النفس ومحاسبتها",
+        "أن العلم يكفي لوحده",
+        "أن الشهوة أصل الطاعة",
+        "أن الجهل أفضل من العلم"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الخلاصة تؤكد أن مخالفة النفس أصل السير إلى الله.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/akhlaq_course10/ec10akhlaq_course10s1.html#sent30"
+    }
+  ]
+}

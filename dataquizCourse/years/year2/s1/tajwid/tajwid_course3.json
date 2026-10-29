@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "slug": "tajwid_lesson3",
+    "title": {
+      "ar": "📘 التجويد – الدرس الثالث: مقدمة الجزرية",
+      "fr": "Tajwid – Leçon 3 : Introduction à la Jazariyya",
+      "en": "Tajwid – Lesson 3: Introduction to Al-Jazariyya"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من هو مؤلف منظومة الجزرية في علم التجويد؟",
+      "options": ["ابن الجزري", "ابن عاشر", "النووي", "السيوطي"],
+      "correctAnswer": 0,
+      "answerReason": "النص يذكر أن الإمام ابن الجزري هو مؤلف المنظومة الجزرية المشهورة في التجويد.",
+      "textReference": "الإمام ابن الجزري هو صاحب المنظومة الجزرية التي تُعد من أشهر المنظومات في علم التجويد.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "fill",
+      "question": "منظومة الجزرية تبدأ بقول المؤلف: 'يقول راجي رحمة _______'",
+      "correctAnswer": "الرب",
+      "answerReason": "افتتح ابن الجزري منظومته بقوله: يقول راجي رحمة الرب.",
+      "textReference": "افتتح المؤلف منظومته بقوله: يقول راجي رحمة الرب.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "افتتح ابن الجزري منظومته بحمد الله والصلاة على النبي ﷺ.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر أن المؤلف بدأ بالحمد والصلاة على النبي كعادة العلماء.",
+      "textReference": "بدأ المؤلف منظومته بالحمد لله والصلاة والسلام على رسول الله.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "definition",
+      "question": "ما المقصود بقول المؤلف 'يقول راجي رحمة الرب'؟",
+      "correctAnswer": "أي يعلن توكله على الله ورجاءه رحمته في هذا العلم.",
+      "answerReason": "العبارة تدل على تواضع المؤلف واعتماده على الله.",
+      "textReference": "قوله راجي رحمة الرب أي المتوكل على الله تعالى.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما الغرض من نظم الجزرية؟",
+      "options": [
+        "تعليم أحكام التجويد",
+        "تعليم الفقه",
+        "تعليم النحو",
+        "تعليم البلاغة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الغرض من المنظومة هو تعليم أحكام التجويد.",
+      "textReference": "غرض المؤلف من النظم هو جمع أحكام التجويد لتيسير حفظها على الطلبة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "يُعد علم التجويد من العلوم التي تحفظ _______.",
+      "correctAnswer": "القرآن",
+      "answerReason": "علم التجويد وُضع لحفظ ألفاظ القرآن من التحريف.",
+      "textReference": "علم التجويد علم يُعنى بصيانة ألفاظ القرآن الكريم من الخطأ والتحريف.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "يعد ضبط المخارج والصفات من أساسيات علم التجويد.",
+      "correctAnswer": true,
+      "answerReason": "النص يؤكد أن ضبط المخارج والصفات أصل التجويد.",
+      "textReference": "من أهم أصول التجويد معرفة المخارج والصفات.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "definition",
+      "question": "اشرح معنى كلمة التجويد لغةً واصطلاحاً.",
+      "correctAnswer": "لغةً التحسين، واصطلاحاً إعطاء الحروف حقها ومستحقها.",
+      "answerReason": "النص يوضح أن التجويد في اللغة هو التحسين، وفي الاصطلاح ضبط الأداء.",
+      "textReference": "التجويد لغة التحسين، واصطلاحاً إعطاء الحروف حقها ومستحقها.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "من شروط القراءة الصحيحة أن توافق _______.",
+      "options": [
+        "الرسم العثماني",
+        "اللغة الفارسية",
+        "اللغة اللاتينية",
+        "التفسير الحديث"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يبين أن القراءة الصحيحة توافق الرسم العثماني.",
+      "textReference": "القراءة الصحيحة ما وافقت الرسم العثماني.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "قال ابن الجزري: والأخذُ بالتجويد _______.",
+      "correctAnswer": "حتم لازم",
+      "answerReason": "النص يورد عبارة ابن الجزري المشهورة: والأخذ بالتجويد حتم لازم.",
+      "textReference": "قال ابن الجزري: والأخذ بالتجويد حتم لازم.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "truefalse",
+      "question": "ترك التجويد في القراءة يعد خطأً لحنياً.",
+      "correctAnswer": true,
+      "answerReason": "النص يؤكد أن ترك التجويد يؤدي إلى اللحن في التلاوة.",
+      "textReference": "ترك التجويد سبب للحن في القراءة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "definition",
+      "question": "ما المقصود باللحن الجلي؟",
+      "correctAnswer": "هو الخطأ الظاهر الذي يغيّر المعنى أو اللفظ في القرآن.",
+      "answerReason": "النص يعرف اللحن الجلي بأنه خطأ يغير المعنى.",
+      "textReference": "اللحن الجلي هو الخطأ الظاهر الذي يغيّر المعنى.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "القراءة الصحيحة تحتاج إلى _______.",
+      "options": [
+        "مشافهة شيخ متقن",
+        "قراءة الكتب فقط",
+        "الاعتماد على النفس",
+        "الاستماع للمقاطع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يذكر أن التلقي عن شيخ شرط أساسي للتجويد.",
+      "textReference": "لا بد في التجويد من التلقي عن شيخ متقن.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "من صفات القارئ المتقن أن يقرأ القرآن ب_________.",
+      "correctAnswer": "تدبر وخشوع",
+      "answerReason": "النص يشير إلى أن التدبر والخشوع من صفات القارئ المتقن.",
+      "textReference": "من صفات القارئ المتقن التدبر والخشوع في التلاوة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "truefalse",
+      "question": "علم التجويد فرض كفاية على الأمة.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن التجويد فرض عين على من يقرأ القرآن.",
+      "textReference": "الأخذ بالتجويد فرض عين على كل قارئ للقرآن.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "definition",
+      "question": "اشرح المقصود بقول ابن الجزري: 'من لم يجود القرآن آثم'.",
+      "correctAnswer": "أي من لم يقرأ القرآن وفق قواعد التجويد فهو مقصر في واجب شرعي.",
+      "answerReason": "المعنى أن التجويد واجب على كل من يقرأ القرآن.",
+      "textReference": "قوله من لم يجود القرآن آثم أي تارك للواجب.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "التجويد يعين القارئ على _______.",
+      "options": ["إتقان القراءة", "حفظ السنة", "فهم الحديث", "تعلم الإعراب"],
+      "correctAnswer": 0,
+      "answerReason": "النص يؤكد أن التجويد يساعد على إتقان قراءة القرآن.",
+      "textReference": "التجويد وسيلة لإتقان قراءة القرآن.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "الغاية من التجويد هي صون اللسان عن _______.",
+      "correctAnswer": "الخطأ",
+      "answerReason": "النص يوضح أن التجويد صون للسان عن اللحن والخطأ.",
+      "textReference": "غاية التجويد صون اللسان عن الخطأ في كلام الله.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "truefalse",
+      "question": "يستحب تحسين الصوت بالقرآن دون تكلف.",
+      "correctAnswer": true,
+      "answerReason": "النص يبين أن تحسين الصوت بالقرآن من السنن دون مبالغة.",
+      "textReference": "يستحب تحسين الصوت بالقرآن بلا تكلف.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "definition",
+      "question": "ما المقصود بالإدغام في التجويد؟",
+      "correctAnswer": "إدخال حرف ساكن في متحرك بحيث يصيران حرفاً واحداً مشدداً.",
+      "answerReason": "النص يشرح أن الإدغام هو دمج حرفين ليصبحا واحداً.",
+      "textReference": "الإدغام هو إدخال حرف ساكن في متحرك ليصيرا حرفاً واحداً مشدداً.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "من أنواع اللحن ما لا يُغيّر المعنى ويُسمى _______.",
+      "options": [
+        "اللحن الخفي",
+        "اللحن الجلي",
+        "اللحن الظاهر",
+        "اللحن المتواتر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفرق بين اللحن الجلي والخفي، والخفي لا يغير المعنى.",
+      "textReference": "اللحن الخفي لا يغير المعنى لكنه يخل بالأداء.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "fill",
+      "question": "من لم يُتقن أحكام النون الساكنة والتنوين يُخل بباب _______.",
+      "correctAnswer": "الإدغام",
+      "answerReason": "أحكام النون الساكنة والتنوين تتعلق بالإدغام والإظهار.",
+      "textReference": "باب النون الساكنة والتنوين من أهم أبواب الإدغام.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "truefalse",
+      "question": "المخارج والصفات لا تؤثر في صحة التلاوة.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن المخارج والصفات من أركان صحة التلاوة.",
+      "textReference": "لا تصح التلاوة دون معرفة المخارج والصفات.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "definition",
+      "question": "اشرح معنى الغنة في التجويد.",
+      "correctAnswer": "صوت لذيذ يخرج من الخيشوم ولا عمل للسان فيه.",
+      "answerReason": "النص يعرف الغنة بأنها صوت يخرج من الخيشوم بلا مشاركة اللسان.",
+      "textReference": "الغنة صوت يخرج من الخيشوم لا عمل للسان فيه.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "من صفات الحروف المتضادة _______.",
+      "options": [
+        "الاستعلاء والاستفال",
+        "الفتح والضم",
+        "المد والقصر",
+        "الوقف والابتداء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الاستعلاء والاستفال من الصفات المتضادة.",
+      "textReference": "من الصفات المتضادة الاستعلاء والاستفال.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "fill",
+      "question": "الإخفاء الحقيقي يقع عند _______.",
+      "correctAnswer": "حروف الإخفاء الخمسة عشر",
+      "answerReason": "النص يذكر أن الإخفاء الحقيقي عند خمسة عشر حرفاً.",
+      "textReference": "الإخفاء الحقيقي يكون عند خمسة عشر حرفاً.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "truefalse",
+      "question": "الإظهار من أحكام الميم الساكنة فقط.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن الإظهار من أحكام النون الساكنة والميم الساكنة معاً.",
+      "textReference": "الإظهار يشمل النون والميم الساكنتين.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "definition",
+      "question": "ما هو الترقيق والتفخيم؟",
+      "correctAnswer": "الترقيق هو تنحيف الصوت بالحرف، والتفخيم هو تغليظه.",
+      "answerReason": "النص يشرح الفرق بين الترقيق والتفخيم في النطق.",
+      "textReference": "الترقيق تنحيف الصوت بالحرف، والتفخيم تغليظه.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "تُختتم منظومة الجزرية بذكر فضل _______.",
+      "options": ["القراءة الصحيحة", "التفسير", "البلاغة", "النحو"],
+      "correctAnswer": 0,
+      "answerReason": "النص يشير إلى أن ابن الجزري ختم منظومته ببيان فضل القراءة الصحيحة.",
+      "textReference": "ختم ابن الجزري منظومته ببيان فضل القراءة الصحيحة.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "fill",
+      "question": "من تمام التجويد معرفة الوقف وال_________.",
+      "correctAnswer": "ابتداء",
+      "answerReason": "الوقف والابتداء من تمام إتقان التلاوة.",
+      "textReference": "من تمام التجويد معرفة الوقف والابتداء.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tajweed/ec3tajweeds1.html#sent30"
+    }
+  ]
+}

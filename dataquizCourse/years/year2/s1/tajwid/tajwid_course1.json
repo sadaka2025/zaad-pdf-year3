@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "slug": "tajwid_lesson1",
+    "title": {
+      "ar": "📘 امتحان التجويد – الدرس الأول",
+      "fr": "Examen de Tajweed – Leçon 1",
+      "en": "Tajweed Exam – Lesson 1"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما هي المنظومة الجزرية؟",
+      "options": [
+        "كتاب في الفقه المالكي",
+        "أبيات صاغها الإمام ابن الجزري على بحر الرجز في علم التجويد",
+        "كتاب في السيرة النبوية",
+        "مختصر في أصول الفقه"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "المنظومة الجزرية هي أبيات صاغها الإمام ابن الجزري على بحر الرجز لتعليم التجويد.",
+      "textReference": "المنظومة الجزرية هي آ أبيات صاغها الإمام ابن الجزري رحمه الله تعالى على بحر الرجس.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "كم عدد أبيات المنظومة الجزرية حسب النص؟",
+      "options": ["50 أبيات", "107 أبيات تقريبًا", "200 أبيات", "85 أبيات"],
+      "correctAnswer": 1,
+      "answerReason": "النص ذكر أن المنظومة مكونة من 107 أبيات تقريبًا.",
+      "textReference": "هذه المنظومة مكونة من 107 أبيات، أو في بعض النسخ من 109 أبيات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "المنظومة الجزرية لها عنوان رسمي اختاره الإمام ابن الجزري.",
+      "correctAnswer": false,
+      "answerReason": "النص ذكر أن المنظومة لم يصغ لها عنوان، وإنما جاءت كمقدمة على القارئ أن يعلمه.",
+      "textReference": "لم يصغ لها عنوانا، وإنما جاءت كما هي المقدمة فيما على قارئ القرآن أن يعلمه.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "fill",
+      "question": "الشعر المستخدم في المنظومة الجزرية هو على بحر ________.",
+      "correctAnswer": "الرجز",
+      "answerReason": "النص ذكر أن الإمام ابن الجزري صاغ المنظومة على بحر الرجز.",
+      "textReference": "المنظومة الجزرية هي آ أبيات صاغها الإمام ابن الجزري رحمه الله تعالى على بحر الرجس.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما هو الهدف الرئيسي من المنظومة الجزرية؟",
+      "options": [
+        "تعليم الفقه المالكي",
+        "تعليم علم التجويد للمسلمين",
+        "سرد سيرة النبي",
+        "شرح أصول الفقه"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "المنظومة الجزرية مر بها ابن الجزري على المواضيع الأساسية في علم التجويد.",
+      "textReference": "مر ابن الجزري رحمه الله تعالى من خلالها على المواضيع الأساسية في علم التجويد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "المنظومة الجزرية مقسمة إلى ثلاثة أقسام تقريبًا.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن المنظومة تأتي على ثلاثة أقسام تقريبًا: المقدمة، قواعد التجويد، والخاتمة.",
+      "textReference": "وأقسامها على ثلاثة أقسام تقريبا، حيث أنه ذكر خطبة الكتاب ... والقسم الثالث هو الخاتمة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "المنظومة الجزرية مهمة لأنها تحفظ حفظًا ________ في علم التجويد.",
+      "correctAnswer": "متينًا",
+      "answerReason": "النص ذكر أن المنظومة تحفظ حفظًا متينًا كالفتحة في الصلاة.",
+      "textReference": "فهي كالفاتحة في علم التجويد تحفظ حفظا متينا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "open",
+      "question": "اشرح أهمية شروح المنظومة الجزرية.",
+      "correctAnswer": "لأن العلماء شرحوها ودرسوها وحفظوها، مما يسهل على طلبة العلم تعلم التجويد.",
+      "answerReason": "النص ذكر أن العلماء شرحوا المنظومة شروحًا كثيرة، وكان معتمدًا في جامعات كالأزهر وزيتونة.",
+      "textReference": "شرحها العلماء رحمهم الله تعالى شروحا كثيرة ... وكان معتمدا والي إلى الآن في الأزهر الشريف.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "من هو مؤلف شرح الفوائد المفهمة على المنظومة الجزرية؟",
+      "options": [
+        "الإمام زكريا الأنصاري",
+        "الإمام عبد الدايم الأزهري",
+        "الإمام محمد بن يلوشة",
+        "ابن الجزري"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النص ذكر أن شرح الفوائد المفهمة على المنظومة من تأليف الإمام محمد بن يلوشة.",
+      "textReference": "الشرح الذي سندرسه إن شاء الله تعالى لسيدي محمد بن يلوشة، وسماه الفوائد المفهمة في شرح المقدمة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "الإمام ابن الجزري وُلد سنة ________ للهجرة.",
+      "correctAnswer": "700",
+      "answerReason": "النص ذكر أن الإمام ابن الجزري وُلد سنة 700 للهجرة.",
+      "textReference": "ولد رحمه الله تعالى في سنة 700.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "fill",
+      "question": "الإمام ابن الجزري أتم حفظ القرآن قبل أن يتم عمره ________ سنة.",
+      "correctAnswer": "13",
+      "answerReason": "النص ذكر أن الإمام أتم حفظه قبل أن يبلغ 13 سنة.",
+      "textReference": "بدأ في حفظ القرآن الكريم وأتم حفظه ولم يتم عمره 13 سنة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "في أي مجال اشتهر الإمام ابن الجزري أكثر من غيره؟",
+      "options": ["الفقه", "الحديث", "علوم القراءات والتجويد", "اللغة العربية"],
+      "correctAnswer": 2,
+      "answerReason": "النص ذكر أن الإمام ابن الجزري اشتهر بعلمه في القراءات والتجويد.",
+      "textReference": "وإن كان هذا العلم قد اشتهر به، وإن ما ألف في الحديث، وفي الفقه ...",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "truefalse",
+      "question": "الإمام محمد بن يلوشة ينحدر من أصل أندلسي.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الإمام محمد بن يلوشة ينحدر من أصل أندلسي.",
+      "textReference": "هو محمد بن علي بن يوسف المعروف بن يلوشة الشريف التونسي ... ينحدر من أصل أندلسي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "الإمام محمد بن يلوشة درس في جامع ________.",
+      "correctAnswer": "الزيتونة",
+      "answerReason": "النص ذكر أنه درس في جامع الزيتونة المعمور.",
+      "textReference": "تولى تدريس القراءات بجامع الزيتونة المعمور.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "open",
+      "question": "لماذا من المهم معرفة مؤلفي الكتب التي ندرسها؟",
+      "correctAnswer": "لأن معرفة المؤلف تساعد على الثقة بالمناهج وفهم سياق العلم بشكل صحيح.",
+      "answerReason": "النص ذكر أنه لا يجوز أخذ العلم عن الكتب المجهولة، ومعرفة المؤلفين تزيد من الفائدة.",
+      "textReference": "معرفة الشيء فرع عن تصوره، فلا يجوز أخذ العلم عن الكتب المجهولة، فلا بد أن نثق بالمناهج التي ندرسها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "من بين كتب الإمام ابن الجزري:",
+      "options": [
+        "التمهيد في علم التجويد، تحبير التيسير في القراءات، غاية النهاية في طبقات القراء",
+        "رياض الصالحين، صحيح البخاري، الموطأ",
+        "شرح زكريا الأنصاري، الفوائد المفهمة، الطرازات المعل المعلمة",
+        "مختصر فقه الإمام مالك فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر هذه الكتب من أهم مؤلفات ابن الجزري.",
+      "textReference": "ألف منظومة المقدمة ... كما ألف تحبير التيسير في القراءات، وغاية النهاية في طبقات القراء، وكتاب التمهيد في علم التجويد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "truefalse",
+      "question": "الإمام ابن الجزري توفي سنة 833 للهجرة.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الإمام توفي سنة 833 للهجرة.",
+      "textReference": "توفي الإمام ابن الجزري رحمه الله تعالى سنة 833 للهجرة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "أحد شروح المنظومة الجزرية هو 'الدقائق المحكمة' لشرح ________.",
+      "correctAnswer": "زكريا الأنصاري",
+      "answerReason": "النص ذكر أن زكريا الأنصاري شرح المنظومة في كتابه الدقائق المحكمة.",
+      "textReference": "شرح شيخ الإسلام زكريا الأنصاري رحمه الله تعالى ... سماه بالدقائق المحكمة في شرح المقدمة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "كم عدد مؤلفات الإمام ابن الجزري تقريبا؟",
+      "options": ["أكثر من 90", "25 كتابًا", "50 كتابًا", "10 كتب فقط"],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر أن مؤلفات الإمام تجاوزت التسعين كتابًا.",
+      "textReference": "تجاوزت مؤلفاته ال90.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "truefalse",
+      "question": "الشرح الذي سندرسه للفوائد المفهمة على المقدمة الجزرية مطبوع في تونس عدة مرات.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الكتاب طبع في تونس عدة مرات.",
+      "textReference": "وهذا الكتاب هو الذي سنشرحه إن شاء الله تعالى ... طبع في تونس عدة مرات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "question": "المنظومة الجزرية تتناول مواضيع التجويد الأساسية مثل مخارج الحروف وصفاتها والوقف والابتداء وقواعد ________.",
+      "correctAnswer": "التجويد",
+      "answerReason": "النص ذكر أن المنظومة تغطي قواعد التجويد بشكل كامل.",
+      "textReference": "أما المبحث الثاني فصل في القواعد التي تتعلق بالتجويد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "open",
+      "question": "اشرح أهمية حفظ المنظومة الجزرية بالنسبة لطلاب التجويد.",
+      "correctAnswer": "حفظ المنظومة الجزرية يضمن فهم قواعد التجويد بشكل متين ويمكن التطبيق العملي أثناء تلاوة القرآن.",
+      "answerReason": "النص ذكر أن المنظومة تحفظ حفظًا متينًا كالفتحة في الصلاة.",
+      "textReference": "فهي كالفاتحة في علم التجويد تحفظ حفظا متينا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "من بين شيوخ الإمام ابن الجزري في دمشق؟",
+      "options": [
+        "أبو الفداء إسماعيل بن كثير، أبو محمد عبد الوهاب بنس ابن السلال، أحمد بن رجب",
+        "ابن مالك، ابن تيمية، الغزالي",
+        "مالك بن أنس، الشافعي، أبو حنيفة",
+        "ابن حجر، ابن قدامة، النووي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر هؤلاء الشيوخ كمعلمين للإمام ابن الجزري في دمشق.",
+      "textReference": "وأخذ وتلقي العلوم الشرعية من مشايخ دمشق منهم الإمام أبو الك، أبو الفداء، إسماعيل بن كثير ...",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "fill",
+      "question": "الإمام محمد بن يلوشة حصل على شهادة التطويع سنة ________.",
+      "correctAnswer": "1004",
+      "answerReason": "النص ذكر أن الإمام حصل على شهادة التطويع في سنة 1004.",
+      "textReference": "ثم أحرز على شهادة التطويع في سنة 1004.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "truefalse",
+      "question": "الإمام محمد بن يلوشة كان له تلاميذ مشهورون مثل الشيخ إبراهيم المرغني والشيخ المختار المؤدب.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر هؤلاء التلاميذ.",
+      "textReference": "ومن تلاميذ صهره الشيخ إبراهيم المرغني ... والشيخ المختار المؤدب ...",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "أهم الكتب للإمام محمد بن يلوشة:",
+      "options": [
+        "تحرير الكلام في وقف حمزة وهشام، اختصار وتعليق باب هائل، شرح قسم الفرائض من الدرة البيضاء",
+        "الشفا للقاضي عياض، إحياء علوم الدين",
+        "الروض الأنف، الدقائق المحكمة",
+        "مختصر الفقه المالكي فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر هذه الكتب من مؤلفات الإمام محمد بن يلوشة.",
+      "textReference": "له مؤلفات كثيرة منها كتاب تحرير الكلام في وقف حمزة وهشام ... شرح على قسم الفرائض من الدرة البيضاء ...",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "truefalse",
+      "question": "الإمام ابن الجزري بدأ حفظ القرآن بعد عمر 20 سنة.",
+      "correctAnswer": false,
+      "answerReason": "النص ذكر أنه أتم حفظ القرآن قبل عمر 13 سنة.",
+      "textReference": "بدأ في حفظ القرآن الكريم وأتم حفظه ولم يتم عمره 13 سنة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "fill",
+      "question": "المنظومة الجزرية صنفت في ثلاثة أقسام: المقدمة، قواعد التجويد، و ________.",
+      "correctAnswer": "الخاتمة",
+      "answerReason": "النص ذكر أن القسم الثالث هو الخاتمة.",
+      "textReference": "القسم الثالث هو الخاتمة التي ختم بها هذه المنظومة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "matching",
+      "question": "وصل بين الشخص أو الكتاب ووصفه الصحيح:",
+      "pairs": [
+        {
+          "left": "ابن الجزري",
+          "right": "مؤلف المنظومة الجزرية ومؤلفات كثيرة في التجويد"
+        },
+        {
+          "left": "محمد بن يلوشة",
+          "right": "شارح المنظومة الجزرية في كتاب الفوائد المفهمة"
+        },
+        {
+          "left": "زكريا الأنصاري",
+          "right": "شرح المقدمة الجزرية في كتاب الدقائق المحكمة"
+        },
+        {
+          "left": "عبد الدايم الأزهري",
+          "right": "شرح المقدمة الجزرية في الطرازات المعل المعلمة"
+        }
+      ],
+      "answerReason": "مطابقة الشخص بالشرح أو التأليف وفق النص.",
+      "textReference": "النص يحتوي على شرح ومؤلفي المنظومة الجزرية المذكورين أعلاه.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "open",
+      "question": "ما الفائدة من دراسة المنظومة الجزرية وشرحها؟",
+      "correctAnswer": "لأنها تشرح أساسيات علم التجويد وتسهّل على الطالب فهم تطبيقات مخارج الحروف وصفاتها والوقف والابتداء.",
+      "answerReason": "النص ذكر أن دراسة المنظومة وشرحها تمنح الفهم الجيد لعلم التجويد.",
+      "textReference": "لن تجدوا فيه صعوبة في فهمه بإذن الله ... ونستفيد منه بإذن الله السميع العليم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/tajweed/ec1tajweeds1.html#sent30"
+    }
+  ]
+}

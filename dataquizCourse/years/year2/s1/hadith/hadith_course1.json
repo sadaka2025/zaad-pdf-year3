@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "slug": "hadith_lesson1",
+    "title": {
+      "ar": "📘 امتحان الحديث – الدرس الأول",
+      "fr": "Examen de Hadith – Leçon 1",
+      "en": "Hadith Exam – Lesson 1"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما الحديث الذي بدأ به الإمام النووي كتابه رياض الصالحين؟",
+      "options": [
+        "إنما الأعمال بالنيات",
+        "الحلال بين والحرام بين",
+        "من عمل عمل ليس عليه أمرنا",
+        "من كانت هجرته إلى الله ورسوله"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الإمام النووي بدأ بحديث 'إنما الأعمال بالنيات' لما له من أهمية في الإخلاص.",
+      "textReference": "الإمام النووي بدأ بكتاب الإخلاص، ذلك أن كل الأعمال منوطة ومربوطة بالإخلاص...",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "الإخلاص يعني أن يقصد الإنسان العمل لله وحده دون رياء.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الإخلاص هو قصد العمل لله عز وجل ولا يشاركه فيه أحد.",
+      "textReference": "الإخلاص، قال هو قصد العملي لله عز وجل، ولا يشاركه فيه أحد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "الإخلاص لغة يعني أن يكون الشيء ____ ولا يشوبه شيء.",
+      "correctAnswer": "صفيا",
+      "answerReason": "النص ذكر أن الإخلاص لغة من خلص الشيء أو صفى، وليس فيه أي شائبة.",
+      "textReference": "الإخلاص لغة من خلص الشيء، أو صفى، وليس فيه أي شائبا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "النية محلها:",
+      "options": ["اللسان", "القلب", "اليد", "العقل فقط"],
+      "correctAnswer": 1,
+      "answerReason": "النية محلها القلب حسب إجماع الفقهاء.",
+      "textReference": "النية محلها القلب وهي القصد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "استحضار النية ليس ضرورياً في جميع الأعمال.",
+      "correctAnswer": false,
+      "answerReason": "النص أكد أن استحضار النية واجب في كل الأعمال.",
+      "textReference": "كل ما شرع في دين الله عز وجل لا يقبل إلا بإحضار النية وإخلاص العمل لله وحدة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "الإسلام حسب الإمام الشافعي بني على ثلاثة، أحدها هو حديث 'إنما الأعمال بالنيات'، والثاني 'الحلال بين، والحرام بين'، والثالث ________.",
+      "correctAnswer": "من عمل عمل ليس عليه أمرنا",
+      "answerReason": "النص ذكر أن هذه الأحاديث الثلاثة أسس الإمام الشافعي عليها الإسلام.",
+      "textReference": "الإسلام بني على ثلاث: حديث 'إنما الأعمال بالنيات'، حديث 'الحلال بين والحرام بين'، وحديث 'من عمل عمل ليس عليه أمرنا'.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما الفائدة الأولى لاستحضار النية عند العمل؟",
+      "options": [
+        "تمييز العبادات عن العادات",
+        "جعل العمل مقبولاً بدون إخلاص",
+        "رفع الدرجات في الآخرة",
+        "زيادة الأجر مهما كانت النية"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر أن الفائدة الأولى تمييز العبادات عن العادات.",
+      "textReference": "الأمر الأول تمييز العبادات عن بعضها، تمييز العبادات عن بعضها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما معنى النية في الأعمال اليومية؟",
+      "options": [
+        "أي فعل لا يحتاج إلى قصد",
+        "تغيير العادات العادية إلى عبادة عند قصدها لله",
+        "التحدث مع الناس بدون قصد",
+        "كل الأفعال صحيحة تلقائياً"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن بالنيات تصير العادات عبادات إذا قصد بها الله.",
+      "textReference": "بالنيات تصير العادات عبادات، نحن في يومنا كل يوم صباحا مساء نقوم بأشياء ليست بعبادات، فإذا استحضرت النية، تصبح عبادة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "truefalse",
+      "question": "النية يمكن أن تُلفظ باللسان حسب بعض الفقهاء.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر استحباب التلفظ بالنية عند الشافعية وبعض المتأخرين.",
+      "textReference": "أما التلفظ بالنية فقد اختلف العلماء في استحبابها أو عدم استحبابها، فذهب الشافعية مثلا إلى استحباب أن ينوي بلسانها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "العمل الذي يبدأ لله عز وجل ويطرأ عليه الرياء يُقبل منه ____.",
+      "correctAnswer": "ربعها أو خمسها أو سدسها",
+      "answerReason": "النص ذكر أن ما كان خالصاً يُقبل بالكامل وما طرأ عليه الرياء يُقبل منه جزء.",
+      "textReference": "فالأصح من هذه الأقوال الثلاثة أنه يقبل ما كان مخلصا، كما جاء في الحديث يقبل ربعها خمسها سدسها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما معنى الإخلاص عند بعض السلوك واللغويين؟",
+      "options": [
+        "العمل للآخرين",
+        "قصد العمل لله وحده، وعدم التأثر بالمدح أو الذم",
+        "الحرص على المال",
+        "التقيد بالظاهر فقط"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الإخلاص هو قصد العمل لله وحده وعدم التأثر بالمدح أو الذم.",
+      "textReference": "ذهب بعضهم إلى أن الإخلاص أن يستوي عندك المدح والذنب، فلا تتأثر بمدح المادحين، ولا بذم الزامين.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "truefalse",
+      "question": "كل الأعمال الشرعية لا تقبل إلا بإحضار النية.",
+      "correctAnswer": true,
+      "answerReason": "النص أكد أن كل ما شرع في دين الله لا يقبل إلا بالنية.",
+      "textReference": "كل ما شرع في دين الله عز وجل لا يقبل إلا بإحضار النية وإخلاص العمل لله وحدة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 13,
+      "type": "fill",
+      "question": "الإسلام حسب الإمام أحمد بن حنبل بني على ثلاث: حديث 'إنما الأعمال بالنيات'، وحديث 'الحلال بين والحرام بين'، والحديث الثالث '______'.",
+      "correctAnswer": "من عمل عمل ليس عليه أمرنا",
+      "answerReason": "النص ذكر هذه الأحاديث الثلاثة كأساس للإسلام عند الإمام أحمد.",
+      "textReference": "الإسلام بني على ثلاث، حديث إنما الأعمال بالنيات، حديث الحلال بين والحرام بين، وحديث من عمل عمل ليس عليه أمرنا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "الفائدة الثانية من استحضار النية هي:",
+      "options": [
+        "تمييز العبادات عن العادات",
+        "زيادة الأجر تلقائياً",
+        "تسليم العمل للآخرين",
+        "تحصيل الدنيا"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر أن الفائدة الثانية هي تمييز العادات عن العبادات.",
+      "textReference": "الفائدة الثانية من استحضار النية ذكر أهل العلم أنها التمييز العادات عن العبادات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 15,
+      "type": "truefalse",
+      "question": "بالنيات تصير العادات عبادات.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الاستحضار الصحيح للنية يجعل العادات عبادات.",
+      "textReference": "بالنيات تصير العادات عبادات، نحن في يومنا كل يوم صباحا مساء نقوم بأشياء ليست بعبادات، فإذا استحضرت النية، تصبح عبادة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 16,
+      "type": "fill",
+      "question": "أول من سُمّي بـ 'أمير المؤمنين أبي حفص' هو ______.",
+      "correctAnswer": "عمر بن الخطاب",
+      "answerReason": "النص يوضح أن أول من سُمّي بهذه الكنية هو عمر بن الخطاب رضي الله عنه.",
+      "textReference": "أول من سموه هو سيدنا عمر، فقالوا عنه أمير المؤمنين أبي حفص.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما سبب ذكر الإمام النووي باب الإخلاص في أول كتابه؟",
+      "options": [
+        "لأنه باب بسيط",
+        "لأهميته في قبول الأعمال والتقرب إلى الله",
+        "لأنه حديث طويل",
+        "لأنه مشهور بين الناس"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الإمام النووي اعتنى بالإخلاص لأنه أساس قبول الأعمال.",
+      "textReference": "إمام النووي يعنى ويهتم أشد الاهتمام بهذا الباب، وهو باب التزكية وتربية النفوس.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 18,
+      "type": "truefalse",
+      "question": "النية قد يُشرك فيها غير الله في بعض الحالات ويظل العمل مقبولاً جزئياً.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن ما كان خالصاً يُقبل بالكامل وما طرأ عليه الرياء يُقبل منه جزء فقط.",
+      "textReference": "الأصح من هذه الأقوال الثلاثة أنه يقبل ما كان مخلصا، كما جاء في الحديث يقبل ربعها خمسها سدسها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 19,
+      "type": "fill",
+      "question": "النية محلها ______.",
+      "correctAnswer": "القلب",
+      "answerReason": "الفقهاء أجمعوا على أن محل النية هو القلب.",
+      "textReference": "النية محلها القلب وهي القصد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "من أمثلة التشريك في النية حسب النص:",
+      "options": [
+        "الهجرة لدنيا أو امرأة",
+        "الصلاة المفروضة",
+        "الوضوء بدون قصد",
+        "قراءة القرآن"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص ذكر أن من أراد الهجرة لأجل دنيا أو امرأة يكون ذلك مثالاً للتشريك في النية.",
+      "textReference": "أحد الأمثلة: من كانت هجرتها لدنيا يصيبها، أو امرأة ينكحها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 21,
+      "type": "truefalse",
+      "question": "الهجرة لأجل الله ورسوله تُقبل وتُثاب.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الهجرة لله ورسوله سبب لقبول العمل.",
+      "textReference": "فمن كانت هجرته لله ورسوله...",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 22,
+      "type": "fill",
+      "question": "النية تُفرق بين العبادات و_______.",
+      "correctAnswer": "العادات",
+      "answerReason": "النص ذكر أن النية تميز العبادات عن العادات.",
+      "textReference": "النية تميز العبادات عن العادات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "أي من التالي مثال على عمل يتحقق به الرياء بعد البداية لله؟",
+      "options": [
+        "الصلاة الخالصة لله",
+        "الهجرة للدنيا",
+        "قراءة القرآن بإخلاص",
+        "الصدقة سرّاً"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص ذكر أن الأعمال التي يطرأ عليها الرياء بعد البداية لله تُقبل جزئياً.",
+      "textReference": "فذلك أيضا قالوا من الكبائر لا يخرج العبد عن الملة ليكون العمل لله، لكن يشرك فيه غيره.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 24,
+      "type": "truefalse",
+      "question": "الإخلاص لا يشمل أعمال القلوب فقط بل يشمل الجوارح أيضا.",
+      "correctAnswer": true,
+      "answerReason": "النص ذكر أن الإخلاص يدخل في أعمال القلوب والجوارح.",
+      "textReference": "الإخلاص يدخل في أعمال القلوب، وفي أعمال الجوارح.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 25,
+      "type": "fill",
+      "question": "حديث 'إنما الأعمال بالنيات' يذكر في باب ______ في رياض الصالحين.",
+      "correctAnswer": "الإخلاص",
+      "answerReason": "الإمام النووي بدأ بباب الإخلاص في كتابه.",
+      "textReference": "بدأ هذا الإمام بكتاب الإخلاص، ذلك أن كل الأعمال منوطة ومربوطة بالإخلاص.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما المقصود ب'الهجرة إلى ما هاجر إليه' في الحديث؟",
+      "options": [
+        "الهجرة لله ورسوله",
+        "الهجرة لدنيا أو امرأة",
+        "الهجرة للصلاة فقط",
+        "الهجرة للعلم فقط"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن هذا مثال للهجرة غير الصالحة.",
+      "textReference": "الهجرة لا لله عز وجل، إنما لدنيا يصيبها، أو امرأة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 27,
+      "type": "truefalse",
+      "question": "النية لها شأن عظيم في ديننا، وهي شرط لقبول الأعمال.",
+      "correctAnswer": true,
+      "answerReason": "النص أكد على عظمة النية وشرطيتها لقبول الأعمال.",
+      "textReference": "النية لها شأن عظيم في ديننا، حتى قال الشافعي الإسلام هو النية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 28,
+      "type": "fill",
+      "question": "المؤمن الذي يخالط الناس ويصبر على أذاهم يُثاب على _______.",
+      "correctAnswer": "النية الصالحة",
+      "answerReason": "النص ذكر أن صبر المؤمن على الأذى بنية خالصة يكون له أجر عظيم.",
+      "textReference": "المؤمن الذي يخالط الناس ويصبر على أذاهم، خير من المؤمن الذي لا يخالط الناس.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "لماذا خصص الحديث ذكر المرأة بعد ذكر الدنيا في مثال الهجرة؟",
+      "options": [
+        "للتعظيم أو للتحقير",
+        "للتكرار",
+        "للتوضيح اللغوي فقط",
+        "لزيادة طول الحديث"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص أوضح أن ذكر المرأة بعد العام للتنبيه على فتنة النساء.",
+      "textReference": "فلما خصصها بالذكر... لنبه الأمة على أن فتنة النساء أعظم الفتن.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    },
+    {
+      "id": 30,
+      "type": "truefalse",
+      "question": "كل عمل بدون نية صالحة لا يُقبل عند الله، مهما كبر أو صغر.",
+      "correctAnswer": true,
+      "answerReason": "النص أكد أن لا أجر إلا بنية صالحة.",
+      "textReference": "يشترط في قبول الأعمال أن يكون عملك كله لله عز وجل وحدة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec2hadith_s1.html#sent1"
+    }
+  ]
+}

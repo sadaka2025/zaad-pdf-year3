@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "hadith_lesson4",
+    "title": {
+      "ar": "📘 امتحان الحديث – الدرس الرابع",
+      "fr": "Examen de Hadith – Leçon 4",
+      "en": "Hadith Exam – Lesson 4"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما معنى الصدق لغة وشرعًا؟",
+      "options": [
+        "موافقة الكلام للواقع بنية صادقة",
+        "كل قول مخالف للواقع",
+        "التحدث بما يضحك الآخرين",
+        "أي قول يوافق الهوى الشخصي"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق لغةً مطابقة الكلام للواقع، وشرعًا يشترط أن يكون بنيه صادقة، فلا يُؤثم إلا إذا تعمد الكذب بنية سيئة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما المقصود بالكذب في الشرع؟",
+      "options": [
+        "الإخبار بخلاف الواقع متعمدًا بنية سيئة",
+        "الإخبار عن أي خلاف للواقع مهما كانت النية",
+        "المزاح والكلام المضحك فقط",
+        "التورية والتلميح لمعاني أخرى"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الكذب الشرعي يُعاقب عليه عندما يكون المرء متعمدًا بخلاف الواقع بنية سيئة، أما الخطأ أو الجهل فلا إثم فيه.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما هي مراتب الصدق حسب الحديث النبوي؟",
+      "options": [
+        "الصدق مع الله، مع النفس، ومع الناس",
+        "الصدق مع الحاكم فقط",
+        "الصدق مع الأقارب فقط",
+        "الصدق في العمل وحده"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق يشمل كل جانب من حياة الإنسان: مع الله بأوامره، مع النفس بمطابقة الظاهر للباطن، ومع الناس في المعاملة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما هي آية المنافق كما ذكر النبي صلى الله عليه وسلم؟",
+      "options": [
+        "إذا حدث كذب، وإذا وعد أخلف، وإذا ائتمن خان",
+        "إذا صام وأفطر",
+        "إذا أكل وشرب",
+        "إذا قام وصلى"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يوضح ثلاث علامات للمنافقين، وهي الكذب في الحديث، خيانة الأمانة، والإخلاف بالوعد.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ماذا يحدث للصادق عند الله حسب الحديث؟",
+      "options": [
+        "يُكتب عند الله صديقًا",
+        "يُعاقب على كل كلمة",
+        "يُكتب كاذبًا",
+        "لا يُحسب له شيء"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يوضح أن من صدق في كل أحواله، مع الله ومع النفس ومع الناس، يكتب عند الله صديقًا.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما الذي يهدي إليه الصدق؟",
+      "options": [
+        "البر، الذي يهدي إلى الجنة",
+        "الفجور، الذي يهدي إلى النار",
+        "الضرر والفتنة",
+        "الشك وعدم اليقين"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يربط بين الصدق والبر، والبر طريقه الجنة، أما الكذب يهدي إلى الفجور والنار.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما الذي يهدي إليه الكذب حسب الحديث؟",
+      "options": [
+        "الفجور، الذي يهدي إلى النار",
+        "البر، الذي يهدي إلى الجنة",
+        "الصدق مع الناس فقط",
+        "التقوى"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يوضح أن الكذب يهدي صاحبه إلى الفجور، والفجور طريقه النار.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما معنى قول النبي صلى الله عليه وسلم: \"دع ما يريبك إلى ما لا يريبك\"؟",
+      "options": [
+        "اترك ما يشككك إلى ما يطمئن قلبك",
+        "اتبع كل ما تشك فيه",
+        "افعل كل الأمور حتى لو كنت مرتابًا",
+        "تجاهل القلق والشك بالكامل"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يحث على ترك الأمور المريبة لتجنب الوقوع في الحرام وللتمتع بالطمأنينة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما هو أثر الصدق على النفس حسب الحديث؟",
+      "options": [
+        "الطمأنينة والراحة",
+        "القلق والاضطراب",
+        "الحيرة والتردد",
+        "الخوف والرهبة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق يولد الطمأنينة في القلب، بينما الكذب يبعث القلق والاضطراب النفسي.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما هي التورية كما ذكرت في شرح الحديث؟",
+      "options": [
+        "أن يكون للفظ معنيان: قريب وبعيد، والسامع يفهم القريب",
+        "الكذب الصريح على الناس",
+        "الحديث عن الأمور المباحة فقط",
+        "الصدق مع النفس دون الناس"
+      ],
+      "correctAnswer": 0,
+      "explanation": "التورية هي استخدام لفظ له معنيان، بحيث يفهم السامع المعنى الظاهر ويُراد المعنى البعيد، وهذا جائز شرعًا.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "هل يجوز الكذب في الحرب؟",
+      "options": [
+        "نعم، عند خداع العدو فقط",
+        "لا، الكذب محرم دائمًا",
+        "نعم، على الأقارب فقط",
+        "نعم، مع المؤمنين فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الكذب في الحرب جائز شرعًا عند الخداع المباح للعدو، وليس كذبًا محرمًا عام.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما هي العلاقة بين الصدق والبر حسب الحديث؟",
+      "options": [
+        "الصدق يهدي إلى البر",
+        "البر يهدي إلى الكذب",
+        "الصدق يهدي إلى الفجور",
+        "البر لا علاقة له بالصدق"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يوضح أن الصدق يؤدي بالإنسان إلى البر، وكل البر سبيله الجنة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما معنى قول الحديث: 'الصدق مع الله'؟",
+      "options": [
+        "اتباع أوامر الله واجتناب نواهيه",
+        "الكذب على الآخرين",
+        "إخفاء الأعمال الصالحة",
+        "التظاهر بالعبادة فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق مع الله يعني أن يكون الإنسان مطيعًا لأوامره من الداخل والخارج، بحيث يكون الظاهر موافقًا للباطن.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما معنى قول الحديث: 'الصدق مع النفس'؟",
+      "options": [
+        "مطابقة الظاهر للباطن",
+        "التظاهر بالصدق أمام الناس",
+        "إخفاء الحقيقة عن النفس",
+        "الكذب لتحقيق مصلحة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق مع النفس هو أن يكون باطن الإنسان متوافقًا مع ظاهره، فلا نفاق ولا تناقض بين ما يراه الآخر وما يخفيه الإنسان.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما معنى قول الحديث: 'الصدق مع الناس'؟",
+      "options": [
+        "أن يكون الإنسان صادقًا في معاملاته مع الآخرين",
+        "أن يخفي الحقائق عن الناس",
+        "أن يكذب ليحظى بمكانة",
+        "أن يقول الحقيقة أحيانًا فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق مع الناس يعني الالتزام بالصدق في الكلام والعمل والتعامل مع الآخرين، دون خداع أو نفاق.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما هو المقصود بالكذب المباح في التورية؟",
+      "options": [
+        "الكلام بلفظ له معنيان أحدهما بعيد",
+        "الكذب على الأهل والأصدقاء",
+        "الكذب لإضحاك الآخرين",
+        "الكذب في المعاملات المالية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "التورية نوع من الكذب المباح حيث يفهم السامع المعنى القريب ويُراد المعنى البعيد لأغراض مشروعة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما هو أثر الكذب على النفس؟",
+      "options": [
+        "الاضطراب والقلق",
+        "الطمأنينة والراحة",
+        "الثقة بالنفس",
+        "السعادة والسكينة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الكذب يسبب القلق النفسي والاضطراب الداخلي، بعكس الصدق الذي يبعث الطمأنينة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "من هو الذي سُمّي صديقًا في الإسلام؟",
+      "options": [
+        "أبو بكر رضي الله عنه",
+        "عمر بن الخطاب",
+        "عثمان بن عفان",
+        "علي بن أبي طالب"
+      ],
+      "correctAnswer": 0,
+      "explanation": "سُمّي أبو بكر بالصديق لمبالغته في الصدق والالتزام بالحقائق، وهي منزلة عظيمة بعد النبوة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما هي منزلة الصدّيقين في الإسلام؟",
+      "options": [
+        "المرتبة الثانية بعد النبوة",
+        "المرتبة الأخيرة بين المؤمنين",
+        "منزلة متوسطة بين الناس",
+        "منزلة القادة السياسيين"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدّيقون منزلة عظيمة في الإسلام بعد الأنبياء، وهم من أعلى درجات الإيمان بعد النبوة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "هل يمكن للمرء أن يكون صادقًا ويكذب في نفس الوقت؟",
+      "options": [
+        "لا، الصدق معناه ترك الكذب تمامًا",
+        "نعم، إذا كان لأغراض الدعابة",
+        "نعم، إذا كان في الأمور المباحة فقط",
+        "نعم، في المعاملات المالية فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق هو مطابقة الكلام للواقع والالتزام بالحقائق، ولا يمكن الجمع بينه وبين الكذب إلا في حالات التورية أو الحرب المشروعة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما هي الجملة التي استخدمها النبي صلى الله عليه وسلم للتأكيد على الصدق؟",
+      "options": [
+        "إن الصدق يهدي إلى البر",
+        "الكذب طريقه الفجور",
+        "دع ما يريبك إلى ما لا يريبك",
+        "الصادق مع الله ينجو"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الحديث يؤكد أن الصدق يهدي الإنسان إلى البر والفضائل، والجملة الاسمية استخدمت للتأكيد.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما الذي يجب فعله عند الشك في أمر شرعي؟",
+      "options": [
+        "تركه حتى يتأكد الإنسان من حكمه",
+        "القيام به فورًا",
+        "الاعتماد على الظن فقط",
+        "العمل بما يروق له"
+      ],
+      "correctAnswer": 0,
+      "explanation": "حديث 'دع ما يريبك إلى ما لا يريبك' يدل على وجوب ترك الشك حتى يتبين حكم الله.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما الذي يبعث الطمأنينة في قلب الإنسان حسب الحديث؟",
+      "options": [
+        "الصدق",
+        "الكذب",
+        "التورية",
+        "التردد"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق يولد الطمأنينة والراحة النفسية، بعكس الكذب الذي يسبب القلق والاضطراب.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما الذي يسبب الريبة والقلق حسب الحديث؟",
+      "options": [
+        "الكذب",
+        "الصدق",
+        "الأمانة",
+        "العبادة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الكذب يؤدي إلى اضطراب النفس والقلق والريبة، بينما الصدق يولد الطمأنينة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما معنى قول الحديث: 'الصدق يهدي إلى البر' في الجانب العملي؟",
+      "options": [
+        "القيام بالأعمال الصالحة ومراعاة حقوق الآخرين",
+        "الكذب لإظهار التقوى",
+        "الاعتماد على الحظ في الأعمال",
+        "الاستسلام للأهواء الشخصية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق يعين الإنسان على القيام بالأعمال الصالحة، ويجعله مواظبًا على الالتزام بالحق والعدل.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما معنى قول الحديث: 'الكذب يهدي إلى الفجور'؟",
+      "options": [
+        "انزلاق الإنسان في المعاصي والانحراف عن طاعة الله",
+        "القيام بالأعمال الصالحة",
+        "الصدق في كل الأمور",
+        "اتباع السنة النبوية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الكذب يفتح الطريق للمعاصي، ويبعد الإنسان عن طاعة الله، ويقوده إلى الفجور والنار.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "متى يُعتبر الكذب محرمًا؟",
+      "options": [
+        "عندما يكون متعمدًا بنية سيئة",
+        "عند الخطأ أو الجهل",
+        "في الحرب فقط",
+        "في التورية فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الكذب محرم إذا كان بقصد الإساءة أو الخداع، أما الخطأ أو الجهل فلا إثم فيه.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما هي النتيجة الروحية للصادق؟",
+      "options": [
+        "الطمأنينة والراحة النفسية",
+        "الاضطراب والقلق",
+        "الخذلان من الناس",
+        "الخوف من العقاب"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق يبعث الطمأنينة والراحة في النفس ويعزز السلام الداخلي للإنسان.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما المقصود بقول الحديث: 'دع ما يريبك إلى ما لا يريبك' في المسائل اليومية؟",
+      "options": [
+        "تجنب الأمور المريبة حتى يكون القلب مطمئنًا",
+        "اتباع كل الشكوك بلا تفكير",
+        "تطبيق ما يشاع بين الناس فقط",
+        "تجاهل الأحكام الشرعية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الأصل في المسلم هو ترك الأمور المريبة لحماية الدين والنفس، وهذا يبعث الطمأنينة.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما هي أفضل وسيلة لتثبيت الصدق في حياة المسلم؟",
+      "options": [
+        "التقوى والالتزام بأوامر الله ونواهيه",
+        "التظاهر أمام الناس فقط",
+        "الكذب لأغراض الدعابة",
+        "اتباع الهوى الشخصي"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصدق الحقيقي يتجذر بالتقوى، والالتزام بأوامر الله ونواهيه، وهذا يجعل المسلم صادقًا في كل جوانب حياته.",
+      "textReference": "الدرس الخامس – باب الصدق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec5hadiths1.html#sent30"
+    }
+  ]
+}

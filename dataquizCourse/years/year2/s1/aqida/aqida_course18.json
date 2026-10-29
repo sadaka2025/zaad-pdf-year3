@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "slug": "aqida_s1_final_exam",
+    "title": {
+      "ar": "الامتحان النهائي – السداسي الأول – مادة العقيدة",
+      "fr": "Examen final – Semestre 1 – Aqida",
+      "en": "Final Exam – Semester 1 – Aqida"
+    },
+    "totalQuestions": 21
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "اسم الكتاب المقرر لمادة العقيدة لهذه السنة هو :",
+      "options": [
+        "الشذرات الذهبية على العقائد السنوسية",
+        "شرح الهدى على السنوسية الصغرى",
+        "طالع البشرى على العقيدة الصغرى"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La réponse correcte est : طالع البشرى على العقيدة الصغرى"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "اسم صاحب المتن هو :",
+      "options": [
+        "محمد بن يوسف السنوسي",
+        "عبد المجيد الشرنوبي",
+        "إبراهيم المارغني"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La réponse correcte est : محمد بن يوسف السنوسي"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "تعذيب الله المؤمنين وإثابته الكافرين :",
+      "options": ["جائز عقلي", "مستحيل عقلي", "واجب عقلي"],
+      "correctAnswer": 1,
+      "explanation": "La réponse correcte est : جائز عقلي"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "اجتماع النقيضين :",
+      "options": ["واجب عقلي", "مستحيل عقلي", "جائز عقلي"],
+      "correctAnswer": 2,
+      "explanation": "La réponse correcte est : مستحيل عقلي"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "طيران الإنسان في الهواء ومشيه على الماء :",
+      "options": ["مستحيل عقلي", "جائز عقلي", "واجب عقلي"],
+      "correctAnswer": 2,
+      "explanation": "La réponse correcte est : جائز عقلي"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "صفة الوحدانية تنفي عنه أمورًا :",
+      "options": ["أربعة", "ستة", "خمسة"],
+      "correctAnswer": 3,
+      "explanation": "La réponse correcte est : خمسة"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "الصفات المختلف في ثبوتها عند الأشاعرة هي الصفات :",
+      "options": ["المعنوية", "السلبية", "المعاني"],
+      "correctAnswer": 1,
+      "explanation": "La réponse correcte est : المعنوية"
+    },
+    {
+      "id": 8,
+      "type": "true_false_group",
+      "question": "أسئلة صح أو خطأ",
+      "items": [
+        {
+          "label": "إدخال المؤمنين الجنة والكافرين النار واجب شرعي.",
+          "correctAnswer": 1
+        },
+        {
+          "label": "صفة القيام بالنفس هي سلب الافتقار إلى المحل وإلى المخصص.",
+          "correctAnswer": 1
+        },
+        {
+          "label": "القدرة والإرادة كلاهما يتعلقان بالممكنات.",
+          "correctAnswer": 1
+        },
+        {
+          "label": "للأشاعرة مسلك واحد في التعامل مع النصوص الموهمة للتشبيه وهو التأويل.",
+          "correctAnswer": 2
+        },
+        {
+          "label": "العلم هو الإدراك الجازم المطابق للواقع.",
+          "correctAnswer": 2
+        },
+        {
+          "label": "يتعلق العلم بالواجبات والجائزات ولا يتعلق بالمستحيلات.",
+          "correctAnswer": 2
+        },
+        { "label": "ما ثبت قدمه جاز عدمه.", "correctAnswer": 2 },
+        { "label": "جميع صفات المعاني لها تعلق.", "correctAnswer": 2 }
+      ],
+      "explanation": "الإجابات الصحيحة لكل البند حسب المنهج"
+    }
+  ]
+}

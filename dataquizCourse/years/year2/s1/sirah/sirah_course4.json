@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "slug": "sirah_lesson4",
+    "title": {
+      "ar": "📘 امتحان السيرة – الدرس الرابع",
+      "fr": "Examen de Sîra – Leçon 4",
+      "en": "Seerah Exam – Lesson 4"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما السبب الرئيسي وراء غزوة الأحزاب؟",
+      "options": [
+        "رغبة المسلمين في فتح مكة",
+        "تحالف قريش واليهود ضد المسلمين",
+        "اختلاف المسلمين في الغنائم",
+        "رد العدوان على الروم"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "تحالفت قريش واليهود وبعض القبائل لمحاصرة المدينة والقضاء على الإسلام.",
+      "textReference": "تحالف الأحزاب ضد المسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "النبي ﷺ هو من اقترح فكرة حفر الخندق.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "النبي ﷺ استشار أصحابه فأشار سلمان الفارسي بحفر الخندق فأقره النبي ﷺ.",
+      "textReference": "حفر الخندق حول المدينة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "الصحابي الذي أشار بحفر الخندق هو _________.",
+      "correctAnswer": "سلمان الفارسي",
+      "answerReason": "سلمان الفارسي رضي الله عنه أشار بحفر الخندق لحماية المدينة من الأحزاب.",
+      "textReference": "اقتراح سلمان الفارسي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "كم كان عدد الأحزاب تقريبًا في الغزوة؟",
+      "options": ["1000", "3000", "10000", "15000"],
+      "correctAnswer": 2,
+      "answerReason": "تجمعت قريش وغطفان واليهود وغيرهم وكان عددهم حوالي عشرة آلاف مقاتل.",
+      "textReference": "عدد الأحزاب المحاصرين للمدينة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "لم يشارك النبي ﷺ في حفر الخندق بيده.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "خطأ",
+      "answerReason": "النبي ﷺ كان يشارك الصحابة بنفسه في الحفر وكانوا يرتجزون بشعرهم وهو معهم.",
+      "textReference": "مشاركة النبي ﷺ في الحفر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "استمر حصار الأحزاب للمدينة مدة ________ يومًا.",
+      "correctAnswer": "قرابة الشهر",
+      "answerReason": "استمر الحصار قرابة شهر كامل في بردٍ شديد ومحنة عظيمة.",
+      "textReference": "مدة الحصار",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "من الذي خان المسلمين من اليهود أثناء الغزوة؟",
+      "options": ["بنو قينقاع", "بنو النضير", "بنو قريظة", "بنو هذيل"],
+      "correctAnswer": 2,
+      "answerReason": "نقض بنو قريظة عهدهم وتحالفوا مع الأحزاب ضد المسلمين.",
+      "textReference": "خيانة بني قريظة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "truefalse",
+      "question": "اشتد الخوف والجوع في صفوف المسلمين أثناء الحصار.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "ذكر الصحابة أنهم ربطوا الحجر على بطونهم من شدة الجوع والخوف.",
+      "textReference": "شدة الحصار والجوع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "من الذي أرسلته قريش للتفاوض مع بني قريظة؟",
+      "options": [
+        "عكرمة بن أبي جهل",
+        "نعيم بن مسعود",
+        "صفوان بن أمية",
+        "عمرو بن العاص"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "نعيم بن مسعود أسلم سرًا وأفسد التحالف بين قريش وبني قريظة.",
+      "textReference": "دور نعيم بن مسعود",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "دعا النبي ﷺ على الأحزاب قائلاً: اللهم ________ الكتاب.",
+      "correctAnswer": "منزل",
+      "answerReason": "كان من دعاء النبي ﷺ أثناء الحصار: «اللهم منزل الكتاب، سريع الحساب، اهزم الأحزاب».",
+      "textReference": "دعاء النبي ﷺ على الأحزاب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما المعجزة التي حدثت أثناء حفر الخندق؟",
+      "options": [
+        "انفجار عين ماء",
+        "تكثير الطعام",
+        "انكسار الصخرة بضربة النبي ﷺ",
+        "ظهور الغمام"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "ضرب النبي ﷺ صخرة عظيمة فانكسرت وخرج منها نور بشّر بفتوح الإسلام.",
+      "textReference": "انكسار الصخرة في الحفر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "truefalse",
+      "question": "الريح التي أرسلها الله على الأحزاب كانت سبب نصر المسلمين.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "أرسل الله ريحًا شديدة اقتلعت خيامهم وأطفأت نيرانهم وفرّوا هاربين.",
+      "textReference": "الريح التي نصر الله بها المسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "من الذي تولى الحكم في بني قريظة بعد الغزوة؟",
+      "options": [
+        "عمر بن الخطاب",
+        "سعد بن معاذ",
+        "علي بن أبي طالب",
+        "زيد بن ثابت"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النبي ﷺ جعل الحكم فيهم لسعد بن معاذ رضي الله عنه فحكم بما في التوراة.",
+      "textReference": "حكم سعد بن معاذ في بني قريظة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "أصيب سعد بن معاذ في ________ فمات شهيدًا بعد الغزوة.",
+      "correctAnswer": "الأكحل",
+      "answerReason": "أصيب بسهم في أكحله ودعا الله ألا يموت حتى يقر عينه في بني قريظة.",
+      "textReference": "استشهاد سعد بن معاذ",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الدرس الإيماني البارز في غزوة الأحزاب؟",
+      "options": [
+        "أهمية الغنائم",
+        "الاعتماد على الأسباب فقط",
+        "الثبات والثقة بنصر الله",
+        "كثرة السلاح"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "أظهر الله كيف ينصر عباده بعد شدة البلاء وضعف الوسائل.",
+      "textReference": "الثبات والإيمان في المحنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "truefalse",
+      "question": "غزوة الأحزاب كانت في السنة الخامسة للهجرة.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "اتفق المؤرخون على أنها وقعت في شوال من السنة الخامسة للهجرة.",
+      "textReference": "تاريخ غزوة الأحزاب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما اسم السورة التي نزلت في أحداث الغزوة؟",
+      "options": ["سورة محمد", "سورة الأحزاب", "سورة الأنفال", "سورة التوبة"],
+      "correctAnswer": 1,
+      "answerReason": "سورة الأحزاب تناولت تفاصيل الغزوة ومواقف المؤمنين والمنافقين.",
+      "textReference": "نزول سورة الأحزاب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "قال الله تعالى: ﴿وَزُلْزِلُوا زِلْزَالًا _______﴾.",
+      "correctAnswer": "شديدًا",
+      "answerReason": "وصف الله حال المؤمنين في الغزوة بأنهم زلزلوا زلزالًا شديدًا.",
+      "textReference": "وصف حال المؤمنين في الغزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "truefalse",
+      "question": "المرأة المسلمة شاركت في حفر الخندق.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "خطأ",
+      "answerReason": "النساء كنّ في الحصون مع الأطفال لحمايتهم من أي هجوم محتمل.",
+      "textReference": "دور النساء أثناء الغزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "من الذي تولى حراسة النبي ﷺ أثناء الحفر؟",
+      "options": [
+        "طلحة بن عبيد الله",
+        "سعد بن أبي وقاص",
+        "أنس بن مالك",
+        "حذيفة بن اليمان"
+      ],
+      "correctAnswer": 3,
+      "answerReason": "حذيفة بن اليمان كان من أبرز من تولى الحراسة بأمر النبي ﷺ.",
+      "textReference": "حراسة النبي ﷺ",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "question": "في أثناء الغزوة، دعا النبي ﷺ على قريش بقوله: اللهم املأ بيوتهم _______.",
+      "correctAnswer": "خوفًا",
+      "answerReason": "دعاء النبي ﷺ على الأحزاب أن يملأ الله بيوتهم خوفًا وقلوبهم رعبًا.",
+      "textReference": "دعاء النبي ﷺ على قريش",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "من صفات المنافقين التي ظهرت في الغزوة:",
+      "options": [
+        "الشجاعة والإقدام",
+        "الثقة بوعد الله",
+        "التخاذل والفرار",
+        "الإيثار في القتال"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "أظهر المنافقون ضعف الإيمان وقالوا ما وعدنا الله ورسوله إلا غرورًا.",
+      "textReference": "موقف المنافقين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "truefalse",
+      "question": "ثبت المسلمون رغم قلة عددهم وعدتهم.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "كان عدد المسلمين نحو ثلاثة آلاف فقط، لكنهم صبروا حتى نصرهم الله.",
+      "textReference": "ثبات المؤمنين في الغزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما أهم درس سياسي من الغزوة؟",
+      "options": [
+        "أهمية القوة العددية",
+        "التحالف مع الكفار",
+        "الحكمة في التخطيط والدفاع",
+        "عدم استشارة الصحابة"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "الخندق كان خطة دفاعية حكيمة أنقذت المدينة من الهلاك.",
+      "textReference": "الدرس السياسي من الغزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "fill",
+      "question": "كان الخندق في الجهة _______ من المدينة.",
+      "correctAnswer": "الشمالية",
+      "answerReason": "حُفر الخندق في الجهة الشمالية لأنها كانت مكشوفة دون حماية طبيعية.",
+      "textReference": "مكان الخندق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "truefalse",
+      "question": "بعد غزوة الأحزاب لم تغزُ قريش المسلمين بعدها أبدًا.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "كانت هذه آخر محاولة من المشركين لمهاجمة المدينة بعد فشلهم الذريع.",
+      "textReference": "نهاية عدوان قريش",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما نوع النصر الذي تحقق في غزوة الأحزاب؟",
+      "options": [
+        "نصر بالسلاح",
+        "نصر نفسي ومعنوي",
+        "نصر مادي بالغنائم",
+        "هدنة مؤقتة"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "لم يكن هناك قتال مباشر، بل نصر من الله بالريح والرعب.",
+      "textReference": "نوع النصر في الغزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "fill",
+      "question": "قال النبي ﷺ بعد الغزوة: «الآن نغزوهم ولا _______».",
+      "correctAnswer": "يغزونا",
+      "answerReason": "قال ﷺ ذلك إعلانًا بانتهاء مرحلة الدفاع وبداية قوة المسلمين.",
+      "textReference": "قول النبي ﷺ بعد الغزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "من دروس الغزوة:",
+      "options": [
+        "الاعتماد على المعجزات فقط",
+        "العمل الجماعي والطاعة",
+        "ترك الاستشارة",
+        "إهمال الحذر"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "تجلّى التعاون بين المسلمين في الحفر والعمل الجماعي تحت راية واحدة.",
+      "textReference": "العمل الجماعي والطاعة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "truefalse",
+      "question": "غزوة الأحزاب تُظهر أن النصر من عند الله وحده.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": "صح",
+      "answerReason": "تحقق النصر رغم قلة العدد والعدة، فكان توفيقًا إلهيًا خالصًا.",
+      "textReference": "النصر من عند الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/seerah/ec4seerahs1.html#sent30"
+    }
+  ]
+}

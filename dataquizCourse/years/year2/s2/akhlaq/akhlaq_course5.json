@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "slug": "akhlaq_lesson5",
+    "title": {
+      "ar": "الأخلاق – الدرس الخامس – الرجاء والعمل والفرق بينه وبين التمني",
+      "fr": "Akhlaq – Leçon 5 – L’espoir et les œuvres vs les simples souhaits",
+      "en": "Akhlaq – Lesson 5 – Hope with Action vs Wishful Thinking"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما موضوع الحكمة الثامنة والسبعون؟",
+      "options": ["الحزن على الطاعة", "الرجاء والعمل", "الزهد", "الصبر"],
+      "correctAnswer": 1,
+      "explanation": "الحكمة تشرح الفرق بين الرجاء الحقيقي والتمني.",
+      "textReference": "الرجاء ما قارنه عمل وإلا فهو أمنية"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من قائل هذه الحكمة؟",
+      "options": [
+        "الإمام النووي",
+        "الإمام ابن عطاء الله السكندري",
+        "الإمام مالك",
+        "الإمام الشافعي"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الحكمة من حكم ابن عطاء الله السكندري.",
+      "textReference": "قال الإمام ابن عطاء الله"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما معنى الرجاء الصحيح؟",
+      "options": ["التمني فقط", "حسن الظن مع العمل", "الدعاء فقط", "السكوت"],
+      "correctAnswer": 1,
+      "explanation": "الرجاء يكون مع العمل والطاعة.",
+      "textReference": "الرجاء ما قارنه عمل"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما معنى التمني؟",
+      "options": [
+        "العمل",
+        "طلب الشيء مع السعي",
+        "طلب الشيء دون عمل",
+        "العبادة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "التمني هو طلب بدون أسباب.",
+      "textReference": "التمني دون الأخذ بالأسباب"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "كيف يكون الرجاء صادقًا؟",
+      "options": ["بالكلام", "بالنية فقط", "بالعمل والطاعة", "بالسكوت"],
+      "correctAnswer": 2,
+      "explanation": "الرجاء يحتاج عمل.",
+      "textReference": "فليعمل عملا صالحا"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما الآية التي تدل على العمل مع الرجاء؟",
+      "options": [
+        "قل هو الله أحد",
+        "فليعمل عملا صالحا",
+        "قل أعوذ برب الفلق",
+        "اقرأ باسم ربك"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الآية تربط الرجاء بالعمل.",
+      "textReference": "فمن كان يرجو لقاء ربه فليعمل عملا صالحا"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما خطر التمني بدون عمل؟",
+      "options": ["ينفع", "غرور وضياع", "عبادة", "خير"],
+      "correctAnswer": 1,
+      "explanation": "التمني بدون عمل يؤدي للضياع.",
+      "textReference": "هي غرور وضياع"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما علاقة حسن الظن بالله؟",
+      "options": ["لا علاقة", "يدفع للعمل", "يمنع العمل", "يؤدي للكسل"],
+      "correctAnswer": 1,
+      "explanation": "حسن الظن الحقيقي يقود للطاعة.",
+      "textReference": "لو أحسنوا الظن لأحسن العمل"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما مثال التمني في الدرس؟",
+      "options": [
+        "الطالب المجتهد",
+        "الطالب الذي لا يدرس ويتمنى النجاح",
+        "العالم",
+        "المعلم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "مثال الطالب الذي لا يعمل.",
+      "textReference": "ترك الدراسة ويتمنى النجاح"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما نتيجة التمني بدون عمل؟",
+      "options": ["النجاح", "الفشل", "الراحة", "السعادة"],
+      "correctAnswer": 1,
+      "explanation": "لا يتحقق الهدف بدون عمل.",
+      "textReference": "ضاعت منه الجائزة"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما شرط نيل ما عند الله؟",
+      "options": ["الدعاء فقط", "الطاعة", "الصمت", "التمني"],
+      "correctAnswer": 1,
+      "explanation": "ما عند الله لا ينال إلا بالطاعة.",
+      "textReference": "ما عند الله لا يدرك إلا بطاعته"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما موقف الإسلام من التمني؟",
+      "options": ["يمدحه", "يذمه", "يأمر به", "يتركه"],
+      "correctAnswer": 1,
+      "explanation": "الإسلام يذم التمني.",
+      "textReference": "تلك أمانيهم"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما علاقة العمل بالرجاء؟",
+      "options": ["لا علاقة", "شرط أساسي", "اختياري", "غير مهم"],
+      "correctAnswer": 1,
+      "explanation": "العمل شرط لصحة الرجاء.",
+      "textReference": "ما قارنه عمل"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما معنى \"من رجا شيئا طلبه\"؟",
+      "options": ["تمناه", "عمل له", "تركه", "نسيه"],
+      "correctAnswer": 1,
+      "explanation": "الرجاء يدفع للعمل.",
+      "textReference": "من رجا شيئا طلبه"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما صفة العاقل؟",
+      "options": ["يتمنى", "يحاسب نفسه", "يكسل", "يغفل"],
+      "correctAnswer": 1,
+      "explanation": "العاقل يحاسب نفسه.",
+      "textReference": "الكيس من دان نفسه"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما صفة العاجز؟",
+      "options": ["يعمل", "يتمنى", "يجتهد", "يصبر"],
+      "correctAnswer": 1,
+      "explanation": "العاجز يتمنى فقط.",
+      "textReference": "وتمنى على الله الأماني"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما نتيجة الكسل؟",
+      "options": ["نجاح", "فشل", "علم", "عبادة"],
+      "correctAnswer": 1,
+      "explanation": "الكسل يؤدي للفشل.",
+      "textReference": "لا هو في الدنيا ولا في الآخرة"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما علاقة الأسباب بالنتائج؟",
+      "options": ["منفصلة", "مرتبطة", "عشوائية", "غير مهمة"],
+      "correctAnswer": 1,
+      "explanation": "الله ربط الأسباب بالنتائج.",
+      "textReference": "ربط بين الأسباب ومسبباتها"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما معنى \"إن السفينة لا تجري على اليابس\"؟",
+      "options": ["الراحة", "استحالة بدون سبب", "النجاح", "العبادة"],
+      "correctAnswer": 1,
+      "explanation": "لا نجاح بدون عمل.",
+      "textReference": "إن السفينة لا تجري على اليابس"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما خطر قول \"قلبي طيب\" مع ترك الصلاة؟",
+      "options": ["صحيح", "خطأ", "مقبول", "مستحب"],
+      "correctAnswer": 1,
+      "explanation": "لا يغني عن الطاعة.",
+      "textReference": "كيف يكون ترك الصلاة مبررا"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "هل العمل يغني عن النية؟",
+      "options": ["نعم", "لا", "أحيانا", "نادرا"],
+      "correctAnswer": 1,
+      "explanation": "لا بد من الإخلاص.",
+      "textReference": "ولا يشرك بعبادة ربه أحدا"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما المطلوب لنيل الجنة؟",
+      "options": ["التمني", "الطاعة", "الراحة", "النوم"],
+      "correctAnswer": 1,
+      "explanation": "الجنة تحتاج عمل.",
+      "textReference": "أطعني أجعلك من أهل الجنة"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما أثر العمل الصالح؟",
+      "options": ["الضياع", "القرب من الله", "الكسل", "الفشل"],
+      "correctAnswer": 1,
+      "explanation": "العمل يقرب من الله.",
+      "textReference": "تقربوا إلى الله"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما نتيجة ترك العمل؟",
+      "options": ["نجاح", "حرمان", "سعادة", "راحة"],
+      "correctAnswer": 1,
+      "explanation": "يؤدي للحرمان.",
+      "textReference": "لا تجدي نفعا"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما العلاقة بين الرجاء والعمل؟",
+      "options": ["منفصلة", "مترابطة", "متناقضة", "غير مهمة"],
+      "correctAnswer": 1,
+      "explanation": "الرجاء لا يصح بدون عمل.",
+      "textReference": "ما قارنه عمل"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما صفة من يعتمد على الأماني؟",
+      "options": ["ناجح", "مغرور", "عالم", "مجتهد"],
+      "correctAnswer": 1,
+      "explanation": "هو مغرور.",
+      "textReference": "هي غرور وضياع"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما واجب المسلم؟",
+      "options": ["التمني", "العمل والطاعة", "النوم", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "العمل هو الأساس.",
+      "textReference": "أن تقبل على الطاعات"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما أثر الاجتهاد؟",
+      "options": ["الفشل", "النجاح", "الكسل", "الضياع"],
+      "correctAnswer": 1,
+      "explanation": "الاجتهاد يؤدي للنجاح.",
+      "textReference": "من رجا شيئا طلبه"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما أثر البطالة؟",
+      "options": ["نجاح", "ضياع", "علم", "عبادة"],
+      "correctAnswer": 1,
+      "explanation": "تؤدي للضياع.",
+      "textReference": "هذا هو الضياع نفسه"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الخلاصة التربوية للحكمة؟",
+      "options": ["التمني يكفي", "العمل فقط", "الرجاء مع العمل", "لا شيء مهم"],
+      "correctAnswer": 2,
+      "explanation": "الرجاء لا يصح بدون عمل.",
+      "textReference": "الرجاء ما قارنه عمل وإلا فهو أمنية"
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "slug": "akhlaq_lesson3",
+    "title": {
+      "ar": "📘 امتحان التصوف – الدرس الرابع",
+      "fr": "Examen de Tasawwuf – Cours 3",
+      "en": "Tasawwuf Exam – Lesson 3"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما المقصود بالتصوف في أصله اللغوي؟",
+      "options": [
+        "الصفاء والنقاء",
+        "الزهد في الدنيا",
+        "العبادة الظاهرة",
+        "العلم النظري"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "أصل التصوف من الصفاء أي صفاء القلب من الكدر، كما ذكر أهل السلوك.",
+      "textReference": "تعريف التصوف لغة واصطلاحًا، وبيان معناه عند العلماء.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من هو الإمام الذي عرّف التصوف بأنه «الوقوف مع الآداب الشرعية ظاهرًا وباطنًا»؟",
+      "options": [
+        "الإمام الجنيد",
+        "الإمام الغزالي",
+        "الإمام الشاذلي",
+        "الشيخ عبد القادر الجيلاني"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الجنيد هو من أبرز أئمة السلوك الذين جمعوا بين العلم والشريعة والحقيقة.",
+      "textReference": "تعريف الجنيد للتصوف وضبطه للمنهج السني.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما المقصود بالزهد عند أهل التصوف؟",
+      "options": [
+        "ترك الدنيا بالكلية",
+        "الاستغناء عما في أيدي الناس",
+        "الانقطاع عن العمل",
+        "لبس الثياب الخشنة"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الزهد الحقيقي هو زهد القلب لا زهد الظاهر فقط.",
+      "textReference": "شرح مفهوم الزهد في ضوء السنة وأقوال العلماء.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "من علامات صفاء القلب عند الصوفي؟",
+      "options": [
+        "الخشوع في العبادة",
+        "التزيّن بالملابس",
+        "كثرة الكلام",
+        "حب الشهرة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصفاء يظهر في حال القلب بين يدي الله لا في المظاهر.",
+      "textReference": "أثر صفاء القلب في سلوك العبد وتزكيته.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما الفرق بين التصوف الحقيقي والتصوف المنحرف؟",
+      "options": [
+        "الالتزام بالشريعة",
+        "كثرة الأذكار فقط",
+        "العزلة الدائمة",
+        "الكرامات الظاهرة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "التصوف الصحيح منضبط بالكتاب والسنة، بخلاف المنحرف الذي يخرج عنهما.",
+      "textReference": "ضوابط التمييز بين الصوفية السنية والبدعية.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما المقصود بالمجاهدة في طريق التصوف؟",
+      "options": [
+        "مجاهدة النفس في طاعة الله",
+        "قتال الأعداء",
+        "ترك الأكل والشرب",
+        "الانعزال في الصوامع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المجاهدة من أهم مراحل السير إلى الله، كما ورد في قوله تعالى: والذين جاهدوا فينا لنهدينهم سبلنا.",
+      "textReference": "بيان مفهوم المجاهدة وأثرها في تزكية النفس.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "من أركان طريق الصوفية؟",
+      "options": [
+        "التوبة، الزهد، الصبر، التوكل",
+        "الزكاة، الصوم، الحج، الصدقة",
+        "الكرامات، الأحلام، الرؤى، الكشف",
+        "الصمت، العزلة، الجوع، السهر فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "هي المراتب الأساسية التي يبدأ بها السالك في تزكية نفسه.",
+      "textReference": "أركان الطريق عند الصوفية ومراتبها السلوكية.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الهدف الأسمى من التصوف؟",
+      "options": [
+        "تحقيق الإخلاص والمحبة لله",
+        "الوصول إلى الكرامات",
+        "العزلة عن الناس",
+        "جمع المال الحلال"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "غاية التصوف هي إصلاح القلب ليكون خالصًا لله في كل عمل.",
+      "textReference": "الهدف الروحي من التصوف وغايته العليا.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما علامة الصوفي الصادق؟",
+      "options": [
+        "الثبات على الحق",
+        "الجدال في المسائل",
+        "طلب الجاه",
+        "الانقطاع عن المجتمع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصوفي الصادق يثبت على الحق ولو خالفه الناس جميعًا.",
+      "textReference": "علامات الصدق في السير إلى الله تعالى.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "من صفات أهل التصوف في التعامل مع الناس؟",
+      "options": [
+        "الرحمة واللين",
+        "الغلظة",
+        "الجدال والمراء",
+        "التكبر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "لأن من صفا مع الله لان مع خلقه، كما قال أهل المعرفة.",
+      "textReference": "أخلاق الصوفي مع الناس وآدابه الاجتماعية.",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs1.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما معنى كلمة 'الأمد' في الحكمة السادسة لابن عطاء الله؟",
+      "options": [
+        "مدة العطاء والاستجابة",
+        "المدة الزمنية للحياة",
+        "مدة العمل الصالح",
+        "مدة الزهد"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الأمد يشير إلى طول مدة الانتظار قبل الاستجابة، كما شرح الشيخ الشرنوبي.",
+      "textReference": "درس الحكمة السادسة – مدة العطاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الذي يوجبه الإلحاح في الدعاء وفق ابن عطاء الله؟",
+      "options": [
+        "عدم اليأس والثقة بإجابة الله",
+        "الاستعجال في النتائج",
+        "التذمر من التأخر",
+        "الاعتماد على الوسائل البشرية فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الإلحاح في الدعاء شرط للاستمرارية وليس لليأس، والله ضامن الإجابة.",
+      "textReference": "درس الحكمة السادسة – الإلحاح في الدعاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent2"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "في الحكمة السادسة، ماذا يعني 'الإجابة فيما يختاره الله لك'؟",
+      "options": [
+        "الله يجيب بما هو خير لك",
+        "الله يجيب بما تختاره بنفسك",
+        "الإجابة متوقفة على الظروف",
+        "الاستجابة الفورية لكل دعاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الله أعلم بما يصلح لعبده، وقد يعطي خيرًا أفضل مما طلب.",
+      "textReference": "درس الحكمة السادسة – استجابة الدعاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent3"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "لماذا لا يجب أن يكون تأخر الإجابة موجبًا لليأس؟",
+      "options": [
+        "لأن التأخير قد يكون لحكمة الله",
+        "لأن الدعاء بلا أثر",
+        "لأن الله لا يسمع إلا بعد الصبر",
+        "لأن الإجابة ثابتة فقط بعد الأجل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "التأخير في الاستجابة قد يكون لحكمة الله، فيعطيك ما هو أفضل في الوقت الأنسب.",
+      "textReference": "درس الحكمة السادسة – التأخر في الإجابة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent4"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما علاقة الصبر بمقام الدعاء في الحكمة السادسة؟",
+      "options": [
+        "الصبر مطلوب أثناء الانتظار وعدم الاستعجال",
+        "الصبر لإطالة مدة الدعاء",
+        "الصبر غير مرتبط بالدعاء",
+        "الصبر للتظاهر بالورع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر جزء من أخلاق السالك، وعدم الاستعجال يدل على القناعة بحكمة الله.",
+      "textReference": "درس الحكمة السادسة – الصبر وأثره",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent5"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما العبرة من مثال موسى وهارون عليهما السلام في الحكمة السادسة؟",
+      "options": [
+        "الانتظار الطويل جزء من تحقيق المقصود",
+        "الدعاء القصير أفضل",
+        "النتائج دائمًا فورية",
+        "التأخر علامة على الرفض الإلهي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الله يحقق الإجابة في الوقت الذي يراه مناسبًا لتحقيق الخير.",
+      "textReference": "درس الحكمة السادسة – قصة موسى وهارون",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent6"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما معنى 'ربما منعك فأعطاك' في شرح الحكمة السادسة؟",
+      "options": [
+        "قد يمنعك ليعطيك خيرًا أعظم",
+        "المنع معناه العقاب",
+        "المنع دائم",
+        "يجب التذمر من المنع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الله قد يمنع شيء ليعطيك ما هو أفضل منه في المستقبل.",
+      "textReference": "درس الحكمة السادسة – الحكمة من المنع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent7"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الذي يضمن لك الإجابة في الدعاء وفق ابن عطاء الله؟",
+      "options": [
+        "الله ضامن لك الإجابة إذا أتممت شروط الدعاء",
+        "الضغط على الله بالطلب",
+        "المقارنة مع دعاء الآخرين",
+        "إظهار الحزن على التأخير"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الله سبحانه وتعالى ضامن لإجابة الدعاء بشرط الإلحاح والدعاء بالطريقة المشروعة.",
+      "textReference": "درس الحكمة السادسة – ضمان الإجابة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent8"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما موقف العبد إذا تأخر استجابة الدعاء؟",
+      "options": [
+        "الصبر والرضا بحكمة الله",
+        "اليأس والقنوط",
+        "الاعتراض على الله",
+        "الإحباط النفسي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "تأخر الإجابة جزء من حكمة الله، ويجب على العبد الصبر والرضا.",
+      "textReference": "درس الحكمة السادسة – موقف العبد عند التأخر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent9"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ماذا يعني 'في الوقت الذي يريد، لا في الوقت الذي تريد'؟",
+      "options": [
+        "الله يقدر الإجابة حسب حكمته، وليس حسب رغبتنا",
+        "الدعاء يكون فقط عند الفجر",
+        "الإجابة متأخرة دائمًا",
+        "المهم هو العدد وليس التوقيت"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الله أعلم بالوقت المناسب لتحقيق الخير لعبده.",
+      "textReference": "درس الحكمة السادسة – التوقيت في الإجابة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent10"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما علاقة حب الله بالمداومة على الدعاء؟",
+      "options": [
+        "من يحب الله يداوم على الدعاء بإخلاص",
+        "من يحب الله لا يحتاج للدعاء",
+        "الدعاء عبء على المحب",
+        "الدعاء يكون للظهور فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المداومة على الدعاء علامة الإخلاص وحب العبد لربه.",
+      "textReference": "درس الحكمة السادسة – المداومة على الدعاء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent11"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما أثر الدعاء المستمر في قلب العبد؟",
+      "options": [
+        "طمأنينة وسكينة",
+        "قلق دائم",
+        "يأس وإحباط",
+        "تشتت الذهن"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدعاء مع الإلحاح يزرع الطمأنينة والسكينة في قلب العبد.",
+      "textReference": "درس الحكمة السادسة – أثر الدعاء على القلب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent12"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما الذي يجب على العبد فعله إذا لم يستجب الله لدعائه مباشرة؟",
+      "options": [
+        "الصبر والتوكل على الله",
+        "التذمر والشكوى",
+        "ترك العبادة",
+        "تغيير الدعاء لشيء آخر فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصبر والتوكل من أخلاق العبد عند تأخر استجابة الدعاء.",
+      "textReference": "درس الحكمة السادسة – التعامل مع التأخر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent13"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما درس الحكمة السادسة في السلوك العام للعبد؟",
+      "options": [
+        "الرضا بحكمة الله والصبر",
+        "المبالغة في طلب الحاجات",
+        "التذمر عند التأخر",
+        "التوقف عن الدعاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحكمة تعلم العبد القبول بحكمة الله وعدم اليأس.",
+      "textReference": "درس الحكمة السادسة – العبرة العملية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent14"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ماذا نتعلم من تجربة الأنبياء في الانتظار؟",
+      "options": [
+        "أن الصبر مطلوب وأن الإجابة تأتي في الوقت المناسب",
+        "أن الدعاء قد لا يُستجاب أبدًا",
+        "أن التأخير دائمًا عيب",
+        "أن العمل عبثي بدون سرعة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الأنبياء نموذج للصبر على تأخر الإجابة، والاعتماد على حكمة الله.",
+      "textReference": "درس الحكمة السادسة – دروس من الأنبياء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent15"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما الفرق بين الدعاء في الوقت الذي يريد الله والدعاء في الوقت الذي يريد العبد؟",
+      "options": [
+        "الله يختار الوقت الأفضل للخير",
+        "لا فرق، الزمن دائمًا محدد",
+        "الإجابة متاحة فورًا دائمًا",
+        "العبد يقرر كل شيء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الإجابة تأتي في الوقت الذي يختاره الله بما فيه خير العبد.",
+      "textReference": "درس الحكمة السادسة – توقيت الاستجابة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent16"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ماذا يعني 'فمنعك هو عين العطاء'؟",
+      "options": [
+        "منع الشيء قد يكون خيرًا لك",
+        "المنع دليل على غضب الله",
+        "المنع دائم بلا تفسير",
+        "المنع للتقليل من الدعاء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المنع في بعض الأحيان يحقق خيرًا أعظم مما طلب العبد.",
+      "textReference": "درس الحكمة السادسة – الحكمة من المنع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent17"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "كيف يرتبط اليقين بالاستجابة في الدعاء؟",
+      "options": [
+        "اليقين بالاستجابة يعزز الصبر والطمأنينة",
+        "اليقين يضر بالدعاء",
+        "اليقين يجعل الدعاء غير مطلوب",
+        "اليقين يحل محل العمل الصالح"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "اليقين بالله يزيد من ثبات القلب وعدم اليأس أثناء الدعاء.",
+      "textReference": "درس الحكمة السادسة – أثر اليقين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent18"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما علاقة الدعاء بالعمل الصالح وفق الحكمة السادسة؟",
+      "options": [
+        "الدعاء مكمل للعمل الصالح وليس بديلًا",
+        "الدعاء يغني عن العمل",
+        "الدعاء يوقف العمل",
+        "الدعاء فقط للامتحانات"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الدعاء مع العمل الصالح يؤدي لتحقيق المطلوب وفق حكمة الله.",
+      "textReference": "درس الحكمة السادسة – تكامل الدعاء والعمل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent19"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الخلاصة العملية للحكمة السادسة؟",
+      "options": [
+        "الصبر، اليقين، الإلحاح، الرضا بحكمة الله",
+        "التسرع، الاستعجال، القنوط",
+        "التذمر والاعتراض على الله",
+        "الإهمال في الدعاء والعمل"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "هذه العناصر مجتمعة توصل العبد إلى الاستفادة الحقيقية من الدعاء.",
+      "textReference": "درس الحكمة السادسة – الخلاصة العملية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/tasawwuf/ec4tasawwufs2.html#sent20"
+    }
+  ]
+}

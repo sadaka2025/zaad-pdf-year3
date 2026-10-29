@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "slug": "aqida_lesson2",
+    "title": {
+      "ar": "📘 العقيدة – الدرس الثاني: مقدمة طالع البشرى",
+      "fr": "Aqida – Leçon 2 : Introduction de Tal’ al-Bushra",
+      "en": "Aqida – Lesson 2: Introduction of Tal’ al-Bushra"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من هو مؤلف كتاب طالع البشرى على العقيدة الصغرى؟",
+      "options": [
+        "الإمام المارغني",
+        "الإمام السنوسي",
+        "الإمام الصبان",
+        "الإمام الغزالي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الإمام المارغني هو مؤلف شرح طالع البشرى على العقيدة الصغرى.",
+      "textReference": "النص يوضح أن الإمام المارغني هو مؤلف شرح طالع البشرى على العقيدة الصغرى.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "الشرح المزج الذي استخدمه الإمام المارغني يعني أنه فصل عبارته عن عبارة الماتن.",
+      "correctAnswer": false,
+      "answerReason": "الشرح المزج يعني أن عبارات الشارح ممزوجة مع عبارة الماتن، وليست مفصولة.",
+      "textReference": "الشرح المزج يعني أن عبارات الشارح ممزوجة مع عبارة الماتن، وليست مفصولة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "المقدمة التي يجب معرفتها قبل الشروع في دراسة أي علم تسمى مقدمة ________.",
+      "correctAnswer": "العلم",
+      "answerReason": "النص يوضح أن مقدمة العلم شرط ضروري لدراسة أي علم.",
+      "textReference": "النص يوضح أن مقدمة العلم شرط ضروري لدراسة أي علم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما السبب الذي يجعل العلماء يبدأون كتبهم بالبسملة؟",
+      "options": [
+        "اقتداء بالقرآن والسنة",
+        "لتزيين الكتاب",
+        "للاستطراد في الكلام",
+        "لإظهار الحكمة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن البداية بالبسملة اقتداء بالقرآن وسنة النبي.",
+      "textReference": "النص يوضح أن البداية بالبسملة اقتداء بالقرآن وسنة النبي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "fill",
+      "question": "كل عمل لا يبدأ فيه بالبسم الله والحمد لله والصلاة والسلام على النبي يكون ________.",
+      "correctAnswer": "أبتر أو معلق",
+      "answerReason": "النص يوضح أن البداية الصحيحة بعناصر البسملة والحمد والسلام شرط لتمام العمل.",
+      "textReference": "النص يوضح أن البداية الصحيحة بعناصر البسملة والحمد والسلام شرط لتمام العمل.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "مقدمة الكتاب شرط ضروري لدخول دراسة العلم.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن دراسة مقدمة الكتاب ليست شرطا، لكنها مفيدة وثرية بالمعلومات.",
+      "textReference": "النص يوضح أن دراسة مقدمة الكتاب ليست شرطا، لكنها مفيدة وثرية بالمعلومات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "المبادئ العشرة لكل علم جمعها الإمام الصبان، وأهم ثلاثة مذكورة في البيت الأول هي:",
+      "options": [
+        "الحد، الموضوع، الثمرة",
+        "الاسم، الاستمداد، فضل",
+        "حكم الشارع، مسائل، نسبة",
+        "الحد، الاسم، حكم الشارع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يذكر أن أهم ثلاثة مبادئ هي الحد، الموضوع، الثمرة.",
+      "textReference": "النص يذكر أن أهم ثلاثة مبادئ هي الحد، الموضوع، الثمرة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "open",
+      "question": "اشرح معنى 'براعة الاستهلال' كما ورد في النص.",
+      "correctAnswer": "أن يذكر المؤلف في بداية كتابه ما ينبئ عن المقصود أو يشعر الطالب بمضمون الكتاب بمجرد قراءة المقدمة.",
+      "answerReason": "النص يوضح أن براعة الاستهلال تهيئ الطالب لفهم مضمون الكتاب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن براعة الاستهلال تهيئ الطالب لفهم مضمون الكتاب."
+    },
+    {
+      "id": 9,
+      "type": "fill",
+      "question": "الإمام المارغني ذكر في مقدمة الكتاب: 'الحمد لله القديم بلا ________، الباقي بلا نهاية'.",
+      "correctAnswer": "بداية",
+      "answerReason": "النص يوضح صفة القديم لله بأنها بلا بداية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح صفة القديم لله بأنها بلا بداية."
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "ذكر المؤلف اسمه في مقدمة الكتاب لتأكيد نسب الكتاب وصحته.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن معرفة صاحب الكتاب مهمة لإعطاء الكتاب قيمته.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن معرفة صاحب الكتاب مهمة لإعطاء الكتاب قيمته."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما معنى 'الحد' من المبادئ العشرة في دراسة العلم؟",
+      "options": [
+        "تعريف العلم",
+        "موضوع البحث",
+        "الغاية من الدراسة",
+        "اسم المؤلف"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحد يعني تعريف العلم، كما ورد في المبادئ العشرة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "الحد يعني تعريف العلم، كما ورد في المبادئ العشرة."
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما معنى 'الموضوع' من المبادئ العشرة؟",
+      "options": [
+        "موضوع البحث",
+        "الغاية من الدراسة",
+        "الاسم",
+        "حكم الشارع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الموضوع يشير إلى ما يبحث فيه هذا العلم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "الموضوع يشير إلى ما يبحث فيه هذا العلم."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما معنى 'الثمرة' من المبادئ العشرة؟",
+      "options": [
+        "الهدف والغاية من دراسة العلم",
+        "موضوع البحث",
+        "اسم المؤلف",
+        "حكم الشارع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الثمرة تعني الهدف والغاية من دراسة العلم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "الثمرة تعني الهدف والغاية من دراسة العلم."
+    },
+    {
+      "id": 14,
+      "type": "truefalse",
+      "question": "شرح الإمام المارغني مخصص لعقائد أهل السنة فقط.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن طالع البشرى مقتصر على عقائد أهل السنة مع قليل من مواضع التوضيح.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن طالع البشرى مقتصر على عقائد أهل السنة مع قليل من مواضع التوضيح."
+    },
+    {
+      "id": 15,
+      "type": "fill",
+      "question": "الإمام السنوسي ألف كتاب العقيدة الصغرى وسماه ________.",
+      "correctAnswer": "أم البراهين",
+      "answerReason": "النص يوضح أن اسم الكتاب هو أم البراهين.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن اسم الكتاب هو أم البراهين."
+    },
+    {
+      "id": 16,
+      "type": "truefalse",
+      "question": "الشرح المزج الذي ألفه المارغني طويل وممل.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن شرح المارغني سهل وممزوج بعبارات السنوسي وليس طويلًا مملًا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن شرح المارغني سهل وممزوج بعبارات السنوسي وليس طويلًا مملًا."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما الغرض من ذكر المؤلف للبسملة والحمد والسلام في مقدمة الكتاب؟",
+      "options": [
+        "اقتداء بالقرآن والسنة",
+        "تزيين الكتاب",
+        "تعقيد المقدمة",
+        "زيادة طول الكتاب"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الهدف اقتداء بالقرآن وسنة النبي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن الهدف اقتداء بالقرآن وسنة النبي."
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "أسلوب 'أما بعد' يسمى في علوم البلاغة ________.",
+      "correctAnswer": "فصل الخطاب",
+      "answerReason": "النص يوضح أن 'أما بعد' هي أسلوب فصل الخطاب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن 'أما بعد' هي أسلوب فصل الخطاب."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما الذي يميز شرح الإمام المارغني عن شرح الإمام السنوسي؟",
+      "options": [
+        "العبارات ممزوجة مع عباراته",
+        "شرح منفصل تمامًا",
+        "شرح مختصر فقط",
+        "شرح معقد صعب الفهم"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الشرح ممزوج بين عبارات المارغني والسنوسي لتوضيح المعاني.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "الشرح ممزوج بين عبارات المارغني والسنوسي لتوضيح المعاني."
+    },
+    {
+      "id": 20,
+      "type": "truefalse",
+      "question": "المقدمة الجيدة تساعد الطالب على معرفة مضمون الكتاب قبل الشروع في الدراسة.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن براعة الاستهلال تهيئ الطالب لمضمون الكتاب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن براعة الاستهلال تهيئ الطالب لمضمون الكتاب."
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "question": "أهم ما يتوجه إليه الطالب لجمعه في دراسة العقيدة هو ________.",
+      "correctAnswer": "العلم الذي ينجيه بفضل الله من العذاب المرتب على الكفر وسوء الاعتقاد",
+      "answerReason": "النص يوضح أن الهدف هو تحصيل العلم النافع للإيمان.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن الهدف هو تحصيل العلم النافع للإيمان."
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "لماذا طلب بعض الطلاب من الإمام المارغني شرحًا أيسر من شرح السنوسي؟",
+      "options": [
+        "لتسهيل الفهم",
+        "لتقصير الكتاب",
+        "لتغيير المبادئ",
+        "لتجاهل بعض العقائد"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أنهم طلبوا شرحًا أيسر لفهم العقيدة بسهولة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أنهم طلبوا شرحًا أيسر لفهم العقيدة بسهولة."
+    },
+    {
+      "id": 23,
+      "type": "truefalse",
+      "question": "شرح طالع البشرى يتضمن بعض التوجيهات والتنبيهات مع الاحتفاظ بالعقائد الأساسية.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن الشرح يحتوي على تنبيهات وشرح مبسط للعقائد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن الشرح يحتوي على تنبيهات وشرح مبسط للعقائد."
+    },
+    {
+      "id": 24,
+      "type": "fill",
+      "question": "اسم الكتاب الكامل هو 'طالع البشرى على ________'.",
+      "correctAnswer": "العقيدة الصغرى",
+      "answerReason": "النص يوضح أن اسم الكتاب هو طالع البشرى على العقيدة الصغرى.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن اسم الكتاب هو طالع البشرى على العقيدة الصغرى."
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما الذي يضمن قبول العمل وتمامه حسب الشرح؟",
+      "options": [
+        "البسملة والحمد والسلام على النبي",
+        "قراءة المقدمة فقط",
+        "معرفة المؤلف",
+        "اتباع منهجية الشرح المزج"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن البداية بالبسملة والحمد والسلام على النبي من علامات قبول العمل.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن البداية بالبسملة والحمد والسلام على النبي من علامات قبول العمل."
+    },
+    {
+      "id": 26,
+      "type": "truefalse",
+      "question": "المبادئ العشرة تشمل الحد، الموضوع، الثمرة، والاسم والاستمداد وحكم الشارع، وغيرها.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر جميع هذه المبادئ العشرة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يذكر جميع هذه المبادئ العشرة."
+    },
+    {
+      "id": 27,
+      "type": "fill",
+      "question": "الإمام المارغني استخدم عبارة 'الحمد لله القديم بلا بداية' للإشارة إلى صفة ________.",
+      "correctAnswer": "القديم لله",
+      "answerReason": "النص يوضح أن القديم بلا بداية صفة لله سبحانه وتعالى.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن القديم بلا بداية صفة لله سبحانه وتعالى."
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما السبب في أن مقدمة الكتاب مفيدة رغم أنها ليست شرطًا للشروع في العلم؟",
+      "options": [
+        "تحتوي على فوائد وإشارات غير موجودة في وسط الكتاب",
+        "تختصر العلم",
+        "توضح التعقيدات",
+        "تبدل المبادئ العشرة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن المقدمة تحتوي على فوائد وإشارات قد لا يذكرها المؤلف في وسط الكتاب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن المقدمة تحتوي على فوائد وإشارات قد لا يذكرها المؤلف في وسط الكتاب."
+    },
+    {
+      "id": 29,
+      "type": "truefalse",
+      "question": "المقدمة الجيدة تساعد الطالب على التمييز بين نص الكتاب وشرح المؤلف.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن الشرح المزج يمكن تمييزه بتوضيح العبارة الأصلية للماتن.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن الشرح المزج يمكن تمييزه بتوضيح العبارة الأصلية للماتن."
+    },
+    {
+      "id": 30,
+      "type": "fill",
+      "question": "الإمام المارغني ذكر في المقدمة أنه كتب هذا الشرح لتسهيل فهم شرح ________.",
+      "correctAnswer": "الإمام السنوسي",
+      "answerReason": "النص يوضح أن الهدف هو تسهيل فهم شرح الإمام السنوسي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/aqida/ec1aqidas1.html#sent1",
+      "textReference": "النص يوضح أن الهدف هو تسهيل فهم شرح الإمام السنوسي."
+    }
+  ]
+}
