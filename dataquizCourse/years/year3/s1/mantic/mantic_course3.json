@@ -21,7 +21,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يوضح أن تعريف علم المنطق بالحد هو البحث عن المعلومات التصورية والتصديقية من حيث إيصالها للمجهول التصوري أو التصديقي[cite: 34].",
       "textReference": "تعريف علم المنطق هو علم يبحث فيه عن المعلومات التصورية والتصديقية من حيث إنها توصل إلى معرفة مجهول تصوري فتسمى قولا شارحا ومعرفا... أو توصل إلى مجهول تصديقي، فتسمى حجة[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
       "correctAnswer": true,
       "answerReason": "النص يؤكد أن التصور إدراك مفردات خال عن الحكم وأن التصديق إدراك مركبات معه حكم[cite: 34].",
       "textReference": "التصور ادراك خال عن الحكم. والتصديق ادراك معه حكم... التصور، حصول صورة الشيء في الذهن بدون أن تحكم عليها... والتصديق هو إدراك معه حكم[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "correctAnswer": "قولا شارحا",
       "answerReason": "النص يوضح أن المجهول التصوري يوصل إليه بالقول الشارح (التعريف)، والتصديقي بالحجة[cite: 34].",
       "textReference": "توصل إلى معرفة مجهول تصوري فتسمى قولا شارحا ومعرفا أو توصل إلى مجهول تصديقي، فتسمى حجة[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يحدد موضوع علم المنطق بأنه المعلومات التصورية والتصديقية من حيث إيصالها للمجهول[cite: 34].",
       "textReference": "موضوع علم المنطق... المعلومات التصورية، والمعلوم التصديقي من هذه الحيثية، أي من حيث إنها توصل إلى معرفة مجهول[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 5,
@@ -62,7 +62,7 @@
       "correctAnswer": true,
       "answerReason": "النص يفرق بين التعريف بالحد (بذكر موضوع العلم) والتعريف بالرسم (بذكر الغاية والثمرة)[cite: 34].",
       "textReference": "التعريف بالحد هو ما يذكر فيه موضوع العلم في الغالب، والتعريف بالرسم هو ما يذكر في التعريف الغاية والثمرة[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 6,
@@ -72,7 +72,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يوضح أن أول واضع لعلم المنطق من حيث التدوين هو أرسطو (أرسطاطاليس)[cite: 34].",
       "textReference": "أول واضع لعلم المنطق من حيث التدوين، وضبط هذا العلم... هو يرسط... أرسطو هو اختصار لاسماليس (أرسطاطاليس)[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 7,
@@ -81,7 +81,7 @@
       "correctAnswer": true,
       "answerReason": "النص ينص صراحة على أن علم المنطق يستمد مسائله من العقل كونه علماً عقلياً بحتاً[cite: 34].",
       "textReference": "استمداده، يستمد هذا العلم. مسائله من العقل، هذا العلم عبارة على قواعد عقلية منطقية، لا دخل لي الدين فيها[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 8,
@@ -95,7 +95,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يذكر الأقوال الثلاثة بالتفصيل: التحريم لسد الذريعة، الجواز والطلب لإقامة الحجج، والتفصيل بصحته لكامل القريحة الممارس للكتاب والسنة[cite: 34].",
       "textReference": "والخلف في جواز الاشتغال به على ثلاثة أقوال، فابن الصلاح، والنواوي حرم، وقال قوم ينبغي أن يعلم، والقولة المشهورة الصحيحة جوازه لكامل القريحة ممارس السنة، والكتاب[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 9,
@@ -104,7 +104,7 @@
       "correctAnswer": "رئيس العلوم",
       "answerReason": "النص يذكر أسماء المنطق ومنها تسمية الفارابي له برئيس العلوم[cite: 34].",
       "textReference": "واسمه أي من أسماء علم المنطق، نقول علم المنطق، ويسمى علم الميزان، ويسمى معيار العلوم... وسماه الفارابي برئيس العلوم[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     },
     {
       "id": 10,
@@ -119,7 +119,7 @@
       "correctAnswer": [true, true, false, true],
       "answerReason": "النص يوضح أن العصمة لا تتحقق إلا بـ (مراعاتها) واستحضارها لا بمجرد معرفتها نظرياً، وباقي العبارات صحيحة ومنصوص عليها[cite: 34].",
       "textReference": "حرموا الاشتغال بعلم المنطق المشوب والمختلط بالفلسفة سدا للذريعة... ونسبته إلى غيره من العلوم، النسبة مباينته لها... علم المنطق يخدم تلك العلوم... آلة قانونية تعصم مراعاتها الذهن... ومسائله... هي القضايا المتعلقة بالتعريفات وبالأقيسة[cite: 34].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs3.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics3.html#sent1"
     }
   ]
 }

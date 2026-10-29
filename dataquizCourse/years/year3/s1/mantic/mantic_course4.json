@@ -1,6 +1,6 @@
 {
   "meta": {
-    "slug": "mantiq",
+    "slug": "mantic",
     "title": {
       "ar": "📘 امتحان تجريبي – مادة المنطق السنة الثالثة (الدرس الرابع: أنواع العلم الحادث والتصور والتصديق)",
       "fr": "Examen de Logique - Année 3 (Cours 4)",
@@ -21,7 +21,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يوضح أن العلم الحادث هو علم سائر المخلوقات احترازاً عن علم الله القديم الذي لا ينقسم ولا يتنوع[cite: 28].",
       "textReference": "احترز بالحادث عن علم الله القديم... فعلم الله لا ينقسم إلى تصور ولا ينقسم إلى تصديق، حديثنا عن العلم الحاجف[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
       "correctAnswer": true,
       "answerReason": "النص يذكر أن العلم له إطلاقات ثلاث وهي مطلق الإدراك، القواعد، والملكة[cite: 28].",
       "textReference": "العلم له إطلاقات ثلاث، يمكن أن أقول العلم... مطلق الإدراك... القواعد... وبمعنى الملكة[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "correctAnswer": "تصديق",
       "answerReason": "النص ينص على بيت الأخضري: (إدراك مفرد، تصورا، علم ودرك، نسبة بتصديق، وسم)[cite: 28].",
       "textReference": "إدراك مفرد، تصورا، علم ودرك، نسبة بتصديق، وسم[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يوضح أن التصور هو إدراك خال عن الحكم (إدراك المفردات)[cite: 28].",
       "textReference": "التصور هو حصول صورة شيء في الذهن بدون حكم، وإن شئت قلت إدراك خال عن الحكم، أي إدراك مفردات[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 5,
@@ -62,7 +62,7 @@
       "correctAnswer": true,
       "answerReason": "النص يؤكد أن التصديق هو إدراك النسبة مع الإذعان والتسليم والحكم[cite: 28].",
       "textReference": "تعريف التصديق إدراك النسبة على وجه القبول لها والإذعان بها، والتسليم هو الذي يقصد به إدراك معه حكم[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 6,
@@ -76,7 +76,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يوضح أن اللفظ المحكوم عليه يسمى (موضوع) والمحكوم به يسمى (محمول)[cite: 28].",
       "textReference": "اللفظ المحكوم عليه يسمى في علم المنطق موضوع، يسمى موضوع. واللفظ الذي هو الحكم المحكوم به يسمى محمول[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@
       "correctAnswer": true,
       "answerReason": "النص ينص على مذهب الإمام الرازي في كون التصديق مركباً من أربعة أجزاء[cite: 28].",
       "textReference": "الإمام الرازي ومن تبعه إن للتصديق بالنسبة أجزاء أربعة... هو مركب من أربعة أجزاء[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 8,
@@ -99,7 +99,7 @@
       "correctAnswer": 0,
       "answerReason": "النص يوضح أن الحكماء يرون أن التصديق بسيط وهو التصور الرابع للإذعان، وما قبله شروط خارجة عن الماهية[cite: 28].",
       "textReference": "وقالت الحكماء إن التصديق بسيط، لأنه مجرد إدراك النسبة على وجه الإذعان... والتصورات الثلاثة قبله ليست أجزاء منه، بل هي شروط تسبقه[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 9,
@@ -108,7 +108,7 @@
       "correctAnswer": "التصديق",
       "answerReason": "النص يوضح أن العلم بالنسبة دون إذعان ليس من التصديق في شيء تماماً كحال من عرف ولم يذعن[cite: 28].",
       "textReference": "وأما العلم بالنسبة دون إذعان لها، فليس من التصديق في شيء... فقد كانوا يعرفونه كما يعرفون أبناءه دون إذعان[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     },
     {
       "id": 10,
@@ -123,7 +123,7 @@
       "correctAnswer": [true, true, false, true],
       "answerReason": "النص يوضح العكس تماماً في العبارة الثالثة؛ فالرازي يرى التصديق مركباً والحكماء يرونه بسيطاً، وباقي العبارات صحيحة ومنصوص عليها[cite: 28].",
       "textReference": "احترز بالحادث عن علم الله القديم... فزيادة تأكيد وإيضاح للمبتدي... الإمام الرازي ومن تبعه إن للتصديق بالنسبة أجزاء أربعة... وقالت الحكماء إن التصديق بسيط... وإدراك نسبة الحدوث للعالم دون إذعان... تصور أيضا[cite: 28].",
-      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantiq/ec0mantiqs4.html#sent1"
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/mantic/ec0mantics4.html#sent1"
     }
   ]
 }
