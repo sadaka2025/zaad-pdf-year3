@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "slug": "tafsir",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة التفسير السنة الثالثة (الدرس الثالث: تفسير سورة الأعلى)",
+      "fr": "Examen de Tafsir - Année 3 (Cours 3)",
+      "en": "Tafsir Exam - Year 3 (Lesson 3)"
+    },
+    "totalQuestions": 10
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "سورة الأعلى هي سورة:",
+      "options": [
+        "مكية وعدد آياتها 19 آية",
+        "مدنية وعدد آياتها 20 آية",
+        "مكية وعدد آياتها 26 آية"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "Le texte indique explicitement que la sourate Al-A'la est mecquoise et qu'elle comporte 19 versets[cite: 19].",
+      "textReference": "وصورة الأعلى سورة مكية. كما أشرنا بأن المراد على لفظ المكي بأنه ما نزل بمكة المكرمة وهي 19 آيات.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "سميت سورة الأعلى بهذا الاسم بسبب ورود صفة الأعلى في مستهلها (سبح اسم ربك الأعلى).",
+      "correctAnswer": true,
+      "answerReason": "Le texte confirme que la cause de sa dénomination est l'apparition de l'attribut Al-A'la au début de la sourate[cite: 19].",
+      "textReference": "سميت بهذا الإسم بورود صفة الأعلى في مستهلها.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "أكمل تفسير المفردات: المعنى المراد بـ (المرعى) في قوله تعالى (والذي أخرج المرعى) هو الـ …………",
+      "correctAnswer": "العشب",
+      "answerReason": "Le texte définit « Al-Mar'a » comme étant l'herbe (l'herbage)[cite: 19].",
+      "textReference": "المرعى المراد بها العشب.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "المقصود بلفظ (أحوى) في قوله تعالى (فجعله غثاءً أحوى) هو:",
+      "options": ["أسود يابس", "أخضر نضر", "أصفر فاقع"],
+      "correctAnswer": 0,
+      "answerReason": "Le texte explique que « ahwa » signifie noir ou de couleur foncée après avoir séché[cite: 19].",
+      "textReference": "أحوى أي أسود؟... فجعله بعد الخضر. هي شيء من أي أسود يابسة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "من البشارتين اللتين تلقاهما النبي صلى الله عليه وسلم في السورة: أن ينزل عليه القرآن فلا ينساه، وأن ييسر له شريعة سهلة وهي الإسلام.",
+      "correctAnswer": true,
+      "answerReason": "Le texte énonce clairement les deux bonnes nouvelles annoncées au Prophète : ne pas oublier le Coran et l'allègement de la législation islamique facile[cite: 19].",
+      "textReference": "وقد بشرت رسول الله صلى الله عليه وسلم ببشارتين... سنقرئك فلا تنسى... وهذه بشارة أولى... وإن ييسره لليسرى... وهذه هي البشارة الثانية لرسول الله.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "المراد بـ (النار الكبرى) في قوله تعالى (الذي يصلى النار الكبرى) هو:",
+      "options": [
+        "نار جهنم في الآخرة",
+        "نار الدنيا العظيمة",
+        "فتن الدنيا وشدائدها"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "Le texte précise que la « grande🔥 feu » désigne le feu de l'au-delà (l'Enfer)[cite: 19].",
+      "textReference": "النار الكبرى المراد بها نار الاخره.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "قوله تعالى (فذكر إن نفعت الذكرى) يعني أن على الداعية أن يعظ الناس عامة ولكن يخص بالتذكير من تتوقع منهم قبول الدعوة.",
+      "correctAnswer": true,
+      "answerReason": "Le texte indique qu'il faut exhorter les gens tout en ciblant particulièrement ceux dont on espère qu'ils accepteront l'appel[cite: 19].",
+      "textReference": "أي عظي الناس عامة، ولكن تخص بالتذكير، من تتوقع منهم قبول دعوتك؟",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "المقصود بـ (الصحف الأولى) في قوله تعالى (إن هذا لفي الصحف الأولى) هي صحف:",
+      "options": [
+        "إبراهيم وموسى عليهما السلام",
+        "نوح وعيسى عليهما السلام",
+        "آدم وادريس عليهما السلام"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "Le texte mentionne explicitement qu'il s'agit des feuillets d'Ibrahim et de Moussa[cite: 19].",
+      "textReference": "إن هذا لفي الصحف الأولى، صحف إبراهيم وموسى.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "fill",
+      "question": "أكمل: \"المعنى المراد بكلمة (أفلح) في قوله تعالى (قد أفلح من تزكى) هو فاز و الـ …………\"",
+      "correctAnswer": "ظفر",
+      "answerReason": "Le texte traduit « aflaha » par le fait de réussir et d'obtenir la victoire/le succès (فاز وظفر)[cite: 19].",
+      "textReference": "افلح اي فاز وضفرا.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "matching",
+      "question": "أجب بـ (صح أو خطأ) عما يلي بناءً على تفسير سورة الأعلى:",
+      "options": [
+        "أمر الله تعالى نبيه بتنزيه اسمه الأعلى في السجود بعد أن كان في الركوع عند نزول (سبح اسم ربك العظيم)",
+        "الشقِيّ المصر على الجحود والإنكار هو الذي يتجنب الذكرى ويصلى النار الكبرى",
+        "تؤثرون الحياة الدنيا على الآخرة يعني تفضلون الدائم الباقي على الفاني الزائل",
+        "تشير الآيات في ختامها إلى وحدانية الدين منذ آدم عليه السلام إلى محمد صلى الله عليه وسلم مع اختلاف الشرائع"
+      ],
+      "correctAnswer": [true, true, false, true],
+      "answerReason": "Le texte indique l'inverse pour la troisième proposition : « تؤثرون الحياة الدنيا » signifie préférer la vie terrestre éphémère (الفانية الزائلة) sur l'au-delà (الآخرة الدائمة الباقية) et non l'inverse. Les autres propositions sont textuellement exactes[cite: 19].",
+      "textReference": "لما نزلت فسبح باسم ربك العظيم سورة الواقعة قال... اجعلوها في ركوعكم. فلما نزلت سبح أسمه ربك الأعلى قال اجعلوها في سجودكم... ويتجنبها الأشقى. الذي يصلى النار الكبرى... بل تؤثرون حياة الدنيا والآخرة خير وأبقى. أي بل تفضلون وتقدمون الحياة الدنيا الفانية الزائيلة على الآخرة الدائمة الباقية... وأن الدين واحد منذ آدم عليه السلام إلى خاتم الأنبياء والمرسلين",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs3.html#sent1"
+    }
+  ]
+}
