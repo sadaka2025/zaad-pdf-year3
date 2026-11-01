@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس الخامس الفقه</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/fiqh/ec5fiqhs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس الخامس الفقه</h1>
+<p id="sent2">اعوذ بالله من الشيطان الرجيم. بسم الله الرحمن الرحيم. وصلى الله على سيدنا محمد وعلى اله الطيبين الطاهرين. ورضي الله عن مشايخنا والتابعين لهم باحسان الى يوم الدين. وارض عنا معهم يا ارحم الراحمين. اللهم امين. اللهم لا علم الا ما علمتنا فعلمنا وفهمنا وفقهنا واستعملنا في خدمة دينك يا رب العالمين. تتمحور هذه المحاضرة وهذا الدرس حول ان نتعرف صفة الوضوء وان نميز بين فرائضه وسننه وان نمتثل صفة الوضوء عند القيام للصلاة. الوضوء عبادة يتقرب بها او يتقرب بها العبد الى ربه سبحانه وتعالى. وعمل يمحو به الله سبحانه وتعالى عن المؤمن خطاياه. امر الله سبحانه وتعالى به قبل الصلاة. وجعله مفتاحا للوقوف. وقد نقل الصحابة رضوان الله تعالى عليهم صفته عن رسول الله صلى الله عليه واله وسلم بقوله وفعله. ولذلك في هذا الدرس وهذه العجالة سنعرف الاعضاء المخصصة بالغسل في الوضوء. وما كيفية العمل في الوضوء؟ قال الامام ابن ابي زيد رحمه الله تعالى فمن قام الى وضوئه من نوم او غيره فقد قال بعض العلماء يبدأ فيسمي الله ولم يره بعضهم من الامر المعروف. وكون الاناء على يمينه امكن له في تناوله ويبدأ فيغسل يديه قبل ان يدخلهما في الاناء ثلاثا. فان كان قد بال او غسل ذلك منه ثم توضأ ثم يدخل يده في الاناء فيأخذ الماء فيمضمض فاه ثلاثا من غرفة واحدة ان شاء او ثلاث غرفات وان استاك باصبع فحسن. ثم يستنشق بانفه الماء ويستنثره ثلاثا. ويجعل يده على انفه. كما يمتخط ويجزئه اقل من ثلاث في المضمضة والاستنشاق وله جمع في غرفة واحدة نهاية احسن. ثم يأخذ الماء ان شاء بيديه جميعا. وان شاء بيده اليمنى. فيجعله في يده جميعا ثم ينقله الى وجهه. فيفرغه عليه غاسلا له بيديه من اعلى جبهته. وحده منابت شعر رأسه الى طرف ذقنه. ودور وجيه كله من حد عظمي لحييه الى صبغيه ويمر يديه على ما غار من ظاهر اجفانه. واسارير جبهته وما تحت مارنه من ظاهر انفه. يغسل وجهه هكذا ثلاثا. ينقل الماء اليه ويحرك لحيته في غسل وجهه وكفيه ليدخلها الماء. لدفع الشعر لما يلاقيه من الماء. وليس عليه تخليلها في الوضوء في قول مالك. ويجري عليها يديه الى اخرها. ثم يغسل يداه اليمنى ثلاثا او اثنتين يفيض عليها الماء ويعرقها بيده اليسرى. ويخلل اصابع يديه بعضها ببعض. ثم يغسل اليسرى كذلك ويبلغ فيهما بالغسل الى المرفقين يدخلهما في غسله. وقد قيل اليهما حد الغسل فليس بواجب ادخالهما فيه. وادخاله ما فيه احوط لزوال تكلف التحديد. شرح غريب المفردات. قوله فاه اي فمه. قوله يستنشق اي يجذب الماء الى انفه. قوله يستنثر ان يطرح الماء من انفه. امتخاطه اي اخراج المخاط من انفه اسارير الوجه تجاعيد الوجه. دقنه جمع اللحيين بفتح اللام من الفك الاسفل. مارنه ما بين ثقبي الانف. قوله صدغيه ما بين الاذن والعينين. بين المصنف رحمه الله في هذه الفقرات من متن الرسالة كيفية العمل في الوضوء وهي ستة امور نذكر تفاصيلها على الوجه التالي. اولا انه يجعل من اراد الوضوء لموجب من موجبات الوضوء الاناء عن يمينه استحبابا. لانه ايسر له في التناول. ويبدأ بتسمية الله سبحانه وتعالى على سبيل الاستحباب على المشهور من المذهب. ثم يفرغ الماء على يديه ويغسلهما قبل ادخالهما في الاناء ثلاث مرات على جهة الاستحباب. ثم يغسل مخرج البول والغائط على سبيل ازالة الخبث الذي سبق معنا ذكره في الدرس الماضي ان كان قد بال او تغوط. وفي ذلك قول المصنف رحمه الله فمن قام الى وضوء من نوم او غيره الى قوله غسل ذلك منه ثم توضأ. ثانيا يغسل يديه الى الكوعين ثلاثا على جهة الاستنان. ثالثا يدخل يده في الاناء فيأخذ بها الماء فيمضمض على سبيل الاستنان ثلاث مرات. يحرك الماء اه ثم يطرحه ويستحب له ان يستاك باصبعه مع المضمضة. يقول المصنف رحمه الله تعالى في ذلك ثم يدخل يده في الاناء فيأخذ الماء فيمضمض فاه ثلاثا من غرفة واحدة ان شاء او ثلاث غرفات وان استاك باصبعه فحسن. رابعا يأخذ الماء فيستنشق بان يجذب الماء الى انفه بنفس ثلاث مرات. وهو سنة. ثم يستنثر بان يطرح الماء من انفه بيده كهيئة الانتخاط ثلاث مرات. وهو سنة ويجزئ اقل من ثلاث مرات في المضمضة والاستنشاق. والنهاية الى الثلاث احسن. وهي ان يجعل ثلاثة مضمضات من ثلاث غرفات. وثلاث استنشاقات من ثلاث غرفات. وفي ذلك يقول المصنف رحمه الله ثم يستنشق بانفه الماء ويستنثره ثلاثا. الى قوله في غرفة واحدة. والنهاية احسن. خامسا يأخذ الماء بيديه او بيده اليمنى فيعمم غسل وجهه كله بيديه وهو فرض. خامسا يأخذ الماء بيديه او بيده اليمنى فيعمم غسل وجهه كله بيديه. وهو فرض ويتتبع اسارير الوجه. وحده طولا من اصل منابت الشعر المعتاد من اعلى الجبهة الى طرف ذقنه. وحدوه عرضا. من الصدغ الايمن الى الصدغ الايسر. ويجب تخليل لحيته الخفيفة اتفاقا دون الكثيفة على المشهور. وفي ذلك يقول المصنف رحمه الله ثم يأخذ الماء ان شاء. الى ويجري عليها يديه الى اخرها. سادسا يغسل يده اليمنى ثلاثة والاولى هي الفرض. يعركها ويدلكها. باليسرى ثم يغسل اليسرى كذلك ويخلل اصابع اليدين بعضها ببعض. ويغسل اليدين الى المرفقين. والمشهور ادخالهما في الغسل وجوبا لا مجرد احتياط. وفي ذلك يقول المصنف رحمه الله ويبلغ فيهما بالغسل الى المرفقين يدخلهما في غسله الى قوله ادخالهما فيه احوط لزوال تكلف التحديد. ومن مقاصد الشريعة الاسلامية الغراء في غسل هذه الاعضاء في الوضوء دون غيرها انها معرضة للاوساخ اكثر من غيرها. ولان الكثير من الخطايا ترتكب بها. فشرع غسلهما تكفير للذنوب. ومحوا للخطايا واعدادا للمصلي ليقف بين يدي ربه سبحانه وتعالى. طاهر الظاهري والباطن. مهيئا للمناجاة. ويشهد لي ذلك ما روي عن سيدنا عبدالله الصونحي ان رسول الله صلى الله عليه واله وسلم قال اذا توضأ العبد المؤمن فتمضمض خرجت الخطايا من فيه. واذا استنثر خرجت الخطايا من انفه. واذا غسل وجهه خرجت الخطايا من وجهه حتى تخرج من تحت اشفار عينيه. واذا غسل يديه خرجت الخطايا من يديه تخرج من تحت اظفار يديه. واذا مسح برأسه خرجت الخطايا من رأسه حتى تخرج من اذنه. واذا غسل رجليه خرجت الخطايا من رجليه حتى تخرج. من تحت اظفار رجليه قال ثم مشيه الى المسجد وصلاته نافلة له. رواه ما لك في الموطأ. اضافة الى ان الوضوء عبادة والاصل في العبادات التوقيف على ما شرعه الله سبحانه وتعالى رسوله لنا صلى الله عليه واله وسلم. وهذا تمام درسنا اليوم والحمد لله رب العالمين.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>
