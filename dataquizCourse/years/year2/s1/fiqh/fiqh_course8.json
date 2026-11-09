@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "fiqh_lesson8",
+    "title": {
+      "ar": "📘 امتحان تجريبي –  ",
+      "fr": "Examen de Fiqh – Ibn Ashir & Al-Habl Al-Matin",
+      "en": "Fiqh Exam – Ibn Ashir & Al-Habl Al-Matin"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": "1",
+      "type": "mcq",
+      "question": "ما الدليل الذي استُدلّ به على وجوب زكاة الفطر في النص المذكور؟",
+      "options": [
+        "حديث ابن عمر رضي الله عنهما",
+        "حديث أبي هريرة رضي الله عنه",
+        "إجماع أهل المدينة فقط",
+        "قول ابن عباس رضي الله عنهما"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص صرّح بأن الوجوب جاء في حديث ابن عمر: \"فرض رسول الله صلى الله عليه وسلم زكاة الفطر...\" وهو أصل الحكم.",
+      "textReference": "فرض رسول الله صلى الله عليه وسلم زكاة الفطر من رمضان...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent12"
+    },
+    {
+      "id": "2",
+      "type": "mcq",
+      "question": "ما مقدار زكاة الفطر كما ورد في النص؟",
+      "options": [
+        "مدٌّ واحد",
+        "صاعٌ كامل",
+        "نصف صاع",
+        "أربعة أصواع"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص ذكر: مقدارها صاع وهو أربعة أمداد بمدّ النبي صلى الله عليه وسلم.",
+      "textReference": "وقد ذكرنا أن قدرها صاع وهو أربعة أمداد...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent20"
+    },
+    {
+      "id": "3",
+      "type": "mcq",
+      "question": "متى تجب زكاة الفطر على الصحيح من أقوال العلماء كما ورد؟",
+      "options": [
+        "بطلوع شمس يوم العيد",
+        "بخروج الإمام إلى المصلى",
+        "بغروب شمس آخر يوم من رمضان",
+        "من أول ليلة في رمضان"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص نصّ: \"تجب بغروب شمس آخر رمضان\".",
+      "textReference": "تجب زكاة الفطر بغروب شمس آخر رمضان...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent22"
+    },
+    {
+      "id": "4",
+      "type": "mcq",
+      "question": "إذا وُلد المولود قبل غروب شمس آخر رمضان، فما الحكم؟",
+      "options": [
+        "لا تجب عنه",
+        "تجب عنه",
+        "يُستحب فقط",
+        "تجب إن كان ذكراً دون الأنثى"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص صرّح أن من وُلد قبل الغروب وجبت زكاة الفطر عنه.",
+      "textReference": "ومن ولد قبل الغروب وجب إخراجها عنه...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent24"
+    },
+    {
+      "id": "5",
+      "type": "mcq",
+      "question": "على من تجب زكاة الفطر كما جاء في النص؟",
+      "options": [
+        "على المسلم الحر فقط",
+        "على الحر والعبد والذكر والأنثى",
+        "على الرجال دون النساء",
+        "على الفقراء دون الأغنياء"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص أورد الحديث: \"على العبد والحر والذكر والأنثى والصغير والكبير من المسلمين\".",
+      "textReference": "على العبد والحر والذكر والأنثى...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent15"
+    },
+    {
+      "id": "6",
+      "type": "mcq",
+      "question": "من يُلزم المسلم بإخراج زكاة الفطر عنهم إضافة إلى نفسه؟",
+      "options": [
+        "الجيران",
+        "أقاربه البعيدون",
+        "من تلزمه نفقته",
+        "من يسكنون في الحي"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص جاء فيه: \"وتجب عن نفسه وعن من تلزمه نفقته...\".",
+      "textReference": "وتجب عن نفسه وعن من تلزمه نفقته...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent30"
+    },
+    {
+      "id": "7",
+      "type": "mcq",
+      "question": "ما هو الطعام التاسع الذي ذكره فقهاء المالكية عادة ولم يذكره ابن المؤقت في النص؟",
+      "options": [
+        "الأقط",
+        "الذرة",
+        "الأرز",
+        "التمر"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص صرّح بأن الأقط يُذكر في كتب المالكية ولم يذكره ابن المؤقت هنا.",
+      "textReference": "والنوع التاسع... هو الأقط...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent38"
+    },
+    {
+      "id": "8",
+      "type": "mcq",
+      "question": "هل ينظر الفقيه إلى طعام صاحب الزكاة أم إلى غالب قوت أهل البلد؟",
+      "options": [
+        "إلى ما يأكله المخرج",
+        "إلى طعام الإمام",
+        "إلى غالب قوت أهل البلد",
+        "إلى ما يتصدق به الناس عادة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: \"ولا ينظر لعيش المخرج بل لعيش جل الناس\".",
+      "textReference": "ولا ينظر لعيش المخرج بل لعيش جل الناس...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent40"
+    },
+    {
+      "id": "9",
+      "type": "mcq",
+      "question": "ما الوقت الأفضل لإخراج زكاة الفطر كما ورد في النص؟",
+      "options": [
+        "قبل الفجر بليلة",
+        "بعد العصر يوم العيد",
+        "بعد الفجر وقبل الغدو إلى المصلى",
+        "بعد صلاة العيد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص ذكر الاستحباب: \"ويستحب إخراجها بعد الفجر وقبل الغدو إلى المصلى\".",
+      "textReference": "ويستحب إخراجها بعد الفجر...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent42"
+    },
+    {
+      "id": "10",
+      "type": "mcq",
+      "question": "ما أقصى مدة يجوز فيها تعجيل زكاة الفطر قبل العيد؟",
+      "options": [
+        "أسبوع",
+        "ثلاثة أيام",
+        "يوم أو يومان",
+        "خمسة أيام"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص أورد: ابن عمر كان يخرجها قبل العيد بيوم أو يومين.",
+      "textReference": "قبل الفطر بيوم أو يومين...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent45"
+    },
+    {
+      "id": "11",
+      "type": "mcq",
+      "question": "هل يجوز دفع زكاة الفطر لمسكين واحد فقط؟",
+      "options": [
+        "لا يجوز مطلقاً",
+        "يجوز",
+        "واجب أن تُفرّق على عشرة",
+        "لا يجوز إلا مع وجود العذر"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: \"ويجوز دفع أصواع لمسكين، وصاع لمسكين\".",
+      "textReference": "ويجوز دفع أصواع لمسكين...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent48"
+    },
+    {
+      "id": "12",
+      "type": "mcq",
+      "question": "هل تسقط زكاة الفطر بمضي الزمن؟",
+      "options": [
+        "نعم تسقط",
+        "تسقط بعد عام",
+        "تسقط بعد العيد مباشرة",
+        "لا تسقط ولو مضت سنون"
+      ],
+      "correctAnswer": 3,
+      "explanation": "النص صرّح: \"ولا تسقط بمضي زمنها ولو مضى لها سنون\".",
+      "textReference": "ولا تسقط بمضي زمنها...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent50"
+    },
+    {
+      "id": "13",
+      "type": "mcq",
+      "question": "ما الحكمة الأساسية لوجوب زكاة الفطر كما ورد؟",
+      "options": [
+        "زيادة مال الأغنياء",
+        "إغناء المساكين عن السؤال يوم العيد",
+        "إظهار التنافس بين الناس",
+        "التفاخر في العطاء"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: \"كفاية أخذها عن سؤال ذاك اليوم\".",
+      "textReference": "حكمة وجوبها كفاية أخذها...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent55"
+    },
+    {
+      "id": "14",
+      "type": "mcq",
+      "question": "ما المقصود بقول ابن المؤقت: \"وتجب على القادر عليها أو على بعضها\"؟",
+      "options": [
+        "وجوبها على غير المسلمين",
+        "إلزام الفقير بالدَّين دائماً",
+        "أن من وجد بعضها فقط يخرج ما وجد",
+        "أنها لا تجب إلا على الغني"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يشير إلى القدرة ولو على بعضها وقت الوجوب.",
+      "textReference": "تجب على القادر عليها أو على بعضها...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent26"
+    },
+    {
+      "id": "15",
+      "type": "mcq",
+      "question": "ما حكم من عجز عن إخراج زكاة الفطر؟",
+      "options": [
+        "تبقى دينًا في ذمته",
+        "تسقط عنه",
+        "يجب عليه الصوم بدلاً منها",
+        "يجب أن يقترض مهما كان"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: \"وإن عجز عن أدائها سقطت عنه\".",
+      "textReference": "سقطت عنه...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent28"
+    },
+    {
+      "id": "16",
+      "type": "mcq",
+      "question": "ما تفسير الجمهور للفظ «فرض» في حديث زكاة الفطر؟",
+      "options": [
+        "بمعنى قدّر",
+        "بمعنى أوجب وألزم",
+        "بمعنى ندب",
+        "بمعنى رخّص"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: رأي مالك والشافعي وأحمد أن «فرض» بمعنى أوجب وألزم.",
+      "textReference": "أحدهما بمعنى الإلزام والحتْم...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent17"
+    },
+    {
+      "id": "17",
+      "type": "mcq",
+      "question": "أي الأصناف المذكورة لا تدخل ضمن الثمانية المذكورة صراحة في كلام ابن المؤقت؟",
+      "options": [
+        "الشعير",
+        "الدخن",
+        "التمر",
+        "الأقط"
+      ],
+      "correctAnswer": 3,
+      "explanation": "الأقط ذكره الشارح لاحقًا لا ابن المؤقت.",
+      "textReference": "والنوع التاسع... الأقط...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent38"
+    },
+    {
+      "id": "18",
+      "type": "mcq",
+      "question": "هل يجوز تفريق الصاع على أكثر من مسكين؟",
+      "options": [
+        "لا يجوز",
+        "يجوز",
+        "حرام باتفاق",
+        "يجوز بشرط إذن القاضي"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: \"يجوز دفع أصواع لمسكين وصاع لمسكين\".",
+      "textReference": "يجوز دفع أصواع...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent48"
+    },
+    {
+      "id": "19",
+      "type": "mcq",
+      "question": "متى تُقبل الزكاة وتعد صحيحة كما ورد في الحديث؟",
+      "options": [
+        "إذا أديت بعد صلاة العيد",
+        "إذا أديت قبل الصلاة",
+        "إذا أديت قبل المغرب",
+        "إذا أديت آخر الليل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الحديث: \"من أداها قبل الصلاة فهي زكاة مقبولة\".",
+      "textReference": "من أداها قبل الصلاة فهي زكاة مقبولة...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent60"
+    },
+    {
+      "id": "20",
+      "type": "mcq",
+      "question": "ما حكم إخراج زكاة الفطر بعد الصلاة كما ورد؟",
+      "options": [
+        "محرمة",
+        "باطلة",
+        "صدقة من الصدقات",
+        "واجبة مع الكفارة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: \"ومن أداها بعد الصلاة فهي صدقة من الصدقات\".",
+      "textReference": "فهي صدقة من الصدقات...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent61"
+    },
+    {
+      "id": "21",
+      "type": "mcq",
+      "question": "على من تُصرف زكاة الفطر كما ورد؟",
+      "options": [
+        "الأغنياء",
+        "المساكين",
+        "أهل الذمة",
+        "الولاة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: \"طعمة للمساكين\".",
+      "textReference": "وطعمة للمساكين...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent59"
+    },
+    {
+      "id": "22",
+      "type": "mcq",
+      "question": "ما سبب ترجيح دفع القيمة في عصرنا كما ذكر المدرّس؟",
+      "options": [
+        "لأنه أيسر على الأغنياء",
+        "لأن التعامل بالطعام أصبح محرّمًا",
+        "لأن الناس في حاجة إلى المال لقضاء حاجاتهم",
+        "لأن الطعام لم يعد متوفراً"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص أورد: الناس اليوم في أمسّ الحاجة إلى مال يسد حاجتهم.",
+      "textReference": "لأن الناس اليوم في أمسّ الحاجة إلى مال...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent63"
+    },
+    {
+      "id": "23",
+      "type": "mcq",
+      "question": "ما الحكم إذا أغنى المسلمُ الفقيرَ بزكاة الفطر يوم العيد؟",
+      "options": [
+        "لا يجوز إغناؤه",
+        "يُمنع الفقير من أخذها",
+        "هذا هو المقصود من تشريعها",
+        "لا أثر لذلك"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: الحكمة إغناء الفقير يوم العيد وتعفّفه عن السؤال.",
+      "textReference": "كفاية أخذها عن سؤال ذاك اليوم...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent55"
+    },
+    {
+      "id": "24",
+      "type": "mcq",
+      "question": "ما حكم إخراج زكاة الفطر عن الرقيق؟",
+      "options": [
+        "غير واجبة",
+        "واجبة ويخرجها سيده",
+        "واجبة ويخرجها العبد بنفسه",
+        "مكروهة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: تخرج عن الحر والعبد، والعبد يخرج عنه سيده كما هو معلوم في الفقه.",
+      "textReference": "على العبد والحر...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent15"
+    },
+    {
+      "id": "25",
+      "type": "mcq",
+      "question": "ما حكم من اعتق يوم العيد نفسه؟",
+      "options": [
+        "لا يخرج زكاة الفطر",
+        "يجب عليه الإخراج وجوباً",
+        "يستحب له الإخراج",
+        "يُعفى من الإخراج"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص صرّح: \"ومن اعتق يومها يستحب له الإخراج\".",
+      "textReference": "ومن اعتق يومها استحب له الإخراج...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent53"
+    },
+    {
+      "id": "26",
+      "type": "mcq",
+      "question": "أي من الأقوال التالية وافق رأي أبي حنيفة في معنى «فرض»؟",
+      "options": [
+        "بمعنى ألزم",
+        "بمعنى قدر",
+        "بمعنى نهى",
+        "بمعنى رخّص"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: القول الثاني أن معنى فرض هو «قدّر» وهو رأي أبي حنيفة.",
+      "textReference": "والقول الثاني بمعنى قدر...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent18"
+    },
+    {
+      "id": "27",
+      "type": "mcq",
+      "question": "هل يجوز دفع زكاة الفطر لغير المسلم؟",
+      "options": [
+        "يجوز",
+        "لا يجوز",
+        "يجوز بشرط إذن القاضي",
+        "يجوز في حال الضرورة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: «وتدفع لحر مسلم» دلالة على اشتراط الإسلام.",
+      "textReference": "وتدفع لحر مسلم...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent47"
+    },
+    {
+      "id": "28",
+      "type": "mcq",
+      "question": "هل يُشترط أغلب قوت القوم في رمضان أم في العام كله لإخراج الزكاة؟",
+      "options": [
+        "في رمضان فقط",
+        "في يوم الوجوب فقط",
+        "في العام كله عند بعضهم",
+        "لا يشترط أي منهما"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص ذكر: «وقيل من غالب قوت أهل البلد في العام كله».",
+      "textReference": "وقيل من غالب قوت أهل البلد في العام كله...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent36"
+    },
+    {
+      "id": "29",
+      "type": "mcq",
+      "question": "ما أثر إخراج زكاة الفطر على الصائم كما جاء في الحديث؟",
+      "options": [
+        "تزيد ثوابه فقط",
+        "طهرة له من اللغو والرفث",
+        "توجب عليه كفارة",
+        "تسقط عنه الصيام"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: «طهرة للصائم من اللغو والرفث».",
+      "textReference": "طهرة للصائم من اللغو والرفث...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent58"
+    },
+    {
+      "id": "30",
+      "type": "mcq",
+      "question": "ما الدليل على جواز دفع القيمة في زكاة الفطر كما ذُكر؟",
+      "options": [
+        "اعتماد رأي الإمام مالك",
+        "اعتماد رأي الشافعي فقط",
+        "ما ذهب إليه أبو حنيفة",
+        "لا يوجد دليل فقهي"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: أشار إلى أن إخراج القيمة يُفتى به بناءً على رأي أبي حنيفة.",
+      "textReference": "نفتي بما ذهب إليه أبو حنيفة...",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/f24/ec08f24s1.html#sent62"
+    }
+  ]
+}

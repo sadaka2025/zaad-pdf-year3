@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "slug": "akhlaq_hikam_s1_exam_2026",
+    "title": {
+      "ar": "امتحان مادة الأخلاق السداسي الأول",
+      "fr": "Examen d’éthique S1 – Sharh al-Hikam",
+      "en": "Ethics Semester 1 Exam – Sharh al-Hikam"
+    },
+    "totalQuestions": 6
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما اسم الكتاب المقرر؟",
+      "options": [
+        "شرح حكم ابن عطاء الله السكندري",
+        "شرح حكم الإمام ابن عرفة",
+        "شرح حكم الإمام الشعراوي"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La réponse correcte est : شرح حكم ابن عطاء الله السكندري"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما اسم مؤلف الكتاب المقرر؟",
+      "options": [
+        "الإمام الغزالي",
+        "العلامة الشيخ عبد المجيد الشرنوبي",
+        "الشيخ محمد الطاهر ابن عاشور"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La réponse correcte est : العلامة الشيخ عبد المجيد الشرنوبي"
+    },
+    {
+      "id": 3,
+      "type": "fill_blank",
+      "question": "من علامات الإعتماد على العمل نقصان ..... عند وجود الزلل.",
+      "correctAnswer": "الرجاء",
+      "explanation": "La réponse correcte est : من علامات الإعتماد على العمل نقصان الرجاء عند وجود الزلل."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "من علامات النجح في النهايات الرجوع إلى الله في .............................",
+      "options": ["البدايات", "الصحة", "المقدمات", "الشباب"],
+      "correctAnswer": 1,
+      "explanation": "La réponse correcte est : البدايات"
+    },
+    {
+      "id": 5,
+      "type": "fill_blank",
+      "question": "ادفن وجودك في أرض ..... فما نبت مما لم يدفن لا يتم نتاجه.",
+      "correctAnswer": "الخمول",
+      "explanation": "La réponse correcte est : ادفن وجودك في أرض الخمول فما نبت مما لم يدفن لا يتم نتاجه."
+    },
+    {
+      "id": 6,
+      "type": "multi_fill",
+      "question": "أتمم الحكم التالية بما يناسبها:",
+      "items": [
+        {
+          "id": 6.1,
+          "type": "fill_blank",
+          "question": "لا تصحب من لا ينهضك حاله ولا يدلك ….......",
+          "correctAnswer": "على الله مقاله",
+          "explanation": "La réponse correcte est : لا تصحب من لا ينهضك حاله ولا يدلك على الله مقاله"
+        },
+        {
+          "id": 6.2,
+          "type": "fill_blank",
+          "question": "من لم يقبل على الله بملاطفات الإحسان قيد إليه بـ...…......",
+          "correctAnswer": "سلاسل الإمتحان",
+          "explanation": "La réponse correcte est : من لم يقبل على الله بملاطفات الإحسان قيد إليه بـسلاسل الإمتحان"
+        },
+        {
+          "id": 6.3,
+          "type": "fill_blank",
+          "question": "من لم يشكر النعم فقد تعرض لزوالها ومن شكرها فقد.......................",
+          "correctAnswer": "قيدها بعقالها",
+          "explanation": "La réponse correcte est : من لم يشكر النعم فقد تعرض لزوالها ومن شكرها فقد قيدها بعقالها"
+        },
+        {
+          "id": 6.4,
+          "type": "fill_blank",
+          "question": "ربما كنت مسيئا فأراك الإحسان منك صحبتك إلى من هو ……..",
+          "correctAnswer": "أسوأ حالا منك",
+          "explanation": "La réponse correcte est : ربما كنت مسيئا فأراك الإحسان منك صحبتك إلى من هو أسوأ حالا منك"
+        }
+      ],
+      "explanation": "جميع الإتمامات مطابقة لإجابات الاختبار الصحيحة."
+    }
+  ]
+}

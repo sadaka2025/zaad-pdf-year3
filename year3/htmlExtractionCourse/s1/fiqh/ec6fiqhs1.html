@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس السادس مادة الغفه</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/fiqh/ec6fiqhs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس السادس مادة الغفه</h1>
+<p id="sent2">اعوذ بالله من الشيطان الرجيم. بسم الله الرحمن الرحيم. وصلى الله على سيدنا محمد وعلى اله الطيبين الطاهرين. ورضي الله عن اصحابه والتابعين لهم باحسان الى يوم الدين. وارضى عنا معهم يا ارحم الراحمين. اللهم امين. اللهم لا علم الا ما علمتنا فعلمنا وفهمنا وفقهنا واستعملنا في خدمة دينك يا رب العالمين. هذه المحاضرة او الدرس السادس فمن كتاب رسالة ابن ابي زيد القيرواني. ونتناول في هذا الدرس صفة الوضوء ومستحباته. ونتعرض فيه الى معرفة بقية صفات او بقية معرفة صفة الوضوء التي سبق معنا ذكرها في الدرس السابق او جزءا منها. وكذلك ان نميز بين سنن الوضوء ومستحباته. وان نمتثل الصفة المستحبة في الوضوء وبعده. تنقسم افعال الوضوء الى فرائض. وسنن ومستحبات. ومنها تتكون الهيئة الكاملة. والصفة الشرعية للوضوء. الذي يتقرب به العبد الى مولاه سبحانه وتعالى. وتمحى به ذنوبه وخطاياه. تفضلا من مولاه عليه. ولذلك لابد ان نعرف ما هي صفة ما بقي من العمل في الوضوء. وما مستحباته؟ وما فائدته؟ وما هي ثمرته؟ قال الامام ابن ابي زيد القيرواني رحمه الله تعالى ثم يأخذ الماء بيده اليمنى فيفرغه على باطن يده اليسرى. ثم يمسح بهما رأسه يبدأ من مقدمه. من اول منابت الشعر رأسه. وقد قرن الطراف اصابع يديه. بعضهما ببعض على رأسه وجعل ابهاميه على صدغيه. ثم يذهب بيديه ماسحا الى طرف شعر رأسه مما يلي قفاه. ثم يردهما الى حيث بدأ ويأخذ بابهاميه خلف اذنيه الى صدريه. وكيف ما مسح اجزأه اذا اوعب رأسه. والاول احسن ولو ادخل يديه في الاناء ثم رفعهما مبلولتين ومسح بهما رأسه اجزأه. ثم يفرغ الماء على سبابتيه وابهاميه. وان شاء غمس ذلك في الاناء ثم يمسح اذنيه ظاهرهما وباطينهما. وتمسح المرأة كما ذكرنا. وتمسح على دلاليها. ولا تمسحوا على الوقاية وتدخلوا يديها من تحت شعرها في رجوع يديها في المسح. ثم يغسل رجليه. يصب الماء بيده اليمنى على رجله اليمنى ويعركهما بيده اليسرى. قليلا قليلا يعيبها بذلك ثلاثا. وان شاء خلل اصابعه في ذلك. وان ترك حرج. والتخليل اطيب للنفس ويعرق عقيبيه وعرقوبيه. وما لا يكاد يدخله الماء بسرعة من جساوة او شقوق فيبالغ بالعرك مع صب الماء بيده. فانه جاء الاثر ويل للاعقاب من النار. وعقب شيء طرفه واخره. ثم يفعل باليسرى مثل ذلك. وليس تحديد غسل اعضائه ثلاثا بامر لا يجزئ دونه. ولكنه اكثر ما يفعل. ومن كان يوعب باقل من ذلك اجزأه اذا احكم ذلك. وليس كل الناس في احكام ذلك سواء. وقد قال رسول الله صلى الله عليه واله وسلم من توضأ فاحسن الوضوء ثم رفع طرفه الى السماء فقال اشهد ان لا اله الا الله وحده لا شريك له. واشهد ان محمدا عبده ورسوله. فتحت له ابواب الجنة الثمانية يدخل من ايها شاء. وقد استحب بعض العلماء ان يقول باثر الوضوء اللهم اجعلني من التوابين واجعلني من المتطهرين. ويجب عليه ان يعمل عمل الوضوء لله تعالى لما امره به. ويرجو تقبله وثوابه وتطهيره من الذنوب به. ويشعر نفسه ان ذلك تأهب وتنظف لمناجاة ربه والوقوف بين يديه. لاداء فرائضه والخضوع له بالركوع والسجود. فيعمل على يقين بذلك وتحفظ فيه. فان تمام كل عمل بحسن النية فيه. شرح المفردات الغريبة. قوله قفاه اي مؤخر رأسه من اصل منابت الشعر. قوله او عباء. اي عمم الغسل قوله مبلولتين اي بهما اثر الماء. قوله الوقاية. اي الخرقة التي تجعلها المرأة لشعرها لتقيه من الغبار ونحوه. قوله دلاليها اي ما استرسل من شعرها. قوله عقاص جمع عقيقة وهي الضفيرة من الشعر. قوله يوعي بها اي يعممها. قوله جساوة اي غلاظ الجلد. قوله بالعرك اي بالدلك. قوله طرفه اي بصره. يشتمل معنا هذا الدرس على محورين رئيسين. اولا بقية صفة الوضوء. تتميما لما سبق معنا في المحاضرة السابقة من الحديث عن صفة الوضوء نعرض في هذا الدرس الى ما بقي منها فيما يأتي. اولا بعد غسل اليدين يأخذ الماء بيده اليمنى فيفرغ على يده اليسرى ثم يمسح بهما رأسه وجوبا. ويبدأ استحبابا من مقدمي رأسه من اصل منابت الشعر. ويذهب بهما الى قفاه ثم يردهما الى المقدم من حيث بدأ المسح. ويجوز ان يدخل يديه في الاناء ويخرجهما مبلولتين ويمسح بذلك. كما قال المصنف رحمه الله وقد قرن اطراف اصابعه اي هكذا. واضح؟ وقد قارن اطراف اصابع يده الى قوله والاول احسن لما فيه من الكمال. وتفصيل ذلك ان المشهور عند المالكية وجوب مسح ما استرخى من شعر الرجل الرأس والوجه. والمرأة مثله في ذلك. ولا يمسح الرجل على عمامته الا من ضرورة. ولا تمسح المرأة على الوقاية اي الخرقة او الخمار او الحناء ونحوهما لان كل ذلك حائل بين الشعر وبين الماء. الا ان كانت ضرورة يجوز لها ذلك. وليس عليها حل غقاصها للمشقة اي اربطة شعرها. الا ان تربطها بخيوط كثيرة. وضابط الكثرة في ذلك ثلاثة فما فوقها فلا بد من حلها. والى صفة مسح المرأة لرأسها يشير الامام ابن ابي زيد القيرواني رحمه الله تعالى. بقوله وتمسح المرأة كما ذكرنا الى قوله في رجوع يديها في المسح. ثانيا بعد مسح الرأس يفرغ المتوضئ الماء على يديه ويدخلهما في الاناء فيمسح اذنيه ظاهرهما وباطنهما. وهو سنة. ثالثا بعد مسح الاذنين يغسل المتوضئ رجله اليمنى. ثم رجله اليسرى وجوبا ويخلل اصابعهما ندبا على المشهور من المذهب. ويعرك عرقوبيه لحديث سيدنا عبدالله بن عمرو رضي الله عنه قال رأى رسول الله صلى الله عليه واله وسلم قوما يتوضأون فرأى اعقابهم تلوح. فقال ويل للاعقاب من النار. اسبغوا الوضوء. رواه البخاري. والى كيفية غسل الرجلين اشار المصنف رحمه الله بقوله. ثم يغسل رجليه يصب الماء الى قوله بامر لا يجزئ دونه ولكنه اكثر ما يفعل. اما المحور الثاني فهو ما يستحب عقب الوضوء. يستحب ان يقول المتوضئ بعد الفراغ من وضوءه اشهد ان لا اله الا الله وان محمدا عبد الله ورسوله. اجعلني من التوابين. واجعلني من المتطهرين. وذلك للحديث الذي رواه الترمذي في سننه عن سيدنا عمر بن الخطاب رضي الله عنه قال قال رسول الله صلى الله عليه واله وسلم من توضأ فاحسن الوضوء ثم قال. اشهد ان لا اله الا الله وحده لا شريك له. واشهد ان محمدا عبده ورسوله. اللهم اجعلني من التوابين واجعلني من المتطهرين. فتحت له ثمانية ثمانية بالجنة يدخل من ايها شاء. ومن المقاصد التشريعية للوضوء تطهير المتوضئ من الذنوب واشعار المتوضئ نفسه ان ذلك تأهب وتنظف لمناجاة ربه سبحانه وتعالى. والوقوف بين يديه لاداء اعظم العبادات الشرعية. والخضوع لله سبحانه وتعالى بالركوع والسجود. وفي ذلك تحقيق لاسمى درجات العبودية لله رب العالمين. والقرب من المعبود جل في علاه. وذلك لما رواه الامام مسلم في صحيحه عن سيدنا ابي هريرة رضي الله عنه قال قال رسول الله صلى الله عليه واله وسلم ان اقرب ما يكون العبد من ربه وهو ساجد فاكثروا من الدعاء. ومما ورد في صفة الوضوء الاكمل وفضله ما جاء في صحيح مسلم عن سيدنا عثمان بن عفان رضي الله عنه. دعا بوضوء فتوضأ فغسل كفيه ثلاث مرات. ثم مضمضة واستنثر ثم غسل وجهه ثلاث مرات ثم غسل يده اليمنى. الى المرفق ثلاث مرات ثم غسل يداه اليسرى من ذلك ثم مسح رأسه ثم غسل رجله اليمنى الى الكعبين ثلاث مرات ثم غسل اليسرى مثل ذلك. ثم قال رأيت رسول الله صلى الله عليه واله وسلم سلم نحو وضوئي هذا. ثم قال رسول الله صلى الله عليه واله وسلم توضأ نحو وضوئي هذا ثم قام فركع ركعتين لا يحدث فيهما نفسه. غفر له ما تقدم من ذنبه. هذا وصلى الله على سيدنا محمد وعلى اله وسلم.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

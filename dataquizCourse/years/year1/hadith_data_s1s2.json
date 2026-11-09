@@ -1,0 +1,522 @@
+{
+  "meta": {
+    "year": 1,
+    "slug": "hadith",
+    "code": "HADITH101",
+    "title": {
+      "ar": "الحديث",
+      "fr": "Hadith",
+      "en": "Hadith"
+    },
+    "instructors": [
+      {
+        "name": "Dr. R"
+      }
+    ],
+    "tabs": ["video", "summaryPDF", "textExtraction", "qna"],
+    "tabLabels": {
+      "video": "🎥 فيديو الدرس",
+      "summaryPDF": "📝 مراجعة ملخص الدرس",
+      "textExtraction": "📄 استخراج النص من الفيديو"
+    }
+  },
+  "semesters": {
+    "1": {
+      "lessons": [
+        {
+          "id": "1",
+          "title": "الدرس 1 مقدمة للحديث"
+        },
+        {
+          "id": "2",
+          "title": "الدرس 2 حديث انما الاعمال بالنيات"
+        },
+        {
+          "id": "3",
+          "title": "الدرس 3 مراتب الدين"
+        },
+        {
+          "id": "4",
+          "title": "الدرس 4 اركان الاسلام"
+        },
+        {
+          "id": "5",
+          "title": "الدرس 5 الحديث إنكار البدع المذمومة"
+        },
+        {
+          "id": "6",
+          "title": "الدرس 6 الحديث الابتعاد عن الشبهات"
+        },
+        {
+          "id": "7",
+          "title": "الدرس 7 الحديث السابع النصيحة عماد الدين"
+        },
+        {
+          "id": "8",
+          "title": "الدرس 8 حرمة دم المسلم"
+        },
+        {
+          "id": "9",
+          "title": "الدرس 9 الحديث التاسع النهي عن كثرة السؤال والتنطع"
+        },
+        {
+          "id": "10",
+          "title": "الدرس 10 الحديث الحلال سبب اجابة الدعاء و اكل الحرام يمنعها"
+        },
+        {
+          "id": "11",
+          "title": "الدرس 11 الحديث من الورع توقي الشبه"
+        },
+        {
+          "id": "12",
+          "title": "الدرس 12 الحديث ترك مالا يعني، والاشتغال بما يفيد"
+        },
+        {
+          "id": "13",
+          "title": "الدرس 13 الحديث من علامات كمال الإيمان حبك الخير للمسلمين"
+        },
+        {
+          "id": "14",
+          "title": "الدرس 14 الحديث حرمة المسلم ومتى تهدر"
+        },
+        {
+          "id": "15",
+          "title": "الدرس 15 الحديث التكلم بالخير، وإكرام الجار والضيف"
+        }
+      ],
+      "contentLinks": {
+        "1": {
+          "video": "https://drive.google.com/file/d/101_DLpcCgDd5pmxokXdyGZDBSH0KYvTi/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=101_DLpcCgDd5pmxokXdyGZDBSH0KYvTi",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr1hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr1hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec1hadiths1.pdf"
+        },
+        "2": {
+          "video": "https://drive.google.com/file/d/1a5fwPjnzg65MM_T3nc-wZ5jvIf1rHiV4/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1a5fwPjnzg65MM_T3nc-wZ5jvIf1rHiV4",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr2hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr2hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec2hadiths1.pdf"
+        },
+        "3": {
+          "video": "https://drive.google.com/file/d/1_W7qbhYUNnvlG28EtQEMI3Nt6JnB5SC_/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1_W7qbhYUNnvlG28EtQEMI3Nt6JnB5SC_",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr3hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr3hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec3hadiths1.pdf"
+        },
+        "4": {
+          "video": "https://drive.google.com/file/d/1no7f14Cbo60hiYG2q1IhimjCCubJvyVE/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1no7f14Cbo60hiYG2q1IhimjCCubJvyVE",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr4hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr4hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec4hadiths1.pdf"
+        },
+        "5": {
+          "video": "https://drive.google.com/file/d/1nfXizCtO1VdZ1XDdPQ2MdVcWdH-blnSF/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1nfXizCtO1VdZ1XDdPQ2MdVcWdH-blnSF",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr5hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr5hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec5hadiths1.pdf"
+        },
+        "6": {
+          "video": "https://drive.google.com/file/d/192eMNOSLNys9PjI57iAYHnszv9WohZZH/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=192eMNOSLNys9PjI57iAYHnszv9WohZZH",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr6hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr6hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec6hadiths1.pdf"
+        },
+        "7": {
+          "video": "https://drive.google.com/file/d/1EM5pU1zjUq3tw3Edr5ijTANt9eXr2Ho3/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1EM5pU1zjUq3tw3Edr5ijTANt9eXr2Ho3",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr7hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr7hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec7hadiths1.pdf"
+        },
+        "8": {
+          "video": "https://drive.google.com/file/d/1qwexbTCZIRWWD2QWStcDi1z8HGJwlN9_/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1qwexbTCZIRWWD2QWStcDi1z8HGJwlN9_",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr8hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr8hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec8hadiths1.pdf"
+        },
+        "9": {
+          "video": "https://drive.google.com/file/d/1FWUMxSSR5HzVYyhdOcP6BnViD6nuhL8/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1FWUMxSSR5HzVYyhdOcP6BnViD6nuhL8",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr9hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr9hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec9hadiths1.pdf"
+        },
+        "10": {
+          "video": "https://drive.google.com/file/d/1KefccC2PBSYKPOQ1SjkcxruIbT9ve4Mi/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1KefccC2PBSYKPOQ1SjkcxruIbT9ve4Mi",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr10hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr10hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec10hadiths1.pdf"
+        },
+        "11": {
+          "video": "https://drive.google.com/file/d/1_unAiGVBUQjNr38YNzllpo9iullpkTUU/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1_unAiGVBUQjNr38YNzllpo9iullpkTUU",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr11hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr11hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec11hadiths1.pdf"
+        },
+        "12": {
+          "video": "https://drive.google.com/file/d/1FMqlkIObE4WOuboTFa1m4TYrm-4mvL7Y/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1FMqlkIObE4WOuboTFa1m4TYrm-4mvL7Y",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr12hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr12hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec12hadiths1.pdf"
+        },
+        "13": {
+          "video": "https://drive.google.com/file/d/1evjn1-h_5zBjTzrD1s227r7XRDVFGJxv/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1evjn1-h_5zBjTzrD1s227r7XRDVFGJxv",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr13hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr13hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec13hadiths1.pdf"
+        },
+        "14": {
+          "video": "https://drive.google.com/file/d/1vTxuw_D1KgLx3Mbbq6oxdVm8IBkPikjG/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1vTxuw_D1KgLx3Mbbq6oxdVm8IBkPikjG",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr14hadiths1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s1/hadith/pcr/pcr14hadiths1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec14hadiths1.pdf"
+        },
+        "15": {
+          "video": "https://drive.google.com/file/d/1qcJST4MbBlDEj245UbMfJe-jpPzN3bmV/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1qcJST4MbBlDEj245UbMfJe-jpPzN3bmV",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/hadith/pcrhadith15s1.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdfs/year1/pdfcourseresume/s1/hadith/pcrhadith15s1.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s1/hadith/ec15hadiths1.pdf"
+        }
+      },
+      "conclusion": {
+        "title": "📚 الخاتمة",
+        "sections": [
+          {
+            "title": "اللقاءات المباشرة",
+            "items": [
+              {
+                "id": "الملتقى الاول",
+                "label": "الملتقى الأول",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1-0mb3GY7Bt38JTA4ODUAu6OYYvuCLCUf/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1-0mb3GY7Bt38JTA4ODUAu6OYYvuCLCUf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/hadith/meeting2hadiths1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/hadith/meeting2hadiths1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/hadith/meeting2hadiths1.pdf"
+                }
+              },
+              {
+                "id": "الملتقى الثاني",
+                "label": "الملتقى الثاني",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1kg_Y1LR4AtWU97b-sTUt4Rw1fJI7ufqo/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1kg_Y1LR4AtWU97b-sTUt4Rw1fJI7ufqo",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/hadith/meeting2hadiths1.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/hadith/meeting2hadiths1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s1/hadith/meeting2hadiths1.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Quiz Fin Semestre",
+            "items": [
+              {
+                "id": "quiz-general",
+                "label": "Quiz général sur les cours",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizSemester": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/hadith/quizsemhadiths1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/hadith/quizsemhadiths1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s1/hadith/quizsemhadiths1.pdf"
+                }
+              },
+              {
+                "id": "final-exam",
+                "label": "Examen final",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizExam": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/hadith/quizexamhadiths1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/hadith/quizexamhadiths1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s1/hadith/quizexamhadiths1.pdf"
+                }
+              },
+              {
+                "id": "CombinedCourse",
+                "label": "CombinedCourse",
+                "tabs": ["fusion"],
+                "tabLabels": {
+                  "fusion": "📝CombinedCourse"
+                },
+                "links": {
+                  "fusion": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/hadith/pcchadiths1.pdf",
+                  "combinedCourse": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/hadith/pcchadiths1.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/hadith/pcchadiths1.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s1/hadith/pcchadiths1.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "2": {
+      "lessons": [
+        {
+          "id": "1",
+          "title": "الدرس 1 الحديث 16 و 17"
+        },
+        {
+          "id": "2",
+          "title": "الدرس 2 الحديث 18 و19"
+        },
+        {
+          "id": "3",
+          "title": "الدرس 3 الحديث 20 و21"
+        },
+        {
+          "id": "4",
+          "title": "الدرس 4 الحديث 22 23"
+        },
+        {
+          "id": "5",
+          "title": "الدرس 5 الحديث 24"
+        },
+        {
+          "id": "6",
+          "title": "الدرس 6 الحديث 25 و 26"
+        },
+        {
+          "id": "7",
+          "title": "الدرس 7 الحديث 27 و 28"
+        },
+        {
+          "id": "8",
+          "title": "الدرس 8 الحديث 29"
+        },
+        {
+          "id": "9",
+          "title": "الدرس 9 الحديث 30 31"
+        },
+        {
+          "id": "10",
+          "title": "الدرس 10 الحديث 32 33"
+        },
+        {
+          "id": "11",
+          "title": "الدرس 11 الحديث 34 35"
+        },
+        {
+          "id": "12",
+          "title": "الدرس 12 الحديث 36 37"
+        },
+        {
+          "id": "13",
+          "title": "الدرس 13 الحديث 38 و 39"
+        },
+        {
+          "id": "14",
+          "title": "الدرس 14 الحديث 40 41 42"
+        }
+      ],
+      "contentLinks": {
+        "1": {
+          "video": "https://drive.google.com/file/d/1zOWow-BLkDqXyyrHPgqCbJyPwt30w6FH/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1zOWow-BLkDqXyyrHPgqCbJyPwt30w6FH",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr1hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr1hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec1hadiths2.pdf"
+        },
+        "2": {
+          "video": "https://drive.google.com/file/d/1sR7T_0C_BsiKToGJ-oV6iZhWTjh-qc2a/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1sR7T_0C_BsiKToGJ-oV6iZhWTjh-qc2a",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr2hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr2hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec2hadiths2.pdf"
+        },
+        "3": {
+          "video": "https://drive.google.com/file/d/1cRLNu4G3Fu1MEzpSLuHDvO2iJSSnbFrC/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1cRLNu4G3Fu1MEzpSLuHDvO2iJSSnbFrC",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr3hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr3hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec3hadiths2.pdf"
+        },
+        "4": {
+          "video": "https://drive.google.com/file/d/1ZVKDQm0yY1r4pQsA9hUPxMuVh6OsSFrG/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1ZVKDQm0yY1r4pQsA9hUPxMuVh6OsSFrG",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr4hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr4hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec4hadiths2.pdf"
+        },
+        "5": {
+          "video": "https://drive.google.com/file/d/1st9WwqCSTxwLinKdAS56nYX6CTWRCGO8/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1st9WwqCSTxwLinKdAS56nYX6CTWRCGO8",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr5hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr5hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec5hadiths2.pdf"
+        },
+        "6": {
+          "video": "https://drive.google.com/file/d/1H68aOg2CCf3gUczzSosQMC0Q4IMFY-Vv/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1H68aOg2CCf3gUczzSosQMC0Q4IMFY-Vv",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr6hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr6hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec6hadiths2.pdf"
+        },
+        "7": {
+          "video": "https://drive.google.com/file/d/1s_sCLlM2EloaUydn29pCq2fBO0CLor3Q/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1s_sCLlM2EloaUydn29pCq2fBO0CLor3Q",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr7hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr7hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec7hadiths2.pdf"
+        },
+        "8": {
+          "video": "https://drive.google.com/file/d/1F1C7EhsKgbFXpKyaIHLNJ1hgJJQRQngv/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1F1C7EhsKgbFXpKyaIHLNJ1hgJJQRQngv",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr8hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr8hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec8hadiths2.pdf"
+        },
+        "9": {
+          "video": "https://drive.google.com/file/d/1trsfH7-D9bM-noLACKCzwo6QFdIMT33E/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1trsfH7-D9bM-noLACKCzwo6QFdIMT33E",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr9hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr9hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec9hadiths2.pdf"
+        },
+        "10": {
+          "video": "https://drive.google.com/file/d/1b9xpva1kQTiPjQtJ_GTiMxAIDpjdyiTW/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1b9xpva1kQTiPjQtJ_GTiMxAIDpjdyiTW",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr10hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr10hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec10hadiths2.pdf"
+        },
+        "11": {
+          "video": "https://drive.google.com/file/d/1UcaaD-eponO_f2AkCPqjOREIYrQrAuS5/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1UcaaD-eponO_f2AkCPqjOREIYrQrAuS5",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr11hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr11hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec11hadiths2.pdf"
+        },
+        "12": {
+          "video": "https://drive.google.com/file/d/15auSLJ_zFr9GP35RDtbEsqTFWUMzjKrh/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=15auSLJ_zFr9GP35RDtbEsqTFWUMzjKrh",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr12hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr12hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec12hadiths2.pdf"
+        },
+        "13": {
+          "video": "https://drive.google.com/file/d/1Rmncz-X15Qs2DMMsRzZShMFWlh9l92U/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=1Rmncz-X15Qs2DMMsRzZShMFWlh9l92U",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr13hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr13hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec13hadiths2.pdf"
+        },
+        "14": {
+          "video": "https://drive.google.com/file/d/19J5ZruxoDRAAMd71GHR2nNZ9KkYgxzp5/preview",
+          "videoDownload": "https://drive.google.com/uc?export=download&id=19J5ZruxoDRAAMd71GHR2nNZ9KkYgxzp5",
+          "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr14hadiths2.pdf",
+          "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfcourseresume/s2/hadith/pcr/pcr14hadiths2.pdf",
+          "textExtraction": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfExtractionCourse/s2/hadith/ec14hadiths2.pdf"
+        }
+      },
+      "conclusion": {
+        "title": "📚 الخاتمة",
+        "sections": [
+          {
+            "title": "اللقاءات المباشرة",
+            "items": [
+              {
+                "id": "الملتقى الاول",
+                "label": "الملتقى الأول",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/1UlH3xYx4Nr3NkWbpPYiuutM45XBfllSJ/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=1UlH3xYx4Nr3NkWbpPYiuutM45XBfllSJ",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/hadith/meeting2hadiths2.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/hadith/meeting2hadiths2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/hadith/meeting2hadiths2.pdf"
+                }
+              },
+              {
+                "id": "الملتقى الثاني",
+                "label": "الملتقى الثاني",
+                "tabs": ["video", "summaryPDF"],
+                "tabLabels": {
+                  "video": "🎥 تسجيل اللقاء",
+                  "summaryPDF": "📝 ملخص اللقاء"
+                },
+                "links": {
+                  "video": "https://drive.google.com/file/d/19k6OMZCxD_eA_xrbTGRsSmF93LAQxjlI/preview",
+                  "videoDownload": "https://drive.google.com/uc?export=download&id=19k6OMZCxD_eA_xrbTGRsSmF93LAQxjlI",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/hadith/meeting2hadiths2.pdf",
+                  "meeting": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/hadith/meeting2hadiths2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfMeeting/s2/hadith/meeting2hadiths2.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Quiz Fin Semestre",
+            "items": [
+              {
+                "id": "quiz-general",
+                "label": "Quiz général sur les cours",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizSemester": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/hadith/quizsemhadiths2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/hadith/quizsemhadiths2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizSemester/s2/hadith/quizsemhadiths2.pdf"
+                }
+              },
+              {
+                "id": "final-exam",
+                "label": "Examen final",
+                "tabs": ["qna"],
+                "tabLabels": {},
+                "links": {
+                  "quizExam": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/hadith/quizexamhadiths2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/hadith/quizexamhadiths2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfQuizExam/s2/hadith/quizexamhadiths2.pdf"
+                }
+              },
+              {
+                "id": "CombinedCourse",
+                "label": "CombinedCourse",
+                "tabs": ["fusion"],
+                "tabLabels": {
+                  "fusion": "📝CombinedCourse"
+                },
+                "links": {
+                  "fusion": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/hadith/pcchadiths2.pdf",
+                  "combinedCourse": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/hadith/pcchadiths2.pdf",
+                  "summaryPDF": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/hadith/pcchadiths2.pdf",
+                  "summaryDownload": "https://https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf@main.supabase.co/storage/v1/object/public/pdf/year1/pdfInfoChat/pdfCombinedCourse/s2/hadith/pcchadiths2.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

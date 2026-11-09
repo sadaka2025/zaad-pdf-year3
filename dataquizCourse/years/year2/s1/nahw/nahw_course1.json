@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "slug": "nahw_lesson0",
+    "title": {
+      "ar": "📘 امتحان النحو الدرس الاول ",
+      "fr": "Examen de grammaire – Leçon 0",
+      "en": "Grammar Exam – Lesson 1"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما هو الكتاب المعتمد لدراسة النحو في هذه السنة؟",
+      "options": [
+        "شرح ابن عقيل",
+        "التحفة السنية في شرح الأجرومية",
+        "قطر الندى",
+        "ألفية ابن مالك"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الكتاب المعتمد هو 'التحفة السنية في شرح الأجرومية' كما ورد في بداية الدرس.",
+      "textReference": "الكتاب المعتمد: التحفة السنية في شرح الأجرومية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من هو مؤلف كتاب التحفة السنية في شرح الأجرومية؟",
+      "options": [
+        "ابن مالك",
+        "محمد بن داود الصنهاجي",
+        "محمد محيي الدين عبد الحميد",
+        "سيبويه"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "مؤلف الكتاب هو محمد محيي الدين عبد الحميد.",
+      "textReference": "مؤلف التحفة السنية هو محمد محيي الدين عبد الحميد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "كلمة \"النحو\" في اللغة تعني:",
+      "options": [
+        "الإعراب فقط",
+        "الجهة والمثل",
+        "الصوت والحركة",
+        "الكلام المركب"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النحو في اللغة يعني الجهة والمثل.",
+      "textReference": "النحو لغةً: الجهة والمثل.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "النحو في اصطلاح النحويين هو:",
+      "options": [
+        "علم يدرس المفردات",
+        "علم يدرس المعاني",
+        "القواعد التي تُعرف بها أحكام أواخر الكلمات من حيث الإعراب أو البناء",
+        "علم الأصوات"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النحو اصطلاحًا: القواعد التي تعرف بها أحكام أواخر الكلمات من حيث الإعراب أو البناء.",
+      "textReference": "النحو اصطلاحًا: القواعد التي تعرف بها أحكام أواخر الكلمات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "موضوع علم النحو الأساسي هو اللغة العربية.",
+      "correctAnswer": true,
+      "answerReason": "موضوع علم النحو: اللغة العربية وأحكام أواخر كلماتها.",
+      "textReference": "موضوع علم النحو: اللغة العربية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "تعلم علم النحو لا يساعد على فهم القرآن الكريم.",
+      "correctAnswer": false,
+      "answerReason": "تعلم النحو يعين على فهم القرآن والسنة ويصون اللسان من اللحن.",
+      "textReference": "من ثمرات النحو: فهم القرآن وصون اللسان.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "أبو الأسود الدؤلي هو أول من وضع علم النحو بتكليف من علي بن أبي طالب رضي الله عنه.",
+      "correctAnswer": true,
+      "answerReason": "أبو الأسود الدؤلي واضع علم النحو بأمر علي رضي الله عنه.",
+      "textReference": "أبو الأسود الدؤلي أول واضع لعلم النحو.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "truefalse",
+      "question": "تعلم علم النحو فرض كفاية.",
+      "correctAnswer": true,
+      "answerReason": "تعلم النحو فرض كفاية، إذا قام به البعض سقط عن الباقين.",
+      "textReference": "تعلم النحو فرض كفاية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "truefalse",
+      "question": "الكتابة والإشارة تعتبر كلامًا عند علماء النحو.",
+      "correctAnswer": false,
+      "answerReason": "الكلام عند النحاة يشترط أن يكون لفظًا.",
+      "textReference": "الكلام عند النحاة لا يكون كتابة أو إشارة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "fill",
+      "question": "كلمة \"النحو\" في اللغة تعني __________ و __________.",
+      "correctAnswer": "الجهة / المثل",
+      "answerReason": "النحو لغةً: الجهة والمثل.",
+      "textReference": "النحو لغةً: الجهة والمثل.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent3"
+    },
+    {
+      "id": 11,
+      "type": "fill",
+      "question": "النحو في الاصطلاح هو القواعد التي تعرف بها __________ الكلمات من حيث البناء أو الإعراب.",
+      "correctAnswer": "أحكام أواخر",
+      "answerReason": "النحو اصطلاحًا: القواعد التي تعرف بها أحكام أواخر الكلمات.",
+      "textReference": "النحو اصطلاحًا: القواعد التي تعرف بها أحكام أواخر الكلمات.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent4"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "ثمرة تعلم علم النحو هي صون __________ من الوقوع في الخطأ.",
+      "correctAnswer": "اللسان",
+      "answerReason": "ثمرة تعلم النحو صون اللسان من اللحن.",
+      "textReference": "ثمرة تعلم النحو: صون اللسان.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent6"
+    },
+    {
+      "id": 13,
+      "type": "fill",
+      "question": "واضع علم النحو هو __________ بتكليف من __________.",
+      "correctAnswer": "أبو الأسود الدؤلي / علي بن أبي طالب",
+      "answerReason": "أبو الأسود وضع النحو بأمر من علي رضي الله عنه.",
+      "textReference": "واضع النحو: أبو الأسود الدؤلي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent7"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "تعلم النحو فرض __________، أي إذا قام به البعض سقط عن البقية.",
+      "correctAnswer": "كفاية",
+      "answerReason": "تعلم النحو فرض كفاية.",
+      "textReference": "تعلم النحو فرض كفاية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent8"
+    },
+    {
+      "id": 15,
+      "type": "open",
+      "question": "عرّف الكلام في اللغة.",
+      "correctAnswer": "ما تحصل به فائدة سواء كان لفظًا أو كتابة أو إشارة أو غير ذلك.",
+      "answerReason": "الكلام لغة: ما تحصل به فائدة.",
+      "textReference": "الكلام لغة: ما تحصل به فائدة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent10"
+    },
+    {
+      "id": 16,
+      "type": "open",
+      "question": "عرّف الكلام في اصطلاح النحاة.",
+      "correctAnswer": "لفظ مركب مفيد بالوضع العربي.",
+      "answerReason": "الكلام اصطلاحًا: لفظ مركب مفيد بالوضع العربي.",
+      "textReference": "الكلام اصطلاحًا: لفظ مركب مفيد بالوضع العربي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent11"
+    },
+    {
+      "id": 17,
+      "type": "open",
+      "question": "اشرح المقصود بالوضع العربي.",
+      "correctAnswer": "أن تكون اللغة المستعملة عربية أصلًا أو عربية بالاستعمال.",
+      "answerReason": "الوضع العربي شرط من شروط الكلام عند النحاة.",
+      "textReference": "الوضع العربي: أن تكون اللغة عربية أو صارت عربية بالاستعمال.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent12"
+    },
+    {
+      "id": 18,
+      "type": "open",
+      "question": "اشرح معنى أن يكون الكلام 'مفيدًا' عند النحاة.",
+      "correctAnswer": "أن يؤدي إلى معنى تام يفيد السامع ويحسن السكوت عليه.",
+      "answerReason": "المقصود بالإفادة: المعنى التام.",
+      "textReference": "الكلام المفيد: ما أفاد معنى تامًا يحسن السكوت عليه.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent13"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما الشرط الأول في الكلام عند النحاة؟",
+      "options": [
+        "أن يكون مفيدًا",
+        "أن يكون لفظًا",
+        "أن يكون مكتوبًا",
+        "أن يكون فعلاً"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الشرط الأول: أن يكون لفظًا.",
+      "textReference": "الشرط الأول من شروط الكلام: اللفظ.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent14"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما المقصود بـ\"التركيب\" في علم النحو؟",
+      "options": [
+        "كتابة الكلمات بشكل صحيح",
+        "جمع كلمتين أو أكثر لتكوين جملة",
+        "نطق الحروف",
+        "دراسة الأصوات"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "التركيب: جمع كلمتين أو أكثر لتكوين جملة ذات معنى.",
+      "textReference": "التركيب: ضم كلمتين أو أكثر.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent15"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "من شروط الكلام في النحو:",
+      "options": [
+        "أن يكون لفظًا ومركبًا ومفيدًا وبالوضع العربي",
+        "أن يكون إشارة",
+        "أن يكون معربًا فقط",
+        "أن يكون اسمًا وفعلًا"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "شروط الكلام: اللفظ، التركيب، الإفادة، الوضع العربي.",
+      "textReference": "شروط الكلام أربعة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent16"
+    },
+    {
+      "id": 22,
+      "type": "truefalse",
+      "question": "الكلمة المفردة تعتبر كلامًا عند النحاة.",
+      "correctAnswer": false,
+      "answerReason": "الكلمة المفردة لا تفيد معنى تامًا، فلا تعتبر كلامًا.",
+      "textReference": "الكلمة المفردة ليست كلامًا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent17"
+    },
+    {
+      "id": 23,
+      "type": "truefalse",
+      "question": "من أمثلة التركيب الظاهر قولنا \"زيد قائم\".",
+      "correctAnswer": true,
+      "answerReason": "زيد قائم جملة اسمية مركبة تركيبًا ظاهرًا.",
+      "textReference": "زيد قائم: مثال التركيب الظاهر.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent18"
+    },
+    {
+      "id": 24,
+      "type": "fill",
+      "question": "التركيب قد يكون __________ أو __________.",
+      "correctAnswer": "ظاهرًا / مقدرًا",
+      "answerReason": "التركيب نوعان: ظاهر ومقدر.",
+      "textReference": "التركيب يكون ظاهرًا أو مقدرًا.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent19"
+    },
+    {
+      "id": 25,
+      "type": "open",
+      "question": "اشرح التركيب المقدر مع مثال.",
+      "correctAnswer": "هو الذي يُفهم من السياق دون أن يُصرّح به، مثل أن يُسأل: من جاء؟ فيقال: زيد (أي زيد جاء).",
+      "answerReason": "التركيب المقدر يُفهم من السياق.",
+      "textReference": "التركيب المقدر: ما دل عليه السياق ولم يُصرّح به.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent20"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما اللغة التي لا يتناولها علم النحو العربي؟",
+      "options": ["العربية", "الأعجمية", "العربية المستعملة", "النبطية"],
+      "correctAnswer": 1,
+      "answerReason": "علم النحو خاص باللغة العربية، لا يتناول الأعجمية.",
+      "textReference": "النحو لا يتناول الأعجمية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent21"
+    },
+    {
+      "id": 27,
+      "type": "truefalse",
+      "question": "كلمة \"إبراهيم\" عربية الأصل.",
+      "correctAnswer": false,
+      "answerReason": "إبراهيم أعجمية الأصل لكنها صارت عربية بالاستعمال.",
+      "textReference": "إبراهيم ليست عربية الأصل.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent22"
+    },
+    {
+      "id": 28,
+      "type": "fill",
+      "question": "كلمة \"إبراهيم\" ليست عربية الأصل ولكنها أصبحت __________ بالاستعمال.",
+      "correctAnswer": "عربية",
+      "answerReason": "صارت عربية بالاستعمال.",
+      "textReference": "إبراهيم عربية بالاستعمال.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent23"
+    },
+    {
+      "id": 29,
+      "type": "open",
+      "question": "اشرح سبب اختلاف العلماء في وجود ألفاظ غير عربية في القرآن الكريم.",
+      "correctAnswer": "بعض العلماء نظر إلى أصل الكلمة (أعجمي الأصل)، وبعضهم نظر إلى استعمال العرب لها (عربية بالاستعمال)، لذلك اختلفوا.",
+      "answerReason": "الخلاف ناشئ من النظر إلى الأصل أو الاستعمال.",
+      "textReference": "سبب الخلاف: أصل الكلمة أو استعمال العرب لها.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent24"
+    },
+    {
+      "id": 30,
+      "type": "matching",
+      "question": "صِل المصطلح بالتعريف الصحيح:",
+      "pairs": [
+        {
+          "left": "النحو لغةً",
+          "right": "الجهة والمثل"
+        },
+        {
+          "left": "النحو اصطلاحًا",
+          "right": "القواعد التي تُعرف بها أحكام أواخر الكلمات"
+        },
+        {
+          "left": "الكلام لغةً",
+          "right": "ما تحصل به فائدة بأي وسيلة"
+        },
+        {
+          "left": "الكلام اصطلاحًا",
+          "right": "لفظ مركب مفيد بالوضع العربي"
+        }
+      ],
+      "answerReason": "هذا تلخيص للتعاريف الواردة في الدرس.",
+      "textReference": "تعريفات النحو والكلام.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/nahw/ec1nahws1.html#sent25"
+    }
+  ]
+}

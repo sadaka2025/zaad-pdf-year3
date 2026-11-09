@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "hadith_lesson9",
+    "title": {
+      "ar": "📘 الحديث – الدرس 9: باب اليقين والتوكل",
+      "fr": "Hadith – Leçon 9 : Certitude et Tawakkul",
+      "en": "Hadith – Lesson 9: Certainty & Reliance on Allah"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما معنى الاستقامة كما بيّنها النص؟",
+      "options": [
+        "الثبات على الطاعة والانتهاء عن المعصية",
+        "الوقوف بين يدي الله فقط",
+        "إكثار النوافل",
+        "الزهد في الدنيا"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص: الاستقامة هي الثبات على أوامر الله والانتهاء عن نواهيه.",
+      "textReference": "تعريف الاستقامة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "كيف عرّف سيدنا عمر رضي الله عنه الاستقامة؟",
+      "options": [
+        "الإكثار من الذكر",
+        "الثبات على الأمر والنهي بلا مراوغة",
+        "الابتعاد عن الناس",
+        "الاجتهاد في العبادة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "قال عمر: الاستقامة أن تثبت على الأمر والنهي لا تروغ.",
+      "textReference": "قول عمر عن الاستقامة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "هل المقصود بالاستقامة ألا يقع المسلم في الذنب مطلقاً؟",
+      "options": [
+        "نعم، يجب ألا يذنب أبداً",
+        "لا، الذنب يقع منه لكن يتوب",
+        "الذنب يبطل الإيمان دائماً",
+        "الذنب لا يؤثر على الاستقامة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص يقرر أن الذنب مكتوب على الإنسان لكن عليه التوبة كلما وقع.",
+      "textReference": "الوقوع في الذنب لا ينافي الاستقامة مع التوبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما الحديث الذي استُشهد به لإثبات أن المؤمن قد يعتاد ذنباً ثم يتوب؟",
+      "options": [
+        "حديث: الأعمال بالنيات",
+        "حديث: الدين النصيحة",
+        "حديث ابن عباس أن للمؤمن ذنباً يعتاده",
+        "حديث من حسن إسلام المرء تركه ما لا يعنيه"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ذكر النص الحديث الصحيح الذي رواه أحمد وابن حبان.",
+      "textReference": "حديث ابن عباس حول الذنب المتكرر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "في قوله تعالى: فاستقم كما أُمِرت، من هو المخاطَب؟",
+      "options": [
+        "الملائكة",
+        "النبي فقط",
+        "النبي والمراد أمته",
+        "العلماء فقط"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: الخطاب للنبي لكن المراد أمته.",
+      "textReference": "خطاب الاستقامة للنبي والمراد الأمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما المقصود بقولهم: الذين قالوا ربنا الله ثم استقاموا؟",
+      "options": [
+        "قالوا الكلمة دون عمل",
+        "آمنوا ثم تركوا العمل",
+        "قالوا ربنا الله ثم ثبتوا على الطاعة",
+        "آمنوا مرة واحدة بلا تجديد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص بيّن أن القول وحده لا يكفي دون العمل والاستقامة.",
+      "textReference": "تفسير آية الذين قالوا ربنا الله ثم استقاموا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "كيف فهم العلماء معنى قول: ربنا الله؟",
+      "options": [
+        "هي مجرد لفظ",
+        "هي كلمة بلا عمل",
+        "هي لا إله إلا الله أو الإيمان بالله بلا شرك",
+        "هي خاصة بالأنبياء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: اختلاف تنوع بين المفسرين.",
+      "textReference": "تفسير قول ربنا الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما بشارة الذين استقاموا كما ورد؟",
+      "options": [
+        "الغنى",
+        "الجاه",
+        "تنزل الملائكة عليهم",
+        "رفعة نسبية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: تتنزل عليهم الملائكة تثبيتاً وبشارة.",
+      "textReference": "بشارة المستقيمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "من بشارات الدنيا للمستقيم كما ذكر؟",
+      "options": [
+        "الشفاء من الأمراض دائماً",
+        "الرؤيا الصالحة",
+        "طول العمر",
+        "عدم الابتلاء"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النص: من المبشرات الرؤيا الصالحة.",
+      "textReference": "الرؤيا الصالحة بشارة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما المقصود بقولهم: الرؤى تُسِرّ ولا تغرّ؟",
+      "options": [
+        "هي لغير المؤمنين",
+        "يجب الاعتماد عليها في الأحكام",
+        "تسرّ القلب ولا يُعتمد عليها استقلالاً",
+        "لا قيمة لها"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص وضّح هذا المعنى.",
+      "textReference": "معنى الرؤى تسر ولا تغر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما الدليل على أن للمؤمن ملكاً يحثه على الخير؟",
+      "options": [
+        "حديث النبي: ما من أحد إلا وله ملك يحث على الخير",
+        "آية الكرسي",
+        "قول عمر",
+        "أثر ابن عباس"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص ذكر الحديث.",
+      "textReference": "ملك يحث على الخير",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "بماذا فُسّر قول النبي: فأَسْلَمَ؟",
+      "options": [
+        "أسلم بمعنى دخل الإسلام",
+        "أسلم بمعنى صار شيطانه لا يأمره إلا بخير أو سَلَّمه الله من إذايته",
+        "أسلم بمعنى ترك الطعام",
+        "أسلم بمعنى نام"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ذكر النص قولين للعلماء.",
+      "textReference": "تفسير فأَسْلَمَ",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "من الدلالات على زيارة الملائكة للأولياء كما ورد؟",
+      "options": [
+        "سماع الأذان",
+        "رؤية رجال حسان الوجوه يسلمون",
+        "ظهور نور في السماء",
+        "سماع أصوات غير مفهومة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "كما حصل مع عمران بن حصين.",
+      "textReference": "قصة عمران بن حصين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "لماذا انقطعت زيارة الملائكة لعمران بن حصين؟",
+      "options": [
+        "لتركه الصلاة",
+        "لكثرة الكلام",
+        "لأنه اكتوى",
+        "لأنه سافر"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: لما اكتوى انقطعت عنه.",
+      "textReference": "انقطاع زيارة الملائكة لعمران",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "هل الكي محرّم شرعاً؟",
+      "options": [
+        "نعم تحريماً قطعياً",
+        "لا، جائز لكن نهى عنه النبي رحمة بالأمة",
+        "هو من الكبائر",
+        "لا يجوز إلا للمجاهدين"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النهي ليس للتحريم المطلق.",
+      "textReference": "حكم الكي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما المعنى المحتمل لقوله تعالى: ألا تخافوا ولا تحزنوا؟",
+      "options": [
+        "عند الموت أو البعث أو على الصراط",
+        "في الدنيا فقط",
+        "عند الولادة",
+        "يوم الجمعة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص ذكر الأقوال الثلاثة.",
+      "textReference": "تفسير ألا تخافوا ولا تحزنوا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما معنى قوله: نحن أولياؤكم في الحياة الدنيا وفي الآخرة؟",
+      "options": [
+        "نحن خصومكم",
+        "نحن أعداؤكم",
+        "نحن أنصاركم وأحبابكم",
+        "نحن محاسبوكم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: الولي هو الظهير والنصير والمحب.",
+      "textReference": "معنى الولاية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الأصناف التي لا تخاف يوم الفزع الأكبر كما ذكر؟",
+      "options": [
+        "الأغنياء",
+        "العصاة فقط",
+        "المتصدقون والأولياء والشهداء والمستقيمون",
+        "أهل السلطان"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص عدّ هذه الأصناف.",
+      "textReference": "أصناف لا تخاف يوم الفزع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما سؤال سفيان بن عبد الله للنبي؟",
+      "options": [
+        "ما أفضل الصدقة؟",
+        "ما أكثر ما تخاف علي؟",
+        "قل لي في الإسلام قولاً لا أسأل عنه أحداً غيرك",
+        "من خير الناس؟"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص ذكر هذا السؤال.",
+      "textReference": "سؤال سفيان بن عبد الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما جواب النبي لسفيان بن عبد الله؟",
+      "options": [
+        "صم يوم الجمعة",
+        "أكثر من الصدقة",
+        "قل آمنت بالله ثم استقم",
+        "إنفق ولا تخش من ذي العرش"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هذا الجواب جمع الدين كله.",
+      "textReference": "جواب قل آمنت بالله ثم استقم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ماذا يدل سؤال الصحابة عن الشر كما فعل حذيفة؟",
+      "options": [
+        "قلّة الإيمان",
+        "حب الدنيا",
+        "خوف الوقوع فيه",
+        "عدم الفهم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: كان يسأل عن الشر مخافة أن يقع فيه.",
+      "textReference": "سؤال حذيفة عن الشر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما معنى المقاربة في حديث: قاربوا وسددوا؟",
+      "options": [
+        "الغلو في الطاعة",
+        "التساهل في الطاعة",
+        "الاقتصاد والاعتدال دون غلو أو تفريط",
+        "ترك العمل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: المقاربة هي القصد الذي لا غلو فيه ولا تقصير.",
+      "textReference": "معنى المقاربة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما سبب تقديم كلمة قاربوا على سددوا؟",
+      "options": [
+        "لا سبب",
+        "لأن المقاربة مقدمة على وجود السداد",
+        "لأن السداد هو الأسهل",
+        "لأن السداد يسبق الإيمان"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النظر إلى الشيء والاقتراب منه يسبق السداد.",
+      "textReference": "سبب ترتيب قاربوا وسددوا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "كيف وُفّق بين الحديث: لن يدخل أحد الجنة بعمله، والآية: ادخلوا الجنة بما كنتم تعملون؟",
+      "options": [
+        "يوجد تعارض حقيقي",
+        "الآية ناسخة للحديث",
+        "الحديث يفيد نفي الاستحقاق، والآية تفيد أن العمل سبب لا موجب",
+        "الحديث يخص المنافقين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص أوضح هذا التوفيق.",
+      "textReference": "التوفيق بين الحديث والآية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "على ماذا يدل قول النبي: ولا أنا إلا أن يتغمدني الله برحمة؟",
+      "options": [
+        "دخول الجنة بالعمل",
+        "عدم حاجة النبي للرحمة",
+        "أن دخول الجنة محض رحمة من الله",
+        "أن الأعمال وحدها تكفي"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص صريح.",
+      "textReference": "دخول الجنة برحمة الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما العلاقة بين العمل والدرجات في الجنة؟",
+      "options": [
+        "العمل هو سبب توزيع الدرجات",
+        "لا علاقة بينهما",
+        "العمل سبب دخول النار",
+        "العمل يحدد نسبة الذنوب فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "النص: الأعمال تتقاسم درجات الجنة.",
+      "textReference": "العمل والدرجات",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "من أين يستمد العبد توفيقه للطاعات؟",
+      "options": [
+        "من قوته الذاتية",
+        "من البيئة",
+        "من توفيق الله عز وجل",
+        "من المعرفة العقلية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: ليس الفضل من فعله بل من توفيق الله.",
+      "textReference": "التوفيق من عند الله",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "بماذا شبّه أهل السلوك نسبة العمل للعبد؟",
+      "options": [
+        "بالسراب",
+        "بالظل",
+        "خلق ثم نسب إليك",
+        "بالنوم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص: خلق ثم نسب إليك.",
+      "textReference": "كلمة أهل السلوك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما الذي يجمع الإسلام كله في عبارة موجزة كما ورد؟",
+      "options": [
+        "صم ولا تفطر",
+        "الجهاد ذروة سنامه",
+        "قل آمنت بالله ثم استقم",
+        "من حسن إسلام المرء تركه ما لا يعنيه"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص صرّح أنها جمعت الدين.",
+      "textReference": "القول الجامع للإسلام",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الدعاء الذي ختم به الدرس؟",
+      "options": [
+        "اللهم اجعلنا من عبادك الصالحين فقط",
+        "اللهم ارزقنا مالاً وفيراً",
+        "نسأل الله أن يكرمنا بالاستقامة وأن يميتنا على الإسلام",
+        "اللهم اجعلنا من أهل الدنيا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "هو خاتمة الدرس.",
+      "textReference": "دعاء ختام الدرس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec9sira9s1.html#sent30"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "slug": "hikma96_lesson7",
+    "title": {
+      "ar": "شرح الحكم – الدرس السابع – الحكمة السادسة والتسعون (الذل والانكسار)",
+      "fr": "Hikam – Leçon 7 – La sagesse 96 (Humilité vs orgueil)",
+      "en": "Hikam – Lesson 7 – Wisdom 96 (Humility vs Pride)"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما موضوع الحكمة السادسة والتسعون؟",
+      "options": ["الصبر", "الذل والانكسار", "الزهد", "الرجاء"],
+      "correctAnswer": 1,
+      "explanation": "الحكمة تتحدث عن أثر الذل والانكسار.",
+      "textReference": "معصية أورثت ذلا وافتقارا"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من قائل هذه الحكمة؟",
+      "options": [
+        "الإمام الشافعي",
+        "ابن عطاء الله السكندري",
+        "الإمام مالك",
+        "الإمام أحمد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "هي من حكم ابن عطاء الله.",
+      "textReference": "قال ابن عطاء الله"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما مضمون الحكمة؟",
+      "options": [
+        "الطاعة دائما أفضل",
+        "المعصية أفضل",
+        "النظر إلى النتائج",
+        "ترك العمل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "المقارنة في النتائج لا في الأفعال.",
+      "textReference": "المقارنة في الثمار"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "متى تكون المعصية خيرا؟",
+      "options": [
+        "إذا كانت كثيرة",
+        "إذا أورثت ذلا وانكسارا",
+        "إذا كانت خفية",
+        "إذا كانت صغيرة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "إذا أدت إلى التوبة والانكسار.",
+      "textReference": "أورثت ذلا وافتقارا"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "متى تكون الطاعة مذمومة؟",
+      "options": [
+        "إذا كانت قليلة",
+        "إذا كانت كثيرة",
+        "إذا أورثت كبرا",
+        "إذا كانت سرية"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الطاعة مع الكبر مذمومة.",
+      "textReference": "أورثت عزا واستكبارا"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما الذي يقرب العبد من الله؟",
+      "options": ["العز", "الذل والانكسار", "الجاه", "القوة"],
+      "correctAnswer": 1,
+      "explanation": "الذل من صفات العبودية.",
+      "textReference": "الذل والافتقار موجب للقرب"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما الذي يبعد عن الله؟",
+      "options": ["الخشوع", "التواضع", "الاستكبار", "الذكر"],
+      "correctAnswer": 2,
+      "explanation": "الكبر سبب البعد.",
+      "textReference": "الاستكبار مقتضٍ للخذلان"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما معنى قولهم: \"انكسار العاصي خير من صولة المطيع\"؟",
+      "options": ["المعصية أفضل", "الانكسار أفضل", "الطاعة سيئة", "ترك الطاعة"],
+      "correctAnswer": 1,
+      "explanation": "المقصود أثر القلب.",
+      "textReference": "انكسار العاصي خير"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "لماذا قد يُكرم العاصي؟",
+      "options": ["لأنه صالح", "لذله وانكساره", "لقوته", "لجاهه"],
+      "correctAnswer": 1,
+      "explanation": "لانكساره بين يدي الله.",
+      "textReference": "دخل بذل مخالفته"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "لماذا يُذم بعض المطيعين؟",
+      "options": ["لأنهم يتركون الصلاة", "لكبرهم", "لضعفهم", "لفقرهم"],
+      "correctAnswer": 1,
+      "explanation": "بسبب الاستكبار.",
+      "textReference": "وهو متكبر"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما المطلوب في الطاعة؟",
+      "options": ["صورتها", "عددها", "خشوعها", "سرعتها"],
+      "correctAnswer": 2,
+      "explanation": "المقصود الخشوع.",
+      "textReference": "لما احتوت عليه من التذلل"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الخطر في إظهار الصدقة؟",
+      "options": ["الزيادة", "الشهرة", "الإذلال", "القبول"],
+      "correctAnswer": 2,
+      "explanation": "قد يكون فيه إذلال للفقراء.",
+      "textReference": "وفيه من الإذلال"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما حال التائب الصادق؟",
+      "options": ["متكبر", "بلا مبالاة", "باكٍ منكسِر", "فرح فقط"],
+      "correctAnswer": 2,
+      "explanation": "يبكي ويتذلل.",
+      "textReference": "يبكي متذللا"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما معيار المقارنة في الحكمة؟",
+      "options": ["الفعل", "العدد", "النتيجة", "الزمن"],
+      "correctAnswer": 2,
+      "explanation": "المعيار هو الثمرة.",
+      "textReference": "نقارن بالنتائج"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما الذي يجب الحذر منه؟",
+      "options": ["الصلاة", "رؤية النفس أفضل", "الذكر", "العمل"],
+      "correctAnswer": 1,
+      "explanation": "العجب والغرور.",
+      "textReference": "لا ترى لنفسك فضلا"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما الذي لا نعلمه؟",
+      "options": ["الأعمال", "الخواتيم", "الأسباب", "العبادات"],
+      "correctAnswer": 1,
+      "explanation": "الخاتمة بيد الله.",
+      "textReference": "لا تعرف الخواتيم"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما مثال قبول التوبة؟",
+      "options": ["العابد", "قاتل المئة", "الغني", "العالم"],
+      "correctAnswer": 1,
+      "explanation": "تاب فغفر الله له.",
+      "textReference": "قتل 100 نفس"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما شرط التوبة؟",
+      "options": ["الكلام", "الصدق", "المال", "الجاه"],
+      "correctAnswer": 1,
+      "explanation": "الصدق مع الله.",
+      "textReference": "صادق في توبته"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما حال أبي بكر عند رؤية الباكين؟",
+      "options": ["تعجب", "بكى", "غبطهم", "أنكر"],
+      "correctAnswer": 2,
+      "explanation": "تمنى حالهم.",
+      "textReference": "هنيئا لمن مات"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما قصة مالك بن دينار؟",
+      "options": ["صلى فقط", "نصح عاصيا", "ساعد فقيرا", "تعلم علما"],
+      "correctAnswer": 1,
+      "explanation": "رأى توبة عاصٍ صادق.",
+      "textReference": "رجل يبكي"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما أثر الإخلاص؟",
+      "options": ["الضياع", "القرب", "الكسل", "الغرور"],
+      "correctAnswer": 1,
+      "explanation": "يقرب من الله.",
+      "textReference": "القرب من رب البرية"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما سبب هلاك إبليس؟",
+      "options": ["الجهل", "الكسل", "الاستكبار", "الفقر"],
+      "correctAnswer": 2,
+      "explanation": "تكبر على أمر الله.",
+      "textReference": "أنا خير منه"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "لماذا قُبلت توبة آدم؟",
+      "options": ["لأنه قوي", "لأنه غني", "لأنه تاب وانكسر", "لأنه عالم"],
+      "correctAnswer": 2,
+      "explanation": "تاب بصدق.",
+      "textReference": "ربنا ظلمنا أنفسنا"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما الفرق بين آدم وإبليس؟",
+      "options": ["القوة", "العلم", "الانكسار والكبر", "المال"],
+      "correctAnswer": 2,
+      "explanation": "آدم تواضع وإبليس تكبر.",
+      "textReference": "ذل وانكسار مقابل استكبار"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما الطريق الأقل سلوكا؟",
+      "options": ["الصلاة", "الصوم", "الذل والانكسار", "الزكاة"],
+      "correctAnswer": 2,
+      "explanation": "هو طريق خاص.",
+      "textReference": "طريق الذل والانكسار"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما أثر العجب بالطاعة؟",
+      "options": ["القبول", "الرفعة", "الرد", "النجاح"],
+      "correctAnswer": 2,
+      "explanation": "قد تُرد.",
+      "textReference": "لن تثمر الثمرة"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما واجب المسلم؟",
+      "options": ["التكبر", "التواضع", "الكسل", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "التواضع أساس.",
+      "textReference": "التذلل والافتقار"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما أثر الذل لله؟",
+      "options": ["البعد", "القرب", "الضعف", "الحزن"],
+      "correctAnswer": 1,
+      "explanation": "يقرب من الله.",
+      "textReference": "موجب للقرب"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما أخطر أمر على العابد؟",
+      "options": ["التعب", "الغرور", "الفقر", "الجهل"],
+      "correctAnswer": 1,
+      "explanation": "الغرور يهلك.",
+      "textReference": "العز والاستكبار"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة الحكمة؟",
+      "options": [
+        "المعصية أفضل",
+        "الطاعة أفضل دائما",
+        "العبرة بحال القلب",
+        "ترك العمل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "القلب هو الأساس.",
+      "textReference": "المقارنة بين حالتين"
+    }
+  ]
+}

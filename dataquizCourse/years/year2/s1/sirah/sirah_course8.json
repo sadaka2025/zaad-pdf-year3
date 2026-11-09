@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "sirah_c8_khaybar",
+    "title": {
+      "ar": "📘 السيرة – الدرس 8: غزوة خيبر",
+      "fr": "Sîrah – Leçon 8 : La bataille de Khaybar",
+      "en": "Seerah – Lesson 8: The Battle of Khaybar"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما الهدف من تركيز الدرس على أداء النبي صلى الله عليه وسلم للأمانة والرسالة قبل سرد أحداث خيبر؟",
+      "options": [
+        "لبيان مكانة المدينة المنورة فقط",
+        "لتأكيد أن الصراع مع اليهود كان سياسيًا فقط",
+        "لربط الأحداث بالغاية الكبرى للدعوة",
+        "للتقليل من أهمية الغزوات"
+      ],
+      "correctAnswer": 2,
+      "explanation": "يُفتتح الدرس بذكر رسالة النبي لإظهار أن الغزوات كانت جزءًا من مشروع الإصلاح لا مجرد صراع عسكري.",
+      "textReference": "أدى النبي صلى الله عليه وسلم الأمانة وبلغ الرسالة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "لماذا كانت علاقة يهود خيبر بالمسلمين أخطر من القبائل اليهودية التي سبقت؟",
+      "options": [
+        "لأنهم يسكنون قريبًا من المسجد النبوي",
+        "لأنهم كانوا أكثر عددًا فقط",
+        "لأنهم كانوا يديرون مؤامرات غير مباشرة وخفية",
+        "لأنهم دخلوا الإسلام ثم ارتدوا"
+      ],
+      "correctAnswer": 2,
+      "explanation": "نص الدرس أشار إلى أنهم لم يكونوا على تماس مباشر، لكنهم كانوا أكثر دهاءً وخطرًا.",
+      "textReference": "لم تكن علاقتهم مباشرة ولكنهم لم يكفوا عن الكيد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما أخطر مؤامرة نفذها يهود خيبر ضد المسلمين؟",
+      "options": [
+        "محاولة عقد هدنات مع المسلمين",
+        "مقاطعة الأسواق",
+        "جمع القبائل العربية في غزوة الأحزاب",
+        "الانسحاب إلى الشام"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يصفها بأنها أخطر محاولاتهم وأن بدايتها كانت من يهود خيبر.",
+      "textReference": "أخطر محاولاتهم كانت جمع القبائل في غزوة الأحزاب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "كيف تمكن يهود خيبر من إقناع غطفان بالمشاركة في حرب المسلمين؟",
+      "options": [
+        "بوعدهم بالجنة",
+        "عبر الضغط الديني",
+        "بدفع المال ونصف ثمار خيبر",
+        "بالتهديد العسكري"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ذكر النص أن غطفان كانت قبيلة مرتزقة تقاتل لأجل المال.",
+      "textReference": "ضحّت خيبر بنصف ثمارها لغطفان",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما سبب خطورة خيانة بني قريظة للمسلمين أثناء الأحزاب؟",
+      "options": [
+        "لأنهم يملكون تجارة قوية",
+        "لأنهم كانوا في موقع استراتيجي داخل المدينة",
+        "لأنهم لم يملكوا سلاحًا",
+        "لأنهم كانوا مع قريش منذ البداية"
+      ],
+      "correctAnswer": 1,
+      "explanation": "كان يمكن لخيانة بني قريظة أن تسبب كارثة للمسلمين من الداخل.",
+      "textReference": "كان ذلك يؤدي إلى كارثة حقيقية بالمدينة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "لماذا لم يواجه المسلمون يهود خيبر مباشرة بعد الأحزاب؟",
+      "options": [
+        "لضعف عدد المسلمين",
+        "لأن النبي كان يخشى مباغتة قريش للمدينة",
+        "لاستعدادهم غير الكافي",
+        "لانشغالهم ببناء مسجد جديد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الدرس بيّن أن قريش قد تعود للهجوم فجأة.",
+      "textReference": "لأن الرسول كان يخشى أن تباغت قريش المدينة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "كم عدد الغزوات التي غزاها النبي صلى الله عليه وسلم كما ورد في الدرس؟",
+      "options": [
+        "12 غزوة",
+        "19 غزوة",
+        "25 غزوة",
+        "32 غزوة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "مذكورة صراحة في الدرس.",
+      "textReference": "غزا النبي 19 غزوة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما سبب اختيار خيبر هدفًا عسكريًا بعد الأحزاب؟",
+      "options": [
+        "لأنها مدينة صغيرة",
+        "لأن فيها ثروة يسهل السيطرة عليها فقط",
+        "لأنها مركز مؤامرات اليهود وخطرهم",
+        "لأنها قريبة من مكة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "خيبر كانت القاعدة الكبرى لليهود بعد إجلائهم عن المدينة.",
+      "textReference": "خيبر مركز الكيد والمؤامرات",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما أبرز زعماء بني النضير الذين انتقلوا إلى خيبر؟",
+      "options": [
+        "أبو عامر الراهب",
+        "سعد بن الربيع",
+        "سلام بن أبي الحقيق وكنانة بن أبي الحقيق وحيي بن أخطب",
+        "أبو سفيان وحكيم بن حزام"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص ذكرهم كقادة مؤثرين في خيبر.",
+      "textReference": "سلام وكنانة وحيي بن أخطب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "كيف كان شعور الجيش الإسلامي أثناء السير إلى خيبر؟",
+      "options": [
+        "الخوف الشديد",
+        "التردد",
+        "الروح الإيمانية العالية والتكبير",
+        "الانقسام الداخلي"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يذكر أنهم كانوا يكبرون ويهللون بأصوات مرتفعة.",
+      "textReference": "كانوا يكبرون ويهللون",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما توجيه النبي للصحابة عند سماع تكبيرهم المرتفع؟",
+      "options": [
+        "أن يرفعوا أصواتهم أكثر",
+        "أن يصمتوا تمامًا",
+        "أن يرفقوا بأنفسهم لأن الله سميع قريب",
+        "أن يبدلوا التكبير بالإنشاد"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النبي نهى عن التكلف ورفع الصوت بلا حاجة.",
+      "textReference": "تدعون سميعًا قريبًا وهو معكم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الحكمة العسكرية من نزول الجيش في وادي الرجيع بين خيبر وغطفان؟",
+      "options": [
+        "لأنه مكان واسع للسكن فقط",
+        "ليقطع المدد عن يهود خيبر من غطفان",
+        "لأنه مكان جميل",
+        "لأجل جمع الغنائم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "كان موقعًا استراتيجيًا يحاصر خيبر ويفصلها عن حلفائها.",
+      "textReference": "ليقطعوا المدد عن يهود خيبر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "أي الحصون استغرق فتحه عشرة أيام وكان من أشد الحصون؟",
+      "options": [
+        "حصن القموص",
+        "حصن يفرش",
+        "حصن النعيم",
+        "حصن السلالم"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يذكر أن حصن نعم استغرق فتحه عشرة أيام.",
+      "textReference": "حصن نعم الذي استغرق فتحه عشرة أيام",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "من الذي أعطاه النبي اللواء يوم الحصون بعد أن قال: يحب الله ورسوله؟",
+      "options": [
+        "أبو بكر",
+        "عمر",
+        "عثمان",
+        "علي بن أبي طالب"
+      ],
+      "correctAnswer": 3,
+      "explanation": "نص الدرس يؤكد أن علي هو من حمل اللواء وفتح الحصن.",
+      "textReference": "دعا علي بن أبي طالب ودفع إليه اللواء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما المعجزة التي ظهرت في علي بن أبي طالب أثناء غزوة خيبر؟",
+      "options": [
+        "تكثير الطعام",
+        "سماع كلام الملائكة",
+        "شفاء عينيه ببصاق النبي",
+        "تحويل التراب إلى ذهب"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النبي بصق في عينيه فبرئتا كأن لم يكن بهما وجع.",
+      "textReference": "بصق في عينيه فبرئتا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ماذا علّم النبي عليًا قبل مواجهة اليهود في الحصن؟",
+      "options": [
+        "أن يبدأ القتال بلا إنذار",
+        "أن يدعوهم إلى الإسلام أولًا",
+        "أن يتراجع إن اشتد القتال",
+        "أن ينام قبل المواجهة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النبي فضّل الدعوة والهداية قبل القتال.",
+      "textReference": "أوصاه بأن يدعو اليهود إلى الإسلام قبل أن يداهمهم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما القاعدة التي أكدها النبي بقوله: لأن يهدي الله بك رجلاً واحدًا خير لك من حمر النعم؟",
+      "options": [
+        "فضل القتال على الدعوة",
+        "أهمية الهداية وعلو شأنها",
+        "جواز ترك الدعوة",
+        "أن الغنائم أهم من الإصلاح"
+      ],
+      "correctAnswer": 1,
+      "explanation": "النبي ربط عليًّا بمقام الهداية قبل القتال.",
+      "textReference": "خير لك من حمر النعم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما وصف الله لليهود في القتال كما ورد في الدرس؟",
+      "options": [
+        "شجعان ويقاتلون خارج الحصون",
+        "يقاتلونكم أينما وجدوا",
+        "لا يقاتلون إلا من وراء جدر وحصون",
+        "يخرجون في الصحاري لقتال المسلمين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص استشهد بالآية: لا يقاتلونكم جميعًا إلا في قرى محصنة أو من وراء جدر.",
+      "textReference": "لا يقاتلونكم جميعًا إلا في قرى محصنة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما عدد قتلى اليهود مقابل شهداء المسلمين في الغزوة؟",
+      "options": [
+        "قتلى اليهود 50 والمسلمون 100",
+        "قتلى اليهود 200 والمسلمون 10",
+        "قتلى اليهود 93 والمسلمون 15-20",
+        "قتلى اليهود 20 والمسلمون 93"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الفارق العددي يبين نصرة الله رغم تحصين اليهود.",
+      "textReference": "بلغ قتلى اليهود 93 واستشهد 15 إلى 20 من المسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما المعجزة المتعلقة بالشاة المسمومة؟",
+      "options": [
+        "اختفاء السم دون سبب",
+        "بكاء الشاة",
+        "إخبار النبي بوحي عن السم",
+        "تحول السم إلى دواء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النبي علم أنها مسمومة بوحي من الله.",
+      "textReference": "أوحى الله إلى نبيه بأمر الشاة المسمومة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "كيف أثّر فتح خيبر على قريش؟",
+      "options": [
+        "ازدادوا قوة",
+        "لم يتأثروا",
+        "أصابهم الغيرة والدهشة",
+        "أرسلوا وفدًا للمصالحة مباشرة"
+      ],
+      "correctAnswer": 2,
+      "explanation": "قريش لم تتوقع سقوط خيبر بهذا الشكل.",
+      "textReference": "أصيبت قريش بالغيرة والدهشة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "كيف تفاعلت القبائل العربية الأخرى مع خبر فتح خيبر؟",
+      "options": [
+        "أعلنت الحرب فورًا",
+        "تجاهلت الأمر",
+        "جَنَحَت إلى مسالمة المسلمين وموادعتهم",
+        "انضمت إلى اليهود"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الفوز الساحق أقنع القبائل بعدم جدوى العداء.",
+      "textReference": "جَنَحَت إلى مسالمة المسلمين وموادعتهم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما الأثر الاستراتيجي لفتح خيبر على وضع المسلمين الاقتصادي؟",
+      "options": [
+        "أصبحوا أفقر",
+        "ازداد اعتمادهم على الصدقات",
+        "تعزز وضعهم الاقتصادي بالغنائم وثمار خيبر",
+        "انخفض مستوى الإنتاج"
+      ],
+      "correctAnswer": 2,
+      "explanation": "خيبر كانت أرضًا خصبة ذات ثمار كثيرة.",
+      "textReference": "تعزز الوضع الاقتصادي للمسلمين بما حصلوا من خيبر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما أهم درس عسكري في غزوة خيبر كما ورد؟",
+      "options": [
+        "ضرورة الاستسلام عند وجود حصون",
+        "عدم الجهاد",
+        "قدرة المسلمين على الصبر والقتال أمام حصون منيعة",
+        "تجنب مواجهة الأعداء"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الدرس أبرز صبرهم وبأسهم رغم قوة التحصينات.",
+      "textReference": "قدرتهم على الصبر في القتال أمام حصون منيعة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "كيف ساهمت غزوة خيبر في نشر الإسلام؟",
+      "options": [
+        "من خلال قوة التجارة فقط",
+        "بسبب هجرة المسلمين",
+        "بسبب هزيمة خيبر مما فتح الباب للقبائل للدخول في الإسلام",
+        "بسبب اتفاق اليهود مع المسلمين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "انكسار خيبر كسر هيبة اليهود ورفع مكانة المسلمين.",
+      "textReference": "مما فتح الباب واسعًا لنشر الإسلام",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما الصفة المشتركة في حصون خيبر كما ذُكر؟",
+      "options": [
+        "ضعف بنائها",
+        "خلوّها من المياه",
+        "مناعتها وتقسيمها لثلاث مناطق عسكرية",
+        "قربها من البحر"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الدرس وصف خيبر بأنها ذات حصون محكمة مقسمة.",
+      "textReference": "حصون منيعة مقسمة إلى ثلاث مناطق",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما أبرز مظهر لجبن اليهود كما ورد؟",
+      "options": [
+        "الخروج للقتال في الصحراء",
+        "الهجوم المباشر على الجيش الإسلامي",
+        "عدم قتالهم إلا من داخل الحصون",
+        "المبارزة بالسيوف في الساحات"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الدرس وصفهم بأنهم يقاتلون من وراء الجدر.",
+      "textReference": "لا يقاتلونكم إلا من وراء جدر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما سبب طول مدة القتال في خيبر؟",
+      "options": [
+        "ضعف المسلمين",
+        "كثرة خيول اليهود",
+        "مناعة الحصون وشدة مقاومة اليهود",
+        "قلة سلاح المسلمين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص أشار إلى صعوبة فتح الحصون.",
+      "textReference": "مقاومة شديدة وصعوبة كبيرة في فتح بعض الحصون",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما أبرز نتائج غزوة خيبر التي أثرت في وضع المسلمين السياسي؟",
+      "options": [
+        "اتساع رقعة الفقر",
+        "زيادة التفكك الداخلي",
+        "توقيع القبائل معاهدات صلح معهم",
+        "تراجع مكانة المسلمين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "فتح خيبر أظهر قوة المسلمين فبادرت القبائل للموادعة.",
+      "textReference": "دفعت القبائل إلى عقد الصلح مع المسلمين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الخلاصة الكبرى التي يبرزها الدرس في نهايته؟",
+      "options": [
+        "أن الغزوة كانت مجرد معركة عادية",
+        "أن اليهود كانوا أصحاب عهد ووفاء",
+        "أن خيبر شكلت نقطة تحول عسكرية واقتصادية وسياسية",
+        "أن المسلمين لم يستفيدوا شيئًا من خيبر"
+      ],
+      "correctAnswer": 2,
+      "explanation": "النص يختتم بتأكيد الفوائد العسكرية والاقتصادية والسياسية العظمى.",
+      "textReference": "من أبرز نتائج غزوة خيبر… فوائد عظيمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/sira/ec8siras1.html#sent30"
+    }
+  ]
+}

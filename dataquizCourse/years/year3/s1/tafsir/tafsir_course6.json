@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "slug": "tafsir",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة التفسير السنة الثالثة (الدرس السادس: تفسير سورة البلد)",
+      "fr": "Examen de Tafsir - Année 3 (Cours 6)",
+      "en": "Tafsir Exam - Year 3 (Lesson 6)"
+    },
+    "totalQuestions": 12
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "المراد بـ (البلد) في قوله تعالى (لا أقسم بهذا البلد) هو:",
+      "options": ["مكة المكرمة البلد الحرام", "المدينة المنورة", "بيت المقدس"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الله سبحانه وتعالى أقسم بمكة البلد الحرام[cite: 8].",
+      "textReference": "يقسم الله تعالى بمكة البلد الحرام.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "سورة البلد سورة مكية، وبلغ عدد آياتها عشرين آية.",
+      "correctAnswer": true,
+      "answerReason": "النص ينص صراحة على أن سورة البلد مكية وآياتها عشرون[cite: 8].",
+      "textReference": "وسورة البلد هي مكية. واياتها عشرون.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "المقصود بقوله تعالى (لقد خلقنا الإنسان في كبد) هو أنه خلق في:",
+      "options": [
+        "نصب وشدة ويكابد مصاعب الدنيا والآخرة",
+        "راحة تامة ودعة مطلقة بلا تعب",
+        "غنى فاحش وسعة عيش دائمة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن معنى في كبد أي في نصب وشدة يكابد مصاعب الدنيا والآخرة[cite: 8].",
+      "textReference": "أي لقد خلقنا الانسان في نصب وشدة. يكابد مصاعب الدنيا منذ ولادته الى وفاته. ويواجه شدائد الاخرة بعد ذلك.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "truefalse",
+      "question": "الآيات التي تتحدث عن الاغترار بالقوة والمال (أيحسب أن لن يقدر عليه أحد) نزلت في أبي الأشد بن كلدة.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر بوضوح أن هذه الآية نزلت في أبي الأشد بن كلدة الذي سمي بذلك لشدة بطشه[cite: 8].",
+      "textReference": "وهذه الاية نزلت في ابي الاشد ابن كلدة. الذي سمي بذلك للشدة بطشه وقوته.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "قوله تعالى (وهديناه النجدين) يعني بينا له:",
+      "options": [
+        "طريق الخير وطريق الشر",
+        "طريق السفر وطريق التجارة",
+        "طريق البر وطريق البحر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن النجدين هما طريق الخير وطريق الشر[cite: 8].",
+      "textReference": "وهديناه أي بينا له النجدين اي الطريقين. طريق الخير وطريق الشر.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "أكمل: \"من النعم العظيمة التي ذكرت في السورة قوله تعالى: (ألم نجعل له عينين ولساناً و…………).\"",
+      "correctAnswer": "شفتين",
+      "answerReason": "النص يذكر الآية الكريمة: ألم نجعل له عينين ولساناً وشفتين[cite: 8].",
+      "textReference": "فقال الله عز وجل الم نجعل له عينين؟ ولسانا وشفتين وهديناه النجدين.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "معنى (اقتحم العقبة) أي تجاوز المشقة وجاهد نفسه والشيطان والهوى بالطاعة والعمل الصالح.",
+      "correctAnswer": true,
+      "answerReason": "النص يفسر اقتحام العقبة بالإقبال على المشقة وجاوزها بمجاهدة النفس والهوى[cite: 8].",
+      "textReference": "المراد بها فهلا اقدم على المشقة وجاوزها بمجاهدة النفس والشيطان.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "المراد بـ (يوم ذي مسغبة) في الآية الكريمة هو:",
+      "options": [
+        "يوم جوع وعوز وفاقة",
+        "يوم عيد وفرح واحتفال",
+        "يوم سفر ورحلة بعيدة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن المسغبة هي يوم جوع وعوز[cite: 8].",
+      "textReference": "مسغبة. اي مجاعة... او اطعام في يوم جوع وعوز",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "المقصود بـ (مسكيناً ذا متربة) هو:",
+      "options": [
+        "مسكين ملتصق بالتراب لفقره وشدة حاجته",
+        "مسكين يملك بيتاً من طين وتراب",
+        "مسكين يعمل في الزراعة والفلاحة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر ذا متربة بأنه الملتصق بالتراب لفقره وشدة حاجته[cite: 8].",
+      "textReference": "مطربة. ملتصق بالتراب لفقره... او مسكينا ذا متربة اطعام مسكين ملتصق بالتراب لفقره وشدة حاجته.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "شروط نيل الثواب واقتحام العقبة تتضمن الإيمان والتواصي بالصبر والتواصي بالمرحمة.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر هذه الشروط الثلاثة بوضوح لنيل مرتبة أصحاب الميمنة[cite: 8].",
+      "textReference": "وهي ثلاث... ثم كان من الذين امنوا وتواصوا بالصبر وتواصوا بالمرحمة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "المراد بـ (أصحاب المشأمة) المذكورين في سورة البلد هم:",
+      "options": [
+        "أصحاب الشمال الخاسرون يوم القيامة",
+        "أصحاب اليمين الناجون يوم القيامة",
+        "الملائكة الكرام الكاتبون"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن أصحاب المشأمة هم أصحاب الشمال الخاسرون يوم القيامة[cite: 8].",
+      "textReference": "اصحاب المشأمة اصحاب الشمال الخاسرون يوم القيامة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "أكمل: وصف الله تعالى النار المعدة لأصحاب المشأمة بأنها نار ………… مطبقة مغلقة.",
+      "correctAnswer": "موصدة",
+      "answerReason": "النص يذكر أن النار موصدة أي مطبقة لا منفذ فيها[cite: 8].",
+      "textReference": "موصدة. اي مطبقة لا منفذ فيها... عليهم نار موصدة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs6.html#sent1"
+    }
+  ]
+}

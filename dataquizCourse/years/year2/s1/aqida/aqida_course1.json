@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "slug": "aqida",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة العقيدة الدرس الأول",
+      "fr": "Examen de Akhlak – Cours 1",
+      "en": "Akhlak Exam – Lesson 1"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من مستويات طالب العلم كما ورد في النص:",
+      "options": [
+        "المبتدئين فقط",
+        "المتوسطين فقط",
+        "المنتهين فقط",
+        "المستويات الثلاثة معًا"
+      ],
+      "correctAnswer": 3,
+      "answerReason": "النص يوضح أن طالب العلم على مستويات ثلاث: مبتدئ، متوسط، منتهي.",
+      "textReference": "النص يوضح أن طالب العلم على مستويات ثلاث: مبتدئ، متوسط، منتهي.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "fill",
+      "question": "أكمل: \"طالب العلم المبتدئ هو الذي …………\"",
+      "correctAnswer": "ليست له قدرة على تصور المسائل، هذا علم جديد لا يعلم مسائله",
+      "answerReason": "النص يوضح تعريف طالب العلم المبتدئ بشكل صريح.",
+      "textReference": "النص يوضح تعريف طالب العلم المبتدئ بشكل صريح.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "كتاب هذا العام في العقيدة هو:",
+      "options": [
+        "الشذرات الذهبية على منظومة العقائد الشرنوبية",
+        "طالع البشرى على العقيدة الصغرى",
+        "العقيدة الوسطى",
+        "العقيدة الكبرى السنوسية"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن المقرر لهذه السنة هو طالع البشرى على العقيدة الصغرى.",
+      "textReference": "النص يوضح أن المقرر لهذه السنة هو طالع البشرى على العقيدة الصغرى.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "truefalse",
+      "question": "الإمام السنوسي هو مؤلف العقيدة الصغرى.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن الإمام السنوسي هو مؤلف متن العقيدة الصغرى.",
+      "textReference": "النص يوضح أن الإمام السنوسي هو مؤلف متن العقيدة الصغرى.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "fill",
+      "question": "أكمل: \"العقيدة الصغرى سميت بأم البراهين لأنها …………\"",
+      "correctAnswer": "الإمام السنوسي ذكر فيها البراهين والأدلة على المسائل العقدية بشكل مكثف",
+      "answerReason": "النص يوضح أن السبب وراء تسمية الكتاب هو كثرة البراهين فيه.",
+      "textReference": "النص يوضح أن السبب وراء تسمية الكتاب هو كثرة البراهين فيه.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "أكمل: \"طالب العلم المتوسط هو الذي …………\"",
+      "correctAnswer": "صارت له قدرة على تصور مسائل الفن، لكن ليست له قدرة بعد على إقامة الأدلة عليها",
+      "answerReason": "النص يوضح تعريف طالب العلم المتوسط بوضوح.",
+      "textReference": "النص يوضح تعريف طالب العلم المتوسط بوضوح.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "الانتقال من مستوى المتوسطين إلى المنتهين يحتاج أحيانًا قراءة أكثر من كتاب واحد.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن الانتقال بين المستويات قد يحتاج لقراءة أكثر من كتاب.",
+      "textReference": "النص يوضح أن الانتقال بين المستويات قد يحتاج لقراءة أكثر من كتاب.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "المؤلف الذي شرح العقيدة الصغرى للطلاب هو:",
+      "options": [
+        "الإمام المارغني",
+        "الإمام السنوسي",
+        "الإمام الطاهر بن عاشور",
+        "الإمام الشاطبي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن شرح طالع البشرى على العقيدة الصغرى للمؤلف المارغني هو المقرر.",
+      "textReference": "النص يوضح أن شرح طالع البشرى على العقيدة الصغرى للمؤلف المارغني هو المقرر.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "fill",
+      "question": "أكمل: \"العقيدة الوسطى هي …………\"",
+      "correctAnswer": "اختصار للعقيدة الكبرى، وضعها الإمام السنوسي لتكون أسهل على المختصين",
+      "answerReason": "النص يوضح سبب تأليف العقيدة الوسطى.",
+      "textReference": "النص يوضح سبب تأليف العقيدة الوسطى.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "العقيدة الصغرى تمثل بداية مستوى المتوسطين ونهاية المبتدئين.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن هذا الكتاب موجه لتلك المرحلة من الطلاب.",
+      "textReference": "النص يوضح أن هذا الكتاب موجه لتلك المرحلة من الطلاب.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "أهمية دراسة العقيدة تكمن في:",
+      "options": [
+        "تعلم الفقه فقط",
+        "تعلم الحديث فقط",
+        "تعلم الإيمان الصحيح",
+        "تعلم اللغة العربية"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النص يؤكد أن دراسة العقيدة تهدف إلى تثبيت الإيمان الصحيح لدى الطالب.",
+      "textReference": "النص يؤكد أن دراسة العقيدة تهدف إلى تثبيت الإيمان الصحيح لدى الطالب.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "أكمل: \"المبتدئ يدرس …………\"",
+      "correctAnswer": "المسائل الواضحة والبسيطة مع حفظ النصوص",
+      "answerReason": "النص يوضح أن المبتدئ يدرس الأمور البسيطة أولًا مع حفظ النصوص الأساسية.",
+      "textReference": "النص يوضح أن المبتدئ يدرس الأمور البسيطة أولًا مع حفظ النصوص الأساسية.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 13,
+      "type": "truefalse",
+      "question": "المتوسط يركز على فهم الأدلة وإدراك الروابط بين المسائل.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن المتوسط عليه أن يفهم المسائل ويربط بين أدلتها.",
+      "textReference": "النص يوضح أن المتوسط عليه أن يفهم المسائل ويربط بين أدلتها.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "المنتهون في طلب العلم يكون هدفهم:",
+      "options": [
+        "الحفظ فقط",
+        "تطبيق المعارف دون فهمها",
+        "الإلمام بالمسائل وفهم الأدلة مع الاستيعاب العميق",
+        "التركيز على حفظ كتب الفقه"
+      ],
+      "correctAnswer": 2,
+      "answerReason": "النص يوضح أن المنتهين يركزون على الإلمام والمسائل وفهم الأدلة.",
+      "textReference": "النص يوضح أن المنتهين يركزون على الإلمام والمسائل وفهم الأدلة.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 15,
+      "type": "fill",
+      "question": "أكمل: \"العقيدة الصغرى تحتوي على …………\"",
+      "correctAnswer": "جملة من البراهين على المسائل العقدية الأساسية",
+      "answerReason": "النص يوضح أن العقيدة الصغرى تحتوي على براهين المسائل الأساسية.",
+      "textReference": "النص يوضح أن العقيدة الصغرى تحتوي على براهين المسائل الأساسية.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 16,
+      "type": "truefalse",
+      "question": "شرح العقيدة الصغرى متاح فقط للعلماء وليس للطلاب المبتدئين.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن الشرح مهيأ لجميع الطلاب حسب مستوياتهم.",
+      "textReference": "النص يوضح أن الشرح مهيأ لجميع الطلاب حسب مستوياتهم.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 17,
+      "type": "fill",
+      "question": "أكمل: \"طالع البشرى على العقيدة الصغرى يتضمن …………\"",
+      "correctAnswer": "تفسيرًا مبسطًا لكل نص مع الإشارة للأدلة",
+      "answerReason": "النص يوضح أن الشرح يتضمن تفسيرًا مبسطًا لكل نص.",
+      "textReference": "النص يوضح أن الشرح يتضمن تفسيرًا مبسطًا لكل نص.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "الغرض من دراسة العقيدة الصغرى:",
+      "options": [
+        "لحفظ النصوص فقط",
+        "لفهم المسائل الأساسية للبشرى في الدين",
+        "لتعلم الفقه وحده",
+        "لتعلم اللغة العربية"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن الهدف هو فهم المسائل الأساسية للعقيدة.",
+      "textReference": "النص يوضح أن الهدف هو فهم المسائل الأساسية للعقيدة.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 19,
+      "type": "truefalse",
+      "question": "العقيدة الوسطى أسهل من العقيدة الصغرى للطلاب.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن العقيدة الوسطى نسخة مختصرة وأسهل للطلاب.",
+      "textReference": "النص يوضح أن العقيدة الوسطى نسخة مختصرة وأسهل للطلاب.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 20,
+      "type": "fill",
+      "question": "أكمل: \"المستوى المنتهي يعرف …………\"",
+      "correctAnswer": "الأدلة التفصيلية لكل مسألة ويستطيع مناقشتها",
+      "answerReason": "النص يوضح أن المنتهين يجب أن يعرفوا الأدلة التفصيلية لكل مسألة.",
+      "textReference": "النص يوضح أن المنتهين يجب أن يعرفوا الأدلة التفصيلية لكل مسألة.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "الطالب المتوسط يركز على:",
+      "options": [
+        "الحفظ فقط",
+        "فهم الأدلة والروابط بين المسائل",
+        "كتابة الملخصات",
+        "التركيز على اللغة"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن الطالب المتوسط يجب أن يركز على فهم الأدلة وربط المسائل.",
+      "textReference": "النص يوضح أن الطالب المتوسط يجب أن يركز على فهم الأدلة وربط المسائل.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 22,
+      "type": "truefalse",
+      "question": "العقيدة الصغرى تعتبر أساسًا لكل طالب علم في المعتقد.",
+      "correctAnswer": true,
+      "answerReason": "النص يؤكد أن العقيدة الصغرى هي أساس المعتقد.",
+      "textReference": "النص يؤكد أن العقيدة الصغرى هي أساس المعتقد.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 23,
+      "type": "fill",
+      "question": "أكمل: \"المبتدئ يجب أن …………\"",
+      "correctAnswer": "يحفظ المسائل البسيطة ويقرأ الشروح المبسطة",
+      "answerReason": "النص يوضح أنه على المبتدئ حفظ المسائل البسيطة وقراءة الشروح المبسطة.",
+      "textReference": "النص يوضح أنه على المبتدئ حفظ المسائل البسيطة وقراءة الشروح المبسطة.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "أحد فوائد دراسة العقيدة:",
+      "options": [
+        "زيادة الحفظ",
+        "تقوية الإيمان وفهم الدين",
+        "تعلم الحساب",
+        "تعلم التاريخ"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن دراسة العقيدة تقوي الإيمان وتفهم الدين.",
+      "textReference": "النص يوضح أن دراسة العقيدة تقوي الإيمان وتفهم الدين.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 25,
+      "type": "truefalse",
+      "question": "شرح طالع البشرى مناسب لجميع مستويات الطلاب.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن الشرح مهيأ لجميع مستويات الطلاب.",
+      "textReference": "النص يوضح أن الشرح مهيأ لجميع مستويات الطلاب.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 26,
+      "type": "fill",
+      "question": "أكمل: \"المستوى المتوسط يتميز ب… …………\"",
+      "correctAnswer": "القدرة على استيعاب الأدلة وفهم المسائل دون التطبيق الكامل",
+      "answerReason": "النص يوضح ميزات المستوى المتوسط.",
+      "textReference": "النص يوضح ميزات المستوى المتوسط.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "أحد كتب المبتدئين في العقيدة:",
+      "options": [
+        "العقيدة الكبرى",
+        "العقيدة الصغرى",
+        "العقيدة الوسطى",
+        "العقيدة المختصرة"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "النص يوضح أن العقيدة الصغرى هي المقرر للمبتدئين.",
+      "textReference": "النص يوضح أن العقيدة الصغرى هي المقرر للمبتدئين.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 28,
+      "type": "truefalse",
+      "question": "العقيدة الصغرى تحتوي على جميع مسائل الفقه.",
+      "correctAnswer": false,
+      "answerReason": "النص يوضح أن العقيدة الصغرى تركز على المسائل العقدية فقط.",
+      "textReference": "النص يوضح أن العقيدة الصغرى تركز على المسائل العقدية فقط.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 29,
+      "type": "fill",
+      "question": "أكمل: \"الهدف النهائي لطالب العلم المنتهي …………\"",
+      "correctAnswer": "فهم جميع الأدلة والتمكن الكامل من المعتقد الصحيح",
+      "answerReason": "النص يوضح أن المستوى النهائي يهدف للتمكن الكامل.",
+      "textReference": "النص يوضح أن المستوى النهائي يهدف للتمكن الكامل.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "المقرر الدراسي لهذه السنة يشمل:",
+      "options": [
+        "العقيدة الصغرى فقط",
+        "العقيدة الوسطى فقط",
+        "العقيدة الكبرى فقط",
+        "العقيدة الصغرى مع شرح طالع البشرى"
+      ],
+      "correctAnswer": 3,
+      "answerReason": "النص يوضح أن المقرر يشمل العقيدة الصغرى مع شرح طالع البشرى.",
+      "textReference": "النص يوضح أن المقرر يشمل العقيدة الصغرى مع شرح طالع البشرى.",
+      "textReferenceLink": "/PDFs/year2/htmlExtractionCourse/s1/aqida/ec0aqidas1.html#sent1"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس السادس مادة النحو</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/nahw/ec6nahws1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس السادس مادة النحو</h1>
+<p id="sent2">بسم الله الرحمن الرحيم. الحمد لله رب العالمين. وافضل الصلاة واتم التسليم على سيدنا محمد الصادق الوعد الامين. المبعوث رحمة للعالمين. وعلى اله حق قدره ومقداره العظيم. اللهم لا سهل الا ما جعلته سهلا. وانت تجعل الحزن اذا شئت سهلا سهلا يا رب العالمين. يقول المصنف رحمه الله تعالى في باب المعارف المعرفة واقسامها اه قال والمعرفة خمسة اشياء تفضل سيدي عبد السميع اقرأ لنا كلام ابن الروم بارك الله فيك. وفيكم بارك الله. بسم الله الرحمن الرحيم. وصل اللهم وسلم على سيدنا محمد وعلى اله وصحبه اجمعين. يقول المصنف رحمه الله ونفعنا الله بعلومه وعلوم شيخنا وبكم يا سيدي. المعرفة اقسامها والمعرفة خمسة اشياء. الاسم المضمر نحو انا وانت والاسم العلم نحو زيد ومكة والاسم المبهم نحو هذا وهذه وهؤلاء والاسم الذي فيه الالف واللام نحو الرجل والغلام وما اضيف الى واحد من هذه الاربعة نعم ايها الاخوة الكرام يقول محمد عبد الحميد ليعلم ان الاسم ينقسم الى قسمين القسم الاول النكرة. وستأتي والثاني المعرفة. وهو الذي يدل على معين واقسامها خمسة المعرفة خمسة اقسام القسم الاول المضمر او الضمير نعم. المضمر او الضمير نفس الشيء. نعم وهو ما دل على متكلم انا او مخاطبين نحو انت الغائبين نحو هو ومن هنا تعلم او نعلم ان الضمير ثلاثة انواع. ثلاثة انواع ان الضمير ثلاثة انواع النوع الاول ما وضع للدلالة على المتكلم. وهو كلمتان وهما انا للمتكلم وحده نحن للمتكلم المعظم نفسه او معه غيره. يعني جماعة مجموعة. هذا بالنسبة للاول ما وضع للدلالة على المتكلم. انا ونحن. الثاني النوع الثاني ما وضع للدلالة على المخاطب. وهو خمسة الفاظ. خمسة الفاظ وهي انت بفتح التاء للمخاطب المذكر المفرد. انت بكسر التاء للمخاطبة المؤنثة المفردة. انتما للمخاطب المثنى. مذكرا كان او مؤنثا. وانتم لجميع ذكور المخاطبين. وانتن لجميع او لجمع جمع الاناث المخاطبات. نعم. والنوع الثالث ما وضع للدلالة على الغائب وهو خمسة الفاظ ايضا. نعم. للغائب المذكر المفرد هي للغائبة المؤنثة المفردة. هما للمثنى الغائب مطلقا. مذكرا كان او مؤنثا هم لجمع الذكور الغائبين. هن لجمع الاناث الغائبات. وتقدم هذا البيان في بحث الفاعل. اذا بتتذكروا لما اخذتم باب الفاعل ذكر هذا القسم اسم فيه نعم من اراد ان يرجع اليه وانا انصح الطالب ان يرجع حتى يمكن معلوماته. نعم. في باب المبتدأ والخبري. نعم. القسم الثاني نعم. احنا قلنا القسم الاول الضمير القسم الثاني نعم القسم الثاني من المعرفة ما عاد اسم الضمير. العلم. هذا القسم الثاني العلم نعم هذا العلم من من اقسام المعرفة. وهو ما يدل على معين بدون احتياج الى قرينة تكلم او خطاب او غيرهما. نعم هذا معنى العلم نعم. يدل على شيء معين. نعم. بمجرد ان تذكره يزول الابهام. نعم. وهو نوعان العلم مذكر نحو محمد. اذا قلت محمد انصرف الذهن الى ذلك الشخص المعروف. نعم. وابراهيم وجبل محمد ابراهيم جبل هذه اسماء ولكن اسماء علم. نعم. لما تقول جبل ينصرف الذهن الى ذلك ها الشيء العظيم هل يعني المرتفع على الارض؟ نعم. كذلك قال ومؤنث القسم الثاني مؤنث العلم ينقسم الى قسمين مذكر ابراهيم جبل مؤنث نحو فاطمة زينب مكة. نعم. هذه اسماء علم. نعم. هذا القسم الثاني. القسم الثالث الاسم المبهم. كذلك نوعان الاسم المبهم اسم الاشارة مثل ماذا؟ مر معنا هذا نعم. اسم الاشارة واسم الموصول. هذان العلمان اسماء اعلام لكنها مبهمة. نعم. اما اسم الاشارة فهو ما وضع ليدل على معين بواسطة اشارة حسية او معنوية وله الفاظ معينة. وهي هذا نعم اسم اشارة للمذكر المفرد هذه للمفردة المؤنثة هذان او هذين للمثنى المذكر وهاتان وهاتين للمثنى المؤنث وهؤلاء للجميع للجمع مطلقا. يعني اشمعنى مطلقة؟ يعني يقال هؤلاء للذكور والاناث. اما الاسم الموصول نعم فهو ما يدل على معين بواسطة جملة او شبهها تذكر بعد نعم هذا القسط كله يعد قسم ثالث. القسم الرابع المحلى بالالف واللام. يعني القسم الرابع من اقسام المعرفة. لا ننسى نحن نتكلم باب المعرفة. فالرابع من اقسام المعرفة الاسم المحلى نعني بالالف واللامي وهو كل اسم اقترنت به فافادته التعريفة. نحو الرجل الكتاب الغلام الجارية نعم هذا القسم الرابع. نعم. فرجل ذكر اذا ادخلنا عليه معرفة. كتاب نكرة ادخلنا عليه المعرفة. غلام نكرة. ادخلنا عليه صار معرفة. جارية نكرة. ادخلنا عليها ال الجارية اصبحت معرفة. ثم قال والقسم الخامس الاسم الذي اضيف الى واحد من الاربعة المتقدمة الاسم الذي اضيف الى واحد من الاربعة المتقدمة فاكتسب التعريف من المضاف اليه نحو غلام ك. كان غلام نكرة لما اضفنا عليه الكاف اضفنا اليه ضمير وهو الكاف اصبح معرفة. كذلك غلام محمد عملنا له اضافة كان غلام فقط فهو نكرة. لما ادخلنا عليه المضاف اليه اصبح معرفة. اين المضاف اليه؟ محمد غلام محمد. غلام هذا الرجل. نعم غلام الذي زارنا امس غلام الاستاذ قال واعرف هذه المعارف بعد لفظ الجلالة الله سبحانه وتعالى الضمير ثم العلم ثم اسم الاشارة ثم اسم الموصول ثم المحلى بال ثم المضاف اليه. والمضاف في رتبة المضاف اليه. الا المضاف الى الضمير فانه في رتبة العلم نعم هذه بالنسبة الى المعارف ذلك هذه المعارف خمسة دعوني كلها مشجرة وملخصة في هذا البيان بامكاني طالب العلم ان يعتمد هذا التشجير فيرجع اليه ها ليستطيع ان يذلل له صعاب الفهم. فيفهمه باذن الله تبارك وتعالى. نعم. ثم قال باب النكرة. العنوان النكرة. نعم. كان قبله المعرفة الان النكرة يقول النكرة كل اسم شائع في جنسه. نعم لا يختص به واحد دون اخر تكرم علينا سيدي عبد السميع الله يبارك فيك. اقرأ لنا تعريف ابن الروم. باب النكرة. قال والنكرة كل اسم شائع في جنسه لا يختص به واحد دون اخر. وتقريبه كل ما صلح الالف واللام عليه نحو الرجل والفرس. يقول الشارح رحمه الله محمد محيي الدين عبدالحميد يقول النكرة هي كل اسم وضع لا ليخص واحدا بعينه من بين افراد جنسه. بل يصلح على كل واحد على سبيل البدل يعني لما تقول كلمة رجل ويكون يعني لدينا مجموعة من الرجال. هذه اللفظة كلمة رجل تصلح على كل واحد اه من هذه الرجال. يا رجل ورجل ورجل ورجل. هذا معنى على سبيل نعم. نحو رجل كذلك امرأة فان الاول كلمة رجل يصح اطلاقه على كل ذكر بالغ من بني ادم. والثاني يصح اطلاقه على كل انثى بالغة من بني ادم نعم. وعلامة النكرة النكرة لها علامة. قال ان تصلح لان تدخل عليها للتعريف يعني وتؤثر فيها التعريف. نحو رجل فانه يصح دخول عليه ويؤثر فيه التعريف. فتقول الرجل وكذلك غلام وزارية وصبي وفتاة ومعلم فانك تقول الغلام والجارية والصبي والفتاة والمعلم نعم. هذا بالنسبة الى بابي النكرة يعني اه ليس باب الطويل وانما كالكلام وشرحه واضح تمام الوضوح. نعم. وهنالك تدريبات وتمارين حول هذا الموضوع يعني حري بطالب العلم ان يرجع اليها. نعم يحاول ان يقرأها وان يحل هذه تلك تلكم التمارين في باب النكرة. والحمدلله رب العالمين.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "slug": "hadith_lesson10",
+    "title": {
+      "ar": "📘 الحديث – الدرس العاشر",
+      "fr": "Hadith – Leçon 10 : Certitude et Tawakkul",
+      "en": "Hadith – Lesson 10: Certainty & Reliance on Allah"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما الهدف المركزي لافتتاح الباب الجديد كما ورد في النص؟",
+      "options": [
+        "بيان أسباب الاستقامة المؤدية للإحسان",
+        "شرح أبواب العبادات العملية فقط",
+        "عرض اختلاف المذاهب",
+        "الحديث عن الغزوات"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن الباب يذكر الأسباب الموصلة إلى الاستقامة، وهي طريق الإحسان.",
+      "textReference": "باب التفكر – المقدمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما العلاقة بين التفكر والاستقامة كما يشرحها النص؟",
+      "options": [
+        "التفكر يقود إلى قوة الإيمان وإلى الاستقامة",
+        "التفكر لا علاقة له بالسلوك",
+        "الاستقامة تأتي دون أسباب",
+        "التفكر يختص بالعلماء فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يوضح أن التفكر يوصل إلى إيمان قوي واستقامة في السلوك.",
+      "textReference": "باب التفكر – الارتباط بالإيمان",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent2"
+    },
+
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "ما المقصود بقول: «وفي أنفسكم أفلا تبصرون»؟",
+      "options": [
+        "دعوة للتأمل في خلق النفس ودلائل القدرة",
+        "أمر بترك التفكير",
+        "النهي عن النظر في الكون",
+        "التفكر في ذات الله"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الآية تستدل على ضرورة التفكر في النفس كدليل على قدرة الله.",
+      "textReference": "التفكر في النفس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent3"
+    },
+
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "كيف وصف النص عبادة التفكر؟",
+      "options": [
+        "عبادة صامتة من أعمال القلوب بلا وقت محدد",
+        "عبادة تحتاج طقوسًا خاصة",
+        "لا تعتبر من الطاعات",
+        "هي مجرد تأمل غير شرعي"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أنها عبادة صامتة لا تُحد بزمن ولا أركان.",
+      "textReference": "التفكر كعبادة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent4"
+    },
+
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما سبب قول السلف: «تفكر ساعة خير من قيام ليلة»؟",
+      "options": [
+        "لأن التفكر لا يدخله الرياء غالبًا",
+        "لأنه واجب شرعي",
+        "لأن القيام مكروه",
+        "لأن التفكر أسهل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر أن التفكر لا يعتريه الرياء بخلاف العبادات الظاهرة.",
+      "textReference": "أقوال السلف في التفكر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent5"
+    },
+
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ماذا تضمنت الآية: «قل إنما أعظكم بواحدة»؟",
+      "options": [
+        "الدعوة إلى تفكر خالص ومنصف",
+        "النهي عن المحاسبة",
+        "التقليل من شأن التفكر",
+        "التشديد على القضاء والقدر"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الآية تدعو للقيام لله بإخلاص والتفكر المنصف.",
+      "textReference": "شرح الآية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent6"
+    },
+
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما النتيجة التي يصل إليها المتفكر بإخلاص في النبي ﷺ حسب النص؟",
+      "options": [
+        "أنه نبي مرسل وليس ساحرًا ولا شاعرًا",
+        "أنه قائد سياسي فقط",
+        "أنه عالم لغوي فقط",
+        "أنه مصلح اجتماعي فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن التفكر المنصف يؤدي إلى الإيمان بصدق نبوته ﷺ.",
+      "textReference": "نتيجة التفكير المنصف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent7"
+    },
+
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما دلالة قوله تعالى: «إن في خلق السماوات والأرض… لآيات لأولي الألباب»؟",
+      "options": [
+        "أن التفكر في الكون طريق لأصحاب العقول السليمة",
+        "أن الكون بلا غاية",
+        "أن التفكر لا علاقة له بالدين",
+        "أن الآيات خاصة بالعلماء"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الآية تبين أن التفكر في الكون موجّه لأولي العقول.",
+      "textReference": "آيات أولي الألباب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent8"
+    },
+
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "كيف ربط القرآن بين «ذكر الجوارح» و«ذكر القلوب»؟",
+      "options": [
+        "جمع بين العمل الظاهر والفكر الباطن",
+        "فصل بينهما تمامًا",
+        "قدم القلوب فقط",
+        "قدّم الجوارح فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يؤكد أن الذكر يشمل اللسان والجوارح والقلب معًا.",
+      "textReference": "الذكر بأنواعه",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent9"
+    },
+
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما المنهج الشرعي الصحيح في قوله: «ولا تفكروا في الله»؟",
+      "options": [
+        "التفكر في خلقه لا في ذاته",
+        "وجوب البحث عن ذات الله",
+        "ترك التفكر تمامًا",
+        "التفكر في الذات أولى"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يبين أن التفكر المأمور به في الآلاء والمخلوقات لا في ذات الله.",
+      "textReference": "ضابط التفكر الشرعي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent10"
+    },
+
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما العلاقة بين السير في الأرض والنظر في المخلوقات؟",
+      "options": [
+        "السير بالأقدام يعقبه سير بالقلوب للتفكر",
+        "السير بديل عن التفكر",
+        "النظر يغني عن السير",
+        "السير ليس له علاقة بالإيمان"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن الأمر بالسير يليه النظر القلبي في المخلوقات.",
+      "textReference": "السير والنظر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent11"
+    },
+
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الغاية من تعداد الإبل والسماء والجبال والأرض في الآية؟",
+      "options": [
+        "بيان عظمة المخلوقات الداعية للتفكر",
+        "إظهار اختلاف الديانات",
+        "التقليل من شأن الإنسان",
+        "تعليم مهارات علمية"
+      ],
+      "correctAnswer": "A",
+      "explanation": "ذكر هذه المخلوقات لتحريك التفكر في عظمة الله.",
+      "textReference": "مذكورات الآية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent12"
+    },
+
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "كيف شبّه النبي ﷺ طبقات السماوات كما ورد في الأثر؟",
+      "options": [
+        "كحلقة في فلاة متسعة",
+        "كبيت صغير",
+        "كدائرة متساوية",
+        "كجبال متراكبة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر تشبيه السماء الدنيا بالنسبة لما فوقها كحلقة في صحراء.",
+      "textReference": "تشبيه طبقات السماوات",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent13"
+    },
+
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما تعريف الكيّس في الحديث المذكور؟",
+      "options": [
+        "من دان نفسه وعمل لما بعد الموت",
+        "من اتبع هواه",
+        "من عاش بلا محاسبة",
+        "من ترك الأعمال"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الكيّس هو العاقل الحازم الذي يحاسب نفسه ويعمل لما بعد الموت.",
+      "textReference": "حديث الكيّس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent14"
+    },
+
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "من هو العاجز كما ورد في النص؟",
+      "options": [
+        "من أتبع نفسه هواها وتمنى على الله الأماني",
+        "من يحاسب نفسه يوميًا",
+        "من يعمل بالطاعات",
+        "من يكثر من التفكر"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يعرف العاجز بأنه من يترك العمل ويتمنى الأماني.",
+      "textReference": "تعريف العاجز",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent15"
+    },
+
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما المراد بقوله تعالى: «ويؤتون ما آتوا وقلوبهم وجلة» حسب تفسير النبي ﷺ؟",
+      "options": [
+        "أنهم يصلّون ويصومون ومع ذلك خائفون",
+        "أنهم أهل معاصٍ فقط",
+        "أنهم منافقون",
+        "أنهم لا يعملون شيئًا"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النبي ﷺ بيّن أنهم أهل طاعة لكن قلوبهم خائفة.",
+      "textReference": "تفسير الآية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent16"
+    },
+
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما مرتبة «المؤمن الكامل» كما ورد؟",
+      "options": [
+        "من يحاسب نفسه على الطاعات كما على المعاصي",
+        "من يعتمد على حسناته",
+        "من يترك التفكر",
+        "من يراقب غيره فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "المؤمن الكامل يحاسب نفسه حتى على الطاعات وعلى الخواطر.",
+      "textReference": "درجة المؤمن الكامل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent17"
+    },
+
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الذي يحاسب عليه «الأكمل» من المؤمنين؟",
+      "options": [
+        "حتى الخواطر العابرة",
+        "الذنوب الظاهرة فقط",
+        "الأحكام الشرعية فقط",
+        "ما يراه الناس"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن الأكمل يحاسب نفسه حتى على الخواطر.",
+      "textReference": "محاسبة الخواطر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent18"
+    },
+
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما المعنى التربوي لحساب النفس على احتقار العاصي؟",
+      "options": [
+        "تحصين القلب من الكبر",
+        "تشجيع الغرور",
+        "تثبيت الأحكام",
+        "ترك النصيحة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "احتقار العاصي كِبرٌ، فيحاسب المؤمن نفسه عليه.",
+      "textReference": "تهذيب القلب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent19"
+    },
+
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما الخطوة التربوية المطلوبة عند كل حادثة كما يذكر النص؟",
+      "options": [
+        "تفسيرها: نعمة أم ذنب أم تنبيه",
+        "تركها بلا فهم",
+        "اعتبارها صدفة",
+        "إهمال أثرها"
+      ],
+      "correctAnswer": "A",
+      "explanation": "المؤمن الكامل يفسر كل حادثة ويحدد نوعها التربوي.",
+      "textReference": "تفسير الحوادث",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent20"
+    },
+
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما الدلالة الإيمانية لقوله تعالى: «إن الذين اتقوا إذا مسّهم طائف من الشيطان تذكروا»؟",
+      "options": [
+        "المؤمن يحاسب نفسه فورًا ويعود للبصيرة",
+        "الإنسان معذور دائمًا",
+        "لا حاجة للمحاسبة",
+        "الحوادث بلا معنى"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الآية تؤكد أن أهل التقوى يعودون بسرعة إلى البصيرة.",
+      "textReference": "استعادة البصيرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent21"
+    },
+
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما أثر محاسبة النفس في حياة المؤمن كما ورد؟",
+      "options": [
+        "تحقيق الثبات والرضا",
+        "تعطيل العمل",
+        "إشاعة القلق",
+        "التساهل في الطاعات"
+      ],
+      "correctAnswer": "A",
+      "explanation": "حاسبوا أنفسكم… يؤدي للثبات والرضا.",
+      "textReference": "أثر المحاسبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent22"
+    },
+
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما معنى قول عمر رضي الله عنه: «وزنوا أعمالكم قبل أن توزن عليكم»؟",
+      "options": [
+        "تقييم الأعمال ومراجعتها قبل الحساب",
+        "ترك العمل",
+        "التقليل من شأن الطاعة",
+        "التساهل في المعاصي"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الكلام يحث على المحاسبة قبل الحساب الأكبر.",
+      "textReference": "قول عمر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent23"
+    },
+
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما الذي يربطه النص بينه وبين «العرض الأكبر»؟",
+      "options": [
+        "الاستعداد بالمحاسبة اليومية",
+        "الانشغال بالدنيا",
+        "الغفلة",
+        "ترك العمل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "المحاسبة اليومية هي الاستعداد للعرض الأكبر.",
+      "textReference": "الاستعداد للعرض الأكبر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent24"
+    },
+
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "لماذا أكّد النص على أن أعمال الطاعة «من توفيق الله»؟",
+      "options": [
+        "لإزالة العُجب وترسيخ التواضع",
+        "لمنع التفكر",
+        "لإثبات أن العمل بلا قيمة",
+        "لأن المعاصي أفضل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الإدراك بأن العمل بتوفيق الله يزيل العجب ويثبت التواضع.",
+      "textReference": "أعمال الطاعة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent25"
+    },
+
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما علاقة التفكر بمحاربة الرياء؟",
+      "options": [
+        "لأن التفكر عبادة باطنية لا يطلع عليها أحد",
+        "لأنه عمل جماعي",
+        "لأنه يحتاج إعلانًا",
+        "لأنه يُظهر صاحبه"
+      ],
+      "correctAnswer": "A",
+      "explanation": "التفكر باطني فلا يعتريه الرياء.",
+      "textReference": "التفكر والرياء",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent26"
+    },
+
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما فائدة الربط بين التفكر ومحاسبة النفس كما ورد؟",
+      "options": [
+        "إنتاج بصيرة تربوية تقود للإحسان",
+        "التوقف عن العمل",
+        "فصل العلم عن الإيمان",
+        "خلق وساوس"
+      ],
+      "correctAnswer": "A",
+      "explanation": "اجتماع التفكر والمحاسبة ينتج بصيرة وسلوكًا مستقيمًا.",
+      "textReference": "التفكر والمحاسبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent27"
+    },
+
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "كيف يفسر المؤمن الكامل كل ما يقع له؟",
+      "options": [
+        "يجعله رسالة من الله تُفهم وتُترجم عمليًا",
+        "يعتبره صدفة",
+        "يغفل عنه",
+        "يحتقر الآخرين"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص: المؤمن الكامل يفهم عن الله كل ما يقع له من رسائل.",
+      "textReference": "فهم رسائل القدر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent28"
+    },
+
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما العلاقة بين التقوى وسرعة الرجوع إلى الله؟",
+      "options": [
+        "المتقون يتذكرون سريعًا عند مسّ الشيطان",
+        "التقوى تعني الكسل",
+        "تأخير التوبة أفضل",
+        "العود البطيء دليل القوة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "التقوى تحرك القلب للعودة السريعة إلى الله عند الزلل.",
+      "textReference": "التقوى والتذكر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent29"
+    },
+
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة الباب كما ورد في آخر النص؟",
+      "options": [
+        "التفكر + المحاسبة = طريق الكُمّل الذين رضي الله عنهم",
+        "الاكتفاء بالمظاهر",
+        "ترك التفكر",
+        "الاعتماد على الهوى"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الخلاصة: التفكر الموصل للمحاسبة هو طريق الخلّص الذين رضي الله عنهم.",
+      "textReference": "خلاصة الباب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course11/ec11hadith_course11s1.html#sent30"
+    }
+  ]
+}

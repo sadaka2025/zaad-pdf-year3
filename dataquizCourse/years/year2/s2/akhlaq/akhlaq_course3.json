@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "slug": "hikma73_qadr",
+    "title": {
+      "ar": "الحكمة 73 – معرفة قدرك عند الله",
+      "fr": "Hikma 73 – Connaître sa valeur auprès d’Allah",
+      "en": "Wisdom 73 – Knowing Your Value with Allah"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما موضوع الحكمة الثالثة والسبعين؟",
+      "options": ["الصلاة", "معرفة قدر الإنسان عند الله", "الزكاة", "الصيام"],
+      "correctAnswer": 1,
+      "explanation": "الحكمة تتحدث عن معرفة مقام العبد عند الله.",
+      "textReference": "إذا أردت أن تعرف قدرك عنده"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "من صاحب الحكمة؟",
+      "options": [
+        "الإمام النووي",
+        "الإمام ابن عطاء الله السكندري",
+        "الإمام مالك",
+        "الإمام أحمد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الحكمة من حكم ابن عطاء الله.",
+      "textReference": "قال الإمام ابن عطاء الله"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "كيف تعرف قدرك عند الله؟",
+      "options": ["من الناس", "من المال", "من ما أقامك الله فيه", "من الشهرة"],
+      "correctAnswer": 2,
+      "explanation": "بما وفقك الله إليه.",
+      "textReference": "فانظر في ماذا يقيمك"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما المطلوب من المسلم؟",
+      "options": ["الغرور", "محاسبة النفس", "الراحة", "المال"],
+      "correctAnswer": 1,
+      "explanation": "يجب محاسبة النفس.",
+      "textReference": "حاسبوا أنفسكم"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "بماذا يزن المسلم نفسه؟",
+      "options": ["المال", "الشريعة", "الناس", "العمل"],
+      "correctAnswer": 1,
+      "explanation": "ميزان الشريعة.",
+      "textReference": "ميزان الشريعة"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما أول ما ينظر إليه؟",
+      "options": ["النوافل", "الفرائض", "الراحة", "المال"],
+      "correctAnswer": 1,
+      "explanation": "الفرائض أولاً.",
+      "textReference": "تؤدي الصلوات"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما علامة الخير؟",
+      "options": ["الشهرة", "نفع الناس", "المال", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "نفع المسلمين.",
+      "textReference": "نفع الناس"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما أفضل خصلتين؟",
+      "options": [
+        "المال والصحة",
+        "الإيمان ونفع المسلمين",
+        "الصلاة والصيام",
+        "الراحة والعمل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الإيمان ونفع الناس.",
+      "textReference": "الإيمان بالله والنفع للمسلمين"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما أسوأ خصلتين؟",
+      "options": [
+        "الفقر والمرض",
+        "الشرك والضرر بالناس",
+        "الجهل والتعب",
+        "الكسل والنوم"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الشرك والضرر.",
+      "textReference": "الشرك والضر بالمسلمين"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "هل المهم رضا الناس؟",
+      "options": ["نعم", "لا", "أحيانا", "نادرا"],
+      "correctAnswer": 1,
+      "explanation": "الأهم رضا الله.",
+      "textReference": "لا ينبغي أن نهتم"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما أهم شيء؟",
+      "options": ["المال", "رضا الله", "الشهرة", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "رضا الله أهم.",
+      "textReference": "عند الله"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما أول نعمة؟",
+      "options": ["المال", "الإيمان", "العمل", "الصحة"],
+      "correctAnswer": 1,
+      "explanation": "الإيمان أعظم نعمة.",
+      "textReference": "نعمة الإيمان"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما فضل طلب العلم؟",
+      "options": ["المال", "رفع المكانة", "التعب", "الشهرة"],
+      "correctAnswer": 1,
+      "explanation": "يرفع شأن الإنسان.",
+      "textReference": "طلب العلم"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما علامة التوفيق؟",
+      "options": ["المال", "الطاعة", "النوم", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "التوفيق للطاعة.",
+      "textReference": "أقامك في الطاعة"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "هل النعم تحتاج شكر؟",
+      "options": ["لا", "نعم", "أحيانا", "نادرا"],
+      "correctAnswer": 1,
+      "explanation": "يجب شكرها.",
+      "textReference": "احمد الله"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما خطر الانشغال بالدنيا؟",
+      "options": ["زيادة المال", "الابتعاد عن الطاعة", "الراحة", "السعادة"],
+      "correctAnswer": 1,
+      "explanation": "يبعد عن الطاعة.",
+      "textReference": "انشغل بالدنيا"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما مثال التوفيق؟",
+      "options": ["النوم", "قيام الليل", "الراحة", "المال"],
+      "correctAnswer": 1,
+      "explanation": "قيام الليل مثال.",
+      "textReference": "قيام الليل"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما معنى القناعة؟",
+      "options": ["الطمع", "الرضا", "الكسل", "المال"],
+      "correctAnswer": 1,
+      "explanation": "القناعة رضا.",
+      "textReference": "القناعة كنز"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "هل النعم تدوم؟",
+      "options": ["نعم", "لا", "دائما", "أحيانا"],
+      "correctAnswer": 1,
+      "explanation": "قد تزول.",
+      "textReference": "النعم لا تدوم"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما المطلوب من المسلم؟",
+      "options": ["ترك العمل", "أن يكون نافعاً", "الراحة", "المال"],
+      "correctAnswer": 1,
+      "explanation": "ينفع الناس.",
+      "textReference": "كن نافعاً"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما أفضل عمل؟",
+      "options": ["المال", "خدمة الناس", "النوم", "السفر"],
+      "correctAnswer": 1,
+      "explanation": "خدمة الناس.",
+      "textReference": "خدمة الناس"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما المطلوب من الموظف؟",
+      "options": ["الكسل", "قضاء حاجات الناس", "النوم", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "خدمة الناس.",
+      "textReference": "تقضي حاجات الناس"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما فضل التعليم؟",
+      "options": ["المال", "رفع الأجيال", "التعب", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "تعليم الناس عظيم.",
+      "textReference": "تعلم أبناء المسلمين"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما علامة رضا الله؟",
+      "options": ["المال", "التوفيق للطاعة", "النوم", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "التوفيق علامة رضا.",
+      "textReference": "وفقك"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما خطر الغفلة عن النعم؟",
+      "options": ["السعادة", "زوالها", "الراحة", "المال"],
+      "correctAnswer": 1,
+      "explanation": "قد تزول.",
+      "textReference": "خرجت نعمة"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما المطلوب في الحياة؟",
+      "options": ["الراحة", "ترك بصمة", "النوم", "المال"],
+      "correctAnswer": 1,
+      "explanation": "ترك أثر.",
+      "textReference": "بصمة"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما العلاقة بين العمل والقدر؟",
+      "options": ["لا علاقة", "كل ميسر لما خلق له", "المال فقط", "الراحة"],
+      "correctAnswer": 1,
+      "explanation": "كل إنسان ميسر.",
+      "textReference": "كل ميسر"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما المطلوب من القلب؟",
+      "options": ["القسوة", "الإخلاص", "الكسل", "النوم"],
+      "correctAnswer": 1,
+      "explanation": "الإخلاص.",
+      "textReference": "إخلاص"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "كيف تعرف منزلتك؟",
+      "options": ["من الناس", "من قلبك", "من العمل", "من المال"],
+      "correctAnswer": 2,
+      "explanation": "من العمل الذي أقامك الله فيه.",
+      "textReference": "في ماذا يقيمك"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الخلاصة؟",
+      "options": [
+        "حب الدنيا",
+        "معرفة قدر الإنسان من خلال طاعته ونفعه للناس",
+        "طلب المال",
+        "الراحة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الميزان هو الطاعة والنفع.",
+      "textReference": "اعرف قدرك"
+    }
+  ]
+}

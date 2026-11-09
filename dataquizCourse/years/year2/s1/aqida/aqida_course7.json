@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "aqida_lesson6",
+    "title": {
+      "ar": "الدرس 7 –  ",
+      "fr": "Aqida – Leçon 7 : Introduction de Tal’ al-Bushra",
+      "en": "Aqida – Lesson 7: Introduction of Tal’ al-Bushra"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما المقصود بالمكلف في علم العقيدة عند الإمام السنوسي؟",
+      "options": [
+        "كل إنسان أو جني بغض النظر عن العمر والعقل",
+        "الإنسان البالغ العاقل الذي بلغته الدعوة المحمدية",
+        "الملائكة",
+        "كل صبي وعاقل"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المكلف هو الذي تتوفر فيه شروط البلوغ والعقل، ولديه علم بالدعوة المحمدية، بينما غير المكلف كالطفل والمجنون والملائكة.",
+      "textReference": "الدرس السابع – شروط التكليف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما الفرق بين الواجب العقلي والواجب الشرعي؟",
+      "options": [
+        "الواجب العقلي يتعلق بالعقل، والواجب الشرعي يتعلق بالشرع",
+        "الواجب العقلي يتعلق بالنفس، والواجب الشرعي يتعلق بالجسم",
+        "لا فرق بينهما",
+        "الواجب العقلي أقدم من الواجب الشرعي"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الواجب العقلي هو ما يثاب عليه العقل، والواجب الشرعي هو ما يثاب على فعله ويعاقب على تركه وفق النص الشرعي.",
+      "textReference": "الدرس السابع – الواجب الشرعي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "لماذا استخدم الإمام السنوسي كلمة 'يعرف' بدل 'يجزم'؟",
+      "options": [
+        "لأن المعرفة تشمل الظن والوهم",
+        "لتأكيد أن الاعتقاد يجب أن يكون علمًا مطابقًا للواقع عن دليل",
+        "لتسهيل الفهم على الطلاب",
+        "لأن الجزم ليس مطلوبًا في العقيدة"
+      ],
+      "correctAnswer": 1,
+      "explanation": "المصطلح 'يعرف' يشير إلى الإدراك الجازم المطابق للواقع مع دليل، لتجنب التقليد الأعمى.",
+      "textReference": "الدرس السابع – المعرفة مقابل الجزم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما هي شروط التكليف عند الإنسان؟",
+      "options": [
+        "البلوغ والعقل والدعوة المحمدية",
+        "العقل فقط",
+        "البلوغ فقط",
+        "الدعوة المحمدية فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الإنسان مكلف إذا بلغ، وعاقل، وقد وصلت إليه الدعوة الصحيحة.",
+      "textReference": "الدرس السابع – شروط التكليف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "من غير المكلفين وفق النص؟",
+      "options": [
+        "الطفل",
+        "المجنون",
+        "الملائكة",
+        "جميع ما ذكر"
+      ],
+      "correctAnswer": 3,
+      "explanation": "الطفل والمجنون والملائكة جميعهم غير مكلفين لأنها لا تنطبق عليهم شروط التكليف.",
+      "textReference": "الدرس السابع – المكلف وغير المكلف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما معنى الإدراك الجازم المطابق للواقع؟",
+      "options": [
+        "الاعتقاد القائم على الظن",
+        "الاعتقاد القائم على وهم",
+        "الاعتقاد الصحيح المطابق للواقع مع دليل",
+        "الاعتقاد التقليدي دون دليل"
+      ],
+      "correctAnswer": 2,
+      "explanation": "العقيدة الصحيحة تتطلب العلم المطابق للواقع بنسبة 100% مستندًا إلى دليل شرعي.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "أي من المراتب التالية أقل درجة في الإدراك العقيدي؟",
+      "options": [
+        "العلم",
+        "الظن",
+        "الوهم",
+        "الإدراك المطلق"
+      ],
+      "correctAnswer": 2,
+      "explanation": "الوهم هو أدنى درجات الإدراك في العقائد، أي أقل من 50%.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الفرق بين الظن والعلم في العقائد؟",
+      "options": [
+        "العلم إدراك جازم 100%، الظن إدراك الطرف الراجح 51-99%",
+        "العلم أقل من الظن",
+        "العلم والوهم متساويان",
+        "الظن أعلى من العلم"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العلم مطلق اليقين، بينما الظن طرف راجح ولكنه لا يصل إلى اليقين الكامل.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "لماذا لا يصح الظن أو الوهم في العقائد؟",
+      "options": [
+        "لأنها غير مطابقة للواقع",
+        "لأنها مطابقة للواقع",
+        "لأنها مستندة إلى دليل",
+        "لأنها فرضية شرعية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "في العقائد لا يجوز الظن أو الوهم لأنها لا تحقق العلم المطابق للواقع.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ما الغرض من معرفة ما يجب وما يستحيل وما يجوز في حق الله؟",
+      "options": [
+        "لكي يعبد الإنسان الله على بصيرة",
+        "لتعلم أن الله لا يحتاج للعبادة",
+        "لتقديس الأنبياء فقط",
+        "لمجرد المعرفة النظرية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "معرفة صفات الله تمكن المكلف من العبادة الصحيحة المبنية على العلم والدليل.",
+      "textReference": "الدرس السابع – الواجبات الشرعية للمكلف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما معنى 'يجب على كل مكلف شرعًا'؟",
+      "options": [
+        "واجب عقلي يثاب عليه العقل",
+        "واجب شرعي يثاب على فعله ويعاقب على تركه",
+        "واجب شخصي لا علاقة له بالشرع",
+        "واجب فرضي فقط على العلماء"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الواجب الشرعي هو ما فرضه الشرع على المكلف، ويستحق الثواب والعقاب بناء على فعله أو تركه.",
+      "textReference": "الدرس السابع – الواجب الشرعي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "من هو المكلف من الجن؟",
+      "options": [
+        "الجن عند بلوغهم",
+        "كل الجن منذ خلقهم",
+        "الجن الصالح فقط",
+        "الجن الذي يؤمن بالإسلام فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الجن مكلفون منذ لحظة خلقهم، بخلاف الإنسان الذي يشترط فيه البلوغ والعقل ووصول الدعوة.",
+      "textReference": "الدرس السابع – المكلف من الجن",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما المقصود بمراتب الإدراك في العقيدة؟",
+      "options": [
+        "مراحل التعلم النظري",
+        "مراتب الاعتقاد: العلم، الظن، الوهم",
+        "مستويات العبادة",
+        "أنواع الأدلة الشرعية"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الإدراك العقيدي يقسم إلى العلم الجازم، الظن الطرف الراجح، والوهم الأقل درجاتًا.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما نسبة العلم الجازم المطابق للواقع؟",
+      "options": [
+        "51%",
+        "75%",
+        "99%",
+        "100%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "العلم المطلق في العقائد يجب أن يكون إدراك جازم بنسبة 100% ومطابق للواقع مع دليل.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما نطاق الظن في العقائد من حيث النسبة المئوية؟",
+      "options": [
+        "1% - 50%",
+        "51% - 99%",
+        "100%",
+        "50% - 75%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الظن يمثل إدراك الطرف الراجح بين 51% و99%، ويقترب من اليقين لكنه لا يصل إليه.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما معنى الوهم في مراتب الإدراك؟",
+      "options": [
+        "أعلى درجات اليقين",
+        "أدنى درجات الإدراك أقل من 50%",
+        "إدراك جازم مطابق للواقع",
+        "إدراك الطرف الراجح"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الوهم أقل درجات الإدراك، أي احتمالات غير مؤكدة لا تصح في العقائد.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "لماذا يجب معرفة صفات الله وما يستحيل وما يجوز؟",
+      "options": [
+        "للاعتقاد القلبي الصحيح وتجنب الكفر",
+        "للاعتقاد الظني",
+        "للاحتياط الشرعي فقط",
+        "للدراسة النظرية فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "معرفة صفات الله تحمي العقيدة من الشرك والاعتقاد الخاطئ.",
+      "textReference": "الدرس السابع – الواجبات الشرعية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما الفرق بين الاعتقاد الفاسد والمعتقد الصحيح؟",
+      "options": [
+        "المعتقد الصحيح مطابق للواقع مع دليل، والفاسد مخالف للواقع أو التقليد الأعمى",
+        "لا فرق بينهما",
+        "المعتقد الفاسد أعلى درجات العلم",
+        "المعتقد الصحيح قائم على الظن فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العقيدة الصحيحة مبنية على علم مطابق للواقع مع دليل، والفاسد يكون مخالفًا لذلك.",
+      "textReference": "الدرس السابع – العلم الصحيح مقابل الفاسد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما المطلوب في علم العقيدة وفق الإمام السنوسي؟",
+      "options": [
+        "المعرفة المبنية على الدليل",
+        "التقليد الأعمى",
+        "الظن والوهم",
+        "الاعتماد على حدس الفرد"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الإمام السنوسي يشدد على الإدراك الجازم المطابق للواقع عن دليل لتجنب التقليد.",
+      "textReference": "الدرس السابع – علم العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "لماذا يرفع المكلف إلى معرفة الرسل بعد معرفة الله؟",
+      "options": [
+        "لكي يعبد الأنبياء",
+        "لكي لا يرفعهم إلى درجة الألوهية أو ينقص من قدرهم",
+        "للدراسة التاريخية فقط",
+        "لتفسير النصوص"
+      ],
+      "correctAnswer": 1,
+      "explanation": "معرفة الرسل تمنع الشرك أو التقصير في حق الأنبياء، وفق الاعتقاد الصحيح.",
+      "textReference": "الدرس السابع – الواجبات الشرعية للمكلف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما أهمية استخدام قيد 'عن دليل' في العقائد؟",
+      "options": [
+        "لتجنب التقليد والمقلدين",
+        "لزيادة الظن فقط",
+        "للتعبير الأدبي",
+        "لتسهيل الحفظ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "القيد 'عن دليل' يضمن أن الاعتقاد مستند إلى دليل شرعي وليس اتباعًا أعمى.",
+      "textReference": "الدرس السابع – الاعتقاد المبني على دليل",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "لماذا يجب أن يكون العلم مطابقًا للواقع؟",
+      "options": [
+        "لتكون العقيدة صحيحة",
+        "لتسهيل الدراسة",
+        "لزيادة الحفظ",
+        "لتجنب الأسئلة الصعبة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العقيدة الصحيحة تتطلب أن يكون الإدراك الجازم مطابقًا للواقع لضمان صحة الاعتقاد.",
+      "textReference": "الدرس السابع – مطابق الواقع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "ما أقصى نسبة للوهم في مراتب الإدراك؟",
+      "options": [
+        "50%",
+        "49%",
+        "75%",
+        "99%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الوهم أقل من 50% ولا يصح في العقائد، بينما الظن يبدأ من 51%.",
+      "textReference": "الدرس السابع – مراتب الإدراك",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "لماذا لم يذكر الإمام السنوسي شرط بلوغ الدعوة في تعريف المكلف في زمانه؟",
+      "options": [
+        "لأن الدعوة وصلت لكل مكان تقريبا",
+        "لأنه لم يكن مهتماً بذلك",
+        "لأنه يعتبر كل إنسان مكلفًا منذ الولادة",
+        "لأنه نسِي ذلك"
+      ],
+      "correctAnswer": 0,
+      "explanation": "في زمان الإمام السنوسي، الدعوة المحمدية وصلت إلى شتى أصقاع الأرض، فلا حاجة للتقييد بهذا الشرط.",
+      "textReference": "الدرس السابع – شروط المكلف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما هدف دراسة معرفة ما يجوز في حق الله؟",
+      "options": [
+        "للتفريق بين الواجب والمستحيل والجائز",
+        "لتحديد الصلاة فقط",
+        "لتفسير القرآن فقط",
+        "لا هدف محدد"
+      ],
+      "correctAnswer": 0,
+      "explanation": "معرفة ما يجوز يحدد حدود ما يمكن لله فعله في الصفات ويكمل فهم المكلف لله.",
+      "textReference": "الدرس السابع – الواجب والمستحيل والجائز",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما الذي يترتب على الاعتقاد الفاسد في العقائد؟",
+      "options": [
+        "الكفر",
+        "زيادة العلم",
+        "الحفظ والتدريس",
+        "العبادة الصحيحة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الاعتقاد الفاسد، كاعتقاد تعدد الآلهة أو الإلهية للخلق، يعتبر كفرًا وفق الشريعة.",
+      "textReference": "الدرس السابع – الاعتقاد الفاسد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما الغرض من تمييز العلم المطابق للواقع عن الجزم فقط؟",
+      "options": [
+        "لتجنب الاعتقاد الباطل والتقليد",
+        "لزيادة التعقيد",
+        "لتسهيل الحفظ",
+        "لإظهار الفصاحة اللغوية"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الجزم وحده لا يكفي، إذ قد يكون مخالفًا للواقع، لذلك يشترط أن يكون العلم مطابقًا للواقع مع دليل.",
+      "textReference": "الدرس السابع – العلم المطابق للواقع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما الذي يميز المكلف في الإنسان عن غيره من المخلوقات؟",
+      "options": [
+        "القدرة على التمييز بين الحسن والقبيح",
+        "القدرة على النوم",
+        "القدرة على المشي فقط",
+        "القدرة على الكلام فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العقل يمكن المكلف من معرفة الواجب والمستحيل والجائز، وهو شرط من شروط التكليف.",
+      "textReference": "الدرس السابع – شروط المكلف",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما معنى 'الإدراك الجازم المطابق للواقع عن دليل'؟",
+      "options": [
+        "معرفة مؤكدة مستندة إلى دليل مطابق للواقع",
+        "الاعتقاد الظني فقط",
+        "تقليد العلماء دون دليل",
+        "الوهم والاحتمال"
+      ],
+      "correctAnswer": 0,
+      "explanation": "هذا القيد يضمن صحة الاعتقاد وعدم الاعتماد على التقليد أو الظن.",
+      "textReference": "الدرس السابع – تعريف المعرفة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "لماذا تُبنى العقائد على العلم المطابق للواقع؟",
+      "options": [
+        "لتكون صحيحة وتتوافق مع الواقع والدليل الشرعي",
+        "لتكون قابلة للتفسير الشخصي",
+        "لتكون جزئية فقط",
+        "لتسهيل الحفظ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "العقائد لا تصح إلا إذا كانت معرفة جازمة، مطابقة للواقع وموثقة بالدليل الشرعي.",
+      "textReference": "الدرس السابع – قاعدة أساسية في العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw_course7/ec7s1.html#sent30"
+    }
+  ]
+}

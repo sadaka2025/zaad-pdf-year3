@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "slug": "nahw_final_exam",
+    "title": { "ar": "الامتحان النهائي – مادة النحو" },
+    "totalQuestions": 18
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من علامات الأسماء … ومن علامات الفعل دخول …",
+      "options": ["قد — التنوين", "التنوين — قد", "أل — سوف"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ينوب عن الفتحة في نصب الاسم:",
+      "options": [
+        "الضمة في جمع التكسير",
+        "الكسرة في جمع المؤنث السالم",
+        "الواو في الأسماء الخمسة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "جمع المؤنث السالم هو ما دل على أكثر من اثنتين بزيادة:",
+      "options": ["ألف ونون", "ياء ونون", "ألف وتاء في آخره"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "الواو تكون علامة للرفع في موضعين:",
+      "options": [
+        "المثنى وجمع التكسير",
+        "جمع المذكر السالم والأسماء الخمسة",
+        "الأفعال الخمسة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "تدل التاء في الفعل المضارع للمخاطبة المؤنثة على:",
+      "options": ["الغيبة", "التأنيث", "الخطاب"],
+      "correctAnswer": 2
+    },
+
+    {
+      "id": 6.1,
+      "type": "true_false",
+      "question": "البناء لزوم آخر الكلمة حالة واحدة",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6.2,
+      "type": "true_false",
+      "question": "تدخل قد على الماضي",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6.3,
+      "type": "true_false",
+      "question": "لم حرف مشترك بين الأسماء والأفعال",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6.4,
+      "type": "true_false",
+      "question": "تنوب الألف عن الفتحة في موضعين",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "الخفض هو:",
+      "options": ["الجزم", "الجر", "القطع"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "الاسم المقصور هو:",
+      "options": [
+        "ما كان آخره ياء لازمة",
+        "ما كان آخره ألفًا لازمة",
+        "ما كان آخره واوًا"
+      ],
+      "correctAnswer": 2
+    },
+
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "قد في الجملة تفيد التكثير.",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "من علامات الأسماء:",
+      "options": ["دخول حروف الجزم", "دخول حروف القسم", "دخول لم"],
+      "correctAnswer": 1
+    },
+
+    {
+      "id": 11.1,
+      "type": "true_false",
+      "question": "تعريف الماضي المذكور",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 11.2,
+      "type": "true_false",
+      "question": "باء القسم تدخل على الظاهر فقط",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 11.3,
+      "type": "true_false",
+      "question": "ينصب جمع المؤنث السالم بالفتحة",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 11.4,
+      "type": "true_false",
+      "question": "المذكور ينوب عن الفتحة في النصب",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+
+    {
+      "id": 12.1,
+      "type": "fill_blank",
+      "question": "آيات / أصوات",
+      "correctAnswer": "جمع تكسير",
+      "explanation": "La réponse correcte est : آيات / أصوات → جمع تكسير"
+    },
+    {
+      "id": 12.2,
+      "type": "fill_blank",
+      "question": "طلحات / شاهقات",
+      "correctAnswer": "جمع مؤنث سالم",
+      "explanation": "La réponse correcte est : طلحات / شاهقات → جمع مؤنث سالم"
+    },
+    {
+      "id": 12.3,
+      "type": "fill_blank",
+      "question": "الحركة قبل ياء المتكلم",
+      "correctAnswer": "المناسبة",
+      "explanation": "La réponse correcte est : الحركة قبل ياء المتكلم → المناسبة"
+    },
+
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "حروف الخفض هي:",
+      "options": ["من – إلى – عن", "من – رب – اللام", "في – على – حتى"],
+      "correctAnswer": 1
+    },
+
+    {
+      "id": 14,
+      "type": "fill_blank",
+      "question": "الكلام هو اللفظ … المفيد بالوضع.",
+      "correctAnswer": "المركب",
+      "explanation": "La réponse correcte est : الكلام هو اللفظ المركب المفيد بالوضع"
+    },
+
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "يرفع الفعل المضارع غير المتصل بشيء بـ:",
+      "options": ["الفتحة", "السكون", "الضمة"],
+      "correctAnswer": 3
+    },
+
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "أبوك مبتدأ مرفوع بـ:",
+      "options": ["الضمة", "الألف", "الواو لأنه من الأسماء الخمسة"],
+      "correctAnswer": 2
+    },
+
+    {
+      "id": 17.1,
+      "type": "true_false",
+      "question": "عبد الله كلام",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 17.2,
+      "type": "true_false",
+      "question": "فوك من الأسماء الخمسة بشروط",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 17.3,
+      "type": "true_false",
+      "question": "س وسوف للتنفيس",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 17.4,
+      "type": "true_false",
+      "question": "الضمة مقدرة على الألف",
+      "options": ["صح", "خطأ"],
+      "correctAnswer": 1
+    },
+
+    {
+      "id": 18.1,
+      "type": "fill_blank",
+      "question": "قبل ياء المثنى",
+      "correctAnswer": "مكسور",
+      "explanation": "La réponse correcte est : قبل ياء المثنى → مكسور"
+    },
+    {
+      "id": 18.2,
+      "type": "fill_blank",
+      "question": "بعد ياء المثنى",
+      "correctAnswer": "مفتوح",
+      "explanation": "La réponse correcte est : بعد ياء المثنى → مفتوح"
+    },
+    {
+      "id": 18.3,
+      "type": "fill_blank",
+      "question": "الفتحة علامة نصب في",
+      "correctAnswer": "جمع التكسير",
+      "explanation": "La réponse correcte est : الفتحة علامة نصب في → جمع التكسير"
+    },
+    {
+      "id": 18.4,
+      "type": "fill_blank",
+      "question": "الواو علامة رفع في",
+      "correctAnswer": "الأسماء الخمسة",
+      "explanation": "La réponse correcte est : الواو علامة رفع في → الأسماء الخمسة"
+    }
+  ]
+}

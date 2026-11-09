@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "slug": "tajwid_s1_exam_2026",
+    "title": {
+      "ar": "اختبار مادة التجويد السداسي الأول",
+      "fr": "Examen de Tajwid – Semestre 1",
+      "en": "Tajwid Exam – Semester 1"
+    },
+    "date": "2026-01-27",
+    "duration": "25 min 50 s",
+    "score": "16/20",
+    "totalQuestions": 20
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "مخارج الحروف تسعة عشر.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "مخارج الحروف الرئيسية ثلاثة.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "حروف الجوف الألف والواو والنون",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "تخرج القاف في وسط اللسان بعد الكاف بقليل.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "تخرج الضاد من طرف اللسان مع ما يليه من أضراس الثنايا العليا.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "تخرج اللام من أدنى حافة اللسان إلى منتهى طرفه ومحاذيه من الحنك الأعلى فوق الأسنان.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "تخرج النون من رأس اللسان وما يحاذيه من اللثة.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "الحروف الأسلية هي الصاد – والزاي – والسين.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "الفاء تخرج من باطن الشفة السفلى والعليا.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "الباء والميم تخرجان من الشفتين بانطباقهما.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "الهمس هو جريان الصوت عند النطق بالحروف لضعف الاعتماد في مخرجها فيخفى الصوت بها.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "حروف الجهر فحثه شخص سكت.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "الرخاوة الجريان التام للصوت حتى لانت عند النطق بها.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "حروف الاستعلاء هي الصاد والضاد والطاء والظاء.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "الاستفال هو الانخفاض ووصفت بذلك لانحطاط اللسان عن الحنك الأعلى.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "الانفتاح وحروفه فر من لب",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "القلقلة هي شدة الصوت لأنها حال بيان سكونها تتقلقل عند خروجها حتى يسمع لها نبرة قوية.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "question": "حروف اللين هي الواو والياء المتحركان.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 2,
+      "feedback": "La réponse correcte est « Faux »."
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "question": "الانحراف هو ميل اللام والراء عن مخرجهما حتى اتصلا بمخرج غيرهما.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "التكرير صفة لحرف الراء.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": 1,
+      "feedback": "La réponse correcte est « Vrai »."
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "slug": "lesson4_guidance_to_good",
+    "title": {
+      "ar": "الدرس الرابع – باب الدلالة على الخير",
+      "fr": "Leçon 4 – Indiquer le bien et appeler à la guidance",
+      "en": "Lesson 4 – Guiding to Good and Calling to Guidance"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما معنى الدلالة على الخير؟",
+      "options": [
+        "الإرشاد إلى الشر",
+        "الإرشاد إلى الخير",
+        "السكوت",
+        "الانعزال"
+      ],
+      "correctAnswer": 1,
+      "explanation": "الدلالة هي الإرشاد إلى الخير.",
+      "textReference": "باب الدلالة على خير"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "قوله تعالى: وادع إلى ربك يدل على:",
+      "options": ["المنع", "الوجوب", "الإباحة", "الكراهة"],
+      "correctAnswer": 1,
+      "explanation": "الأمر يفيد الوجوب.",
+      "textReference": "وادع إلى ربك"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "الدعوة يجب أن تكون:",
+      "options": ["بعنف", "بحكمة", "بجهل", "بسرعة"],
+      "correctAnswer": 1,
+      "explanation": "الحكمة أساس الدعوة.",
+      "textReference": "بالحكمة والموعظة الحسنة"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "الحكمة تعني:",
+      "options": [
+        "وضع الشيء في غير محله",
+        "وضع الشيء في محله",
+        "السكوت",
+        "التشدد"
+      ],
+      "correctAnswer": 1,
+      "explanation": "هذا تعريف الحكمة.",
+      "textReference": "وضع الشيء في محله"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "الدعوة بغير علم تؤدي إلى:",
+      "options": ["الهداية", "الخير", "الضرر", "النجاح"],
+      "correctAnswer": 2,
+      "explanation": "لا بد من العلم في الدعوة.",
+      "textReference": "على علم"
+    },
+
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "الموعظة الحسنة هي:",
+      "options": ["الغلظة", "اللين", "الإكراه", "التجاهل"],
+      "correctAnswer": 1,
+      "explanation": "الموعظة تكون بلطف.",
+      "textReference": "الموعظة الحسنة"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "الأصل في العبادات هنا:",
+      "options": ["قاصرة", "متعدية", "غير مفهومة", "خاصة"],
+      "correctAnswer": 1,
+      "explanation": "الإسلام يدعو لنفع الغير.",
+      "textReference": "متعدية"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "المسلم لا يكتفي بـ:",
+      "options": ["العبادة", "الدعوة", "الإصلاح", "النصح"],
+      "correctAnswer": 0,
+      "explanation": "لا بد من نفع الآخرين.",
+      "textReference": "لا يكتفي"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "قوله: تعاونوا على البر يدل على:",
+      "options": ["الأنانية", "التعاون", "العزلة", "الصمت"],
+      "correctAnswer": 1,
+      "explanation": "التعاون على الخير.",
+      "textReference": "تعاونوا"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "من دل على خير فله:",
+      "options": ["لا شيء", "نصف الأجر", "مثل الأجر", "إثم"],
+      "correctAnswer": 2,
+      "explanation": "الدال كفاعل الخير.",
+      "textReference": "مثل أجر فاعله"
+    },
+
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "الدلالة تشمل:",
+      "options": ["السكوت", "الإرشاد", "الانتقاد", "المنع"],
+      "correctAnswer": 1,
+      "explanation": "هي توجيه للخير.",
+      "textReference": "الدلالة"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "من دعا إلى هدى فله:",
+      "options": ["إثم", "لا شيء", "أجر التابعين", "نقص"],
+      "correctAnswer": 2,
+      "explanation": "أجر من تبعه.",
+      "textReference": "من دعا إلى هدى"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "من دعا إلى ضلالة:",
+      "options": ["له أجر", "لا شيء", "عليه إثم", "ثواب"],
+      "correctAnswer": 2,
+      "explanation": "يتحمل وزر غيره.",
+      "textReference": "ضلالة"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "هل ينقص أجر التابعين؟",
+      "options": ["نعم", "لا", "أحيانا", "حسب"],
+      "correctAnswer": 1,
+      "explanation": "لا ينقص.",
+      "textReference": "لا ينقص"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "الداعية يراعي:",
+      "options": ["المصالح", "رأيه", "مزاجه", "وقته"],
+      "correctAnswer": 0,
+      "explanation": "فقه المآلات مهم.",
+      "textReference": "المصالح والمفاسد"
+    },
+
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "تغيير المنكر يكون:",
+      "options": [
+        "بالقلب فقط",
+        "باليد واللسان والقلب",
+        "بالصمت",
+        "بالدعاء فقط"
+      ],
+      "correctAnswer": 1,
+      "explanation": "مراتب التغيير.",
+      "textReference": "بيده"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "أضعف الإيمان:",
+      "options": ["اليد", "اللسان", "القلب", "السكوت"],
+      "correctAnswer": 2,
+      "explanation": "إنكار القلب.",
+      "textReference": "أضعف الإيمان"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "من لم ينكر بقلبه:",
+      "options": ["مؤمن", "ناقص", "لا إيمان له", "صالح"],
+      "correctAnswer": 2,
+      "explanation": "انتفاء الإيمان.",
+      "textReference": "لا إيمان"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "الدعوة تحتاج:",
+      "options": ["علم", "قوة", "مال", "صمت"],
+      "correctAnswer": 0,
+      "explanation": "أساس الدعوة العلم.",
+      "textReference": "علم"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "من أخطاء الناس:",
+      "options": ["الدعوة", "النصح", "الانعزال", "الإصلاح"],
+      "correctAnswer": 2,
+      "explanation": "ترك المجتمع خطأ.",
+      "textReference": "كل واحد مسؤول"
+    },
+
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "المسلم مسؤول عن:",
+      "options": ["نفسه فقط", "مجتمعه", "ماله", "صلاته"],
+      "correctAnswer": 1,
+      "explanation": "مسؤولية جماعية.",
+      "textReference": "مسؤول"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "أفضل الناس:",
+      "options": ["أغناهم", "أقواهم", "أنفعهم", "أشهرهم"],
+      "correctAnswer": 2,
+      "explanation": "النفع للناس.",
+      "textReference": "أنفعهم"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "هدف الدعوة:",
+      "options": ["الشهرة", "الإصلاح", "الجدال", "المال"],
+      "correctAnswer": 1,
+      "explanation": "إصلاح المجتمع.",
+      "textReference": "الخير"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "الداعية يجب أن يكون:",
+      "options": ["قاسي", "قدوة", "منعزل", "صامت"],
+      "correctAnswer": 1,
+      "explanation": "القدوة مهمة.",
+      "textReference": "قدوة"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "الأمر بالمعروف يحتاج:",
+      "options": ["علم", "جهل", "عجلة", "إهمال"],
+      "correctAnswer": 0,
+      "explanation": "العلم شرط.",
+      "textReference": "علم"
+    },
+
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "الدعوة بدون علم:",
+      "options": ["خير", "هدى", "ضرر", "نجاح"],
+      "correctAnswer": 2,
+      "explanation": "تؤدي للفساد.",
+      "textReference": "ضرر"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "المسلم يجب أن يكون:",
+      "options": ["سلبي", "إيجابي", "منعزل", "صامت"],
+      "correctAnswer": 1,
+      "explanation": "الإيجابية مطلوبة.",
+      "textReference": "الدعوة"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "الدعوة تحتاج:",
+      "options": ["صبر", "كسل", "عجلة", "إهمال"],
+      "correctAnswer": 0,
+      "explanation": "الصبر أساس.",
+      "textReference": "الصبر"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "نتيجة الدعوة:",
+      "options": ["فساد", "هداية", "ضلال", "جهل"],
+      "correctAnswer": 1,
+      "explanation": "تؤدي للهداية.",
+      "textReference": "هدى"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "المتسبب في الخير:",
+      "options": ["لا شيء", "أجر ناقص", "مثل الفاعل", "يعاقب"],
+      "correctAnswer": 2,
+      "explanation": "الدال كفاعل الخير.",
+      "textReference": "مثل أجر فاعله"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "slug": "aqida_lesson3",
+    "title": {
+      "ar": "📘 العقيدة – الدرس الثالث",
+      "fr": "Aqida – Leçon 3 : Introduction de Tal’ al-Bushra",
+      "en": "Aqida – Lesson 3: Introduction of Tal’ al-Bushra"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "لماذا يبدأ المصنفان البسملة في مقدمة العقيدة؟",
+      "options": [
+        "اقتداء بالقرآن والعمل بمقتضى حديث النبي",
+        "لأنه واجب شرعي على كل مسلم",
+        "لأن العلماء قالوا يبدأ كل كتاب بذلك",
+        "لأغراض البلاغة فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المصنفان ابتدآ بالبسملة اقتداء بالقرآن وعملاً بمقتضى حديث النبي ﷺ.",
+      "textReference": "مقدمة طالع البشرة – شرح المرغني",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "الحمد لله في مقدمة العقيدة يعتبر ابتداء حقيقي.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "الحمد لله يعتبر ابتداء إضافي لأن البسملة سبقته.",
+      "textReference": "مقدمة العقيدة الصغرى – المرغني",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "الابتداء الحقيقي هو الابتداء بما ________ على المقصود بالذات ولم يسبقه شيء.",
+      "options": [],
+      "correctAnswer": "تقدم",
+      "answerReason": "الابتداء الحقيقي هو ما تقدم على المقصود بالذات ولم يسبقه شيء.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما الفرق بين الابتداء الحقيقي والابتداء الإضافي؟",
+      "options": [
+        "الحقيقي لم يسبقه شيء، الإضافي سبقته كلمات",
+        "الحقيقي والإضافي نفس الشيء",
+        "الحقيقي أقل أهمية من الإضافي",
+        "الإضافي لا يجوز استخدامه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الابتداء الحقيقي لم يسبقه شيء، بينما الإضافي سبقته كلمات.",
+      "textReference": "مقدمة طالع البشرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "الحمد لغة هو الثناء بالكلام لأجل جميل اختياري سواء في مقابل نعمة أم لا.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الحمد هو الثناء بالكلام لأجل جميل اختياري سواء في مقابل نعمة أم لا.",
+      "textReference": "شرح المرغني على العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما الفرق بين الحمد والشكر؟",
+      "options": [
+        "الحمد يمكن أن يكون في غير مقابل نعمة، الشكر يكون فقط في مقابل نعمة",
+        "الحمد والشكر نفس المعنى",
+        "الحمد يكون باللسان فقط، والشكر بالجوارح فقط",
+        "لا فرق بينهما"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحمد يمكن أن يكون في غير مقابل نعمة، أما الشكر فيكون فقط في مقابل نعمة.",
+      "textReference": "مفردات مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "الشكر أركانه ________ والجوارح والقلب ويكون في مقابل نعمة.",
+      "options": [],
+      "correctAnswer": "اللسان",
+      "answerReason": "الشكر يشمل الأركان: اللسان، الجوارح، والقلب ويكون في مقابل نعمة.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "لماذا لا يسمى الثناء على الصفات الإلزامية للخلق حمدًا؟",
+      "options": [
+        "لأنه لم يختر المحمود صفته",
+        "لأنه لا يجوز ذكر الصفات",
+        "لأنه غير موجود",
+        "لأن الشكر يختلف عن الحمد"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "لأنه لم يختر المحمود صفة الثناء، فالثناء على الصفات المفروضة ليس حمدًا.",
+      "textReference": "الفرق بين المدح والحمد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "truefalse",
+      "question": "الصلاة على النبي ﷺ تعني رحمة الله عليه وتقدير وتعظيم.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الصلاة على النبي ﷺ هي رحمة الله عليه مقرونة بالتعظيم.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "لماذا لا يذكر المصنف اسم النبي ﷺ بعد لفظ 'رسول الله'؟",
+      "options": [
+        "لأن لفظ 'رسول الله' غالب على سيدنا محمد ﷺ",
+        "لأنه نسي ذكر اسمه",
+        "لأن الكتاب يقتصر على وصفه",
+        "لأنه يجوز البدء بأي رسول"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "لأن لفظ 'رسول الله' غالب على سيدنا محمد ﷺ ويُفهم منه المقصود.",
+      "textReference": "شرح المرغني على العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما معنى البسملة في مقدمة العقيدة؟",
+      "options": [
+        "ابتداء باسم الله الرحمن الرحيم",
+        "ابتداء بالحمد لله رب العالمين",
+        "ابتداء بالشكر لله",
+        "ابتداء بالصلاة على النبي ﷺ"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "البسملة هي الابتداء باسم الله الرحمن الرحيم قبل مسائل الفن.",
+      "textReference": "مقدمة العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما سبب تقديم البسملة على الحمد لله في بداية الدرس؟",
+      "options": [
+        "حديث البسملة أقوى من حديث الحمد لله",
+        "الحمد لله ضعيف",
+        "أمر العلماء بهذا ترتيبًا تاريخيًا",
+        "للاعتبارات البلاغية فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "البسملة أقوى من حديث الحمد لله، لذا يبدأ بها المصنف.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "truefalse",
+      "question": "يمكن اعتبار الحمد لله ابتداء حقيقي لأن سبقته البسملة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "الحمد لله يعتبر ابتداء إضافي لأن البسملة سبقته.",
+      "textReference": "شرح المرغني على العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "الحمد هو الثناء باللسان لأجل ________ اختياري.",
+      "options": [],
+      "correctAnswer": "جميل",
+      "answerReason": "الحمد هو الثناء بالكلام لأجل جميل اختياري سواء في مقابل نعمة أم لا.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "أي من الأمور التالية من خصائص الحمد دون الشكر؟",
+      "options": [
+        "يمكن أن يكون في غير مقابل نعمة",
+        "يجب أن يكون في مقابل نعمة",
+        "يشمل الأركان والقلب",
+        "لا يشمل الكلام"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الحمد يمكن أن يكون في غير مقابل نعمة، بينما الشكر يكون فقط في مقابل نعمة.",
+      "textReference": "مفردات مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "truefalse",
+      "question": "الشكر يشمل الجوارح والقلب واللسان ويكون دائمًا في مقابل نعمة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الشكر يشمل اللسان والجوارح والقلب ويكون في مقابل نعمة.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "لماذا يسمى الثناء على الصفات الإلزامية للخلق مدحًا وليس حمدًا؟",
+      "options": [
+        "لأن الصفات لم يخترها المحمود",
+        "لأنها ليست جميلة",
+        "لأنها ليست معروفة",
+        "لأنها ليست مذكورة في القرآن"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "لأن الثناء على الصفات التي لم يخترها المحمود يسمى مدحًا وليس حمدًا.",
+      "textReference": "شرح مفردات مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "الصلاة على النبي ﷺ تعني رحمة الله عليه مقرونة ب ________.",
+      "options": [],
+      "correctAnswer": "التعظيم",
+      "answerReason": "الصلاة على النبي ﷺ هي رحمة الله عليه مقرونة بالتعظيم.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "truefalse",
+      "question": "عند قول 'الصلاة والسلام على رسول الله' يُفهم المقصود بالنص أنه سيدنا محمد ﷺ فقط.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "لفظ 'رسول الله' غالب على سيدنا محمد ﷺ ويفهم منه المقصود.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما معنى السلام في 'السلام على رسول الله'؟",
+      "options": [
+        "تحية وتعظيم من الله",
+        "دعاء للشخص نفسه",
+        "تحية من الناس فقط",
+        "دعاء للشياطين"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "السلام هنا بمعنى تحية وتعظيم من الله على رسوله ﷺ.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما المقصود بالابتداء الإضافي؟",
+      "options": [
+        "ابتداء بما تقدم على المقصود بالذات وإن سبقته كلمات",
+        "ابتداء لم يسبق له شيء",
+        "ابتداء واجب شرعي",
+        "ابتداء لا قيمة له"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الابتداء الإضافي هو ما تقدم على المقصود بالذات وإن سبقته كلمات.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "truefalse",
+      "question": "الحمد لله في مقدمة العقيدة يمكن أن يكون في مقابل نعمة أو بدون مقابل نعمة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "الحمد يمكن أن يكون في مقابل نعمة أو بدون مقابل نعمة.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "fill",
+      "question": "الثناء بالكلام لأجل جميل اختياري يسمى ________.",
+      "options": [],
+      "correctAnswer": "حمد",
+      "answerReason": "الحمد هو الثناء بالكلام لأجل جميل اختياري.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما علاقة الحمد بالشكر؟",
+      "options": [
+        "يشتركان في اللسان وفي مقابل نعمة",
+        "الحمد مستقل تمامًا عن الشكر",
+        "الشكر مقدم على الحمد",
+        "لا يوجد علاقة بينهما"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "يشترك الحمد مع الشكر في اللسان وفي مقابل نعمة، مع اختلافات أخرى.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "truefalse",
+      "question": "يمكن أن يكون المدح على صفة لم يختارها المحمود يسمى حمدًا.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "إذا كانت الصفة لم يختارها المحمود، يسمى الثناء مدحًا وليس حمدًا.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "fill",
+      "question": "الثناء على صفات الاختيار للمحمود يسمى ________.",
+      "options": [],
+      "correctAnswer": "حمد",
+      "answerReason": "الثناء على الصفات التي اختارها المحمود يسمى حمدًا.",
+      "textReference": "شرح مفردات مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما معنى الصلاة في 'الصلاة على النبي ﷺ'؟",
+      "options": [
+        "دعاء ورحمة من الله على رسوله",
+        "عبادة خاصة بالمسلمين فقط",
+        "ثناء على المسلمين",
+        "دعاء للأعداء"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الصلاة هنا بمعنى دعاء ورحمة من الله على رسوله ﷺ.",
+      "textReference": "شرح العقيدة الصغرى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "truefalse",
+      "question": "السلام على رسول الله يعني السلام بمعنى التحية فقط ولا يشمل التعظيم.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "السلام هنا يشمل التحية والتعظيم من الله على رسوله ﷺ.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "fill",
+      "question": "الابتداء بالبسملة قبل مسائل الفن يسمى ابتداء ________.",
+      "options": [],
+      "correctAnswer": "حقيقي",
+      "answerReason": "الابتداء بالبسملة قبل مسائل الفن يسمى ابتداء حقيقي.",
+      "textReference": "مقدمة طالع البشرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "لماذا أجمع العلماء على تقديم البسملة ثم الحمد؟",
+      "options": [
+        "للاعتبار بالإجماع الفعلي بين السلف والخلف",
+        "لأن البسملة أضعف من الحمد",
+        "لأنه تقليد قديم فقط",
+        "لأغراض الزخرفة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "أجمع العلماء على تقديم البسملة ثم الحمد اتباعًا للإجماع الفعلي بين السلف والخلف.",
+      "textReference": "شرح مقدمة العقيدة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/aqida/ec3aqidas1.html#sent30"
+    }
+  ]
+}

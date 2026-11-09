@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "slug": "nahw_lesson4",
+    "title": {
+      "ar": "📗 النحو – الدرس 5",
+      "fr": "Grammaire – Leçon 5 : Les signes du nom",
+      "en": "Nahw – Lesson 5: Signs of the Noun"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما هي علامة الفعل الماضي التي ذكرت في الدرس؟",
+      "options": [
+        "قد",
+        "سين",
+        "سوف",
+        "تاء التأنيث"
+      ],
+      "correctAnswer": 0,
+      "explanation": "حرف 'قد' يدخل على الفعل الماضي ويفيد التحقيق أو تقريب وقوع الحدث.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ماذا تفيد 'قد' مع الفعل الماضي؟",
+      "options": [
+        "إفادة التحقيق أو تقريب وقت حدوث الحدث",
+        "إفادة التسكين",
+        "إفادة الأمر",
+        "إفادة النفي"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'قد' مع الفعل الماضي تفيد تحقق الحدث أو قرب وقوعه من زمن الكلام.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "هل 'قد' تدخل على الفعل المضارع؟",
+      "options": [
+        "نعم، وتفيد التقليل أو التكثير",
+        "لا، تدخل على الماضي فقط",
+        "نعم، وتفيد الأمر",
+        "لا، تدخل على الأسماء فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'قد' تدخل على الفعل المضارع لإفادة التقليل أو التكثير حسب السياق.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما معنى 'قد أفلح المؤمنون' من حيث الإعراب؟",
+      "options": [
+        "قد: حرف تحقيق، أفلح: فعل ماضٍ مبني على الفتحة، المؤمنون: فاعل مرفوع بالواو",
+        "قد: فعل ماضٍ، أفلح: فعل مضارع، المؤمنون: مفعول به",
+        "قد: حرف جر، أفلح: فعل ماضٍ، المؤمنون: مفعول لأجله",
+        "قد: حرف تقليل، أفلح: فعل مضارع، المؤمنون: مبتدأ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "التحليل النحوي يشير إلى أن 'قد' هنا حرف تحقيق لا محل له من الإعراب، والفعل الماضي 'أفلح' مبني على الفتحة، و'المؤمنون' فاعل مرفوع بالواو لأنه جمع مذكر سالم.",
+      "textReference": "الدرس الخامس – إعراب أمثلة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما هي وظيفة السين مع الفعل المضارع؟",
+      "options": [
+        "تدل على حدوث الفعل قريب من زمن الكلام",
+        "تدل على الماضي",
+        "تدل على الأمر",
+        "تدل على التسكين"
+      ],
+      "correctAnswer": 0,
+      "explanation": "السين تدخل على الفعل المضارع لتدل على أن وقوع الحدث قريب من زمن الكلام.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ماذا تفيد سوف مع الفعل المضارع؟",
+      "options": [
+        "تدل على وقوع الفعل في المستقبل البعيد",
+        "تدل على تحقق الفعل",
+        "تدل على التكثير",
+        "تدل على التأنيث"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'سوف' حرف تسويف، يدل على أن الفعل المضارع سيقع في المستقبل، ويمتد الزمن بين الكلام والحدث.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "هل السين أو سوف تدخل على الفعل الماضي أو الأمر؟",
+      "options": [
+        "لا، تدخل فقط على الفعل المضارع",
+        "نعم، تدخل على الماضي فقط",
+        "نعم، تدخل على الأمر فقط",
+        "نعم، تدخل على الماضي والأمر معًا"
+      ],
+      "correctAnswer": 0,
+      "explanation": "السين والسوف لا تدخلان إلا مع الفعل المضارع، ولا تستعملان مع الماضي أو الأمر.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما معنى 'قد قامت الصلاة' عند استعمال 'قد' مع الفعل الماضي؟",
+      "options": [
+        "تقريب زمن حدوث الفعل",
+        "تحقيق وقوع الحدث فقط",
+        "إظهار الفعل في المستقبل",
+        "نفي وقوع الفعل"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'قد' هنا تدل على أن الصلاة قد بدأت قريبًا من زمن الكلام، أي تقريب وقت حدوث الحدث.",
+      "textReference": "الدرس الخامس – أمثلة تطبيقية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما هي تاء التأنيث الساكنة؟",
+      "options": [
+        "حرف يلحق الفعل الماضي للدلالة على تأنيث الفاعل",
+        "حرف يلحق الفعل المضارع لتأنيث الفعل",
+        "حرف يفيد التكثير",
+        "حرف يفيد التقليل"
+      ],
+      "correctAnswer": 0,
+      "explanation": "تاء التأنيث الساكنة تلحق الفعل الماضي إذا كان الفاعل مؤنثًا لتدل على التأنيث.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "ماذا نفهم إذا رأينا الكلمة تحتوي على قد، سين، أو سوف؟",
+      "options": [
+        "أن الكلمة فعل",
+        "أن الكلمة اسم",
+        "أن الكلمة حرف",
+        "أن الكلمة ظرف"
+      ],
+      "correctAnswer": 0,
+      "explanation": "وجود هذه العلامات يدل على أن الكلمة فعل وليست اسمًا أو حرفًا.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما وظيفة 'قد' عند دخولها على الفعل المضارع في مثال 'قد يصدق الكذوب'؟",
+      "options": [
+        "تفيد التقليل",
+        "تفيد التقريب",
+        "تفيد التأنيث",
+        "تفيد النفي"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'قد' هنا تفيد أن صدق الكذوب قليل أو في حالات معينة وليس مطلقًا.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ماذا يعني أن الفعل 'قد ينال المجتهد بغيته'؟",
+      "options": [
+        "قد تفيد التكثير أو القرب",
+        "قد تفيد التسكين",
+        "قد تفيد التنفيذ الفوري",
+        "قد تفيد الأمر"
+      ],
+      "correctAnswer": 0,
+      "explanation": "في الفعل المضارع 'قد' تفيد أن المجتهد سيصل إلى غايته بنسب متفاوتة حسب الاجتهاد.",
+      "textReference": "الدرس الخامس – أمثلة تطبيقية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما الفرق بين السين والسوف من حيث الزمن؟",
+      "options": [
+        "السين: قريب، سوف: بعيد",
+        "السين: بعيد، سوف: قريب",
+        "كلاهما قريب",
+        "كلاهما بعيد"
+      ],
+      "correctAnswer": 0,
+      "explanation": "السين تدل على أن الفعل المضارع قريب من زمن الكلام، وسوف تدل على المستقبل البعيد.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "هل السين والسوف يمكن أن تدخلا على الفعل الماضي؟",
+      "options": [
+        "لا",
+        "نعم",
+        "أحيانًا",
+        "فقط مع الأمر"
+      ],
+      "correctAnswer": 0,
+      "explanation": "السين والسوف لا تدخلان إلا على الفعل المضارع، ولا تُستعملان مع الماضي أو الأمر.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما معنى 'سوف يعطيك ربك فترضى' من حيث إعراب سوف؟",
+      "options": [
+        "سوف: حرف تسويف للدلالة على المستقبل البعيد",
+        "سوف: فعل مضارع",
+        "سوف: حرف تحقيق",
+        "سوف: حرف تنصيص"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'سوف' هنا تدل على أن الفعل المضارع 'يعطيك' سيقع في المستقبل البعيد، أي يوم القيامة.",
+      "textReference": "الدرس الخامس – أمثلة قرآنية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما هي علامة رفع الفعل المضارع في مثال 'يعطيك'؟",
+      "options": [
+        "الضمة الظاهرة على آخره",
+        "الفتحة الظاهرة على آخره",
+        "الكسرة الظاهرة على آخره",
+        "السكون"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الفعل المضارع المرفوع علامة رفعه الضمة الظاهرة على آخره، إلا إذا منع من ظهورها.",
+      "textReference": "الدرس الخامس – إعراب أمثلة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما معنى حرف التسويف في النحو؟",
+      "options": [
+        "يدل على وقوع الفعل في المستقبل",
+        "يدل على وقوع الفعل في الماضي",
+        "يدل على التكرار",
+        "يدل على الأمر"
+      ],
+      "correctAnswer": 0,
+      "explanation": "حروف التسويف مثل 'سوف' تدل على أن الفعل سيقع في زمن المستقبل.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "متى تُستعمل التاء الساكنة في الفعل؟",
+      "options": [
+        "مع الفعل الماضي لتأنيث الفاعل",
+        "مع الفعل المضارع لتأنيث الفاعل",
+        "مع الفعل الأمر لتأنيث الفاعل",
+        "مع الأسماء فقط"
+      ],
+      "correctAnswer": 0,
+      "explanation": "تاء التأنيث الساكنة تُلحق الفعل الماضي إذا كان الفاعل مؤنثًا لتدل على التأنيث.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما هي العلاقة بين جذر الكلمة وصياغتها من حيث الزمن والمعنى؟",
+      "options": [
+        "الجذر يحدد المعنى الأصلي وتبقى الصياغة المختلفة تنقل المعنى الزمني",
+        "الجذر يحدد الزمن فقط",
+        "الجذر يحدد نوع الكلمة (اسم/فعل) فقط",
+        "لا علاقة بين الجذر والزمن"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الصياغة المختلفة للفعل تعطي دلالة زمنية ومعنوية مختلفة عن الجذر الأصلي.",
+      "textReference": "الدرس الخامس – تفسير الدرس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "ما هي علامة رفع الفاعل في جمع المذكر السالم؟",
+      "options": [
+        "الواو",
+        "الضمة",
+        "الياء",
+        "الكسرة"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الفاعل في جمع المذكر السالم مرفوع بالواو، ويحل محل التنوين الموجود في المفرد.",
+      "textReference": "الدرس الخامس – إعراب أمثلة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "ما الفرق بين معنى 'قد' في الماضي والمعاصر؟",
+      "options": [
+        "الماضي: تحقيق أو تقريب، المضارع: تقليل أو تكثير",
+        "الماضي: نفي، المضارع: تأكيد",
+        "الماضي: أمر، المضارع: نهي",
+        "الماضي: تعليل، المضارع: تقرير"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'قد' عند الفعل الماضي تفيد التحقيق أو تقريب الزمن، وعند المضارع تفيد التقليل أو التكثير حسب السياق.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما هي وظيفة الضمة المقدرة في الفعل المضارع المعتل الآخر؟",
+      "options": [
+        "تُقدر على آخره منعًا من التعذر",
+        "تدل على النفي",
+        "تدل على الأمر",
+        "تدل على الماضي"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الفعل المضارع المعتل الآخر تُقدر الضمة على آخره لمنع التعذر بسبب وجود حرف العلة.",
+      "textReference": "الدرس الخامس – إعراب أمثلة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "لماذا نركز على إعراب أمثلة الدروس؟",
+      "options": [
+        "للتطبيق العملي للقواعد",
+        "للتسلية",
+        "لتكرار الحفظ فقط",
+        "لتقوية الذاكرة دون فهم"
+      ],
+      "correctAnswer": 0,
+      "explanation": "التركيز على إعراب الأمثلة يساعد الطالب على التطبيق العملي لما تعلمه من قواعد نحوية.",
+      "textReference": "الدرس الخامس – ملاحظات تعليمية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما نوع الكلمة التي تعرفنا عليها بوجود 'قد'، 'سين'، أو 'سوف'؟",
+      "options": [
+        "فعل",
+        "اسم",
+        "حرف",
+        "ظرف"
+      ],
+      "correctAnswer": 0,
+      "explanation": "وجود هذه العلامات يشير إلى أن الكلمة هي فعل وليست اسمًا أو حرفًا.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما الفرق بين 'قد' و'سوف' من حيث القرب والبعد الزمني؟",
+      "options": [
+        "قد: قريب أو مضارع، سوف: بعيد",
+        "قد: بعيد، سوف: قريب",
+        "كلاهما قريب",
+        "كلاهما بعيد"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'قد' يمكن أن تدل على التقريب أو التحقيق حسب الزمن، بينما 'سوف' دائمًا تدل على المستقبل البعيد.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "كيف نعرف أن الكلمة فعل عند رؤيتها تحتوي على 'سين'؟",
+      "options": [
+        "السين تدل على فعل مضارع قريب من زمن الكلام",
+        "السين تدل على الماضي",
+        "السين تدل على الأمر",
+        "السين تدل على الاسم"
+      ],
+      "correctAnswer": 0,
+      "explanation": "وجود السين في بداية الفعل يدل على فعل مضارع وقرب حدوثه من زمن الكلام.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما معنى حرف تحقيق؟",
+      "options": [
+        "يدل على تحقق وقوع الفعل",
+        "يدل على تأجيل الفعل",
+        "يدل على تأنيث الفعل",
+        "يدل على الأمر"
+      ],
+      "correctAnswer": 0,
+      "explanation": "حرف التحقيق مثل 'قد' عند دخوله على الماضي يدل على أن وقوع الفعل مؤكد.",
+      "textReference": "الدرس الخامس – علامات الأفعال",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما علاقة الجذر بصياغة الفعل المضارع من حيث الزمن؟",
+      "options": [
+        "الجذر يعطي المعنى الأساسي والصياغة تحدد الزمن",
+        "الجذر يحدد نوع الاسم فقط",
+        "الجذر يحدد الفعل الماضي فقط",
+        "لا علاقة بين الجذر والزمن"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الفعل يخرج من الجذر بمعنى أساسي، وتغييرات الصياغة تحدد الزمن والزمن النسبي للحدث.",
+      "textReference": "الدرس الخامس – تفسير الدرس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ماذا يدل حرف 'قد' عند دخوله على الفعل الماضي في القرآن؟",
+      "options": [
+        "إفادة التحقيق أو التقريب",
+        "إفادة المستقبل البعيد",
+        "إفادة الأمر",
+        "إفادة التأنيث"
+      ],
+      "correctAnswer": 0,
+      "explanation": "في القرآن الكريم، 'قد' عند دخولها على الماضي تدل على تحقق وقوع الحدث أو تقريب زمن حدوثه.",
+      "textReference": "الدرس الخامس – أمثلة قرآنية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما الهدف من درس علامات الأفعال في النحو؟",
+      "options": [
+        "تمييز الأفعال عن الأسماء والحروف وتحديد الزمن والمعنى",
+        "حفظ الكلمات دون فهم",
+        "تعلم الأسماء فقط",
+        "تكرار الحروف والأسماء"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الدرس يهدف إلى تعليم الطالب التعرف على علامات الأفعال وتمييزها عن الأسماء والحروف، مع فهم الدلالات الزمنية والمعنوية.",
+      "textReference": "الدرس الخامس – خلاصة الدرس",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/nahw/ec5nahws1.html#sent30"
+    }
+  ]
+}

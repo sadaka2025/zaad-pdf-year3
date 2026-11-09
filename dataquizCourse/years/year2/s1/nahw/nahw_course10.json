@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "slug": "nahw_lesson9",
+    "title": {
+      "ar": "📗 النحو – الدرس العاشر",
+      "fr": "Grammaire – Leçon 10 : Les signes du nom",
+      "en": "Nahw – Lesson 10: Signs of the Noun"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما الغاية من النظر في آخر الكلمة في النحو كما يذكر النص؟",
+      "options": [
+        "معرفة كونها معربة أو مبنية",
+        "معرفة نوع الجذر",
+        "تحديد البلاغة",
+        "استخراج الوزن الصرفي"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يوضح أن الحكم على الكلمة يكون بالنظر لآخرها لمعرفة الإعراب.",
+      "textReference": "بداية الدرس – أهمية آخر الكلمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "ما العلامة الأصلية للرفع كما يذكر النص؟",
+      "options": ["الضمة", "الفتحة", "الكسرة", "السكون"],
+      "correctAnswer": "A",
+      "explanation": "النص يصرّح أن الأصل في الرفع هو الضمة.",
+      "textReference": "علامات الرفع – الضمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "لماذا اعتُبرت الضمة أصلًا في علامات الرفع؟",
+      "options": [
+        "لشيوعها وكثرة وجودها في الكلمات المجردة",
+        "لأنها نادرة",
+        "لأنها خاصة بالمثنى",
+        "لأنها لا تُلفظ"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يعلل بأن كثرة وجودها في الكلمات المجردة جعلها أصلًا.",
+      "textReference": "سبب كون الضمة أصلًا",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "كم عدد علامات الرفع بحسب النص؟",
+      "options": ["أربع علامات", "علامتان", "ثلاث علامات", "علامة واحدة"],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر: الضمة، الألف، الواو، النون.",
+      "textReference": "علامات الرفع الأربع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "أين تظهر الضمة في الفعل المضارع؟",
+      "options": [
+        "إذا تجرد من الناصب والجازم ولم تتصل به نون النسوة أو واو الجماعة",
+        "إذا اتصلت به نون التوكيد",
+        "إذا سبقته أداة نصب",
+        "إذا دخلت عليه أداة جزم"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يوضح أن ظهور الضمة مشروط بتجرده من المؤثرات.",
+      "textReference": "الضمة في الفعل المضارع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "ما تعريف الاسم المفرد في النص؟",
+      "options": [
+        "ما ليس مثنى ولا مجموعًا ولا ملحقًا بهما",
+        "ما دل على اثنين",
+        "ما دل على جمع فقط",
+        "ما جاء على وزن معين"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يحدد أن المفرد لا يدل على اثنين ولا جمع ولا يُلحق بهما.",
+      "textReference": "تعريف الاسم المفرد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "ما المقصود بالأسماء الملحقة بالمثنى أو الجمع؟",
+      "options": [
+        "كلمات لا تستوفي شروط المثنى أو الجمع لكن صورتها تشبههما",
+        "كلمات معرفة فقط",
+        "أسماء أعلام",
+        "أسماء لا تُعرب"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يشرح أن بعض الكلمات تُلحق إعرابًا رغم عدم استيفاء شرط المعنى.",
+      "textReference": "الملحق بالمثنى والجمع",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "كيف تُرفع الأسماء المفردة التي تُقدر فيها الضمة؟",
+      "options": [
+        "ضمة مقدرة للتعذر أو الثقل أو المناسبة",
+        "بالألف",
+        "بالواو",
+        "بالسكون"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر التعذر والثقل والمناسبة كأسباب التقدير.",
+      "textReference": "الضمة المقدرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "ما تعريف جمع التكسير حسب النص؟",
+      "options": [
+        "ما دل على أكثر من اثنين مع تغير صيغة مفرده",
+        "ما دل على اثنين فقط",
+        "ما لم يتغير شكله",
+        "ما كان مؤنثًا فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يحدد أن جمع التكسير يتطلب تغيرًا في صيغة المفرد.",
+      "textReference": "تعريف جمع التكسير",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "كم نوعًا ذكر النص للتغيرات التي تطرأ عند جمع التكسير؟",
+      "options": ["ستة أنواع", "نوعان", "أربعة أنواع", "ثلاثة أنواع"],
+      "correctAnswer": "A",
+      "explanation": "النص يصنف التغيرات إلى ستة أقسام.",
+      "textReference": "أنواع تغير المفرد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent10"
+    },
+
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "ما مثال التغير بالشكل فقط كما ورد؟",
+      "options": ["أسد ← أسُد", "تهمة ← تهم", "صنو ← صنوان", "كتاب ← كتب"],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر أسد/أسُد كتغير بالشكل فقط.",
+      "textReference": "التغير بالشكل فقط",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما مثال التغير بالنقص دون تغير الشكل؟",
+      "options": ["تهمة ← تهم", "أسد ← أسُد", "رجل ← رجال", "كريم ← كرماء"],
+      "correctAnswer": "A",
+      "explanation": "النص يشرح أن حذف التاء في تهمة هو تغير بالنقص.",
+      "textReference": "التغير بالنقص فقط",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما مثال التغير بالزيادة دون تغير الشكل؟",
+      "options": ["صنو ← صنوان", "أسد ← أسُد", "كتاب ← كتب", "رجل ← رجال"],
+      "correctAnswer": "A",
+      "explanation": "إضافة الألف والنون في صنوان مثال الزيادة.",
+      "textReference": "التغير بالزيادة فقط",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "ما مثال التغير بالشكل مع النقص؟",
+      "options": ["كتاب ← كتب", "أسد ← أسُد", "تهمة ← تهم", "صنو ← صنوان"],
+      "correctAnswer": "A",
+      "explanation": "حذف الألف في كتاب وجمعها إلى كتب مع تغير الشكل.",
+      "textReference": "الشكل مع النقص",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "ما مثال التغير بالشكل مع الزيادة؟",
+      "options": ["رجل ← رجال", "أسد ← أسُد", "تهمة ← تهم", "فتى ← فتيان"],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر رجل ← رجال كتحول بالشكل وإضافة ألف بعد الراء.",
+      "textReference": "الشكل مع الزيادة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما مثال التغير بالشكل مع الزيادة والنقص معًا؟",
+      "options": ["كريم ← كرماء", "أسد ← أسُد", "تهمة ← تهم", "صنو ← صنوان"],
+      "correctAnswer": "A",
+      "explanation": "جمع كريم إلى كرماء تضمن زيادة ونقصًا وتغيرًا في الشكل.",
+      "textReference": "الشكل + النقص + الزيادة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "ما دلالة وجود الضمة في المفرد وجمع التكسير؟",
+      "options": [
+        "كونهما من مواضع الرفع الأصلية",
+        "أنهما مبنيان",
+        "أنهما منصوبان",
+        "أنهما لا يُعربان"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن الضمة تظهر في المفرد وجمع التكسير لأنها الأصل.",
+      "textReference": "مواضع الضمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "ما سبب ظهور الضمة في «زيد» في قول: جاء زيد؟",
+      "options": [
+        "لأنه فاعل مرفوع",
+        "لأنه مفعول به",
+        "لأنه مجرور",
+        "لأنه مبني"
+      ],
+      "correctAnswer": "A",
+      "explanation": "زيد في المثال فاعل مرفوع وعلامة رفعه الضمة.",
+      "textReference": "مثال زيد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "لماذا قُدّرت الضمة في كلمة «الفتى»؟",
+      "options": ["للتعذر", "للمناسبة", "للوثوق", "لأنها مبنية"],
+      "correctAnswer": "A",
+      "explanation": "النص يذكر أن منع ظهور الضمة في الفتى سببه التعذر.",
+      "textReference": "الضمة في الفتى",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "لماذا قُدّرت الضمة في «القاضي»؟",
+      "options": ["لثقل الضمة على الياء", "للتعذر", "للمناسبة", "للنقل"],
+      "correctAnswer": "A",
+      "explanation": "النص يعلل بأن الياء يناسبها الكسرة فتثقل عليها الضمة.",
+      "textReference": "الضمة في القاضي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "لماذا لا تظهر الضمة في كلمة «أخي»؟",
+      "options": [
+        "لأجل المناسبة مع ياء المتكلم",
+        "للتعذر",
+        "لأنها مبنية",
+        "لأنها منصوبة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يصرح بأن الضمة تُحذف لمناسبة ياء المتكلم.",
+      "textReference": "الضمة في أخي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما الشرط في الحكم على الكلمة بأنها مفرد؟",
+      "options": [
+        "ألا تدل على تثنية ولا جمع ولا تُلحق بهما",
+        "أن تكون نكرة فقط",
+        "أن تكون مؤنثة",
+        "أن تكون معرفة"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يحدد المفرد بأنه غير مثنى وغير جمع وغير ملحق.",
+      "textReference": "شرط المفرد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "كيف يعرّف النص جمع التكسير من حيث «الكسر»؟",
+      "options": [
+        "تغير صورة المفرد بكسر خفيف أو مضاعف",
+        "زيادة حرف فقط",
+        "حذف حرف فقط",
+        "نقل الحركة فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يشرح أن الكسر قد يكون خفيفًا أو مضاعفًا.",
+      "textReference": "معنى الكسر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "ما علاقة التغير في المفرد بكون الجمع تكسيرًا؟",
+      "options": [
+        "وجود أي نوع من الأنواع الستة يحقق التكسير",
+        "يجب أن يكون بالنقص فقط",
+        "يجب أن يكون بالزيادة فقط",
+        "يجب أن يكون بالشكل فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يقرر أن أحد الأنواع الستة كافٍ لاعتباره تكسيرًا.",
+      "textReference": "علاقة التغير بالتكسير",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما النتيجة العامة من دراسة المفرد وجمع التكسير هنا؟",
+      "options": [
+        "إثبات أن الضمة تظهر فيهما كعلامة رفع أصلية",
+        "التركيز على النصب",
+        "بيان مواضع الجر",
+        "إثبات البناء"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يبين أن الضمة أصل يظهر في المفرد وجمع التكسير.",
+      "textReference": "خلاصة مواضع الضمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "ما الهدف من دراسة الأنواع الستة لجمع التكسير؟",
+      "options": [
+        "فهم كيفية تغير بنية المفرد عند الجمع",
+        "تمييز الإعراب فقط",
+        "التفريق بين الصرف والنحو",
+        "التركيز على الفعل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "تحولات المفرد تساعد على فهم قواعد الجمع.",
+      "textReference": "هدف دراسة التكسير",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "ما العلامة الأصلية التي تظهر في المفرد وجمع التكسير للدلالة على الرفع؟",
+      "options": ["الضمة", "الفتحة", "الكسرة", "الألف"],
+      "correctAnswer": "A",
+      "explanation": "النص يعيد التأكيد على أن الأصل في الرفع هو الضمة.",
+      "textReference": "الرفع بالضمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "لماذا يُعَدّ جمع التكسير من أشهر أنواع الجمع في العربية؟",
+      "options": [
+        "لكثرة تغيرات المفرد وتنوعها",
+        "لأنه ثابت لا يتغير",
+        "لأنه لا يعرب",
+        "لأنه خاص بالمؤنث"
+      ],
+      "correctAnswer": "A",
+      "explanation": "النص يلمح إلى التنوع الكبير في صيغه وأنواعه.",
+      "textReference": "شهرة جمع التكسير",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "ما الذي اتفق عليه العلماء في تحديد الأصل والفرع في العلامات؟",
+      "options": [
+        "الأصل هو الأكثر استعمالًا، والفرع ما كان أقل استعمالًا",
+        "الأصل أضعف من الفرع",
+        "الفرع هو الأصل",
+        "لا يوجد أصل"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الأصل مرتبط بالشيوع في اللغة.",
+      "textReference": "أصل وفرع العلامات",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "ما خلاصة الدرس كما ورد في خاتمته؟",
+      "options": [
+        "بيان أن الضمة هي العلامة الأصلية للرفع في المفرد وجمع التكسير",
+        "شرح النصب والجر",
+        "الحديث عن الجزم",
+        "التركيز على الأفعال فقط"
+      ],
+      "correctAnswer": "A",
+      "explanation": "الخاتمة تقول: الأماكن التي تظهر فيها الضمة كعلامة أصلية للرفع.",
+      "textReference": "الخاتمة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith_course12/ec12hadith_course12s1.html#sent30"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "slug": "hadith_lesson2",
+    "title": {
+      "ar": "📘 امتحان الحديث – الدرس الثاني",
+      "fr": "Examen de Hadith – Leçon 2",
+      "en": "Hadith Exam – Lesson 2"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "ما هو الحكم الشرعي للتوبة عن الذنوب عند الإمام النووي؟",
+      "options": [
+        "واجبة من كل ذنب",
+        "مستحبة فقط للصغائر",
+        "لا تجوز إلا عند كبار العلماء",
+        "لا تجوز إلا بعد الحج"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الإمام النووي ذكر أن التوبة واجبة من كل ذنب.",
+      "textReference": "كتاب نزهة المتقين – باب التوبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "كل ذنب يكتب على المؤمن ويجب عليه التوبة، حتى الصغائر.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "كل ذنب مهما صغر يجب على المؤمن التوبة منه.",
+      "textReference": "حديث ابن عباس – التوبة واجبة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "question": "شرط التوبة الأول بحسب أهل العلم هو ________.",
+      "options": [],
+      "correctAnswer": "الندم",
+      "answerReason": "الندم على الذنب أول شروط التوبة النصوح.",
+      "textReference": "شروط التوبة النصوح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "ما هو الشرط الثاني للتوبة النصوح؟",
+      "options": [
+        "العزم على عدم العودة للذنب",
+        "الإكثار من الصلاة",
+        "الصدقة للفقراء",
+        "الصوم لمدة أسبوع"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "العزم على عدم العودة للذنب شرط أساسي لقبول التوبة.",
+      "textReference": "شروط التوبة النصوح – الإمام النووي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "ما الذي يميز توبة الأنبياء عن توبة المؤمنين؟",
+      "options": [
+        "معصومون فلا يذنبون",
+        "يضاعف الله حسناتهم",
+        "تكون بلسان فقط",
+        "لا يشملها الغفران"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الأنبياء معصومون عن الكبائر والصغائر، لذلك تختلف توبتهم عن باقي المؤمنين.",
+      "textReference": "فرق الأنبياء عن المؤمنين",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "truefalse",
+      "question": "التوبة النصوح تشمل ثلاثة شروط فقط: الندم، الإقلاع، العزم على عدم العودة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "ثلاثة شروط أساسية للتوبة النصوح مع إضافة شرط رابع إذا كانت الذنوب بحق العباد.",
+      "textReference": "شروط التوبة النصوح – الإمام النووي",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "الشرط الرابع للتوبة إذا كانت المعصية بين العبد والعبد هو ________.",
+      "options": [],
+      "correctAnswer": "تبرئة الذمة وأخذ العفو أو الرد",
+      "answerReason": "يجب براءة الذمة بحقوق العباد عند التوبة.",
+      "textReference": "شروط التوبة بين العباد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "ما الذي يغفر الذنوب الصغيرة إذا تاب عنها المؤمن؟",
+      "options": ["الاستغفار", "الصدقة", "الحج فقط", "الصوم فقط"],
+      "correctAnswer": 0,
+      "answerReason": "الاستغفار يكفر الذنوب الصغيرة إذا تاب عنها الإنسان.",
+      "textReference": "أحاديث التوبة والاستغفار",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "كم مرة كان النبي صلى الله عليه وسلم يستغفر في اليوم؟",
+      "options": ["أكثر من 70 مرة", "مرة واحدة", "10 مرات", "50 مرة"],
+      "correctAnswer": 0,
+      "answerReason": "ورد أنه كان يستغفر أكثر من 70 مرة يوميًا.",
+      "textReference": "حديث أبي هريرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "التوبة النصوح تشمل الندم والإقلاع عن الذنب والعزم على عدم العودة إليه فقط، دون حق العباد.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "إذا كانت المعصية بحق العباد، يجب أيضًا براءة الذمة وأخذ العفو أو رد الحقوق.",
+      "textReference": "شروط التوبة بين العباد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "fill",
+      "question": "التوبة التي تشمل الإقلاع والندم والعزم على عدم العودة تسمى ________.",
+      "options": [],
+      "correctAnswer": "التوبة النصوح",
+      "answerReason": "هذه هي شروط التوبة النصوح وفق علماء الإمام النووي.",
+      "textReference": "التوبة النصوح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "ما الذي يشترط إذا كانت المعصية بين العبد وربه فقط؟",
+      "options": [
+        "ثلاثة شروط: الندم، الإقلاع، العزم على عدم العودة",
+        "أربعة شروط",
+        "لا تحتاج إلى شروط",
+        "شرط واحد فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "المعصية بين العبد وربه تتطلب الثلاثة شروط فقط.",
+      "textReference": "شروط التوبة بين العبد وربه",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "ما هو أفضل استغفار وفق النووي؟",
+      "options": [
+        "بالقلب واللسان معا",
+        "باللسان فقط",
+        "بالقلب فقط",
+        "بالعمل فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "الإمام النووي أرجح أن يكون الاستغفار بالقلب واللسان معا.",
+      "textReference": "شرح التوبة والاستغفار",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "truefalse",
+      "question": "المعصية لا تصح التوبة عنها إذا لم يكن هناك ندم أو عزيمة على عدم العودة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "التوبة غير صحيحة إذا فقد أحد شروطها الأساسية.",
+      "textReference": "شروط التوبة النصوح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "fill",
+      "question": "إذا تاب المؤمن من بعض ذنوبه وترك الأخرى، فإن التوبة ________.",
+      "options": [],
+      "correctAnswer": "صحيحة للذنوب التي تاب عنها فقط",
+      "answerReason": "تبقى الذنوب الأخرى معلقة حتى يتوب عنها.",
+      "textReference": "التوبة الجزئية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "ما الذي يفعله المؤمن بعد ارتكاب الذنب مباشرة؟",
+      "options": [
+        "يستغفر الله ويذكره",
+        "ينتظر حتى الغد",
+        "يخفي الذنب فقط",
+        "يقيم صلاة التطوع فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "ينبغي الاستغفار مباشرة بعد الذنب ليمحو أثره.",
+      "textReference": "التوبة فور الذنب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "truefalse",
+      "question": "الحج يغفر جميع الذنوب الصغائر والكبائر دون توبة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "الحج يغفر الذنوب بشرط توبة نصوح، إلا إذا كان كبيرا يتطلب شروط التوبة.",
+      "textReference": "الحج والكبائر",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "question": "التوبة التي تشمل ندم وعزم على عدم العودة والإقلاع عن الذنب تسمى ________.",
+      "options": [],
+      "correctAnswer": "توبة نصوح",
+      "answerReason": "تعريف التوبة النصوح كما في كتاب الإمام النووي.",
+      "textReference": "تعريف التوبة النصوح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "ما الذي يفعله المؤمن إذا كانت المعصية بينه وبين العباد؟",
+      "options": [
+        "يرد الحقوق ويطلب العفو",
+        "يتوب بصلاة ركعتين فقط",
+        "يستغفر باللسان فقط",
+        "يصوم يوماً كاملاً"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "يجب براءة الذمة بحقوق العباد والطلب منهم العفو.",
+      "textReference": "التوبة بين العباد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "truefalse",
+      "question": "المؤمن إذا ارتكب معصية ثم تاب، يمكن أن يرتكب نفس المعصية مرة أخرى دون مشكلة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "يجب العزم على عدم العودة للمعصية لضمان قبول التوبة.",
+      "textReference": "التوبة النصوح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "question": "عدد مرات استغفار النبي صلى الله عليه وسلم يومياً هو ________.",
+      "options": [],
+      "correctAnswer": "أكثر من 70 مرة",
+      "answerReason": "العدد المذكور للتشريع والأخذ بالقدوة.",
+      "textReference": "حديث أبي هريرة",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "ما معنى قول الله تعالى: 'توبوا إلى الله توبة نصوحا'؟",
+      "options": [
+        "توبة خالصة بالإقلاع عن المعصية والندم والعزم على عدم العودة",
+        "توبة باللسان فقط",
+        "توبة مع الصوم والصدقة فقط",
+        "توبة مؤقتة فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "التوبة النصوح تتطلب شروطها الثلاثة وتكون خالصة لوجه الله.",
+      "textReference": "التوبة النصوح في القرآن",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "truefalse",
+      "question": "الأنبياء لا يحتاجون للاستغفار أو التوبة.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "الاستغفار للتشريع والأخذ بالقدوة، فالأنبياء معصومون لكن يصيغون المثل للأمة.",
+      "textReference": "استغفار النبي صلى الله عليه وسلم",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "fill",
+      "question": "التوبة تشمل ثلاثة شروط إذا كانت بين العبد وربه فقط: الإقلاع، الندم، و_______.",
+      "options": [],
+      "correctAnswer": "العزم على عدم العودة",
+      "answerReason": "الشروط الثلاثة الأساسية للتوبة النصوح.",
+      "textReference": "شروط التوبة النصوح",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "ما هو الإجراء عند ارتكاب المعصية بحق مال أو غيبة؟",
+      "options": [
+        "إرجاع الحقوق وطلب العفو",
+        "الاستغفار فقط",
+        "الصيام ثلاثة أيام",
+        "الصلاة ركعتين فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "يجب رد الحقوق أو طلب العفو من الشخص المتضرر.",
+      "textReference": "التوبة بين العباد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "truefalse",
+      "question": "إذا تاب الشخص من بعض الذنوب فقط، فإن جميع ذنوبه الأخرى تمسح تلقائياً.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 1,
+      "answerReason": "التوبة تصح فقط للذنوب التي تاب عنها الشخص.",
+      "textReference": "التوبة الجزئية",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "fill",
+      "question": "التوبة النصوح تشمل العزم على عدم العودة والإقلاع والندم، وإذا كانت المعصية بحق العباد، تشمل أيضا ________.",
+      "options": [],
+      "correctAnswer": "تبرئة الذمة وأخذ العفو أو رد الحقوق",
+      "answerReason": "الشروط الإضافية إذا كانت المعصية بين العباد.",
+      "textReference": "شروط التوبة النصوح بين العباد",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "ما معنى قول النووي أن التوبة واجبة من كل ذنب؟",
+      "options": [
+        "كل ذنب مهما كان صغيرا أو كبيرا يجب التوبة منه",
+        "التوبة فقط من الكبائر",
+        "التوبة اختيارية",
+        "التوبة فقط بعد الحج"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "التوبة واجبة من كل ذنب سواء صغير أو كبير.",
+      "textReference": "التوبة من كل ذنب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "truefalse",
+      "question": "تكرار ارتكاب الذنوب بعد التوبة النصوح لا يفسد قبول التوبة إذا كان هناك عزم على الإقلاع.",
+      "options": ["صحيح", "خطأ"],
+      "correctAnswer": 0,
+      "answerReason": "قد يذنب الإنسان ولكنه مجددًا يتوب بنية خالصة.",
+      "textReference": "التوبة النصوح ومكر الذنب",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "fill",
+      "question": "الله عز وجل يفرح بعودة عبده إذا تاب، كما جاء في ________.",
+      "options": [],
+      "correctAnswer": "الأحاديث الصحيحة",
+      "answerReason": "ورد في الأحاديث أن الله يفرح بعبده التائب.",
+      "textReference": "فرح الله بتوبة عبده",
+      "textReferenceLink": "PDFs/year1/htmlExtractionCourse/s1/hadith/ec3hadiths1.html#sent30"
+    }
+  ]
+}

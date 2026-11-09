@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "slug": "hadith_lesson0",
+    "title": {
+      "ar": "📘 امتحان الحديث – الدرس الافتتاحي",
+      "fr": "Examen de Hadith – Leçon 0",
+      "en": "Hadith Exam – Lesson 0"
+    },
+    "totalQuestions": 30
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "من مؤلف كتاب رياض الصالحين؟",
+      "options": [
+        "الإمام الغزالي",
+        "الإمام النووي",
+        "الإمام مالك",
+        "الإمام الشافعي"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "كتاب رياض الصالحين ألفه الإمام النووي رحمه الله.",
+      "textReference": "الإمام النووي ألف كتاب رياض الصالحين.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "علم الحديث الرواية يعني:",
+      "options": [
+        "حفظ الأحاديث مع الإسناد دون الحكم عليها",
+        "تصحيح الحديث وحكمه بالصحة أو الضعف",
+        "علم الفقه فقط",
+        "تعلم اللغة العربية"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "علم الحديث الرواية يهتم بحفظ الأحاديث وأسانيدها دون الحكم عليها.",
+      "textReference": "علم الحديث رواية يهتم بحفظ المتن والأسانيد.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent2"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "علم الحديث دراية يهتم بـ:",
+      "options": [
+        "معرفة الأحاديث الصحيحة من الضعيفة",
+        "حفظ الأحاديث فقط",
+        "تعلم التاريخ",
+        "التفسير فقط"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "علم الحديث دراية يهتم بالتحقق من صحة الحديث وتمييز الصحيح من الضعيف.",
+      "textReference": "علم الحديث دراية يميز الصحيح من الضعيف.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent3"
+    },
+    {
+      "id": 4,
+      "type": "truefalse",
+      "question": "الإمام النووي درس في الجامع الأزهر بدمشق.",
+      "correctAnswer": true,
+      "answerReason": "الإمام النووي التحق بفرع الأزهر في دمشق.",
+      "textReference": "الإمام النووي التحق بفرع الأزهر بدمشق.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent4"
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "كتاب رياض الصالحين يحتوي على أحاديث ضعيفة فقط.",
+      "correctAnswer": false,
+      "answerReason": "الكتاب يحتوي في الغالب على أحاديث صحيحة مع نسبة قليلة ضعيفة.",
+      "textReference": "رياض الصالحين: أغلب الأحاديث صحيحة، وبعضها ضعيفة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent5"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "الإمام النووي حصل على الإجازة في العلوم الشرعية والعربية من ________.",
+      "correctAnswer": "معهد الفتح الإسلامي بدمشق",
+      "answerReason": "درس الإمام النووي في معهد الفتح الإسلامي وحصل على الإجازة.",
+      "textReference": "درس الإمام النووي في معهد الفتح الإسلامي بدمشق.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent6"
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "question": "الدرس يشير إلى أن علم الحديث رواية مرتبط بعلم الحديث ________.",
+      "correctAnswer": "دراية",
+      "answerReason": "علم الحديث رواية مرتبط بعلم الحديث دراية.",
+      "textReference": "علم الحديث رواية مرتبط بعلم الحديث دراية.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent7"
+    },
+    {
+      "id": 8,
+      "type": "open",
+      "question": "اشرح الفرق بين علم الحديث رواية وعلم الحديث دراية.",
+      "correctAnswer": "رواية تهتم بالحفظ والأسانيد دون الحكم، والدراية تهتم بالتحقق من صحة الحديث وتمييز الصحيح من الضعيف.",
+      "answerReason": "هذا هو تعريف كل علم كما ورد في الدرس.",
+      "textReference": "رواية: الحفظ / دراية: التحقق من الصحة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent8"
+    },
+    {
+      "id": 9,
+      "type": "open",
+      "question": "اشرح أهمية كتاب رياض الصالحين.",
+      "correctAnswer": "جمع فيه الإمام النووي أحاديث صحيحة للوعظ والزهد والآداب والسلوك ليستفيد منها طلبة العلم والعوام.",
+      "answerReason": "الكتاب مهم للوعظ والسلوك والتزكية.",
+      "textReference": "رياض الصالحين يجمع أحاديث للوعظ والزهد والآداب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent9"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "الإمام النووي لقب بـ:",
+      "options": ["شيخ الإسلام", "الحافظ", "محيي الدين", "جميع ما ذكر"],
+      "correctAnswer": 3,
+      "answerReason": "للإمام النووي عدة ألقاب منها شيخ الإسلام والحافظ ومحيي الدين.",
+      "textReference": "ألقاب الإمام النووي: شيخ الإسلام، الحافظ، محيي الدين.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent10"
+    },
+    {
+      "id": 11,
+      "type": "truefalse",
+      "question": "الإمام النووي عاش في القرن السابع الهجري.",
+      "correctAnswer": true,
+      "answerReason": "الإمام النووي من علماء القرن السابع الهجري.",
+      "textReference": "الإمام النووي: القرن السابع الهجري.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent11"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "الدرس يشير إلى أن علم الحديث دراية يشبه:",
+      "options": [
+        "علم أصول الفقه",
+        "علم العقيدة",
+        "الفقه الشافعي فقط",
+        "اللغة العربية"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "علم الحديث دراية كعلم أصول الفقه بالنسبة للفقه.",
+      "textReference": "علم الحديث دراية يشبه أصول الفقه.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent12"
+    },
+    {
+      "id": 13,
+      "type": "fill",
+      "question": "الإمام النووي درس في جامعة ________ بلبنان.",
+      "correctAnswer": "الجنّان",
+      "answerReason": "الإمام النووي أكمل دراسته في جامعة الجنان بطرابلس.",
+      "textReference": "درس الإمام النووي في جامعة الجنان بطرابلس لبنان.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent13"
+    },
+    {
+      "id": 14,
+      "type": "fill",
+      "question": "الإمام النووي حفظ القرآن قبل بلوغه سن ________.",
+      "correctAnswer": "الرابعة عشرة",
+      "answerReason": "الإمام النووي حفظ القرآن الكريم قبل سن الرابعة عشرة.",
+      "textReference": "الإمام النووي حفظ القرآن قبل سن الرابعة عشرة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent14"
+    },
+    {
+      "id": 15,
+      "type": "open",
+      "question": "ما أبرز خصائص الإمام النووي؟",
+      "correctAnswer": "نابغة عصره، حافظ، ورع، تقى، مجتهد، عالم بالأصول والحديث.",
+      "answerReason": "هذه أهم خصائصه كما وردت في النص.",
+      "textReference": "خصائص الإمام النووي: نابغة عصره، حافظ، ورع، تقى.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent15"
+    },
+    {
+      "id": 16,
+      "type": "open",
+      "question": "اشرح علاقة الإمام النووي بطلبة العلم.",
+      "correctAnswer": "كان يعينهم، يراجع لهم الدروس، ويشجعهم على حفظ العلم وتطبيقه.",
+      "answerReason": "الإمام النووي كان قدوة للطلبة ويهتم بتعليمهم.",
+      "textReference": "الإمام النووي يدرس الطلبة ويراجع معهم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent16"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "كم عدد الأحاديث في كتاب رياض الصالحين تقريبًا؟",
+      "options": ["500 حديث", "أكثر من 1900 حديث", "1000 حديث", "300 حديث"],
+      "correctAnswer": 1,
+      "answerReason": "الكتاب يحتوي على أكثر من 1900 حديث.",
+      "textReference": "رياض الصالحين: أكثر من 1900 حديث.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent17"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "أغلب الأحاديث في رياض الصالحين:",
+      "options": ["صحيحة", "ضعيفة", "موضوعية", "مكذوبة"],
+      "correctAnswer": 0,
+      "answerReason": "أغلب الأحاديث صحيحة مع نسبة قليلة ضعيفة.",
+      "textReference": "رياض الصالحين: أغلب الأحاديث صحيحة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent18"
+    },
+    {
+      "id": 19,
+      "type": "truefalse",
+      "question": "الإمام النووي ألّف أيضًا كتاب الأذكار.",
+      "correctAnswer": true,
+      "answerReason": "الإمام النووي ألف كتاب الأذكار وغيره من المؤلفات.",
+      "textReference": "الإمام النووي ألف كتاب الأذكار.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent19"
+    },
+    {
+      "id": 20,
+      "type": "truefalse",
+      "question": "رياض الصالحين كتاب فقهي يحتوي على الأحكام الشرعية فقط.",
+      "correctAnswer": false,
+      "answerReason": "الكتاب للوعظ والزهد والآداب وليس كتابًا فقهيًا بحتًا.",
+      "textReference": "رياض الصالحين: كتاب للوعظ والزهد والآداب.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent20"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "question": "الإمام النووي عاش في القرن ________ الهجري.",
+      "correctAnswer": "السابع",
+      "answerReason": "الإمام النووي من علماء القرن السابع الهجري.",
+      "textReference": "الإمام النووي: القرن السابع الهجري.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent21"
+    },
+    {
+      "id": 22,
+      "type": "fill",
+      "question": "الإمام النووي لقب بـ ________ و ________.",
+      "correctAnswer": "شيخ الإسلام / الحافظ",
+      "answerReason": "الإمام النووي لقب بشيخ الإسلام والحافظ.",
+      "textReference": "ألقاب الإمام النووي: شيخ الإسلام والحافظ.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent22"
+    },
+    {
+      "id": 23,
+      "type": "open",
+      "question": "ما معنى 'الحافظ' في وصف الإمام النووي؟",
+      "correctAnswer": "من يحفظ العلوم بدقة ويحققها، خاصة الحديث.",
+      "answerReason": "الحافظ يعني الدقة في حفظ العلم وخاصة الحديث.",
+      "textReference": "الحافظ: حفظ العلوم بدقة.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent23"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "من أبرز شيوخ الإمام النووي:",
+      "options": ["الكمال المغربي", "شيخ الأزهر", "ابن كثير", "الإمام الشافعي"],
+      "correctAnswer": 0,
+      "answerReason": "درس الإمام النووي على يد الشيخ الكمال المغربي.",
+      "textReference": "أحد شيوخ النووي: الكمال المغربي.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent24"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "الدرس يشير إلى أن الإمام النووي كان يوصي بالعلم ويشجع:",
+      "options": [
+        "اللعب واللهو",
+        "حفظ القرآن والالتزام بالعلم",
+        "التجارة فقط",
+        "السفر فقط"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "كان الإمام النووي يوصي بحفظ القرآن والالتزام بالعلم.",
+      "textReference": "النووي يشجع حفظ القرآن والالتزام بالعلم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent25"
+    },
+    {
+      "id": 26,
+      "type": "truefalse",
+      "question": "النووي كان له مواقف مع السلاطين ويأمر بالمعروف وينهى عن المنكر.",
+      "correctAnswer": true,
+      "answerReason": "كان النووي مع علمه وورعه يأمر بالمعروف وينهى عن المنكر.",
+      "textReference": "النووي يأمر بالمعروف وينهى عن المنكر.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent26"
+    },
+    {
+      "id": 27,
+      "type": "fill",
+      "question": "رياض الصالحين يحتوي على أكثر من ________ باب و ________ حديث.",
+      "correctAnswer": "3372 / 1900",
+      "answerReason": "الكتاب يحتوي على أكثر من 3372 باب وأكثر من 1900 حديث.",
+      "textReference": "رياض الصالحين: 3372 باب، أكثر من 1900 حديث.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent27"
+    },
+    {
+      "id": 28,
+      "type": "open",
+      "question": "اشرح سبب شهرة كتاب رياض الصالحين بين طلبة العلم.",
+      "correctAnswer": "الكتاب جمع فيه الإمام النووي أحاديث مفيدة للوعظ والزهد والآداب، ويستفيد منه الطلبة والعلماء.",
+      "answerReason": "جمع الأحاديث الصحيحة للعلم والعمل بها.",
+      "textReference": "رياض الصالحين مشهور بين طلبة العلم.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent28"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "الحديث الضعيف في رياض الصالحين:",
+      "options": [
+        "غير موجود إطلاقًا",
+        "موجود قليلًا ويجوز العمل به بشروط",
+        "كله ضعيف",
+        "مكذوب"
+      ],
+      "correctAnswer": 1,
+      "answerReason": "الضعيف موجود قليلًا ويجوز العمل به بشروط خاصة في باب الفضائل.",
+      "textReference": "الأحاديث الضعيفة قليلة في رياض الصالحين.",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent29"
+    },
+    {
+      "id": 30,
+      "type": "matching",
+      "question": "صِل المصطلح بالتعريف الصحيح:",
+      "pairs": [
+        { "left": "رياض الصالحين", "right": "كتاب الوعظ والزهد والآداب" },
+        { "left": "علم الحديث رواية", "right": "حفظ الأحاديث مع أسانيدها" },
+        { "left": "علم الحديث دراية", "right": "تمييز الصحيح من الضعيف" },
+        { "left": "الإمام النووي", "right": "مؤلف كتاب رياض الصالحين" }
+      ],
+      "answerReason": "تعريفات المصطلحات الرئيسية في الدرس.",
+      "textReference": "مصطلحات الدرس الأول للحديث",
+      "textReferenceLink": "PDFs/year2/htmlExtractionCourse/s1/hadith/ec1hadiths1.html#sent30"
+    }
+  ]
+}
