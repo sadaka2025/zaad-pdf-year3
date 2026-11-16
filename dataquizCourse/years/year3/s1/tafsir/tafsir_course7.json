@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "slug": "tafsir",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة التفسير السنة الثالثة (الدرس السابع: تفسير سورة الشمس وسورة الليل)",
+      "fr": "Examen de Tafsir - Année 3 (Cours 7)",
+      "en": "Tafsir Exam - Year 3 (Lesson 7)"
+    },
+    "totalQuestions": 12
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "سورة الشمس سورة مكية، وبلغ عدد آياتها:",
+      "options": ["خمس عشرة آية", "عشرون آية", "إحدى وعشرون آية"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن سورة الشمس مكية وآياتها خمسة عشر آية[cite: 14].",
+      "textReference": "سورة الشمس هي مكي. وهي خمسة عشر اية.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "أقسم الله تعالى في سورة الشمس بسبعة أشياء من أعظم مخلوقاته لبين طريق الفلاح والشقاء.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر أن الله استهل سورة الشمس بقسمه بسبعة أشناع من أعظم مخلوقاته[cite: 14].",
+      "textReference": "استهل سبحانه وتعالى هذه الصورة بقسمه بسبعة اشياء. من اعظم مخلوقاته.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "معنى قوله تعالى (قد أفلح من زكاها) في سورة الشمس هو:",
+      "options": [
+        "فاز من طهر نفسه بالعمل الصالح والاخلاق الحسنة واجتناب المعاصي",
+        "خسر من أهمل دينه وترك العبادات المطلوبة",
+        "سعد من جمع المال الكثير في حياته الدنيا"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر زكاها بأنه طهر نفسه بالعمل الصالح والاخلاق الحسنة وباجتناب الذنوب[cite: 14].",
+      "textReference": "قد افلح من زكاها. اي قد فاز من طهر نفسه بالعمل الصالح والاخلاق الحسنة. وباجتناب الذنوب والمعاصي.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "truefalse",
+      "question": "السبب في هلاك قوم ثمود المذكور في السورة هو تكذيبهم لنبي الله صالح وعقرهم للناقة.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن ثمود كذبوا نبي الله صالحاً وعقروا الناقة فدمدم عليهم ربهم بذنبهم[cite: 14].",
+      "textReference": "كذب الثمود بطغواها اي كذب الثمود نبي الله صالحا بسبب طغيانها وعصيانها... فكذبوه فعقروها. فدمدم عليهم ربهم بذنبهم فسواها.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "سورة الليل سورة مكية، وبلغ عدد آياتها:",
+      "options": ["إحدى وعشرون آية", "خمس عشرة آية", "ثلاثون آية"],
+      "correctAnswer": 0,
+      "answerReason": "النص يذكر أن عدد آيات سورة الليل إحدى وعشرون آية[cite: 14].",
+      "textReference": "وسورة الليل هي مكية في قول الجمهور... عدد اياتها احدى وعشرون.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "أكمل: \"قوله تعالى في صفات الأتقياء: (فأما من أعطى واتقى وصدق بـ ………… فسنيسره لليسرى).\"",
+      "correctAnswer": "الحسنى",
+      "answerReason": "النص يورد الآية الكريمة: فأما من أعطى واتقى وصدق بالحسنى[cite: 14].",
+      "textReference": "فاما من اعطى واتقى وصدق بالحسنى فسنيسره لليسر.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "المقصود بـ (الحسنى) في قوله تعالى (وصدق بالحسنى) هي كلمة التوحيد (لا إله إلا الله).",
+      "correctAnswer": true,
+      "answerReason": "النص يفسر الحسنى بأنها كلمة التوحيد لا إله إلا الله[cite: 14].",
+      "textReference": "بالحسنى كلمة التوحيد لا اله الا الله.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "جزاء من بخل واستغنى وكذب بالحسنى في سورة الليل هو أن يسهله الله لـ:",
+      "options": [
+        "العسرى (طريق الشر والغواية المؤدي للنار)",
+        "اليُسرى (طريق الخير والصلاح)",
+        "الجنة ونعيمها المقيم"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن من بخل وكذب فسنيسره للعسرى وهي طريق فعل الشر[cite: 14].",
+      "textReference": "واما من بخل واستغنى وكذب بالحسنى فسنيسره للعسرى... وهو طريق فعل الشر والغواية التي يعرض صاحبه للنار.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "المراد بقوله تعالى (ناراً تلظى) في سورة الليل هو:",
+      "options": [
+        "ناراً تتوقد لا يصلاها إلا الأشقى",
+        "ناراً باردة ومسالمة",
+        "نار الدنيا التي تستخدم للطهي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر تلظى بأنها نار تتوقد لا يصلاها إلا الأشقى[cite: 14].",
+      "textReference": "نارا تلظأ اي خوفتكم يا اهل مكة من ان يكون مصيركم في الاخرة نارا تتوقد لا يصلاها الا الاشقى.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "إنفاق المتقي لماله وابتغائه وجه ربه الأعلى ليس رداً لجميل أو معروف أسدي إليه.",
+      "correctAnswer": true,
+      "answerReason": "النص ينص على أن إنفاقه ليس رداً للجميل أو معروف بل ابتغاء وجه ربه الأعلى[cite: 14].",
+      "textReference": "انه لا يبذل ما له ردا للجميل أو معروف اسدي اليه بل ما ينفقه من مال انما يبتغي به وجه ربه الاعلى ورضاه.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "قوله تعالى (إن علينا للهدى) يعني أن الله تعالى:",
+      "options": [
+        "بين طريق الحق من طريق الضلال وأعطى الإنسان العقل والرسل",
+        "أبرم إجبار جميع البشر على طريق الإيمان حصراً",
+        "ترك البشر هملاً بلا تشريع ولا توجيه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر الآية بأن الله تبيين طريق الحق من طريق الضلال وإعطاء الإنسان العقل وإرسال الرسل[cite: 14].",
+      "textReference": "اي ان علينا تبيين طريق الحق من طريق الضلال ليمتثل امرنا بسلوك الاول ونهينا عن ارتكاب الثاني. ذلك ان الله سبحانه وتعالى خلق الانسان واعطاه العقل ليميز به.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "أكمل: \"وصف الله النار بأنها لا يصلاها إلا الأشقى الذي كذب وتولى، ويقابلهم الأتقى الذي يؤتي ماله يـ …………\"",
+      "correctAnswer": "تزكى",
+      "answerReason": "النص يذكر قوله تعالى: وسيجنبها الأتقى الذي يؤتي مالها يتزكى[cite: 14].",
+      "textReference": "وسيجنبها الاتق الذي يؤتي ما له يتزكى.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs7.html#sent1"
+    }
+  ]
+}

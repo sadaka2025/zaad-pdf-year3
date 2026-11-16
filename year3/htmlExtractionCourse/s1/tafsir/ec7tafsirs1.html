@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس السابع مادة التفسير</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/tafsir/ec7tafsirs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس السابع مادة التفسير</h1>
+<p id="sent2">بسم الله الرحمن الرحيم والصلاة والسلام على رسول الله. مرحبا بكم طلبتنا الاعزاء في درس جديد في علم التفسير من خلال سورة الشمس. وكما تعودنا دائما في من خلال كل درس بان نحدد اهداف الدرس للطالب. كما هو معلوم على الطالب ان يتعرف على المفردات ومضامين سورة الشمس. ثم ان يدرك قيمة تزكية النفس واثارها. في السلوك العملي وايضا ان يحرص على طاعة الله تعالى وان يتجنب معصيته فهذه هي المضامين المطالب بها الطالب من خلال هذه الصورة. سورة الشمس هي مكي. وهي خمسة عشر اية. سميت بهذا الاسم لافتتاحها بالقسم الالهي بالشمس. وتتناول الصورة احوال النفس الانسانية. اذ تؤكد على فلاح من زكى نفسه وطهرها. وخيبة وخصمان من اهلك نفسه بالمعاصي. كما تتحدث السورة عن تكذيب ثمود لنبيهم وطغيانهم. فكان جزاؤهم ان نزل العقاب بصغيرهم وكبيرهم. فبماذا يكون فلاح النفس؟ وما هي عاقبة من دس نفسه وكذب وطغى. ثم ننتقل الكلام عن غريب اللفظ من خلال هذه الصورة. يغشاها اي يخفي الشمس ويحجبها. حتى يعم الظلام. وحاها اي بسطها. فالهمها فجورها وتقواها اي فكشف لها طريق الخير الذي ينبغي ان تتبعه وطريق الشر الذي يجب ان تتجنبه. زكاها نقعها من الخطايا بفعل الخيرات والايمان. دساها اجهز على نفسه بالذنوب والاثام حتى صارت خفية لا تكاد ترى. ثمود اي قوم صالح فعقروها اي فنحروها. فدمدم اي فاطبق عليهم العذاب. فتتناول سورة الشمس اولا الفلاح لمن زكى نفسه والشقاء لمن دساها. استهل سبحانه وتعالى هذه الصورة بقسمه بسبعة اشياء. من اعظم مخلوقاته. حيث قال تعالى والشمس وضحاها اقسم الله تعالى بالشمس وضوئها واشراقها. والقمر اذا تلاها اي والقمر اذا تبع الشمس طالعا عند غروبها. والنهار اذا جلاها اي والنهار اذا كشفت ظلمة عن الارض بارتفاعه. والليل اذا يغشاها والليل اذا غطى الشمس بظلمته والسماء وما بناها اي والسماء وبانئها. والارض وما طحاها اي والارض وانبساطها من كل جانب. والنفس وما سواها فالهمها فجورها وتقواها. وبكل نفس خلقها الله تعالى. في صورتها السوية وبين لها طريق الخير والشر. فبعد ان اقسم الله تعالى بما سبق من مخلوقاته ذكر جواب القسم بقوله قد افلح من زكاها. اي قد فاز من طهر نفسه بالعمل الصالح والاخلاق الحسنة. وباجتناب الذنوب والمعاصي والاخلاق السيئة. وقد خاب من دساها اي من اخفى نفسه واهانها بالمعصية والفجور. فقد خاب وخسر خسرانا مبينا. ثانيا اي ثانيا من المواضيع خلال هذه السورة. جزاء ثمود. على طغيانهم وتكذيبهم لنبيهم. قال الله تعالى كذب الثمود بطغواها اي كذب الثمود نبي الله صالحا بسبب طغيانها وعصيانها. اذ انبعث اشقاه اذ اسرع اشقى الناس في ثمود الى عقر الناقة برضا قومه. وقال لهم رسول الله ناقة الله وسقياه. فقال لهم اي فقال لهم رسول الله صالح اتركوا ناقة الله. لتشرب في يومها المخصص لها. فكذبوه فعقروها. فدمدم عليهم ربهم بذنبهم فسواها لما اخبر صالح عليه السلام قومه بانه رسول الله وان الناقة مرسلة من عند الله معجزة منه. وانهم اذا خالفوا ذلك سينزل عليهم العذاب كذبه قومه. وقتلوا الناقة. فعذبهم الله بذنبهم الذي ارتكبوه. واهلكهم جميعا. صغيرهم وكبيرهم فلم يفلت منهم احد. فلا يخاف عقباها المراد بها اي ان الله تعالى لا يخاف عاقبة فعله حين اهلكهم ودمرهم. لانه عزيز قوي لا يغشى احد. وتقرأ بالواو والفاء. تشير هذه الايات الى عظمة الله تعالى وقدرته من خلال قسمه باعظم مخلوقاته. المتمثلة في الشمس والقمر والليل والنهار وغيرها. وفي هذا دليل على انه الواحد الاحد المستحق للعبادة طمعا في رحمته وخوفا من عقابه الذي لحق بالمكذبين الجاحدين لنعمائه. التي جاد بها عليهم حيث خصصهم بمعجزة الناقة التي تميز بها عن باقي الامم. ثم ننتقل الى تفسير سورة اخرى من خلال جزء عم وهي سورة الليل. ونقسم هذه السورة الى جزئين اثنين. الجزء الاول من الاية رقم واحد الى الاية رقم احداشر. والاهداف التي يجب للطالب. ان يتعرف عليها هي معاني سورة الليل والفاظها. وان يستنتج من الايات المذكورة اعمال الانسان في الدنيا وجزاءها في الاخرة. وان يقوم سلوكه وان يلتزم بفعل الطاعات وتجنب المعاصي. وسورة الليل هي مكية في قول الجمهور. نزلت بعد سورة الاعلى عدد اياتها احدى وعشرون. نذهب للكلام غريب الالفاظ. يغشى اي يغطي كل شيء بظلامه تجلى اي ظهر وانكشف سعيكم او مسعاكم لشتى اي جمع شتيت وهو التفرق الشديد. واريد به هنا التنوع والاختلاف في الاحوال. بالحسنى كلمة التوحيد لا اله الا الله. داخل اي امسك المال وشح به ولم يؤد حق الله فيه. تردى هوى وسقط في النار او في القبر. واشتملت هذه الايات اه مواضيع اولا اعمال الانسان مختلفة ومتنوعة بين خير وشر. فمن خلال قوله والليل اذا يغشى والنهار اذا تجلى وما خلق الذكر والانثى اقسم الله سبحانه بالليل عندما يغشى بظلمته ما بين السماء والارض. وبالنهار اذا تجلى عن ظلام الليل وانكشف بضيائه. وبخلقه للزوجين ذكر والانثى وهما ادم وحواء. وكل ذكر وكل انثى بعدهما. ان عملكم لمختلف اختلافا كثير. بين عامل للجنة بالطاعة وعامل النار بالمعصية. ثانيا من المواضيع. صفات تيسر للانسان دخول الجنة. قال الله تعالى ان سعيكم لشتى. فاما من اعطى واتقى وصدق بالحسنى فسنيسره لليسر. فاما من اعطى حق الله وبذل ماله في سبيل مرضاة ربه واتقى الله وصرف نفسه عن الهواء والشهوات. وصدق بالحسنى اي بلا اله الا الله وما دلت عليه فسنيسره لليسر. اي نهيئه لفعل الخير والصلاح. الذي يدخل صاحبه الجنة. ثالثا من المواضيع. بعض الصفات تعرض صاحبها لنار جهنم. قال الله تعالى واما من بخل واستغنى وكذب بالحسنى فسنيسره للعسرى. اي واما من بخل بحق الله وامسك عن انفاق ماله في سبيل الخير وفيما يقربه من الله ومرضاته واستغنى عن ثواب ربه ورضوانه وجنته وكذب بالحسنى اي بلا اله الا الله لسنهئه للعسر. وهو طريق فعل الشر والغواية التي يعرض صاحبه للنار. ولا ينفعه ما له الذي بخل به اذا وقع في النار. ومن مقاصد القسم بحالتي الليل والنهار وبخلق الانسان وتكوينه من ذكر وانثى في هذه الايات للتنبيه على نظام الله البديع. وقدرته على التصرف في هذا الكون وتلك دلائل الوجود ووحدانية الله. ننتقل الجزء الثاني من هذه الصور. وهو من اية اتناشر الى الاية واحد وعشرون. نحدد كما آآ تعودنا ما على الطالب ان يأخذه من خلال هذه الايات. ان يتعرف على معاني الالفاظ ومضامينها ثم يستنتج من الايات المذكورة هداية الله للانسان. والجزاء الاخروي للاشقياء والاتقياء من الناس. وان يقوي ايمانه بالله عز وجل وبرسوله وان يفوز برضاء ربه وعطائه. بعد ان تعرفنا في الجزء الاول على سعي الانسان وعمله في الدنيا وجزاءه في الاخرة يؤكد القرآن الكريم. ذلك في هذه الايات في مقابلة بين الاشقياء الذين يعرضون انفسهم لنياب جهنم والاتقياء الناجين من عذاب الله الفائزين برظاؤه وعطائه. فهنا سؤال فما هي صفات الاشقياء والاتقياء؟ وما هو جزاء الفريقين في الاخرة؟ نذهب الى غريب الالفاظ من خلال هذا الجزء للهدى من الهداية وهي تبين طريق الحق من طريق الظلال. والاولى اي الدنيا افانذرتكم اي خوفتكم. فلظ تتوقدوا لا يصلاها اي لا يدخلها يتزكى. يتطهر. بزكاته وانفاقه في ابواب الخير. ويشتمل هذا الجزء على ما يأتي. اولا عون الله سبحانه لطالب الهدى. قال الله تعالى ان علينا للهدى اي ان علينا تبيين طريق الحق من طريق الضلال ليمتثل امرنا بسلوك الاول ونهينا عن ارتكاب الثاني. ذلك ان الله سبحانه وتعالى خلق الانسان واعطاه العقل ليميز به بين الخير والشر. وبعث الرسل مبشرين ووضع الشرائع التي تهديه الى سبيل الهدى والرشاد. ثانيا ان كل ما في هذا الكون ملك لله وحده. قال الله تعالى وان لنا للاخرة اي انه تعالى مالك الدنيا والاخرة. وجميع ما في هذا الوجود هو خالقه ومالكه. وهو المتصرف بهذا الكون تصرفا. مطلقا ومن اراد الدنيا او الاخرة فليقبل على الله. ومن طلبهما من غيره فقد اخطأ. ثالثا النار مستقر اهل الشقاء. والنجاة مصير اهل السعادة. قال الله تعالى. فانذرتكم نارا تلظأ اي خوفتكم يا اهل مكة من ان يكون مصيركم في الاخرة نارا تتوقد لا يصلاها الا الاشقى الذي كذب وتولى. اي ان هذه النار الملتهبة لا يدخلها ويعذب فيها الا الشقي الذي كذب بايات الله ورسله واعرض عن الايمان بالله واتباع شرائعه. لكنه لا يكون مستحقا لذلك الا اذا كان تكذيبه وكفره مؤبدا. اما من تاب الى الله يتوب عليه وسيجنبها الاتق الذي يؤتي ما له يتزكى. اي وسينجو. من العذاب في هذه النار الملتهبة الانسان المؤمن التقي الصالح الذي يبذل ما له وينفقه في سبيل الله فيطهره وينميه بهذا الانفاق وما لاحد عنده من نعمة تجزى. الا ابتغاء وجه ربه الاعلى. ولسوف يرضى اي انه لا يبذل ما له ردا للجميل او معروف اسدي اليه بل ما ينفقه من مال انما يبتغي به وجه ربه الاعلى ورضاه ولسوف يرضى بما يعطيه الله. من ثواب في الجنة وتهدف هذه الايات الى بيان سنن الله في هذا الكون الذي هو ملك لله وحده. وانه سبحانه خلق فيه الانسان وبين له طريق الخير والصلاح بارسال الرسل وانزال الكتب. ولكن من هذا الانسان من اختار طريق الفلاح ومنهم من اختار طريق الشقاء. الى هنا تنتهي حصتنا طلبتنا الاعزاء عسى ان نلتقي بكم في موعد جديد ان شاء الله تعالى. السلام عليكم ورحمة الله تعالى وبركاته. بركاته.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

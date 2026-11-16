@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس السابع مادة الفقه</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/fiqh/ec7fiqhs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس السابع مادة الفقه</h1>
+<p id="sent2">اعوذ بالله من الشيطان الرجيم. بسم الله الرحمن الرحيم. وصلى الله على سيدنا محمد وعلى اله الطيبين الطاهرين. ورضي الله عن اصحابه والتابعين لهم باحسان الى يوم الدين. وارض عنا معهم يا ارحم الراحمين. اللهم امين. اللهم لا علم الا ما علمتنا. فعلمنا وفهمنا وفقهنا واستعملنا في خدمة دينك يا رب العالمين. هذه المحاضرة او الدرس السابع ونتناول فيه الغسل واحكامه. وسنتعرض في هذا الدرس الى اسباب الغسل وفرائضه وسننه وصفته. وكذلك كذلك ما نميز به بين فرائض الغسل وسننه ومستحباته وكيفية امتثال صفة الغسل في حياتنا. المصلي يناجي ربه وتقتضي مناجاة المعبود الاستعداد لها. ولذلك يجب على من يناجي ربه ان يكون على طهارة. وهي على قسمين. طهارة صغرى وهي الوضوء وطهارة كبرى. وهي الغسل. وللغسل موجبات وفرائض وسنن وفضائل. فما هي موجبات الغسل؟ وما هي فرائضه وسننه؟ وما هي صفته؟ وهذا الذي سنتبينه في هذا الدرس. قال الامام ابن ابي زيد القيرواني رحمه الله تعالى. باب في الغسل. اما الطهر فهو من الجنابة ومن الحيض والنفاس فان اقتصر المتطهر على الغسل دون الوضوء اجزأه. وافضل له ان يتوضأ بعد ان يبدأ بغسل ما بفرجه. او جسده من الاذى. ثم يتوضأ وضوء الصلاة فان شاء غسل رجليه وان شاء اخرهما الى اخر غسله. ثم يغمس يديه في الاناء ويرفعهما غير قابض بهما شيئا. فيخللوا بهما اصول شعر رأسه ثم يغرف بهما على رأسه ثلاث غرفات غاسلا له بهن. وتفعل ذلك المرأة. وتضغث شعر رأسها. وليس عليها حل ايقاصها ثم يفيض الماء على شقه الايمن ثم على شقه الايسر ويتدلك بيديه باثر صب الماء حتى يعمم جسده. وما شك ان يكون الماء اخذه من جسده عاوده بالماء. ودلكه بيده ثم يعيب جميع جسده ويتابع عمق سرته وتحت حلقه ويخلل شعر لحيته وتحت جناحيه وبين اليتيه ورفقيه وتحت ركبتيه واسافل رجليه ويخلل اصابع يديه. ويغسل رجليه اخر ذلك يجمع ذلك فيهما لتمام غسله ولتمام وضوءه ان كان اخر غسلهما. ويحذر ان يمس ذكره في تدلكه بباطن كفه فان فعل ذلك وقد اوعب طهره اعاد الوضوء. وان مسه في ابتداء غسله وبعد ان غسل مواضع الوضوء منه فليمر بعد ذلك بيديه على مواضع الوضوء بالماء على ما ينبغي من ذلك. وينويه. شرح غريب المفردات. الحشفة رأس الذكر. قوله تضغث بفتح التاء والغين وسكون الضاد. تجمع وتضم. عقاصها كما سبق معنا في الدرس السابق جمع عكيصة وهي الخصلة من الشعر تضفيرها المرأة ثم ترسلها. يفيض اي يسيل قوله جناحيه اي ابطيه. قوله ورفغيه تثنية رفغ ورفغ. وهو باطن الفخذ من جهة البطن. يشتمل هذا الدرس على محورين رئيسين هما. اولا اسباب الغسل واحكامه. الغسل هو تعميم ظاهر الجسد بالماء مع الدلك. وله اسباب وفرائض وسنن وفضائل ومكروهات. وفيما يلي تفصيل كل من ذلك. اولا اسباب الغسل. هي الجنابة وتنشأ عن امرين. وهما الاول بالنسبة للرجل الانزال وهو خروج المني بلذة معتادة الحشفة من بالغ في قبل او دبر. ومر معنا ان المراد بالحشفة رأس الذكر او مقدارها ان كان مقطوعا او به تشوها. ثانيا بالنسبة للمرأة. يجب الغسل من انقطاع دم الحيض باحدى العلامتين. القصة او الجفوف. وقد سبق معنا بيانهما. وانقطاع دم النفاس ولو عند الولادة. لان ذكرنا ان عند السادة المالكية لا حد لاقل دم الحيض والنفاس وانما حدد باكثره وقد سبق معكم تفصيل ذلك. وفي ذلك قول المصنف رحمه الله اما الطهر فهو من الجنابة ومن الحيضة والنفاس سواء. الثاني هو فرائض الغسل وهي خمسة فرائض. الاول النية وهي قصد المغتسل رفع الجنابة بغسله. ثانيا تعميم الجسد كله بالماء. ثالثا الموالاة. وهي في علو الغسل دون تفريق زمني بين افعاله. رابعا الدلك مع صب الماء او بعده. خامسا واخر تخليل الشعر ولو كان انا كثيفا. الثالث سنن الغسل وهي كذلك خمسة. وهي اولا غسل اليدين الى الكوعين. الثاني المضمضة. الثالث الاستنشاق. الرابع الاستنثار. الخامس مسح الصماخين اي ثقب الاذنين. اما الرابع وهو فضائل الغسل فهي سبعة. وهي اولا التسمية في بداية الغسل. ثانيا البدء بازالة الاذى اي النجاسة من جسده. ثالثا تقديم اعضاء الوضوء. في الغسل رابعا البدء بغسل اعالي الجسد قبل اسافله. خامسا البدء بغسل ميامن الجسد قبل مياسيره. وسادسا تثليث غسل الرأس وسابعا وهو الاخير قلة الماء مع اتقان واحكام الغسل. وهكذا اتممنا مباحث المحور الاول من محوري الدرس الرئيسين. اما المحور الثاني فهو صفة الغسل. اولا يبدأ المغتسل بازالة الاذى عن مخرجيه بنية ازالة النجاسة. ثانيا يتوضأ وضوء الصلاة. ويؤخر غسل رجليه الى اخر غسله. او يغسلهما مع الوضوء. ثالثا يبلل يديه بالماء فيخلل اصول شعره ويغرف الماء على رأسه ثلاث غرفات مع التخليل ليدخل الماء جميع شعره. وتفعل المرأة مثل الرجل وتجمع شعر رأسها ليدخله الماء. ولا يجب عليها حل ضفائرها الا ان تربطها بخيوط كثيرة. وقد ذكرنا ان ضابط الكثرة ثلاث فما زاد عن ذلك. رابعا يفيض الماء على شقه الايمن ثم على شقه الايسر. بادئ بالاعلى في كليهما. وفي الحديث النبوي الشريف عن سيدنا مسروق بن الاجدع. الوادعي عن السيدة عائشة رضي الله عنها وارضاها قالت كان النبي صلى الله عليه واله وسلم يعجبه التيمن في تنعله وترجله وطهره وفي شأنه كله. رواه البخاري. ويتدلك المغتسل وجوبا مع صب الماء. او بعده بزمن لا طول فيه. اي لابد من اعتبار الموالاة في ذلك. حتى يتحقق تعميم جسده. ويوكل غيره عند العجز عن القيام بذلك. كما في بعض الاعضاء التي يعسر عليه الوصول اليها. وفي ذلك قول الامام ابن ابي زيد القيرواني رحمه الله. وافضل له ان يتوضأ بعد ان يبدأ. الى قوله ويتدلك بيديه باثر صب الماء حتى يعمم جسده. وبما ان بعض المواضع كما قلنا قد لا يصل اليها الماء فانه يجب على المغتسل ان يعودها الماء حتى يتحقق وصول الماء اليها مثل باطن السرة. وتحت الحلق وتحت اللحية وتحت الابط وبين الاليتين وباطن الفخذين وتحت الركبتين واسافل الرجلين وكل ما شك المصلي في وصول الماء اليه. وفي ذلك قال المصنف رحمه الله وما شك ان يكون الماء اخذه من جسده عاوده بالماء ودلكه بيده. الى قوله وتحت ركبتيه واسافل ويخلل اصابع يديه. خامسا يغسل رجليه لغسله ووضوءه. ان لم يكن غسلهما في وضوءه. ويتحفظ اثناء غسله من مس ذكره بباطن اصابعه او جنبها. فان مس ذكره اعاد وضوءه وفي ذلك قال المصنف رحمه الله تعالى ان يمس ذكره في تدلكه بباطن كفه. فان فعل ذلك وقد اوعد طهره اعاد الوضوء. ومن فوائد هذا الدرس حث المسلم على العناية بجمال مظهره. وطهارة بدنه تقربا الى الله سبحانه وتعالى. قياما بحق جسمه وبدنه عليه في ذلك. فهو امانة اودعها الله سبحانه وتعالى عنده. وقد جاء في حديث مسلم في صفة غسل النبي صلى الله عليه واله وسلم. ما روته عنه ميمونة رضي الله عنها وارضاها زوج النبي صلى الله عليه واله وسلم انها قالت ادنيت لرسول الله صلى الله عليه واله وسلم غسله من الجنابة. غسل كفيه مرتين او ثلاثة ثم ادخل يديه في الاناء ثم افرغ به على فرجه وغسله بشماله ثم ضرب بشماله الارض فدلكها. بلكا شديدا. ثم توضأ وضوءه للصلاة ثم افرغ على رأسه ثلاث حفنات ملء كفيه ثم غسل سائر جسده ثم تنحى عن مقامه ذلك فغسل رجليه. ثم اتيته بالمنديل فرده. هذا وصلى الله على سيدنا محمد وعلى اله وسلم.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

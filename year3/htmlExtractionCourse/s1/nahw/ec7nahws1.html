@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس السابع مادة النحو</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/nahw/ec7nahws1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس السابع مادة النحو</h1>
+<p id="sent2">بسم الله الرحمن الرحيم. الحمد لله رب العالمين. وافضل الصلاة واتم التسليم على سيدنا محمد وعلى اله واصحابه اجمعين. يقول المصنف رحمه الله في كتاب الاجرومية لابن اج الروم. باب باب فيه باب العطف. نعم. نعم. قال رحمه الله تعالى وحروف العطف عشرة. نعم. تفضل سيدي. عبد السميع اقرأ لنا حروف العطف كما قالها ابن الروم. الله يكرمكم وبارك فيكم فيكم بارك الله يا سيدي. بسم الله الرحمن الرحيم. صل يا ربي وسلم على سيدنا محمد وعلى اله وصحبه اجمعين. قال المصنف رحمه الله ونفعنا الله بعلومه وعلوم شيخنا. وبكم يا سيدي. باب العطف. وحروف العطف عشرة وهي الواو والفاء وثم واو وان واما وبل ولا ولكن وحتى في بعض المواضع نعم في بعض الامكنة يعني نعم. قال محمد بن عبدالحميد رحمه الله تعالى حروف العطف. قال للعطف معنيان احدهما لغوي والاخر اصطلاحي. العطف اللغوي يعني الميل من حيث اللغة. يعني اخذته العاطفة والعطف عطف فلان على الفقير. مثلا تقول عطف فلان على فلان. تريد انه مال اليه واشفق عليه. نعم. اما العطف في اصطلاح او في الاصطلاح يعني في اصطلاحي النحات. قال فهو قسمان الاول عطف البيان. والثاني عطف النسق. نعم. عطف البيان قال هو التابع الجامد الموضح لمتبوعه في المعارف المخصص له في النكيرات. الموضح لمتبوعه في المعارف المخصص له في النكرات. فمثال عطف البيان في المعارف جاءني محمد محمد ابوك هذا عطف بيان. حتى يبين تقول جاءني محمد. محمد من؟ ابوك. جاءني محمد ابوك. حتى يبين من هو محمد. نعم. فابوك عطف بيان على محمد. وكلاهما معرفة. والثاني في المثال موضح للاول. يعني الثاني اللي هو ابوك موضح لمن؟ لمحمد من هو محمد؟ نعم. مثال كذلك في النكرات نعم العطف. قوله تعالى من من صديد. فصديد عطف بيان على ماء. وكلاهما نكرة. والثاني في المثال مخصص للاول. اللي هو صديد صديد هو الثاني مخصص للماء يعني خصص نوعية الماء ماء صديدا والعياذ بالله. نسأل الله السلامة. واما عطف النسق فهو عطف النسق. التابع الذي يتوسط بينه وبين متبوع احد الحروف العشرة نعم التابع الذي يتوسط بينه وبين متبوعه احد عشر احد الحروف العشرة. وهذه الحروف هي الواو. الواو لمطلق الجمع. فيعطف بها. يعني اذا اردت ان تذكر مجموعة من الاسماء فتجعل بين كل اسم او بعد كل اسم حرف الواو. كقول الله تعالى يا ايها الذين امنوا اذا قمتم الى الصلاة فاغسلوا وجوهكم وايديكم. الى المرافق وسحوا برؤوسكم وارجلكم الى الكعبين. هذه الواو لمطلق الجمعي نعم فيعطف بها المتقارنان نحو جاء محمد وعلي. اذا كان مجيئا معا مع بعضهم يعني. هادي وحدة ويعطف بها اثنين السابق على المتأخر نحو جاء علي ومحمود. يعني مجاوش مع بعضن وانما جاء علي قبل ثم محمود اذا كان مجيء محمود سابقا على مجيء علي جاء علي ومحمود كذلك يعطف بها المتأخر على السابق السابق على متأخر نحن جاء علي ومحمد. هنا تأخر على السابق من الذي تأخر اذا كان مجيء محمد متأخرا عن مجيء علي تقول جاء علي ومحمد الفاء الان انتهينا من الواو. الان حرف الفاء هي تفيد العطف. قال وهي للترتيب والتعقيب. والفاء للترتيب باتصال وثم للترتيب بانقطاعي او بانفصالي. نعم ومعنى الترتيب ان الثاني بعد الاول. هذا معنى الترتيب. الثاني بعد الاول. ومعنى التعقيب انه عقيبه بلا مهلة. معنى عقبه بلا مهلة نعم ويعطف بها المتأخر على السابق. الفاء قال وهي للترتيب والتعقيب. ويعطف معنى الترتيب ان الثاني بعد الاول. ومعنى التعقيب انه عقيبه بلا مهلة. نحن قدم الفرسان فالمشاة. فاذا اذا كان مجيء الفرسان سابقا ولم يكن بين قدوم الفريقين مهولة. يعني فاصل بينهما. فنأتي بالفاء باتصال نعم. ثم قال ثم وهي للترتيب مع التراخي عكس الفاء. ومعنى الترتيب قد سبق. ومعنى التراخي ان بين يعني ان للترتيب مع التراخي الترتيب يعني اه قبل قليل عند الكلام عن عن الفاء. نعم. لما تكلم عن الفاء تكلم على يعني الترتيب بالتراخي. قال ثم وهي للترتيب تراخي ومعنى الترتيب قد سبق ومعنى التراخي ان بين الاول والثاني يعني تم فاصل بسيط نحو ارسل الله موسى ثم عيسى ثم محمدا عليهم والسلام. السلام هذه ثم ثم للترتيب بانفصال. ترتيب نعم ولكن هذا الترتيب يكون فيه نوع من التراخي. مش وراء بعضهم. وهم مش مع بعضهم وانما ثم وقت بينهما. نعم. بين الاسماء. رابعا قال او وهي للتخيير او الاباحة. او للتخيير او الاباحة. نعم. والفرق بينهما التخيير لا يجوز معه الجمع. والاباحة يجوز معها الجمع. يعني اذا بش تختار تختار واحد من اصل ثلاثة. والاباحة يجوز ان تجمع الثلاثة مع بعض هذا معنى التخيير لا يجوز معه الجمع والاباحة يجوز معها الجمع. فمثال التخيير تزوج هندا او اختها. ومثال الاباحة ادرس الفقه او النحو. فان لديك من الشرع دليلا على انه لا يجوز الجمع بين هند واختها بالزواج. تشك في انه يجوز الجمع بين الفقه والنحو بالدراسة. خامسا ام وهي لطلب التعيين؟ بعد همزة الاستفهام نحو ادرست الفقه ام النحو؟ هذه لطلب يعني احد المعينين طلب التعيين نعم. سادسا اما بشرط ان تسبق بمثلها. مثل ماذا؟ او في المعنيين نحو نحو قوله تعالى فشدوا الوثاق فاما منا بعد. واما فداء. اه اه اشد الوثاق نعم فاما مثل او يعني كانك قلت فسدوا الوثاق فاما منا بعد او فداء جعل محل او اما نحو تزوج اما هندا واما اختاه. سابعا بل وهي للاضراب. ومعنى الاضراب جعل ما قبلها في حكم المسكوت عنه نحو. ما جاء محمد بل بكر. يعني محمد الذي جاء هو بكر. نعم اضرب عن الكلام الاول بكلام جديد هذا معنى بل للاضراب. قال ويشترط للعطف بها شرطان. الاول في بل ان يكون المعطوف بها مفردا. لا جملة والثاني الا يسبقها استفهام. الا يسبق بل استفهام. نعم. الثامن لا. وهي تنفي عما بعدها نفس الحكم الذي ثبت لما قبلها نحو جاء بكر لا خالد. مثل بل الا انها شروط كما وضعت لبن تقول جاء بكر لا خالد نعم فهذه من حروف كذلك من حروف العطف تاسعا لكن وهي تدل على تقرير حكم ما قبلها. واثبات ضده لما بعدها. نحو ماذا؟ لا احب الكسالى لكن المجتهدين. جيم. يعني لكن احب مجتهدين. نعم. هذه لكن تدل على تقرير حكم يعني حكم ما قبلها واثباتي ضدي لما بعدها. يعني هو ضد المجتهدين الكسالى. لا احب الكسالى لكن المجتهدين. فلكن هذه تفيد العطف. نعم. قال ويشترط للعطف بلاك ثلاثة شروط. ان يسبقها نفي. مثل قولك لا احب الكسالى. او نهي وان يكون المعطوف بها مفردا. والثالث الا تسبقها الواو. نعم حتى تكون عطف عاطفة لكن نعم ان لا تكون قبلها واو لا تقول لا احب الكسالى ولكن المجتهدين. صير معاز بطل عملها. بطل عملها كونها عاطفة. صارت يعني نوع اخر لانها اقترنت بالواو. الا تسبقها واو قال. العاشر حتى وهي للتدريج والغاية. والتدريج هو الداء هو الدلالة على انقضاء الحكم شيئا فشيئا بالتدرج. نحو ماذا؟ يموت الناس حتى الانبياء. يموت الناس حتى الانبياء. فحتى هنا ما اعرابها؟ حرف عاطفي نعم. وتأتي حتى ابتدائية غير عاطفة. نعم. اذا كان ما بعدها جملة نحو جاء اصحابنا حتى خالد حاضر. هذه نعم ابتدائية حتى خالد. وليست عاطفة وتارة جارة حتى نحو قوله تعالى حتى مطألأ الفجر. سلام هي حتى نطأ الفجر. فحتى هنا حرف جر وغاية. ولهذا قال المؤلف وحتى في بعض المواضع المصنف قال وحتى في بعض المواضع لم يقل يتركها مطلقا. ذكر كونها في بعض المواضيع تكون كونوا حرف عطف ومواضع اخرى اما ابتدائية او جارة. نعم. وهذا وبالله التوفيق نسأل الله تعالى ان يجعلنا من الذين قد فتح عليهم فتوح العارفين والعاشقين والمحبين لهذه المادة والمحبوبين انه سميع قريب مجيب. ثم قال حكم حروف العطف هذا في درس القادمين والحمد لله رب العالمين. السلام عليكم ورحمة الله وبركاته.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

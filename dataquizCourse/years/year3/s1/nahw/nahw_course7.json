@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "slug": "nahw",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة النحو السنة الثالثة (الدرس السابع: باب العطف وحروفه)",
+      "fr": "Examen de Nahw - Année 3 (Cours 7)",
+      "en": "Nahw Exam - Year 3 (Lesson 7)"
+    },
+    "totalQuestions": 12
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "العطف في اصطلاح النحاة ينقسم إلى قسمين رئيسيين هما:",
+      "options": [
+        "عطف البيان وعطف النسق",
+        "العطف الحقيقي والعطف المجازي",
+        "عطف الفعل وعطف الحرف"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن العطف في اصطلاح النحاة قسمان: عطف البيان وعطف النسق[cite: 13].",
+      "textReference": "اما العطف في اصطلاح او في الاصطلاح يعني في اصطلاحي النحات. قال فهو قسمان الاول عطف البيان. والثاني عطف النسق.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "عطف البيان هو التابع الجامد الموضح لمتبوعه في المعارف المخصص له في النكرات.",
+      "correctAnswer": true,
+      "answerReason": "النص يعرّف عطف البيان بأنه التابع الجامد الموضح لمتبوعه في المعارف المخصص له في النكرات[cite: 13].",
+      "textReference": "عطف البيان قال هو التابع الجامد الموضح لمتبوعه في المعارف المخصص له في النكيرات. الموضح لمتبوعه في المعارف المخصص له في النكرات.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "حروف العطف (عطف النسق) كما وردت في المتن هي:",
+      "options": ["عشرة أحرف", "سبعة أحرف", "اثنا عشر حرفاً"],
+      "correctAnswer": 0,
+      "answerReason": "النص يذكر صراحة أن حروف العطف عشرة[cite: 13].",
+      "textReference": "وحروف العطف عشرة وهي الواو والفاء وثم واو وان واما وبل ولا ولكن وحتى في بعض المواضع.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "truefalse",
+      "question": "حرف العطف (الواو) يفيد الترتيب والتعقيب بلا مهلة.",
+      "correctAnswer": false,
+      "answerReason": "النص يبين أن الواو لمطلق الجمع وليست للترتيب والتعقيب، بل الفاء هي التي للترتيب والتعقيب[cite: 13].",
+      "textReference": "الواو لمطلق الجمعي... والفاء قال وهي للترتيب والتعقيب.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "الفرق بين (الفاء) و(ثم) في عطف النسق هو أن:",
+      "options": [
+        "الفاء للترتيب والتعقيب بلا مهلة، وثم للترتيب مع التراخي والانفصال",
+        "الفاء للتراخي وثم للتعقيب الفوري",
+        "كلاهما يفيدان التراخي الشديد بلا فرق"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن الفاء للترتيب والتعقيب بلا مهلة، بينما ثم للترتيب مع التراخي[cite: 13].",
+      "textReference": "والفاء للترتيب باتصال وثم للترتيب بانقطاعي او بانفصالي... ثم وهي للترتيب مع التراخي عكس الفاء.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "أكمل: \"حرف العطف (أو) يفيد التخيير أو …………\"",
+      "correctAnswer": "الاباحة",
+      "answerReason": "النص يذكر أن أو هي للتخيير أو الإباحة[cite: 13].",
+      "textReference": "او وهي للتخيير او الاباحة.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "حرف العطف (بل) يفيد الإضراب، ويشترط للعطف به ألا يسبقه استفهام وأن يكون المعطوف مفرداً.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر أن بل للاضراب، ويشترط أن يكون المعطوف بها مفرداً وألا يسبقها استفهام[cite: 13].",
+      "textReference": "بل وهي للاضراب... ويشترط للعطف بها شرطان. الاول في بل ان يكون المعطوف بها مفردا. لا جملة والثاني الا يسبقها استفهام.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "حرف العطف (لكن) يفيد تقرير حكم ما قبلها وإثبات ضده لما بعدها، ويشترط لعطفه أن:",
+      "options": [
+        "يسبقها نفي أو نهي، وأن يكون المعطوف مفرداً، وألا تسبقها الواو",
+        "أن تسبقها الواو حصراً",
+        "أن يكون المعطوف جملة فعلية تامة"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يحدد شروط عطف لكن بأن يسبقها نفي أو نهي، وأن يكون المعطوف مفرداً، وألا تسبقها الواو[cite: 13].",
+      "textReference": "لكن وهي تدل على تقرير حكم ما قبلها... ويشترط للعطف بلاك ثلاثة شروط. ان يسبقها نفي... وان يكون المعطوف بها مفردا. والثالث الا تسبقها الواو.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "حرف العطف (حتى) يعمل في العطف بشروط، ويدل على:",
+      "options": [
+        "التدريج والغاية (الدلالة على انقضاء الحكم شيئاً فشيئاً)",
+        "الشك والجهل بالموضوع",
+        "الاستفهام والتعجب المطلق"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن حتى هي للتدريج والغاية، أي الدلالة على انقضاء الحكم شيئاً فشيئاً[cite: 13].",
+      "textReference": "حتى وهي للتدريج والغاية. والتدريج هو الداء هو الدلالة على انقضاء الحكم شيئا فشيئا بالتدرج.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "تأتي (حتى) في بعض المواضع حرف عطف، وتارة تأتي ابتدائية غير عاطفة أو حرف جر وغاية.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن حتى تكون عاطفة في مواضع، وتارة ابتدائية وتارة جارة[cite: 13].",
+      "textReference": "وتأتي حتى ابتدائية غير عاطفة... وتارة جارة حتى... ولهذا قال المؤلف وحتى في بعض المواضع.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "المثال على عطف البيان في النكرات المذكور في الدرس هو قوله تعالى:",
+      "options": ["من صديد", "جاءني محمد ابوك", "جاء بكر لا خالد"],
+      "correctAnswer": 0,
+      "answerReason": "النص يمثل لعطف البيان في النكرات بقوله تعالى (من صديد) حيث صديد عطف بيان على ماء[cite: 13].",
+      "textReference": "مثال كذلك في النكرات نعم العطف. قوله تعالى من من صديد. فصديد عطف بيان على ماء.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "أكمل: \"العطف في اللغة معناه الميل، وأما في اصطلاح النحاة فهو قسمان: عطف البيان و…………\"",
+      "correctAnswer": "عطف النسق",
+      "answerReason": "النص يوضح أن عطف الاصطلاح قسمان: عطف البيان وعطف النسق[cite: 13].",
+      "textReference": "اما العطف في اصطلاح او في الاصطلاح يعني في اصطلاحي النحات. قال فهو قسمان الاول عطف البيان. والثاني عطف النسق.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/nahw/ec0nahws7.html#sent1"
+    }
+  ]
+}

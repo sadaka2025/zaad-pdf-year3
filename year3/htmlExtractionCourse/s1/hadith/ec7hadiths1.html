@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس السابع مادة الحديث</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/hadith/ec7hadiths1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس السابع مادة الحديث</h1>
+<p id="sent2">السلام عليكم ورحمة الله وبركاته. اهلا وسهلا ومرحبا بوصية رسول الله صلى الله عليه وسلم. اهلا وسهلا بطلاب العلم اينما حللتم وارتحلتم. الحمد لله ان وفقنا الله سبحانه وتعالى في رحاب الزيتون في رحاب العلم في رحاب الايمان بالله سبحانه وتعالى وتعلم سنة نبيه صلى الله عليه وسلم. الحمد لله نحن في مشكاة النبوة. في آآ احاديث رسول الله صلى الله عليه وسلم نقرأ ما قال الله وقال رسوله صلى الله عليه وسلم. اسأل الله ان يفتح علينا فتوح العارفين. نستحضر عظمة الله سبحانه وتعالى امامنا. المقصود من هذا الحديث احاديث النبي صلى الله عليه وسلم كيف يغير لنا من حالنا ويغير لنا من اخلاقنا ويهذب لنا من نفوسنا ويزيدنا ايمانا لان نحن نسمع احاديث النبي صلى الله عليه وسلم نجلس بالتعظيم بالاربعة بالتعظيم لكلام الله. تعظيم لاحاديث النبي صلى الله عليه وسلم تصديق. لحديث النبي صلى الله عليه وسلم تطبيقا في حياتنا المقصود ان نطبق اي حديث نسمعه في حياتنا وثالثا او رابعا آآ تبليغ ما سمعناه من احاديث النبي صلى الله عليه وسلم. آآ المقصود ان يتأثر القلب. كما متأثر بالدنيا بان يتأثر باحاديث النبي صلى الله عليه وسلم. ان يتأثر القلب بقار الله. وقال رسوله صلى الله عليه وسلم حتى يخلص الى الله سبحانه وتعالى نقيا. يصبح كما يحب يحبه الله وكما يحبه رسول الله صلى الله عليه وسلم. الان المؤمن قوي. والمؤمن القوي خير من المؤمن الضعيف ومن هذا السياق عندنا الحديث الظعيف. الحديث هو في الظهر لما اقول ضعيف. يعني لا نرمي بها عرض الحائط. لا يقول لك فلان حديث ضعيف لا لا. هذا الحديث ضعيف ان شاء الله لما نتعرض في هذا الفيديو او الذي يليه ما حكم العمل بالحديث ضعيف؟ اه. يتبين لنا ان الحديث ضعيف لا يرمى به يعمل به ان شاء الله سنبينه في مجاله. قال الحديث الظعيف. اه البيت رقم ستة وكل ما عن رتبة قصر فهو الظعيف اقسامه كثر. طيب الاحاديث الضعيفة كثيرة جدا. كيفاش نعرفو هاد الأحاديث ضعيفة كثيرة جدا؟ يعني كل من فقد شرط من شروط الإتصال باش نلقاو حديث. اه اه مثال ثم رجل غير مسمى في السند يدخل فينا الحديث الظعيف. اللي هو الحديث المنقطع آآ ثم اثنين رجال غير موجودين في في السند. حديث المعذر اه الصحابي غير موجود مرسل. اه اه يعني احاديث السند كامل غير موجود معلق. وبالتالي كل من لا تتوفر فيه شرط من شروط الاتصال. يعني اتصال برك السند. نلقاو مجموعة من انواع الأحاديث الضعيفة فقد شرط واحد. فما بالك فاقد العدالة باش نلقاو انواع اخرى. من الاحاديث الظعيفة. لو نفقد شرط الظبط نلقاو انواع اخرى من الاحاديث الضعيفة. فما بالك نفقد شرط عدم السلام من الشذوذ نلقاو احاديث كثيرة. فما بالك نفقد شرط من سورة العلة السلام من شروط لعل تلقى علاء. وبالتالي تجد اه احاديث ظعيفة تصور انت اجتمعوا اه شرطين عدم الاتصال وعدم الظبط باش نلقاو انواع كثيرة من انواع الاحاديث الضعيفة. اه اجتمع عدم الاتصال وعدم العدالة. او اجتمع عدو الاتصال والظبط او اجتمع عدو الاتصال والسلام من الشذوذ او اجتمع عدهم الاتصال والسلام ونمشيو بعدين عدم الظبط مع مع السلام من العلة. عدم الضبط مع السلامة من الشذوذ. عدم الضبط مع آآ العدول. نمشي اه عدم العدل مع عدم الظبط. او عدم العدل مع اسرى من او عدم العدل مع السلامة من العلة. يعني مش ينتج. قال والبحث فيه يمل. يعني الاحاديث الظعيفة كثيرة. لكن كفاش نميزوها اشناهو الميزان؟ لم تتوافر فيه شروط الصحة لم تتوافر شروط شروط آآ الحصن فهو ضعيف. لذلك قال وكل ما عن رتبة الحسن قصر يعني اقل من الحصن لم توفى فيه سورة الحصن فهو الضعيف اقسام كثر. واولى عن رتبة الصحيح من باب اولى. قال قصر فهو الضعيف اقسام اي انواع مندرجة تحته قال العراقي منها ما له لقب خاص. كالمضطرب نوع من انواع الحديث باش نحكيو عليه. والموضوع نوع من انواع الحديث اللي هو المكذوب. والمنكر نوع من انواع الحديث كلها ضعيفة. كثر جدا كما اشار له ابن الصلاح. وقد هذبها شيخ الاسلام ففاقد شرط القبول. اللي هو اتصال سند اي شرط من شروط القبول الشاملة للصحة والحصن. وهي ست اتصال سند وعدالة الرواة وضبط الرواة وفقد الشذوذ وفقد العلة وزاد هنا شرط اخر عند الاحتجاج به يعني طريق اخر. وهي بالنظر لانتفائها. يعني فقدنا آآ شرط من شروط الصحة باش نلقاو انواع. اخرى من الاحاديث يتولد انواع اخرى من الاحاديث الضعيفة. واجتماعها يتفرد منها اقسم. تصور آآ فقد لنا شرطين. باش نلقاو انواع ثلاثة شروط انواع اربعة شروط انواع من الاحاديث يتولد. ففاقد واحد منها قسم تحته تسعة بالنظر لاقسامه. تصوري انت الان باش اعطينا مثال. فاقد اتصال السند باش تلقاو مرسل اللي هو التابعي يقول قال رسول الله يعني ان حين آآ طبقة الصحابة. المنقطع يعني في السند فما رجل غير مسمى. المعذر اللي هو رجلين يعني شوفي. عدم الاتصال القنا الان ثلاثة. والى فاقد العدالة نلقاو ضعيف وان القول مجهول هذه كلها من انواع فاقد الاثنين معا باش تلقى الإثنين معا. الإتصال والعدالة. مع احد الخمسة الباقي قسم غير الاول. وتحته ثماني عشر لاندراج الضعيف والمجهول تحته. يعني هنا تحته فقد العدالة لانك اذا ضربتهما من الاربعة الباقي في الثلاثة يعني هذه الكولة الجملة. كل ما نفقد شرط باش نلقى نوع من انواع الاحاديث الضعيفة. كل ما تصور هذه الشروط فقدناها مجتمعين. باش تلقى انواع. آآ فقدنا هذه الشروط. الاتصال سند لشروط الصحة فقدنا الشروط منفردة. باش نلقاو انواع. مقترنة كل اثنين مع بعض باش نلقاو انواع. ثم قال اخر شي هذيا لانها قال حتى تصل الى اكثر من مئة او او وستة وعشرون لانك اذا ظمنت الى كل من التسعة كل واحدة ما بعدها بلغ ذلك. ثم قال ارتقى الى فاقد خمس فصاعدا فاعمل الى انتهاك من الشرط او بعد انتهاك اجعل للشرط غير مبدوء. يعني انت الان عنا شروط الصحة. وشروط الحصن وكل ما تفقد شرط باش تلقى مجموعة. وبالتالي ما لا نهاية له. لكن شناهو الميزان؟ وكل ما عن رتبة الحسن قصر فهو ضعيف. لم تتوفر فيه شروط الصحة او شروط الحسن فهو ضعيف. هذه الميزان. ثم زد على فاقد الشرط غير الذي قدمته لئلا يتكرر ثم تمم هذا العمل الذي ابتدأت كفاقد شرطي. يعني قال هنا نختم هنا قال اشار ابن الصلاح الى كثرة الاقسام جدا بالنظر الى انه يدخل تحت فاقد كل من الست اقسام كفاقد العدالة يدخل تحته الظعيف بكذب راويه. او بتهمته او بفسقه او ببدعته او بجهالة عينه او بجهالة حاله وذلك مع كثرة التعب فيه قليل الفائدة كما قال شيخنا يعني الحافظ ابن حجر. ثم اطال في بيان ذلك بما انتقد على نقضه بما لا تحمله هذه العجالة. يعني خلاصة القول ما هو الحديث ضعيف؟ الحديث ظعيف لم تتوفر فيه شروط الصحة ولا شروط الحصن. او شرط واحد منهما يكون ضعيف. فائدة قال حيث قال اهل الحديث هذا حديث صحيح او هذا حديث ضعيف فمراد فيما ظهر لهم. اي علماء الحديث لما يقولوا حديث صحيح رواه بعد تنزيل الشروط. فيما ظهر لهم قولوا في حديس صحيح لم يظهر لهم لم تتوفر قولوا حديث ضعيف. او عملا بظهر الاسناد لا القطع بالساحات او ضعف في نفس الامر. لجواز هذا الذي حكم الحديث الصحيح بجواز الخطأ والنسيان. على الثقة قد يخطئ هو قال حديث صحيح لكن تبعناه لقينا اخطأ. والظبط والصدق على غيره. هذا هو الصحيح الذي عليه اكثر اهل العلم خلافا لمن قال ان خبر الواحد يوجب العلم الظاهر. نعم ان اخرجه الشيخان او او احدهما فاختار كثير كما حكاه البلقيني في محاسن الاصطلاح منه ابن الصلاح وصححه القطع بصحته. بخلاف موجود في البخاري ومسلم الموجود في البخاري ومسلم اذا قالوا الحديث صحيح راو مباشرة يجزم بالقطع بصحته. ثم قال ولا يطلق على اسناد معين انه اصح صح اصح الاسانيد مطلقا على الصحيح لتفاوت مراتب الصحيح كما مر بنا. مرتبة على تمكن الاسناد من شروط الصحة. ويعصر الابتلاء على ارتقاء جميع رجال ترجمة واحدة الى اعلى صفات الكمال على سائر الوجوه. قال الحاكم لا يمكن ان الحكم في اصح الاسانيد بصحاب واحد. قال من الصلاح على ان جماعة من ائمة الحديث حديث غمرة ذلك فاضطربت اقوال بحسب اجتهاده. فقيل اصح الاسانيد مالك عن نافع عن ابن عمر وقيل اصح الاسانيد. يا ود اذا توفرت فيه شروط الصحة صحيح. اذا توفرت فيه شروط الحصن حسن. ما سوى ذلك فهو ضعيف. ولما فرغ الناظم في بيان الحكم على المتن والاسناد بانه صحيح او حسن او ضعيف. اخذ في بيان صفاته. قبل ما ننتقلو الى الحديث المرفوع او نعم. ما حكم العمل بالحديث الضعيف؟ هذه بتأخذ كل من الطلاب الذي امامي او يسمعون الى هذا التسجيل. يكتب عنوان حكم العمل بالحديث الضعيف. عندنا ثلاثة مذاهب. المذهب الاول لا يجوز يجوز العمل به مطلقا. لا يعمل بهم واليه شكون ذهب القاضي ابو بكر ابن العربي ويحيى بن معين. وابن سيد الناس ويحيى ابن معين. هذه هي المذهب الاول لا يعمل به مطلقا. هذا قول ضعيف. المذهب الثاني يعمل به مطلقا. وهذا قول آآ ابي داوود والامام احمد. اي حديث ضعيف يأمر به مطلقا. المذهب الثالث اللي هو المعتمد اللي هو حاسنا به المذهب الثالث يعمل بالحديث الضعيف في فضائل اعمال الفضائل في الفضائل العملية يعني يرغب الناس لبناء المساجد في الفضاء العملي. يرغب الناس في الصيام يرغب الناس في الزكاة. هذه كلها ترغيب وترهيب. في الفضائل العملية والمواعظ والقصص ونحو ذلك مما ليس له تعلق بالعقائد. اه الحديث الظعيف لا نأخذ به في العقائد لان العقاد تحتاج الى احاديث قوية الحديث الصحيح يحتج به. نحتاج في العقائد. الحديث الحسن نحتج به ونحتاجه في العقائد. اما الحديث الضعيف يعمل به في الفضائل العملية المواعظ القصص ونحو ذلك ممن ليس له تعلق بالعقائد. والاحكام. مدام لا لا يبني حكم وليس له تعلق بالعقائد لا نأخذ بالحديث الضعيف. يؤخذ به في الفضائل الاعمال في المواعظ في الخطب في الرقائق. وهذا هو المعتمد عند الائمة المحققين. يعني تقرأ في حديث في فضائل الذكر. جاك واحد قال لك لا حديث ضعيف. قولوا ايش تعالوا هنا. ما حكم العمل بالحديث الضعيف؟ اه يقول لك لا يجوز لا. ولقول من العلماء قالوا لا يعمل به مطلقا وهو ضعيف. وقول قالوا يعمل به مطلق وهو ضعيف. لكن القول للجمهور وعند المحققين يعمل به في فضائل الاعمال العملية والمواعظ والقصص والخطب والترغيب والترهيب. مما ليس له تعلق لا بالعقائد والاحكام. هذا هو المشهور وهذا هو المعتمد. واضح؟ فاي انسان يسمع حديث قال لك ضعيف لا يؤمن به لا اجانا. ما حكم العمل بحديث ضعيف؟ نسأل الله سبحانه وتعالى ان يوفقنا ويعلمنا ويفتح علينا فتح العارفين به انه على ذلك قدير وبالاجابة جدير. والسلام عليكم ورحمة الله وبركاته.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>
