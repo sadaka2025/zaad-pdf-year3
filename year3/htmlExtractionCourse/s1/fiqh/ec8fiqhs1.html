@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>الدرس الثامن مادة الفقه</title>
+<style>
+  body {
+    font-family: 'Arabic Typesetting', 'Noto Naskh Arabic', serif;
+    font-size: 22px;
+    line-height: 1.6;
+    direction: rtl;
+    text-align: justify;
+    margin: auto;
+    max-width: 900px;
+    padding: 2rem;
+    background: linear-gradient(120deg, #f8fff5, #e8ffe0);
+    color: #111;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #145a00;
+    text-shadow: 0 0 8px #a8ff8a;
+  }
+  p { margin: 1rem 0; text-align: justify; }
+  .container { text-align: center; margin-bottom: 1.5rem; }
+  .button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #145a00;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+  .button:hover { background: #4bd61e; transform: scale(1.05); }
+  .button:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    opacity: 0.8;
+  }
+  .share-buttons {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 10px; margin-top: 10px;
+  }
+  .share-buttons button {
+    background: #e6f8e6; border: none; border-radius: 6px;
+    padding: 8px 16px; cursor: pointer; font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  .share-buttons button:hover { background: #c8f5c8; }
+  #clockDate {
+    text-align: center; margin: 1rem 0; color: #333; font-weight: bold;
+  }
+  .search-container { text-align: center; margin: 1rem 0 2rem; }
+  #searchBox {
+    padding: 10px; font-size: 16px; width: 70%; max-width: 500px;
+    border: 2px solid #4bd61e; border-radius: 6px; text-align: right;
+  }
+  #clearSearch {
+    padding: 10px 20px; margin-left: 10px; font-size: 16px;
+    background-color: #ff4d4d; color: white; border-radius: 6px;
+    border: none; cursor: pointer;
+  }
+  #clearSearch:hover { background-color: #ff0000; }
+  #searchResults {
+    margin-top: 1rem; background: #f7fff5; border: 1px solid #aaf5aa;
+    border-radius: 6px; padding: 10px; display: none; max-height: 250px;
+    overflow-y: auto;
+  }
+  .result-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #c8f5c8; }
+  .result-item:hover { background-color: #e0ffe0; }
+  mark { background-color: yellow; }
+</style>
+</head>
+<body>
+  <div id="clockDate"></div>
+  <div class="container"><a href="https://cdn.jsdelivr.net/gh/sadaka2025/zaad-pdf-year3@main/year3/htmlExtractionCourse/s1/fiqh/ec8fiqhs1.pdf" target="_blank" rel="noopener noreferrer"><button class="button">📄 Télécharger le PDF</button></a>
+      <div class="share-buttons">
+        <button onclick="window.print()">🖨️ Imprimer</button>
+        <button onclick="window.open('https://t.me/share/url?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">📨 Telegram</button>
+        <button onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href))">📘 Facebook</button>
+        <button onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+encodeURIComponent(document.title))">🐦 Twitter</button>
+        <button onclick="window.open('https://api.whatsapp.com/send?text='+encodeURIComponent(document.title+' '+window.location.href))">💬 WhatsApp</button>
+        <button onclick="window.open('mailto:?subject='+encodeURIComponent(document.title)+'&body='+encodeURIComponent(window.location.href))">📧 Email</button>
+      </div></div>
+  
+      <div class="search-container">
+        <input id="searchBox" type="text" placeholder="🔍 بحث في النص الكامل...">
+        <button id="clearSearch" class="button">مسح</button>
+        <div id="searchResults"></div>
+      </div><h1 id="sent1">الدرس الثامن مادة الفقه</h1>
+<p id="sent2">اعوذ بالله من الشيطان الرجيم. بسم الله الرحمن الرحيم. وصلى الله على سيدنا محمد وعلى اله الطيبين الطاهرين. ورضي الله عن اصحابه والتابعين لهم باحسان الى يوم الدين وارضى عنا معهم يا ارحم الراحمين. اللهم امين اللهم لا علم الا ما علمتنا. فعلمنا وفهمنا وفقهنا واستعملنا في خدمة دينك. اللهم امين. هذه المحاضرة او الدرس الثامن ونتناول فيه احكام التيمم وسنتعرض في هذا الدرس باذن الله الى معرفة التيمم واسبابه ووقته واحكامه وصفته. وكذلك كذلك مثل يسر الشريعة الاسلامية وسماحة في تشريع احكام التيمم. الاصل في الطهارة ان تكون بالماء. وذلك لما جعل الله سبحانه وتعالى في الماء من بركات وخاصية ينبغي ان ينالها الانسان تناله. وقد يعرض للمسلم احوال تجعله يعجز عن استعمال الماء عند العبادة. واقتضت حكمة الله سبحانه وتعالى ورحمته. الا يحرم المؤمن من لذة العبادة في هذه الحالات. فشرع له الانتقال عن طهارة الماء اي طهارة المائية الى بدل يقوم مقامها. وهو التيمم. ولذلك فاننا نحتاج ان نعلم ما هو التيمم؟ وما هي اسبابه؟ وما هي احكامه؟ وفي ذلك يقول الامام ابن ابي زيد القيرواني رحمه الله تعالى. باب في من لم يجد الماء. وصفة التيمم. التيمم يجب لعدم الماء في السفر اذا يئس ان يجده في الوقت. وقد يجب مع وجوده اذا لم يقدر على مسه في سفر او حضر لمرض مانع. او مرض يقدر على مسه ولا يجد من يناوله اياه. وكذلك مسافر يقرب منه الماء ويمنعه منه خوف لص او سباع. واذا ايقن المسافر بوجود الماء في الوقت اخر الى اخره وان يأس منه تيمم في اوله. وان لم يكن عنده منه علم تيمم في وسطه. وكذلك اذا خاف الا يدرك الماء في الوقت ورجاء ان يدركه فيه. ومن تيمم من هؤلاء ثم اصاب الماء. في الوقت بعد ان صلى فاما المريض الذي لم يجد من يناوله اياه فليعد. وكذلك الخائف من سباع ونحوها. وكذلك المسافر الذي يخاف الا يدرك الماء في الوقت ويرجو ان يدركه فيه. ولا يعيد غير هؤلاء. ولا يصلي صلاتين بتيمم واحد من هؤلاء. الا مريض لا يقدر على مس الماء لضرر بجسمه مقيم. وقد قيل يتيمم لكل صلاة. وقد روي عن مالك رحمه الله فيمن ذكر صلوات ان يصليها بت يوم واحد. والتيمم بالصعيد الطاهر. وهو ما ظهر على وجه الارض منها. من تراب او رمل او حجارة او سبخة يضرب بيديه الارض. فان تعلقا بهما شيء نفضهما نفضا خفيفا. ثم يمسح بهما وجهه كله مسحا. ثم يضرب بيده الارضاء فيمسح يمناه بيسراه. ثم يجعل اصابع يده اليسرى على اطراف اصابع يده اليمنى. ثم يمر اصابعه على ظاهر يده وذراعه. وقد حنى عليه اصابعه حتى يبلغ المرفقين ثم يجعل كفه على باطن ذراعه من طي مرفقه. قابضا عليه حتى يبلغ الكوع من يده اليمنى. ثم يجري باطن بهمه على ظاهر بهم يده اليمنى. ثم يمسح اليسرى باليمنى هكذا. فاذا بلغ الكوع مسعها كفاه اليمنى بكفه اليسرى الى اخر اطرافه. ولو مسح اليمنى باليسرى واليسرى باليمنى. كيف شاء وتيسر عليه واوعب المسح لاجزأه. واذا لم يجد الجنب او الحائض الماء للطهر تيمم وصليا. فاذا وجد الماء تطهرا ولم يعيدا ما صليا. يطأ الرجل امرأته التي انقطع عنها دم الحيض او النفاس بالتطهر بالتيمم حتى يجد من الماء ما تتطهر به المرأة. ثم ما يتطهران به جميعا. وفي باب جامع الصلاة شيء من مسائل التيمم. شرح غريب المفردات. قوله سبخة سبق معنا انها الارض المالحة. قوله الكوع العظم المحاذي لابهام اليد. قوله يطأ اي يجامع. هذا ويشتمل معنا هذا الدرس على ثلاثة محاور. وهي اولا مفهوم التيمم وحكمه واسبابه. اولا مفهوم التيمم. التيمم لغة هو القصد. قال تعالى فتيمموا صعيدا طيبا. والتيمم شرعا هو عبادة تستباح بها الصلاة. وتشمل مسح الوجه واليدين بنية الطهارة. ثانيا حكم التيمم. التيمم واجب بالكتاب والسنة والاجماع. اما الكتاب فمنه قوله تعالى. فلم تجدوا ماء فتيمموا صعيدا طيبا فامسحوا بوجوهكم وايديكم. ان الله كان عفوا غفورا. ومن السنة النبوية المطهرة ما رواه الامام مسلم عن سيدنا حذيفة ابن اليمان رضي الله عنه قال قال رسول الله صلى الله عليه واله وسلم فضلنا على الناس بثلاث. جعلت صفوفنا كصفوف الملائكة. وجعلت لنا الارض كلها مسجدا. وجعلت تربتها لنا طهورا. اذا لم نجد الماء وذكر خصلة اخرى ومن الاجماع اتفاق علماء الامة قاطبة بجميع مدارسها الفقهية على ان التيمم رخصة. اما الثالث وهو اسباب التيمم فلوجوب التيمم اسباب منها. اولا عدم وجود الماء. او اليأس من وجوده في الوقت وقتي او عدم وجود ما يكفي منه. ثانيا عدم القدرة على استعمال الماء لمرض يمنع منه او لعدم من يناوله. الماء مع القدرة على استعماله. ثالثا عدم استطاعة الوصول الى الماء مثل المسافر الذي يمنعه الخوف على نفسه من اللصوص والسباع ونحو ذلك هذا يقول ابن ابي زيد رحمه الله التيمم يجب لعدم الماء في السفر اذا يأس الى قوله ويمنعه منه خوف لص او سباع. اما المحور الثاني من المحاورنا الاربع فهو وقت التيمم وما يصلي به. اولا وقت التيمم. يختلف وقت التيمم باختلاف الشخص المتيمم على ثلاثة صور. وهي الاول الموقن بوجود الماء الكافي لوضوئه او غسله في الوقت المختار. يتيمم اخر الوقت استحبابا. ثانيا الايس من وجود الماء. او ادراكه في الوقت بعد طلبه. هذا يتيمم اول الوقت استحبابا لتحصيل فضيلة اول الوقت. اما ثالثا وهو المتردد في وجود الماء يتيمم في وسط الوقت احبابا. ومن تيمم من هؤلاء الثلاثة. ثم وجد الماء في الوقت بعد ان صلى فليعد ما صلى. استحبابا. وفي هذا يقول المصنف رحمه الله واذا ايقن المسافر بوجود الماء في الوقت اخر الى اخره الى ان قال ويرجو ان يدركه فيه ولا يعيد غير هؤلاء. ثانيا ما يفعل بالتيمم يصلى بالتيمم صلاة واحدة واحدة يجوز ان يصلي المتيمم بتيمم واحد صلاتين فريضتين حاضرتين او سفريتين او منسيتين. اشتركتا في الوقت الا اذا كان المتيمم مريضا مرضا مزمنا. وفي ذلك قول المصنف ولا يصلي صلاتين بتيمم واحد من هؤلاء. الا مريض الى قوله فيمن ذكر صلوات يصليها بتيمم واحد. اما المحور الثالث فهو فرائض التيمم وسننه وصفته. اولا فرائض التيمم وسننه. من فرائض التيمم الضربة الاولى على الصعيد الطاهر قال الله تعالى فتيمموا صعيدا طيبا. ومسح الوجه ومسح اليدين الى الكوعين. ومن سننه الضربة الثانية ومسح اليدين الى المرفقين. ولا يجوز الرجل امرأته الحائض او النفساء اذا تطهرت بالتيمم. حتى يجد من الماء ما يتطهران به. وفي ذلك قول ابن ابي زيد رحمه الله. واذا لم يجد الجنب او الحائض ماء الى قوله ما تتطهر به المرأة ثم ما يتطهران به جميعا. ثانيا صفته صفة التيمم هي ان ينوي المتيمم استباحة الصلاة. ثم يضرب بيده الصعيد ترابا او غيره مما ظهر على وجه الارض وكان منها. فان تعلق بهما شيء نفضهما. اي هكذا ثم يفعل هكذا. نفضهما نفضا خفيفا اي ليس هكذا بل هكذا. ثم يمسح بهما وجهه كله. وعلى لحيته كلها ثم يضرب بيده الارض ثانيا لمسح يديه ويفعل بها ما فعل بالضربة الاولى. ويستحب في مسحهما الصفة الحميدة المستحبة. وهي وضع اصابع اليسرى على اصابع اليمنى اي هكذا. ثانيا مسح ظاهر اليمنى وذراعيها الى المرفق اي هكذا. ثالثا الرجوع بالمسح من باطن ذراع اليمنى الى الكوع منها. اي بعد ان وصل الى هكذا يفعل يفعل يفعل هكذا. واضح؟ رابعا مسح ابهام اليمنى بابهام اليسرى. هكذا. وضحت؟ خامسا مسح اليسرى باليمنى على نفس صفة مسح اليمنى. سادسا مسح كف اليمنى بكف اليسرى على هذه الهيئة فيبتدأ هكذا. يبتدئ هكذا ثم ينزل ثم بعد ذلك يصعد بها هكذا وايه؟ هكذا فيخلل ماذا؟ بها. وضحت؟ اي يفعل هكذا. طيب قال ويجزئ المسح كيف ما تيسر. بشرط تعميم المسح وتخليل الاصابع ونزع الخاتم. وفي ذلك قول المصنف رحمه الله يضرب بيديه الاربعاء فان تعلقا بهما شيء الى قوله وتيسر عليه واوعب المسح لاجزأه. واعلم ان فاقد الطهورين اي ما يتوضأ به. من الماء وما يتيمم به من الصعيد الطاهر في المذهب اقوال هي. القول الاول للامام ما لك وابن نافع من ان فاقد الطهورين لا يصلي ولا يقضي. لانه ليس بمحل للتكليف. اما القول الثاني وهو قول الامام عبدالرحمن بن القاسم يصلي بدون الطهورين ويقضي عند وجود احدهما. الثالث يصلي ويقضي قاله الامام اشهب. الرابع لا يصلي ولكن يقضي اذا وجد احد الطهورين وهو قول اصبغين. وقد نظم بعض فقهائنا هذه الاقوال فقال ومن لم يجد ماء ولا متيمما. فاربعة الاقوال يحكين مذهبا يصلي ويقضي عكس ما قال مالك واصبغ يقضي والاداء لاشهب. وزاد الامام الكتائي في شرحه على الرسالة بيتا اخر قال فيه وللقابس ذو الربط يومي لارضه بوجه وايد للتيمم مطلبا. ومن مقاصد تشريع الشريعة الغراء للتيمم التيسير ورفع الحرج عن العباد. وتكليفهم بما في طاقتهم ووسعهم. وفي ذلك مظهر من مظاهر اليسر الاسلامي ورحمة الله بعباده. هذا وصلى الله على سيدنا محمد وعلى اله وسلم.</p>
+
+<script>
+const clockDate = document.getElementById('clockDate');
+function updateClock() {
+  const now = new Date();
+  clockDate.textContent = now.toLocaleTimeString() + " | " + now.toLocaleDateString();
+}
+setInterval(updateClock, 1000); updateClock();
+
+const searchBox = document.getElementById('searchBox');
+const searchResults = document.getElementById('searchResults');
+const clearButton = document.getElementById('clearSearch');
+const paragraphs = Array.from(document.querySelectorAll('p'));
+
+let globalId = 1;
+
+paragraphs.forEach(p => {
+  const sentences = p.textContent.split(/([.!؟?!])\s+/);
+  if (sentences.length > 1) {
+    p.innerHTML = '';
+    for (let i = 0; i < sentences.length; i += 2) {
+      const sentence = (sentences[i] + (sentences[i + 1] || '')).trim();
+      if (sentence) {
+        const span = document.createElement('span');
+        span.textContent = sentence;
+        span.id = 'sent' + globalId++;
+        p.appendChild(span);
+        p.appendChild(document.createTextNode(' '));
+      }
+    }
+  } else {
+    if (!p.id) p.id = 'sent' + globalId++;
+  }
+});
+
+function updateSearch() {
+  const query = searchBox.value.trim();
+  if (query === '') {
+    searchResults.style.display = 'none';
+    paragraphs.forEach(p => Array.from(p.children).forEach(span => span.innerHTML = span.textContent));
+    return;
+  }
+
+  let matches = 0;
+  let resultsHTML = '';
+  paragraphs.forEach(p => {
+    Array.from(p.children).forEach(span => {
+      const text = span.textContent;
+      const regex = new RegExp(query, 'gi');
+      if (text.match(regex)) {
+        span.innerHTML = text.replace(regex, m => '<mark>' + m + '</mark>');
+        matches++;
+        resultsHTML += '<div class="result-item" onclick="const el=document.getElementById(\'' + span.id + '\'); el.scrollIntoView({behavior: \'smooth\', block: \'center\'}); el.style.backgroundColor=\'#ffff99\'; setTimeout(()=>{el.style.backgroundColor=\'transparent\';},1500);">' + text + '</div>';
+      } else {
+        span.innerHTML = text;
+      }
+    });
+  });
+
+  searchResults.innerHTML = matches > 0
+    ? '🔍 عدد النتائج: ' + matches + '<br>' + resultsHTML
+    : '❌ لا توجد نتائج مطابقة.';
+  searchResults.style.display = 'block';
+}
+
+searchBox?.addEventListener('input', updateSearch);
+clearButton?.addEventListener('click', () => { if (searchBox) searchBox.value = ''; updateSearch(); });
+</script>
+
+</body></html>

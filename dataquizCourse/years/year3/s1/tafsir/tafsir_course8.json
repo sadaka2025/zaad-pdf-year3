@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "slug": "tafsir",
+    "title": {
+      "ar": "📘 امتحان تجريبي – مادة التفسير السنة الثالثة (الدرس الثامن: تفسير سورة الضحى وسورة الشرح)",
+      "fr": "Examen de Tafsir - Année 3 (Cours 8)",
+      "en": "Tafsir Exam - Year 3 (Lesson 8)"
+    },
+    "totalQuestions": 12
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "سورة الضحى سورة مكية بالاتفاق، وبلغ عدد آياتها:",
+      "options": ["إحدى عشرة آية", "ثماني آيات", "خمس عشرة آية"],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن سورة الضحى مكية بالاتفاق وعدد آياتها إحدى عشرة آية[cite: 15].",
+      "textReference": "وهي سورة مكية بالاتفاق. نزلت بعد سورة فجر. عدد اياتها احدى عشرة اية.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "من أسباب نزول سورة الضحى أن النبي صلى الله عليه وسلم اشتكى فلم يقم ليلتين أو ثلاثاً فقالت له امرأة إن شيطانك قد تركك.",
+      "correctAnswer": true,
+      "answerReason": "النص يذكر هذا السبب لنزول السورة ونفي إبطاء الوحي أو ترك الله لنبيه[cite: 15].",
+      "textReference": "وسبب نزول هذه الصورة ان رسول الله صلى الله عليه وسلم اشتكى فلم يقم ليلتين او ثلاث فجاءته امرأة فقالت له يا محمد اني لارجو ان يكون شيطانك قد تركك.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "معنى قوله تعالى (ما ودعك ربك وما قلى) في سورة الضحى هو:",
+      "options": [
+        "ما تركك ربك وما أبغضك بإبطاء الوحي",
+        "ما أعطاك ربك وما رزقك",
+        "ما هداك ربك وما أوصاك"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر (ما ودعك) بأنه ما تركك، و(ما قلى) بأنه ما أبغضك[cite: 15].",
+      "textReference": "اقسم الله سبحانه بوقت الضحى وبالليل اذا اشتد ظلامه انه ما ترك نبيه. وما ابغضه بابطاء الوحي عنه.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 4,
+      "type": "truefalse",
+      "question": "معنى (عائلاً) في قوله تعالى (ووجدك عائلاً فأغنى) أي فقيراً فأسّر لك أسباب الغنى والقناعة.",
+      "correctAnswer": true,
+      "answerReason": "النص يوضح أن عائلاً أي فقيراً، فأغنى بما ساق من الرزق والقناعة[cite: 15].",
+      "textReference": "عائلا اي فقيرا فاغنى اي في سر لك اسباب الغنى... ووجدك عائلا فاغنى اي وجودك فقيرا فاغناك بما ساق لك من الرزق.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "المراد بـ (فلا تقهر) في قوله تعالى (فأما اليتيم فلا تقهر) هو:",
+      "options": [
+        "فلا تنهره ولا تعامله بقساوة بمنعه من حقوقه أو أخذ ماله",
+        "فلا ترحمه ولا تحسن إليه أبداً",
+        "فلا تعلمه ولا تؤدبه"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر (فلا تقهر) بعدم القسوة ومنع اليتيم حقه أو أخذ ماله[cite: 15].",
+      "textReference": "فلا تقهر اي فلا تنهاه ولا تعامله بقساوة بمنعه من حقوقه... فاما اليتيم فلا تقهره باخذ ماله او غير ذلك.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 6,
+      "type": "fill",
+      "question": "أكمل: \"قوله تعالى في شكر النعم: (وأما السائل فلا تنهر، وأما بنعمة ربك فـ …………).\"",
+      "correctAnswer": "حدث",
+      "answerReason": "النص يذكر قوله تعالى: وأما بنعمة ربك فحدث[cite: 15].",
+      "textReference": "واما السائل فلا تنهر... واما بنعمة ربك فحدث.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 7,
+      "type": "truefalse",
+      "question": "سورة الشرح مكية نزلت بعد سورة الضحى، وعدد آياتها ثماني آيات.",
+      "correctAnswer": true,
+      "answerReason": "النص ينص صراحة على أن سورة الشرح مكية نزلت بعد الضحى وآياتها ثمان[cite: 15].",
+      "textReference": "اما سورة الشرح فهي مكية نزلت بعد سورة الضحى وهي ثمان ايات.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "المعنى المذكور في النص لـ (وضعنا عنك وزرك) في سورة الشرح هو:",
+      "options": [
+        "حططنا عنك ما أثقل ظهرك من أعباء وهموم",
+        "زدنا عليك ثقل الأعباء والمشاق",
+        "أبعدنا عنك النبوة والهداية"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يفسر وزرك بأنه ما أنقض ظهرك وأثقله فحطه الله عن نبيه[cite: 15].",
+      "textReference": "ووضعنا اي حططنا انقظ اي اثقل... اي حططنا عنك وزرك الذي اثقل ظهرك.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "تكرار قوله تعالى (فإن مع العسر يسراً، إن مع العسر يسراً) في سورة الشرح يفيد:",
+      "options": [
+        "توكيد الوعد من الله لنبيه باليسر والفرج والنصر بعد العسر والشدة",
+        "انقطاع الفرج واستمرار الضيق إلى الأبد",
+        "نفي وجود أي يسر بعد العسر"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن تكرار الآية جاء توكيداً للوعد باليسر والفرج بعد العسر[cite: 15].",
+      "textReference": "فان مع العسر يسرا. ان مع العسر يسرا. هذا وعد من الله تعالى لرسوله بالنصر والتمكين واليسر بعد العسر... وقد كررت الاية توكيدا للوعد.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 10,
+      "type": "truefalse",
+      "question": "المعنى المذكور في النص لـ (فانصب) في قوله تعالى (فإذا فرغت فانصب) هو: فاجتهد في الدعاء والعبادة.",
+      "correctAnswer": true,
+      "answerReason": "النص يفسر فانصب بالاجتهاد في الدعاء والتضرع عند الفراغ[cite: 15].",
+      "textReference": "تنصب اي فاجتهد في الدعاء... فاذا فرغت فانصب والى ربك فارغب اي فاذا انتهيت من الصلاة فاجتهد في الدعاء وتضرع الى الله وحده.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "مظاهر رفع الذكر للنبي صلى الله عليه وسلم المذكورة في السورة تتمثل في أنه يُذكر مع ذكر الله في:",
+      "options": [
+        "الأذان والإقامة والتشهد والخطب وغيرها",
+        "مجالس اللهو واللغو فقط",
+        "النصوص الباطلة المخالفة للوحي"
+      ],
+      "correctAnswer": 0,
+      "answerReason": "النص يوضح أن رفع الذكر يتجلى في ذكره مع ذكر الله في الأذان والإقامة والتشهد والخطب وغيرها[cite: 15].",
+      "textReference": "ورفعنا لك ذكرك. لانك تذكر مع ذكر في الاذان والاقامة والتشهد والخطب وغيرها.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "question": "أكمل: \"المراد بـ (سجى) في قوله تعالى (والليل إذا سجى) أي غطى الليل بـ …………\"",
+      "correctAnswer": "ظلمه",
+      "answerReason": "النص يفسر سجى بأن الليل غطى بظلمه[cite: 15].",
+      "textReference": "سجى اي سجى الليل اي غطى بظلمه.",
+      "textReferenceLink": "/PDFs/year3/htmlExtractionCourse/s1/tafsir/ec0tafsirs8.html#sent1"
+    }
+  ]
+}
